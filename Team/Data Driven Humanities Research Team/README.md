@@ -12,4 +12,4 @@ src - holds all the code for running the project
 	data collection and cleanup - holds py files needed to create to retrieve and cleanup data for input into app
 	
 bin - holds the files that were created by the code 
-	note: not all file are in this public version of bin because either there are too many file or they are too large. Please contact if you are interested in the 		research an would like to see more of these 
+	note: not all file are in this public version of bin because either there are too many files or they are too large. Please contact if you are interested in the 		research an would like to see more of these 
