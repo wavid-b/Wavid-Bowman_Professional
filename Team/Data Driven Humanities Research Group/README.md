@@ -5,6 +5,10 @@ Data Driven Humanities Research Group
 	Austin Stein UF Data Science and Mathmatics 2025 - Software Developer : austin.stein@ufl.edu
 	Morgan Askeland UF Computer Science and Japaneese 2024 - Software Developer : morganaskeland@ufl.edu
 
+UPDATES: 
+	Preprocessing almost complete - need to optimize and integrate into app
+	Start on supervised clusering using sklearn and cltk together
+	
 File formatting:
 
 src - holds all the code for running the project
