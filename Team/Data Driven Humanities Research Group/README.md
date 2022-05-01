@@ -7,7 +7,7 @@ Data Driven Humanities Research Group
 
 Further work: 
 	Preprocessing almost complete - need to optimize and integrate into app
-	Start on supervised clusering using sklearn and cltk together
+	Starting on supervised clusering using sklearn and cltk together
 	
 File formatting:
 
