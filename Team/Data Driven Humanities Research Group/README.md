@@ -1,7 +1,7 @@
 Data Driven Humanities Research Group - members list as of this public release
 	Eleni Bozia PhD Classics, Dr. Phil. Digital Humanities - Sponsor : bozia@ufl.edu 
 	Caijun Qin UF Computer Science 2022 - Software Developer : cquin@ufl.edu
-	Wavid Bowman UF Computer Science and Classics 2025 - Software Developer : wavid.bowman@gmail.com
+	Wavid Bowman UF Computer Science and Classics 2025 - Software Developer : wavid.bowman@ufl.edu
 	Austin Stein UF Data Science and Mathmatics 2025 - Software Developer : austin.stein@ufl.edu
 	Morgan Askeland UF Computer Science and Japaneese 2024 - Software Developer : morganaskeland@ufl.edu
 
