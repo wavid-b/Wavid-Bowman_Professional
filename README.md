@@ -3,5 +3,6 @@ This is my professional portfolio containing projects that I have worked on indi
 Individual
     Minesweeper
     Doubly Linked-List
+    AVL Tree datastruct I built
 Team 
     Data Driven Humanities Research Group
