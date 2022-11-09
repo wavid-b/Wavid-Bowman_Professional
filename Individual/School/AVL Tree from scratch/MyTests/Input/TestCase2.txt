@@ -1,0 +1,11 @@
+10
+insert "Wavid" 10000000
+insert "Kylie" 11111111
+insert "Milana" 22222222
+insert "Kyle" 20000000
+insert "Ivan" 30000000
+printPostorder
+remove 22222222
+printInorder
+removeInorder 4 
+remove 22222222
