@@ -1,0 +1,16 @@
+﻿  Sorting.cpp
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(12,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(47,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(78,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(104,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(169,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(183,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(258,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(271,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(294,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(325,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(351,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(417,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(430,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SFML3.vcxproj -> C:\Users\salda\code\SFML3\x64\Debug\SFML3.exe
