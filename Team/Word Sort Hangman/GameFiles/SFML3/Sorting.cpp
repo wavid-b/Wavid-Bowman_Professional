@@ -7,7 +7,7 @@ using namespace std;
 
 //Sorting letters from greatest to least
 //0
-string CombSort(unordered_map<char, int> myMap)
+string CombSort(unordered_map<char, int>& myMap)
 {
     int length = myMap.size();
     int gap = length;
@@ -42,7 +42,7 @@ string CombSort(unordered_map<char, int> myMap)
     return word;
 }
 //1
-string BubbleSort(unordered_map<char, int> myMap)
+string BubbleSort(unordered_map<char, int>& myMap)
 {
     int size = myMap.size();
     string word = "";
@@ -73,7 +73,7 @@ string BubbleSort(unordered_map<char, int> myMap)
     return word;
 }
 //2
-string SelectionSort(unordered_map<char, int> myMap)
+string SelectionSort(unordered_map<char, int>& myMap)
 {
     int size = myMap.size();
     string word = "";
@@ -99,7 +99,7 @@ string SelectionSort(unordered_map<char, int> myMap)
     return word;
 }
 //3
-string InsertionSort(unordered_map<char, int> myMap)
+string InsertionSort(unordered_map<char, int>& myMap)
 {
     int size = myMap.size();
     string word = "";
@@ -124,7 +124,7 @@ string InsertionSort(unordered_map<char, int> myMap)
     return word;
 }
 
-int partitionWORD(unordered_map<char, int> myMap, int low, int high, string& word) {
+int partitionWORD(unordered_map<char, int>& myMap, int low, int high, string& word) {
     int pivot = myMap[word.at((low + high) / 2)];
     int down = high;
     int up = low;
@@ -154,7 +154,7 @@ int partitionWORD(unordered_map<char, int> myMap, int low, int high, string& wor
     word.at(down) = temp;
     return down;
 }
-void quickSortHelperWORD(unordered_map<char, int> myMap, int low, int high, string& word) {
+void quickSortHelperWORD(unordered_map<char, int>& myMap, int low, int high, string& word) {
     if (low < high) {
         int pivot = partitionWORD(myMap, low, high, word);
         //piv - 1
@@ -163,7 +163,7 @@ void quickSortHelperWORD(unordered_map<char, int> myMap, int low, int high, stri
     }
 }
 
-string QuickSort(unordered_map<char, int> myMap)
+string QuickSort(unordered_map<char, int>& myMap)
 {
     string word = "";
     int size = myMap.size();
@@ -177,7 +177,7 @@ string QuickSort(unordered_map<char, int> myMap)
     return word;
 }
 
-string MergeSort(unordered_map<char, int> myMap)
+string MergeSort(unordered_map<char, int>& myMap)
 {
     string word = "";
     int size = myMap.size();
@@ -189,7 +189,7 @@ string MergeSort(unordered_map<char, int> myMap)
     return word;
 }
 
-void mergeSortHelperWORD(unordered_map<char, int> myMap, int left, int right, string& word)
+void mergeSortHelperWORD(unordered_map<char, int>& myMap, int left, int right, string& word)
 {
     if (left < right)
     {
@@ -201,7 +201,7 @@ void mergeSortHelperWORD(unordered_map<char, int> myMap, int left, int right, st
     }
 }
 
-void mergeWORD(unordered_map<char, int> myMap, int left, int mid, int right, string& word)
+void mergeWORD(unordered_map<char, int>& myMap, int left, int mid, int right, string& word)
 {
     int size1 = mid - left + 1;
     int size2 = right - mid;
@@ -253,7 +253,7 @@ void mergeWORD(unordered_map<char, int> myMap, int left, int mid, int right, str
 
 
 //Sorting words from greatest to least
-vector<string> CombSort(unordered_map<string, int> myMap)
+vector<string> CombSort(unordered_map<string, int>& myMap)
 {
     int length = myMap.size();
     int gap = length;
@@ -288,7 +288,7 @@ vector<string> CombSort(unordered_map<string, int> myMap)
     return words;
 }
 
-vector<string> BubbleSort(unordered_map<string, int> myMap)
+vector<string> BubbleSort(unordered_map<string, int>& myMap)
 {
     vector<string> words;
     int size = myMap.size();
@@ -319,7 +319,7 @@ vector<string> BubbleSort(unordered_map<string, int> myMap)
     return words;
 }
 
-vector<string> SelectionSort(unordered_map<string, int> myMap)
+vector<string> SelectionSort(unordered_map<string, int>& myMap)
 {
     vector<string> words;
     int size = myMap.size();
@@ -345,7 +345,7 @@ vector<string> SelectionSort(unordered_map<string, int> myMap)
     return words;
 }
 
-vector<string> InsertionSort(unordered_map<string, int> myMap)
+vector<string> InsertionSort(unordered_map<string, int>& myMap)
 {
     vector<string> words;
     int size = myMap.size();
@@ -370,7 +370,7 @@ vector<string> InsertionSort(unordered_map<string, int> myMap)
     return words;
 }
 
-int partitionVECTOR(unordered_map<string, int> myMap, int low, int high, vector<string>& words) {
+int partitionVECTOR(unordered_map<string, int>& myMap, int low, int high, vector<string>& words) {
     int pivot = myMap[words[(low + high) / 2]];
     int down = high;
     int up = low;
@@ -401,7 +401,7 @@ int partitionVECTOR(unordered_map<string, int> myMap, int low, int high, vector<
     return down;
 }
 
-void quickSortHelperVECTOR(unordered_map<string, int> myMap, int low, int high, vector<string>& words) {
+void quickSortHelperVECTOR(unordered_map<string, int>& myMap, int low, int high, vector<string>& words) {
     if (low < high) {
         int pivot = partitionVECTOR(myMap, low, high, words);
         //piv - 1
@@ -411,7 +411,7 @@ void quickSortHelperVECTOR(unordered_map<string, int> myMap, int low, int high, 
 
 }
 
-vector<string> QuickSort(unordered_map<string, int> myMap)
+vector<string> QuickSort(unordered_map<string, int>& myMap)
 {
     vector<string> words;
     int size = myMap.size();
@@ -420,11 +420,12 @@ vector<string> QuickSort(unordered_map<string, int> myMap)
     {
         words.push_back(it->first);
     }
+    //quickSortHelperVECTOR(myMap, 0, size - 1, words);
     quickSortHelperVECTOR(myMap, 0, size - 1, words);
     return words;
 }
 
-vector<string> MergeSort(unordered_map<string, int> myMap)
+vector<string> MergeSort(unordered_map<string, int>& myMap)
 {
     vector<string> words;
     int size = myMap.size();
@@ -437,7 +438,7 @@ vector<string> MergeSort(unordered_map<string, int> myMap)
     return words;
 }
 
-void mergeSortHelperVECTOR(unordered_map<string, int> myMap, int left, int right, vector<string>& words)
+void mergeSortHelperVECTOR(unordered_map<string, int>& myMap, int left, int right, vector<string>& words)
 {
     if (left < right)
     {
@@ -449,7 +450,7 @@ void mergeSortHelperVECTOR(unordered_map<string, int> myMap, int left, int right
     }
 }
 
-void mergeVECTOR(unordered_map<string, int> myMap, int left, int mid, int right, vector<string>& words)
+void mergeVECTOR(unordered_map<string, int>& myMap, int left, int mid, int right, vector<string>& words)
 {
     int size1 = mid - left + 1;
     int size2 = right - mid;
