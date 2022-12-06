@@ -1,5 +1,5 @@
-SFML REQUIRED TO RUN. CHANGE PATH TO SFML IN PROJECT TO YOUR VERSION OF SFML.
 Authors: Wavid Bowman, Ivan Saldarriaga, Kylie Lennon
+SFML REQUIRED TO RUN. CHANGE PATH TO SFML IN PROJECT TO YOUR VERSION OF SFML.
 Contents:
   Hangman game with suggestions based on most frequently occuring letter in set of words left
     words class that creates a set of valid words based on the my_words.txt - Wavid
