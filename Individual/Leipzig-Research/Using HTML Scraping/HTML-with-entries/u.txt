@@ -1,0 +1,303 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/37967/uber-uberis">uber, uberis</a> n</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/37968/uber-uberis">uber, uberis</a> adj</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/37969/uberius-uberrime">uberius, uberrime</a> adv</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/37970/ubertas-ubertatis">ubertas, ubertatis</a> n</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/37971/uberte">uberte</a> adv</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/37972/ubertim">ubertim</a> adv</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/37973/ubi">ubi</a> adv</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/37974/ubi">ubi</a> conj</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/37975/ubicumque">ubicumque</a> adv</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/37976/ubinam">ubinam</a> adv</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/37977/ubiquaque">ubiquaque</a> adv</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/37978/ubique">ubique</a> adv</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/37979/ubiquomque">ubiquomque</a> adv</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/37980/Ubius-Ubii">Ubius, Ubii</a> n</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/37981/ubivis">ubivis</a> adv</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/37982/udus-uda-udum">udus, uda, udum</a> adj</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/37983/ulcero-ulcerare-ulceravi-ulceratus">ulcero, ulcerare, ulceravi, ulceratus</a> v</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/37984/ulcerosus-ulcerosa-ulcerosum">ulcerosus, ulcerosa, ulcerosum</a> adj</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/37985/ulciscor-ulcisci-ultus">ulciscor, ulcisci, ultus</a> v</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/37986/ulcus-ulceris">ulcus, ulceris</a> n</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/37987/uliginosum-uliginosi">uliginosum, uliginosi</a> n</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/37988/uliginosus-uliginosa-uliginosum">uliginosus, uliginosa, uliginosum</a> adj</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/37989/uligo-uliginis">uligo, uliginis</a> n</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/37990/Ulixes-Ulixeis">Ulixes, Ulixeis</a> n</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/37991/Ulixes-Ulixis">Ulixes, Ulixis</a> n</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/37992/ullatenus">ullatenus</a> adv</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/37993/ullus-ulla-ullum">ullus, ulla, ullum</a> adj</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/37994/ulmeus-ulmea-ulmeum">ulmeus, ulmea, ulmeum</a> adj</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/37995/ulmus-ulmi">ulmus, ulmi</a> n</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/37996/ulna-ulnae">ulna, ulnae</a> n</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/37997/uls">uls</a> prep</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/37998/ulterior">ulterior</a> adj</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/37999/ultimate">ultimate</a> adv</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/38000/ultimatim">ultimatim</a> adv</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/38001/ultime">ultime</a> adv</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/38002/ultimum">ultimum</a> adv</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/38003/ultio-ultionis">ultio, ultionis</a> n</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/38004/ultor-ultoris">ultor, ultoris</a> n</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/38005/ultra">ultra</a> prep</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/38006/ultra-ulterius-ultimum">ultra, ulterius, ultimum</a> adv</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/38007/ultramarinus-ultramarina-ultramarinum">ultramarinus, ultramarina, ultramarinum</a> adj</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/38008/ultramarinus-ultramarini">ultramarinus, ultramarini</a> n</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/38009/ultramontanus-ultramontana-ultramontanum">ultramontanus, ultramontana, ultramontanum</a> adj</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/38010/ultramontanus-ultramontani">ultramontanus, ultramontani</a> n</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/38011/ultrix-gen-ultricis">ultrix, (gen.), ultricis</a> adj</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/38012/ultro">ultro</a> adv</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/38013/ultroneus-ultronea-ultroneum">ultroneus, ultronea, ultroneum</a> adj</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/38014/ultumus-ultuma-ultumum">ultumus, ultuma, ultumum</a> adj</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/38015/ulula-ululae">ulula, ululae</a> n</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/38016/ululatus-ululata-ululatum">ululatus, ululata, ululatum</a> adj</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/38017/ululatus-ululatus">ululatus, ululatus</a> n</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/38018/ululo-ululare-ululavi-ululatus">ululo, ululare, ululavi, ululatus</a> v</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/38019/ulva-ulvae">ulva, ulvae</a> n</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/38020/umbella-umbellae">umbella, umbellae</a> n</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/38021/umbilicus-umbilici">umbilicus, umbilici</a> n</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/38022/umbo-umbonis">umbo, umbonis</a> n</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/38023/umbra-umbrae">umbra, umbrae</a> n</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/38024/umbraclum-umbracli">umbraclum, umbracli</a> n</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/38025/umbraculum-umbraculi">umbraculum, umbraculi</a> n</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/38026/umbraliter">umbraliter</a> adv</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/38027/umbraticola-umbraticolae">umbraticola, umbraticolae</a> n</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/38028/umbraticus-umbratica-umbraticum">umbraticus, umbratica, umbraticum</a> adj</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/38029/umbraticus-umbratica-umbraticum">umbraticus, umbratica, umbraticum</a> adj</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/38030/umbrella-umbrellae">umbrella, umbrellae</a> n</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/38031/umbrifer-umbrifera-umbriferum">umbrifer, umbrifera, umbriferum</a> adj</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/38032/umbro-umbrare-umbravi-umbratus">umbro, umbrare, umbravi, umbratus</a> v</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/38033/umbrosus-umbrosa-umbrosum">umbrosus, umbrosa, umbrosum</a> adj</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/38034/umecto-umectare-umectavi-umectatus">umecto, umectare, umectavi, umectatus</a> v</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/38035/umectus-umecta-umectum">umectus, umecta, umectum</a> adj</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/38036/umens-gen-umentis">umens, (gen.), umentis</a> adj</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/38037/umeo-umere">umeo, umere, -, -</a> v</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/38038/umerale-umeralis">umerale, umeralis</a> n</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/38039/umerus-umeri">umerus, umeri</a> n</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/38040/umesco-umescere">umesco, umescere, -, -</a> v</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/38041/umidulus-umidula-umidulum">umidulus, umidula, umidulum</a> adj</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/38042/umidum-umidi">umidum, umidi</a> n</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/38043/umidus-umida-umidum">umidus, umida, umidum</a> adj</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/38044/umor-umoris">umor, umoris</a> n</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/38045/umquam">umquam</a> adv</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/38046/una">una</a> adv</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/38047/unanimans-gen-unanimantis">unanimans, (gen.), unanimantis</a> adj</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/38048/unanimis-unanimis-unanime">unanimis, unanimis, unanime</a> adj</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/38049/unanimitas-unanimitatis">unanimitas, unanimitatis</a> n</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/38050/unanimiter">unanimiter</a> adv</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/38051/unanimus-unanima-unanimum">unanimus, unanima, unanimum</a> adj</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/38052/uncia-unciae">uncia, unciae</a> n</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/38053/unciarius-unciaria-unciarium">unciarius, unciaria, unciarium</a> adj</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/38054/unciatim">unciatim</a> adv</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/38055/uncinatrum-uncinatri">uncinatrum, uncinatri</a> n</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/38056/uncinatus-uncinata-uncinatum">uncinatus, uncinata, uncinatum</a> adj</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/38057/uncinulus-uncinuli">uncinulus, uncinuli</a> n</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/38058/uncinus-uncini">uncinus, uncini</a> n</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/38059/unciola-unciolae">unciola, unciolae</a> n</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/38060/unctio-unctionis">unctio, unctionis</a> n</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/38061/unctito-unctitare-unctitavi-unctitatus">unctito, unctitare, unctitavi, unctitatus</a> v</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/38062/unctiusculus-unctiuscula-unctiusculum">unctiusculus, unctiuscula, unctiusculum</a> adj</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/38063/unctor-unctoris">unctor, unctoris</a> n</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/38064/unctus-uncta-unctum">unctus, uncta, unctum</a> adj</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/38065/uncus-unca-uncum">uncus, unca, uncum</a> adj</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/38066/uncus-unci">uncus, unci</a> n</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/38067/unda-undae">unda, undae</a> n</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/38068/unde">unde</a> adv</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/38069/undecim-undecimus">undecim, undecimus</a> adv</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/38070/undecum">undecum</a> adv</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/38071/undecumque">undecumque</a> adv</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/38072/undenonaginta-undenonagesimus">undenonaginta, undenonagesimus</a> adv</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/38073/undeoctoginta-undeoctogesimus">undeoctoginta, undeoctogesimus</a> adv</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/38074/undequadraginta-undequadragesimus">undequadraginta, undequadragesimus</a> adv</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/38075/undequinquaginta-undequinquagesimus">undequinquaginta, undequinquagesimus</a> adv</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/38076/undesexaginta-undesexagesimus">undesexaginta, undesexagesimus</a> adv</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/38077/undetricensim">undetricensim</a> adv</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/38078/undetricensum">undetricensum</a> adv</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/38079/undetriginta-undetricesimus">undetriginta, undetricesimus</a> adv</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/38080/undevicensim">undevicensim</a> adv</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/38081/undevicensum">undevicensum</a> adv</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/38082/undevicesimanus-undevicesimani">undevicesimanus, undevicesimani</a> n</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/38083/undevigensim">undevigensim</a> n</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/38084/undevigensum">undevigensum</a> n</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/38085/undeviginti-undevicesimus">undeviginti, undevicesimus</a> n</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/38086/undique">undique</a> adv</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/38087/undique">undique</a> adv</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/38088/undiquesecus">undiquesecus</a> adv</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/38089/undiquesecus">undiquesecus</a> adv</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/38090/undisonus-undisona-undisonum">undisonus, undisona, undisonum</a> adj</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/38091/undo-undare-undavi-undatus">undo, undare, undavi, undatus</a> v</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/38092/undosus-undosa-undosum">undosus, undosa, undosum</a> adj</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/38093/undulatio-undulationis">undulatio, undulationis</a> n</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/38094/unetvicesimanus-unetvicesimani">unetvicesimanus, unetvicesimani</a> n</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/38095/unetvicesimus-unetvicesima-unetvicesimum">unetvicesimus, unetvicesima, unetvicesimum</a> adj</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/38096/ungella-ungellae">ungella, ungellae</a> n</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/38097/ungo-ungere-unxi-unctus">ungo, ungere, unxi, unctus</a> v</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/38098/unguedo-unguedinis">unguedo, unguedinis</a> n</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/38099/unguen-unguinis">unguen, unguinis</a> n</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/38100/unguentarius-unguentari-i">unguentarius, unguentari(i)</a> n</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/38101/unguentatus-unguentata-unguentatum">unguentatus, unguentata, unguentatum</a> adj</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/38102/unguentum-unguenti">unguentum, unguenti</a> n</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/38103/ungueo-unguere">ungueo, unguere, -, -</a> v</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/38104/unguiculus-unguiculi">unguiculus, unguiculi</a> n</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/38105/unguis-unguis">unguis, unguis</a> n</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/38106/ungula-ungulae">ungula, ungulae</a> n</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/38107/unguo-unguere-unxi-unctus">unguo, unguere, unxi, unctus</a> v</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/38108/unianimis-unianimis-unianime">unianimis, unianimis, unianime</a> adj</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/38109/unianimiter">unianimiter</a> adv</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/38110/unianimus-unianima-unianimum">unianimus, unianima, unianimum</a> adj</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/38111/unicaulis-unicaulis-unicaule">unicaulis, unicaulis, unicaule</a> adj</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/38112/unice">unice</a> adv</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/38113/unicellularis-unicellularis-unicellulare">unicellularis, unicellularis, unicellulare</a> adj</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/38114/unicitas-unicitatis">unicitas, unicitatis</a> n</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/38115/unicolor-gen-unicoloris">unicolor, (gen.), unicoloris</a> adj</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/38116/unicornis-unicornis">unicornis, unicornis</a> n</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/38117/unicornis-unicornis-unicorne">unicornis, unicornis, unicorne</a> adj</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/38118/unicornuus-unicornui">unicornuus, unicornui</a> n</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/38119/unicuique">unicuique</a> n</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/38120/unicus-unica-unicum">unicus, unica, unicum</a> adj</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/38121/unifico-unificare-unificavi-unificatus">unifico, unificare, unificavi, unificatus</a> v</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/38122/unificus-unifica-unificum">unificus, unifica, unificum</a> adj</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/38123/uniformis-uniformis-uniforme">uniformis, uniformis, uniforme</a> adj</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/38124/uniformiter">uniformiter</a> adv</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/38125/unigena-unigenae">unigena, unigenae</a> n</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/38126/unigenitus-unigenita-unigenitum">unigenitus, unigenita, unigenitum</a> adj</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/38127/unimanus-unimana-unimanum">unimanus, unimana, unimanum</a> adj</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/38128/unio-unionis">unio, unionis</a> n</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/38129/unio-unire-univi-unitus">unio, unire, univi, unitus</a> v</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/38130/unitas-unitatis">unitas, unitatis</a> n</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/38131/uniter">uniter</a> adv</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/38132/uniuscuiusque">uniuscuiusque</a> adv</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/38133/universalis-universalis-universale">universalis, universalis, universale</a> adj</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/38134/universaliter">universaliter</a> adv</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/38135/universalus-universala">universalus, universala</a> adj</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/38136/universe">universe</a> adv</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/38137/universim">universim</a> adv</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/38138/universitarius-universitaria-universitarium">universitarius, universitaria, universitarium</a> adj</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/38139/universitas-universitatis">universitas, universitatis</a> n</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/38140/universitas-universitatis">universitas, universitatis</a> n</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/38141/universus-universa-universum">universus, universa, universum</a> adj</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/38142/universus-universi">universus, universi</a> n</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/38143/univira-univirae">univira, univirae</a> n</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/38144/univiratus-univirata-univiratum">univiratus, univirata, univiratum</a> adj</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/38145/univirius-univiria-univirium">univirius, univiria, univirium</a> adj</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/38146/univirus-univira-univirum">univirus, univira, univirum</a> adj</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/38147/univocus-univoca-univocum">univocus, univoca, univocum</a> adj</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/38148/unoculus-unocula-unoculum">unoculus, unocula, unoculum</a> adj</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/38149/unovirus-unovira-unovirum">unovirus, unovira, unovirum</a> adj</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/38150/unquam">unquam</a> adv</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/38151/unumquodque">unumquodque</a> adv</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/38152/unus">unus</a> adv</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/38153/unus-una-unum">unus, una, unum</a> adj</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/38154/unusquisque">unusquisque</a> adj</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/38155/upilio-upilionis">upilio, upilionis</a> n</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/38156/upupa-upupae">upupa, upupae</a> n</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/38157/uranicus-uranica-uranicum">uranicus, uranica, uranicum</a> adj</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/38158/urbanicianus-urbaniciana-urbanicianum">urbanicianus, urbaniciana, urbanicianum</a> adj</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/38159/urbanitas-urbanitatis">urbanitas, urbanitatis</a> n</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/38160/urbanus-urbana-urbanum">urbanus, urbana, urbanum</a> adj</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/38161/urbanus-urbani">urbanus, urbani</a> n</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/38162/urbicapus-urbicapi">urbicapus, urbicapi</a> n</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/38163/urbicarius-urbicaria-urbicarium">urbicarius, urbicaria, urbicarium</a> adj</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/38164/urbs-urbis">urbs, urbis</a> n</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/38165/urceolaris-urceolaris-urceolare">urceolaris, urceolaris, urceolare</a> adj</li>
+          <li id="word-199" class="word"><a href="http://www.latin-dictionary.net/definition/38166/urceolus-urceoli">urceolus, urceoli</a> n</li>
+          <li id="word-200" class="word"><a href="http://www.latin-dictionary.net/definition/38167/urceus-urcei">urceus, urcei</a> n</li>
+          <li id="word-201" class="word"><a href="http://www.latin-dictionary.net/definition/38168/urceus-urcei">urceus, urcei</a> n</li>
+          <li id="word-202" class="word"><a href="http://www.latin-dictionary.net/definition/38169/urco-urcare">urco, urcare, -, -</a> v</li>
+          <li id="word-203" class="word"><a href="http://www.latin-dictionary.net/definition/38170/uredo-uredinis">uredo, uredinis</a> n</li>
+          <li id="word-204" class="word"><a href="http://www.latin-dictionary.net/definition/38171/ureter-ureteros-is">ureter, ureteros/is</a> n</li>
+          <li id="word-205" class="word"><a href="http://www.latin-dictionary.net/definition/38172/urgeo-urgere-ursi">urgeo, urgere, ursi, -</a> v</li>
+          <li id="word-206" class="word"><a href="http://www.latin-dictionary.net/definition/38173/urgeo-urgere-ursi">urgeo, urgere, ursi, -</a> v</li>
+          <li id="word-207" class="word"><a href="http://www.latin-dictionary.net/definition/38174/urgeo-urgere-ursi">urgeo, urgere, ursi, -</a> v</li>
+          <li id="word-208" class="word"><a href="http://www.latin-dictionary.net/definition/38175/urgueo-urguere-ursi">urgueo, urguere, ursi, -</a> v</li>
+          <li id="word-209" class="word"><a href="http://www.latin-dictionary.net/definition/38176/urgueo-urguere-ursi">urgueo, urguere, ursi, -</a> v</li>
+          <li id="word-210" class="word"><a href="http://www.latin-dictionary.net/definition/38177/urgueo-urguere-ursi">urgueo, urguere, ursi, -</a> v</li>
+          <li id="word-211" class="word"><a href="http://www.latin-dictionary.net/definition/38178/urina-urinae">urina, urinae</a> n</li>
+          <li id="word-212" class="word"><a href="http://www.latin-dictionary.net/definition/38179/urinatio-urinationis">urinatio, urinationis</a> n</li>
+          <li id="word-213" class="word"><a href="http://www.latin-dictionary.net/definition/38180/urinator-urinatoris">urinator, urinatoris</a> n</li>
+          <li id="word-214" class="word"><a href="http://www.latin-dictionary.net/definition/38181/urino-urinare-urinavi-urinatus">urino, urinare, urinavi, urinatus</a> v</li>
+          <li id="word-215" class="word"><a href="http://www.latin-dictionary.net/definition/38182/urinor-urinari-urinatus">urinor, urinari, urinatus</a> v</li>
+          <li id="word-216" class="word"><a href="http://www.latin-dictionary.net/definition/38183/urna-urnae">urna, urnae</a> n</li>
+          <li id="word-217" class="word"><a href="http://www.latin-dictionary.net/definition/38184/uro-urere-ussi-ustus">uro, urere, ussi, ustus</a> v</li>
+          <li id="word-218" class="word"><a href="http://www.latin-dictionary.net/definition/38185/ursa-ursae">ursa, ursae</a> n</li>
+          <li id="word-219" class="word"><a href="http://www.latin-dictionary.net/definition/38186/ursinus-ursina-ursinum">ursinus, ursina, ursinum</a> adj</li>
+          <li id="word-220" class="word"><a href="http://www.latin-dictionary.net/definition/38187/ursus-ursi">ursus, ursi</a> n</li>
+          <li id="word-221" class="word"><a href="http://www.latin-dictionary.net/definition/38188/urtica-urticae">urtica, urticae</a> n</li>
+          <li id="word-222" class="word"><a href="http://www.latin-dictionary.net/definition/38189/urticaria-urticariae">urticaria, urticariae</a> n</li>
+          <li id="word-223" class="word"><a href="http://www.latin-dictionary.net/definition/38190/urus-uri">urus, uri</a> n</li>
+          <li id="word-224" class="word"><a href="http://www.latin-dictionary.net/definition/38191/usarius-usaria-usarium">usarius, usaria, usarium</a> adj</li>
+          <li id="word-225" class="word"><a href="http://www.latin-dictionary.net/definition/38192/usitatus-usitata">usitatus, usitata</a> adj</li>
+          <li id="word-226" class="word"><a href="http://www.latin-dictionary.net/definition/38193/usitor-usitari-usitatus">usitor, usitari, usitatus</a> v</li>
+          <li id="word-227" class="word"><a href="http://www.latin-dictionary.net/definition/38194/uspiam">uspiam</a> adv</li>
+          <li id="word-228" class="word"><a href="http://www.latin-dictionary.net/definition/38195/usquam">usquam</a> adv</li>
+          <li id="word-229" class="word"><a href="http://www.latin-dictionary.net/definition/38196/usque">usque</a> adv</li>
+          <li id="word-230" class="word"><a href="http://www.latin-dictionary.net/definition/38197/usque">usque</a> prep</li>
+          <li id="word-231" class="word"><a href="http://www.latin-dictionary.net/definition/38198/usquequaque">usquequaque</a> adv</li>
+          <li id="word-232" class="word"><a href="http://www.latin-dictionary.net/definition/38199/usquequo">usquequo</a> adv</li>
+          <li id="word-233" class="word"><a href="http://www.latin-dictionary.net/definition/38200/ustilo-ustilare-ustilavi-ustilatus">ustilo, ustilare, ustilavi, ustilatus</a> v</li>
+          <li id="word-234" class="word"><a href="http://www.latin-dictionary.net/definition/38201/ustio-ustionis">ustio, ustionis</a> n</li>
+          <li id="word-235" class="word"><a href="http://www.latin-dictionary.net/definition/38202/ustor-ustoris">ustor, ustoris</a> n</li>
+          <li id="word-236" class="word"><a href="http://www.latin-dictionary.net/definition/38203/ustrina-ustrinae">ustrina, ustrinae</a> n</li>
+          <li id="word-237" class="word"><a href="http://www.latin-dictionary.net/definition/38204/ustulo-ustulare-ustulavi-ustulatus">ustulo, ustulare, ustulavi, ustulatus</a> v</li>
+          <li id="word-238" class="word"><a href="http://www.latin-dictionary.net/definition/38205/usualis-usualis-usuale">usualis, usualis, usuale</a> adj</li>
+          <li id="word-239" class="word"><a href="http://www.latin-dictionary.net/definition/38206/usuarius-usuaria-usuarium">usuarius, usuaria, usuarium</a> adj</li>
+          <li id="word-240" class="word"><a href="http://www.latin-dictionary.net/definition/38207/usuarius-usuaria-usuarium">usuarius, usuaria, usuarium</a> adj</li>
+          <li id="word-241" class="word"><a href="http://www.latin-dictionary.net/definition/38208/usucapio-usucapere-usucepi-usucaptus">usucapio, usucapere, usucepi, usucaptus</a> v</li>
+          <li id="word-242" class="word"><a href="http://www.latin-dictionary.net/definition/38209/usura-usurae">usura, usurae</a> n</li>
+          <li id="word-243" class="word"><a href="http://www.latin-dictionary.net/definition/38210/usurarius-usuraria-usurarium">usurarius, usuraria, usurarium</a> adj</li>
+          <li id="word-244" class="word"><a href="http://www.latin-dictionary.net/definition/38211/usurpatio-usurpationis">usurpatio, usurpationis</a> n</li>
+          <li id="word-245" class="word"><a href="http://www.latin-dictionary.net/definition/38212/usurpatio-usurpationis">usurpatio, usurpationis</a> n</li>
+          <li id="word-246" class="word"><a href="http://www.latin-dictionary.net/definition/38213/usurpo-usurpare-usurpavi-usurpatus">usurpo, usurpare, usurpavi, usurpatus</a> v</li>
+          <li id="word-247" class="word"><a href="http://www.latin-dictionary.net/definition/38214/usus-usus">usus, usus</a> n</li>
+          <li id="word-248" class="word"><a href="http://www.latin-dictionary.net/definition/38215/ut">ut</a> conj</li>
+          <li id="word-249" class="word"><a href="http://www.latin-dictionary.net/definition/38216/utcumque">utcumque</a> adv</li>
+          <li id="word-250" class="word"><a href="http://www.latin-dictionary.net/definition/38217/utcunque">utcunque</a> adv</li>
+          <li id="word-251" class="word"><a href="http://www.latin-dictionary.net/definition/38218/utens-utentis">utens, utentis</a> adj</li>
+          <li id="word-252" class="word"><a href="http://www.latin-dictionary.net/definition/38219/utensilis-utensilis-utensile">utensilis, utensilis, utensile</a> adj</li>
+          <li id="word-253" class="word"><a href="http://www.latin-dictionary.net/definition/38220/uter-utra-utrum">uter, utra, utrum</a> adj</li>
+          <li id="word-254" class="word"><a href="http://www.latin-dictionary.net/definition/38221/uter-utra-utrum">uter, utra, utrum</a> adj</li>
+          <li id="word-255" class="word"><a href="http://www.latin-dictionary.net/definition/38222/uter-utris">uter, utris</a> n</li>
+          <li id="word-256" class="word"><a href="http://www.latin-dictionary.net/definition/38223/uter-utris">uter, utris</a> n</li>
+          <li id="word-257" class="word"><a href="http://www.latin-dictionary.net/definition/38224/uterum-uteri">uterum, uteri</a> n</li>
+          <li id="word-258" class="word"><a href="http://www.latin-dictionary.net/definition/38225/uterus-uteri">uterus, uteri</a> n</li>
+          <li id="word-259" class="word"><a href="http://www.latin-dictionary.net/definition/38226/uti">uti</a> conj</li>
+          <li id="word-260" class="word"><a href="http://www.latin-dictionary.net/definition/38227/utibilis-utibilis-utibile">utibilis, utibilis, utibile</a> adj</li>
+          <li id="word-261" class="word"><a href="http://www.latin-dictionary.net/definition/38228/Utica-Uticae">Utica, Uticae</a> n</li>
+          <li id="word-262" class="word"><a href="http://www.latin-dictionary.net/definition/38229/utilis-utilis-utile">utilis, utilis, utile</a> adj</li>
+          <li id="word-263" class="word"><a href="http://www.latin-dictionary.net/definition/38230/utilitas-utilitatis">utilitas, utilitatis</a> n</li>
+          <li id="word-264" class="word"><a href="http://www.latin-dictionary.net/definition/38231/utiliter-utilius-utilissime">utiliter, utilius, utilissime</a> adv</li>
+          <li id="word-265" class="word"><a href="http://www.latin-dictionary.net/definition/38232/utillimus-utillima-utillimum">utillimus, utillima, utillimum</a> adj</li>
+          <li id="word-266" class="word"><a href="http://www.latin-dictionary.net/definition/38233/utinam">utinam</a> adv</li>
+          <li id="word-267" class="word"><a href="http://www.latin-dictionary.net/definition/38234/utique">utique</a> adv</li>
+          <li id="word-268" class="word"><a href="http://www.latin-dictionary.net/definition/38235/utlagaria-utlagariae">utlagaria, utlagariae</a> n</li>
+          <li id="word-269" class="word"><a href="http://www.latin-dictionary.net/definition/38236/utlagatio-utlagationis">utlagatio, utlagationis</a> n</li>
+          <li id="word-270" class="word"><a href="http://www.latin-dictionary.net/definition/38237/utlagatus-utlagati">utlagatus, utlagati</a> n</li>
+          <li id="word-271" class="word"><a href="http://www.latin-dictionary.net/definition/38238/utlago-utlagare-utlagavi-utlagatus">utlago, utlagare, utlagavi, utlagatus</a> v</li>
+          <li id="word-272" class="word"><a href="http://www.latin-dictionary.net/definition/38239/utor-uti-usus">utor, uti, usus</a> v</li>
+          <li id="word-273" class="word"><a href="http://www.latin-dictionary.net/definition/38240/utpote">utpote</a> adv</li>
+          <li id="word-274" class="word"><a href="http://www.latin-dictionary.net/definition/38241/utputa">utputa</a> adv</li>
+          <li id="word-275" class="word"><a href="http://www.latin-dictionary.net/definition/38242/utquomque">utquomque</a> adv</li>
+          <li id="word-276" class="word"><a href="http://www.latin-dictionary.net/definition/38243/utralibet">utralibet</a> adv</li>
+          <li id="word-277" class="word"><a href="http://www.latin-dictionary.net/definition/38244/utrarius-utrari-i">utrarius, utrari(i)</a> n</li>
+          <li id="word-278" class="word"><a href="http://www.latin-dictionary.net/definition/38245/utricularius-utricularii">utricularius, utricularii</a> n</li>
+          <li id="word-279" class="word"><a href="http://www.latin-dictionary.net/definition/38246/utriculus-utriculi">utriculus, utriculi</a> n</li>
+          <li id="word-280" class="word"><a href="http://www.latin-dictionary.net/definition/38247/utrimque">utrimque</a> adv</li>
+          <li id="word-281" class="word"><a href="http://www.latin-dictionary.net/definition/38248/utrimquesecus">utrimquesecus</a> adv</li>
+          <li id="word-282" class="word"><a href="http://www.latin-dictionary.net/definition/38249/utrinde">utrinde</a> adv</li>
+          <li id="word-283" class="word"><a href="http://www.latin-dictionary.net/definition/38250/utrinque">utrinque</a> adv</li>
+          <li id="word-284" class="word"><a href="http://www.latin-dictionary.net/definition/38251/utro">utro</a> adv</li>
+          <li id="word-285" class="word"><a href="http://www.latin-dictionary.net/definition/38252/utrobique">utrobique</a> adv</li>
+          <li id="word-286" class="word"><a href="http://www.latin-dictionary.net/definition/38253/utrolibet">utrolibet</a> adv</li>
+          <li id="word-287" class="word"><a href="http://www.latin-dictionary.net/definition/38254/utroque">utroque</a> adv</li>
+          <li id="word-288" class="word"><a href="http://www.latin-dictionary.net/definition/38255/utrubique">utrubique</a> adv</li>
+          <li id="word-289" class="word"><a href="http://www.latin-dictionary.net/definition/38256/utrum">utrum</a> adv</li>
+          <li id="word-290" class="word"><a href="http://www.latin-dictionary.net/definition/38257/utrumlibet">utrumlibet</a> adv</li>
+          <li id="word-291" class="word"><a href="http://www.latin-dictionary.net/definition/38258/utrumnam">utrumnam</a> conj</li>
+          <li id="word-292" class="word"><a href="http://www.latin-dictionary.net/definition/38259/utut">utut</a> conj</li>
+          <li id="word-293" class="word"><a href="http://www.latin-dictionary.net/definition/38260/uva-uvae">uva, uvae</a> n</li>
+          <li id="word-294" class="word"><a href="http://www.latin-dictionary.net/definition/38261/uvesco-uvescere">uvesco, uvescere, -, -</a> v</li>
+          <li id="word-295" class="word"><a href="http://www.latin-dictionary.net/definition/38262/uvidulus-uvidula-uvidulum">uvidulus, uvidula, uvidulum</a> adj</li>
+          <li id="word-296" class="word"><a href="http://www.latin-dictionary.net/definition/38263/uvidus-uvida-uvidum">uvidus, uvida, uvidum</a> adj</li>
+          <li id="word-297" class="word"><a href="http://www.latin-dictionary.net/definition/38264/uvor-uvoris">uvor, uvoris</a> n</li>
+          <li id="word-298" class="word"><a href="http://www.latin-dictionary.net/definition/38265/uxor-uxoris">uxor, uxoris</a> n</li>
+          <li id="word-299" class="word"><a href="http://www.latin-dictionary.net/definition/38266/uxorcula-uxorculae">uxorcula, uxorculae</a> n</li>
+          <li id="word-300" class="word"><a href="http://www.latin-dictionary.net/definition/38267/uxorculo-uxorculare-uxorculavi-uxorculatus">uxorculo, uxorculare, uxorculavi, uxorculatus</a> v</li>
+          <li id="word-301" class="word"><a href="http://www.latin-dictionary.net/definition/38268/uxorium-uxorii">uxorium, uxorii</a> v</li>
+          <li id="word-302" class="word"><a href="http://www.latin-dictionary.net/definition/38269/uxorius-uxoria-uxorium">uxorius, uxoria, uxorium</a> adj</li>

@@ -1,0 +1,1095 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/20142/f-abb">f., abb.</a> n</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/20143/faba-fabae">faba, fabae</a> n</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/20144/fabella-fabellae">fabella, fabellae</a> n</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/20145/faber-fabra-fabrum">faber, fabra, fabrum</a> adj</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/20146/faber-fabri">faber, fabri</a> n</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/20147/Fabius-Fabi">Fabius, Fabi</a> n</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/20148/Fabius-Fabia-Fabium">Fabius, Fabia, Fabium</a> adj</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/20149/fabre">fabre</a> adv</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/20150/fabrefacio-fabrefacere-fabrefeci-fabrefactus">fabrefacio, fabrefacere, fabrefeci, fabrefactus</a> v</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/20151/fabrefio-fabreferi-fabrefactus">fabrefio, fabreferi, fabrefactus</a> v</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/20152/fabrica-fabricae">fabrica, fabricae</a> n</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/20153/fabrica-fabricae">fabrica, fabricae</a> n</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/20154/fabricatio-fabricationis">fabricatio, fabricationis</a> n</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/20155/fabricator-fabricatoris">fabricator, fabricatoris</a> n</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/20156/fabricensis-fabricensis">fabricensis, fabricensis</a> n</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/20157/fabrico-fabricare-fabricavi-fabricatus">fabrico, fabricare, fabricavi, fabricatus</a> v</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/20158/fabricor-fabricari-fabricatus">fabricor, fabricari, fabricatus</a> v</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/20159/fabrile-fabrilis">fabrile, fabrilis</a> n</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/20160/fabrilis-fabrilis-fabrile">fabrilis, fabrilis, fabrile</a> adj</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/20161/fabriliter">fabriliter</a> adv</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/20162/fabula-fabulae">fabula, fabulae</a> n</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/20163/fabulatio-fabulationis">fabulatio, fabulationis</a> n</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/20164/fabulator-fabulatoris">fabulator, fabulatoris</a> n</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/20165/fabulo-fabulare-fabulavi-fabulatus">fabulo, fabulare, fabulavi, fabulatus</a> v</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/20166/fabulor-fabulari-fabulatus">fabulor, fabulari, fabulatus</a> v</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/20167/fabulositas-fabulositatis">fabulositas, fabulositatis</a> n</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/20168/fabulosus-fabulosa-fabulosum">fabulosus, fabulosa, fabulosum</a> adj</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/20169/facesso-facessere-facessi-facessitus">facesso, facessere, facessi, facessitus</a> v</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/20170/facetia-facetiae">facetia, facetiae</a> n</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/20171/facetus-faceta-facetum">facetus, faceta, facetum</a> adj</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/20172/fachirus-fachiri">fachirus, fachiri</a> n</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/20173/facialis-facialis-faciale">facialis, facialis, faciale</a> adj</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/20174/facies-faciei">facies, faciei</a> n</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/20175/facile-facilius-facillime">facile, facilius, facillime</a> adv</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/20176/facilis-facile-facilior">facilis, facile, facilior</a> adj</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/20177/facilitas-facilitatis">facilitas, facilitatis</a> n</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/20178/faciliter">faciliter</a> adv</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/20179/facilumed">facilumed</a> adv</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/20180/facinarose">facinarose</a> adv</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/20181/facinarosus-facinarosa-facinarosum">facinarosus, facinarosa, facinarosum</a> adj</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/20182/facinerosus-facinerosa-facinerosum">facinerosus, facinerosa, facinerosum</a> adj</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/20183/facinorose">facinorose</a> adv</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/20184/facinorosus-facinorosa-facinorosum">facinorosus, facinorosa, facinorosum</a> adj</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/20185/facinus-facinoris">facinus, facinoris</a> n</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/20186/facio-facere-additional-forms">facio, facere, additional, forms</a> v</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/20187/facio-facere-feci-factus">facio, facere, feci, factus</a> v</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/20188/facio-facere-feci-factus">facio, facere, feci, factus</a> v</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/20189/facio-facere-feci-factus">facio, facere, feci, factus</a> v</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/20190/facio-facere-feci-factus">facio, facere, feci, factus</a> v</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/20191/facticius-facticia-facticium">facticius, facticia, facticium</a> adj</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/20192/factio-factionis">factio, factionis</a> n</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/20193/factiosus-factiosa-factiosum">factiosus, factiosa, factiosum</a> adj</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/20194/factispecies-factispeciei">factispecies, factispeciei</a> n</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/20195/factitator-factitatoris">factitator, factitatoris</a> n</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/20196/factitius-factitia-factitium">factitius, factitia, factitium</a> adj</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/20197/factito-factitare-factitavi-factitatus">factito, factitare, factitavi, factitatus</a> v</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/20198/factor-factoris">factor, factoris</a> n</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/20199/factum-facti">factum, facti</a> n</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/20200/factura-facturae">factura, facturae</a> n</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/20201/facula-faculae">facula, faculae</a> n</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/20202/facultas-facultatis">facultas, facultatis</a> n</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/20203/facultativus-facultativa-facultativum">facultativus, facultativa, facultativum</a> adj</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/20204/facunde-facundius-facundissime">facunde, facundius, facundissime</a> adv</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/20205/facundia-facundiae">facundia, facundiae</a> n</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/20206/facunditas-facunditatis">facunditas, facunditatis</a> n</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/20207/facundus-facunda-facundum">facundus, facunda, facundum</a> adj</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/20208/faecatus-faecata-faecatum">faecatus, faecata, faecatum</a> adj</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/20209/faecula-faeculae">faecula, faeculae</a> n</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/20210/faeculentia-faeculentiae">faeculentia, faeculentiae</a> n</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/20211/faeculentus-faeculenta-faeculentum">faeculentus, faeculenta, faeculentum</a> adj</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/20212/faedus-faedi">faedus, faedi</a> n</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/20213/faeles-faelis">faeles, faelis</a> n</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/20214/faenebris-faenebris-faenebre">faenebris, faenebris, faenebre</a> adj</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/20215/faeneratio-faenerationis">faeneratio, faenerationis</a> n</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/20216/faenerator-faeneratoris">faenerator, faeneratoris</a> n</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/20217/faenero-faenerare-faeneravi-faeneratus">faenero, faenerare, faeneravi, faeneratus</a> v</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/20218/faeneror-faenerari-faeneratus">faeneror, faenerari, faeneratus</a> v</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/20219/faeneus-faenea-faeneum">faeneus, faenea, faeneum</a> adj</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/20220/faeniculum-faeniculi">faeniculum, faeniculi</a> n</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/20221/faenile-faenilis">faenile, faenilis</a> n</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/20222/faeniseca-faenisecae">faeniseca, faenisecae</a> n</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/20223/faenisecium-faenisecii">faenisecium, faenisecii</a> n</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/20224/faenisicia-faenisiciae">faenisicia, faenisiciae</a> n</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/20225/faenisicium-faenisicii">faenisicium, faenisicii</a> n</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/20226/faenum-faeni">faenum, faeni</a> n</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/20227/faenus-faenoris">faenus, faenoris</a> n</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/20228/faeteo-faetere">faeteo, faetere, -, -</a> v</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/20229/faetidus-fatida-fatidum">faetidus, fatida, fatidum</a> adj</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/20230/faetor-faetoris">faetor, faetoris</a> n</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/20231/faetulentus-faetulenta-faetulentum">faetulentus, faetulenta, faetulentum</a> adj</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/20232/faetutina-faetutinae">faetutina, faetutinae</a> n</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/20233/faex-faecis">faex, faecis</a> n</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/20234/fagineus-faginea-fagineum">fagineus, faginea, fagineum</a> adj</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/20235/faginus-fagina-faginum">faginus, fagina, faginum</a> adj</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/20236/fagottum-fagotti">fagottum, fagotti</a> n</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/20237/fagus-fagi">fagus, fagi</a> n</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/20238/fala-falae">fala, falae</a> n</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/20239/falarica-falaricae">falarica, falaricae</a> n</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/20240/falcanus-falcani">falcanus, falcani</a> n</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/20241/falcarius-falcarii">falcarius, falcarii</a> n</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/20242/falcatus-falcata-falcatum">falcatus, falcata, falcatum</a> adj</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/20243/Falcidia-Falcidiae">Falcidia, Falcidiae</a> n</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/20244/falcifer-falcifera-falciferum">falcifer, falcifera, falciferum</a> adj</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/20245/falcitas-falcitatis">falcitas, falcitatis</a> n</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/20246/falda-faldae">falda, faldae</a> n</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/20247/faldistorium-faldistorii">faldistorium, faldistorii</a> n</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/20248/falere-faleris">falere, faleris</a> n</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/20249/Falerius-Falerii">Falerius, Falerii</a> n</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/20250/Falernum-Falerni">Falernum, Falerni</a> n</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/20251/falisca-faliscae">falisca, faliscae</a> n</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/20252/Faliscus-Falisca-Faliscum">Faliscus, Falisca, Faliscum</a> adj</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/20253/Faliscus-Falisci">Faliscus, Falisci</a> n</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/20254/fallacia-fallaciae">fallacia, fallaciae</a> n</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/20255/fallacies-fallaciei">fallacies, fallaciei</a> n</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/20256/fallaciloquus-fallaciloqua-fallaciloquum">fallaciloquus, fallaciloqua, fallaciloquum</a> adj</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/20257/fallaciosus-fallaciosa-fallaciosum">fallaciosus, fallaciosa, fallaciosum</a> adj</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/20258/fallacitas-fallacitatis">fallacitas, fallacitatis</a> n</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/20259/fallaciter-fallacius-fallicissime">fallaciter, fallacius, fallicissime</a> adv</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/20260/fallax-fallacis">fallax, fallacis</a> adj</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/20261/fallo-fallere-fefelli-falsus">fallo, fallere, fefelli, falsus</a> v</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/20262/falsarius-falsarii">falsarius, falsarii</a> n</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/20263/falsidicus-falsidica-falsidicum">falsidicus, falsidica, falsidicum</a> adj</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/20264/falsificatio-falsificationis">falsificatio, falsificationis</a> n</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/20265/falsifico-falsificare-falsificavi-falsificatus">falsifico, falsificare, falsificavi, falsificatus</a> v</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/20266/falsiloquus-falsiloqua-falsiloquum">falsiloquus, falsiloqua, falsiloquum</a> adj</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/20267/falsitas-falsitatis">falsitas, falsitatis</a> n</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/20268/falso">falso</a> adv</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/20269/falso-falsare-falsavi-falsatus">falso, falsare, falsavi, falsatus</a> v</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/20270/falsum-falsi">falsum, falsi</a> n</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/20271/falsus-falsa-falsum">falsus, falsa, falsum</a> adj</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/20272/falx-falcis">falx, falcis</a> n</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/20273/fama-famae">fama, famae</a> n</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/20274/famelicus-famelica">famelicus, famelica</a> adj</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/20275/famen-faminis">famen, faminis</a> n</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/20276/fames-famis">fames, famis</a> n</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/20277/famigerabilis-famigerabilis-famigerabile">famigerabilis, famigerabilis, famigerabile</a> adj</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/20278/famigerator-famigeratoris">famigerator, famigeratoris</a> n</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/20279/familia-familiae">familia, familiae</a> n</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/20280/familialis-familialis-familiale">familialis, familialis, familiale</a> adj</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/20281/familiaris-familiaris">familiaris, familiaris</a> n</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/20282/familiaris-familiaris-familiare">familiaris, familiaris, familiare</a> adj</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/20283/familiaritas-familiaritatis">familiaritas, familiaritatis</a> n</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/20284/familiariter">familiariter</a> adv</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/20285/familicus-familica">familicus, familica</a> adj</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/20286/famosus-famosa">famosus, famosa</a> adj</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/20287/famula-famulae">famula, famulae</a> n</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/20288/famulamen-famulaminis">famulamen, famulaminis</a> n</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/20289/famularis-famularis-famulare">famularis, famularis, famulare</a> adj</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/20290/famulatus-famulatus">famulatus, famulatus</a> n</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/20291/famulitium-famulitii">famulitium, famulitii</a> n</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/20292/famulor-famulari-famulatus">famulor, famulari, famulatus</a> v</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/20293/famulus-famula-famulum">famulus, famula, famulum</a> adj</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/20294/famulus-famuli">famulus, famuli</a> n</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/20295/fanale-fanalis">fanale, fanalis</a> n</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/20296/fanaticus-fanatica-fanaticum">fanaticus, fanatica, fanaticum</a> adj</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/20297/fanatismus-fanatismi">fanatismus, fanatismi</a> n</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/20298/fandus-fanda-fandum">fandus, fanda, fandum</a> adj</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/20299/fano-fanare-fanavi-fanatus">fano, fanare, fanavi, fanatus</a> v</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/20300/fano-fanonis">fano, fanonis</a> n</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/20301/fantasia-fantasiae">fantasia, fantasiae</a> n</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/20302/fantasia-fantasiae">fantasia, fantasiae</a> n</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/20303/fanulum-fanuli">fanulum, fanuli</a> n</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/20304/fanum-fani">fanum, fani</a> n</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/20305/fanus-fanoris">fanus, fanoris</a> n</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/20306/far-farris">far, farris</a> n</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/20307/farciatura-farciaturae">farciatura, farciaturae</a> n</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/20308/farcimen-farciminis">farcimen, farciminis</a> n</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/20309/farcio-farcire-farsi-fartus">farcio, farcire, farsi, fartus</a> v</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/20310/FARES-undeclined">FARES, undeclined</a> v</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/20311/farina-farinae">farina, farinae</a> n</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/20312/farinatus-farinata-farinatum">farinatus, farinata, farinatum</a> adj</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/20313/farinula-farinulae">farinula, farinulae</a> n</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/20314/farrago-farraginis">farrago, farraginis</a> n</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/20315/farratus-farrata-farratum">farratus, farrata, farratum</a> adj</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/20316/farreus-farrea-farreum">farreus, farrea, farreum</a> adj</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/20317/fars-fartis">fars, fartis</a> n</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/20318/farsia-farsiae">farsia, farsiae</a> n</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/20319/fas-undeclined">fas, undeclined</a> n</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/20320/fascea-fasceae">fascea, fasceae</a> n</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/20321/fascia-fasciae">fascia, fasciae</a> n</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/20322/fasciculus-fasciculi">fasciculus, fasciculi</a> n</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/20323/fascinatio-fascinationis">fascinatio, fascinationis</a> n</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/20324/fascinator-fascinatoris">fascinator, fascinatoris</a> n</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/20325/fascino-fascinare-fascinavi-fascinatus">fascino, fascinare, fascinavi, fascinatus</a> v</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/20326/fasciola-fasciolae">fasciola, fasciolae</a> n</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/20327/fascis-fascis">fascis, fascis</a> n</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/20328/fascis-fascis">fascis, fascis</a> n</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/20329/fascis-fascis">fascis, fascis</a> n</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/20330/fascismus-fascismi">fascismus, fascismi</a> n</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/20331/fascista-fascistae">fascista, fascistae</a> n</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/20332/fascisticus-fascistica-fascisticum">fascisticus, fascistica, fascisticum</a> adj</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/20333/faseolus-faseoli">faseolus, faseoli</a> n</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/20334/fasianus-fasiana-fasianum">fasianus, fasiana, fasianum</a> adj</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/20335/fastidio-fastidire-fastidivi-fastiditus">fastidio, fastidire, fastidivi, fastiditus</a> v</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/20336/fastidiosus-fastidiosa-fastidiosum">fastidiosus, fastidiosa, fastidiosum</a> adj</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/20337/fastidium-fastidi-i">fastidium, fastidi(i)</a> n</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/20338/fastigatus-fastigata-fastigatum">fastigatus, fastigata, fastigatum</a> adj</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/20339/fastigium-fastigi-i">fastigium, fastigi(i)</a> n</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/20340/fastigo-fastigare-fastigavi-fastigatus">fastigo, fastigare, fastigavi, fastigatus</a> v</li>
+          <li id="word-199" class="word"><a href="http://www.latin-dictionary.net/definition/20341/fastigo-fastigare-fastigavi-fastigatus">fastigo, fastigare, fastigavi, fastigatus</a> v</li>
+          <li id="word-200" class="word"><a href="http://www.latin-dictionary.net/definition/20342/fastosus-fastosa-fastosum">fastosus, fastosa, fastosum</a> adj</li>
+          <li id="word-201" class="word"><a href="http://www.latin-dictionary.net/definition/20343/fastuosus-fastuosa-fastuosum">fastuosus, fastuosa, fastuosum</a> adj</li>
+          <li id="word-202" class="word"><a href="http://www.latin-dictionary.net/definition/20344/fastus-fasta-fastum">fastus, fasta, fastum</a> adj</li>
+          <li id="word-203" class="word"><a href="http://www.latin-dictionary.net/definition/20345/fastus-fasti">fastus, fasti</a> n</li>
+          <li id="word-204" class="word"><a href="http://www.latin-dictionary.net/definition/20346/fastus-fasti">fastus, fasti</a> n</li>
+          <li id="word-205" class="word"><a href="http://www.latin-dictionary.net/definition/20347/fastus-fastus">fastus, fastus</a> n</li>
+          <li id="word-206" class="word"><a href="http://www.latin-dictionary.net/definition/20348/fatale-fatalis">fatale, fatalis</a> n</li>
+          <li id="word-207" class="word"><a href="http://www.latin-dictionary.net/definition/20349/fatalis-fatalis-fatale">fatalis, fatalis, fatale</a> adj</li>
+          <li id="word-208" class="word"><a href="http://www.latin-dictionary.net/definition/20350/fatalismus-fatalismi">fatalismus, fatalismi</a> n</li>
+          <li id="word-209" class="word"><a href="http://www.latin-dictionary.net/definition/20351/fataliter">fataliter</a> adv</li>
+          <li id="word-210" class="word"><a href="http://www.latin-dictionary.net/definition/20352/fateor-fateri-fassus">fateor, fateri, fassus</a> v</li>
+          <li id="word-211" class="word"><a href="http://www.latin-dictionary.net/definition/20353/faticanus-faticana-faticanum">faticanus, faticana, faticanum</a> adj</li>
+          <li id="word-212" class="word"><a href="http://www.latin-dictionary.net/definition/20354/faticinus-faticina-faticinum">faticinus, faticina, faticinum</a> adj</li>
+          <li id="word-213" class="word"><a href="http://www.latin-dictionary.net/definition/20355/fatidicus-fatidica-fatidicum">fatidicus, fatidica, fatidicum</a> adj</li>
+          <li id="word-214" class="word"><a href="http://www.latin-dictionary.net/definition/20356/fatifer-fatifera-fatiferum">fatifer, fatifera, fatiferum</a> adj</li>
+          <li id="word-215" class="word"><a href="http://www.latin-dictionary.net/definition/20357/fatigatio-fatigationis">fatigatio, fatigationis</a> n</li>
+          <li id="word-216" class="word"><a href="http://www.latin-dictionary.net/definition/20358/fatigatus-fatigata-fatigatum">fatigatus, fatigata, fatigatum</a> adj</li>
+          <li id="word-217" class="word"><a href="http://www.latin-dictionary.net/definition/20359/fatigo-fatigare-fatigavi-fatigatus">fatigo, fatigare, fatigavi, fatigatus</a> v</li>
+          <li id="word-218" class="word"><a href="http://www.latin-dictionary.net/definition/20360/fatiloqua-fatiloquae">fatiloqua, fatiloquae</a> n</li>
+          <li id="word-219" class="word"><a href="http://www.latin-dictionary.net/definition/20361/fatisco-fatiscere">fatisco, fatiscere, -, -</a> v</li>
+          <li id="word-220" class="word"><a href="http://www.latin-dictionary.net/definition/20362/fatiscor-fatisci">fatiscor, fatisci, -</a> v</li>
+          <li id="word-221" class="word"><a href="http://www.latin-dictionary.net/definition/20363/fatua-fatuae">fatua, fatuae</a> n</li>
+          <li id="word-222" class="word"><a href="http://www.latin-dictionary.net/definition/20364/fatue">fatue</a> adv</li>
+          <li id="word-223" class="word"><a href="http://www.latin-dictionary.net/definition/20365/fatuitas-fatuitatis">fatuitas, fatuitatis</a> n</li>
+          <li id="word-224" class="word"><a href="http://www.latin-dictionary.net/definition/20366/fatum-fati">fatum, fati</a> n</li>
+          <li id="word-225" class="word"><a href="http://www.latin-dictionary.net/definition/20367/fatuus-fatua-fatuum">fatuus, fatua, fatuum</a> adj</li>
+          <li id="word-226" class="word"><a href="http://www.latin-dictionary.net/definition/20368/fatuus-fatui">fatuus, fatui</a> n</li>
+          <li id="word-227" class="word"><a href="http://www.latin-dictionary.net/definition/20369/faucitas-faucitatis">faucitas, faucitatis</a> n</li>
+          <li id="word-228" class="word"><a href="http://www.latin-dictionary.net/definition/20370/fauna-faunae">fauna, faunae</a> n</li>
+          <li id="word-229" class="word"><a href="http://www.latin-dictionary.net/definition/20371/Faunus-Fauni">Faunus, Fauni</a> n</li>
+          <li id="word-230" class="word"><a href="http://www.latin-dictionary.net/definition/20372/faustus-fausta-faustum">faustus, fausta, faustum</a> adj</li>
+          <li id="word-231" class="word"><a href="http://www.latin-dictionary.net/definition/20373/fautor-fautoris">fautor, fautoris</a> n</li>
+          <li id="word-232" class="word"><a href="http://www.latin-dictionary.net/definition/20374/fautrix-fautricis">fautrix, fautricis</a> n</li>
+          <li id="word-233" class="word"><a href="http://www.latin-dictionary.net/definition/20375/faux-faucis">faux, faucis</a> n</li>
+          <li id="word-234" class="word"><a href="http://www.latin-dictionary.net/definition/20376/faveo-favere-favi-fautus">faveo, favere, favi, fautus</a> v</li>
+          <li id="word-235" class="word"><a href="http://www.latin-dictionary.net/definition/20377/favilla-favillae">favilla, favillae</a> n</li>
+          <li id="word-236" class="word"><a href="http://www.latin-dictionary.net/definition/20378/favillesco-favillescere-favillescui">favillesco, favillescere, favillescui, -</a> v</li>
+          <li id="word-237" class="word"><a href="http://www.latin-dictionary.net/definition/20379/favisor-favisoris">favisor, favisoris</a> n</li>
+          <li id="word-238" class="word"><a href="http://www.latin-dictionary.net/definition/20380/favitor-favitoris">favitor, favitoris</a> n</li>
+          <li id="word-239" class="word"><a href="http://www.latin-dictionary.net/definition/20381/favonius-favonii">favonius, favonii</a> n</li>
+          <li id="word-240" class="word"><a href="http://www.latin-dictionary.net/definition/20382/Favonius-Favonii">Favonius, Favonii</a> n</li>
+          <li id="word-241" class="word"><a href="http://www.latin-dictionary.net/definition/20383/favor-favoris">favor, favoris</a> n</li>
+          <li id="word-242" class="word"><a href="http://www.latin-dictionary.net/definition/20384/favorabilis-favorabile-favorabilior">favorabilis, favorabile, favorabilior</a> adj</li>
+          <li id="word-243" class="word"><a href="http://www.latin-dictionary.net/definition/20385/favorabiliter-favorabilius-favorabilissime">favorabiliter, favorabilius, favorabilissime</a> adv</li>
+          <li id="word-244" class="word"><a href="http://www.latin-dictionary.net/definition/20386/favus-favi">favus, favi</a> n</li>
+          <li id="word-245" class="word"><a href="http://www.latin-dictionary.net/definition/20387/fax-facis">fax, facis</a> n</li>
+          <li id="word-246" class="word"><a href="http://www.latin-dictionary.net/definition/20388/fe-undeclined">fe, undeclined</a> n</li>
+          <li id="word-247" class="word"><a href="http://www.latin-dictionary.net/definition/20389/Feb-abb">Feb., abb.</a> adj</li>
+          <li id="word-248" class="word"><a href="http://www.latin-dictionary.net/definition/20390/febricito-febricitare-febricitavi-febricitatus">febricito, febricitare, febricitavi, febricitatus</a> v</li>
+          <li id="word-249" class="word"><a href="http://www.latin-dictionary.net/definition/20391/febricula-febriculae">febricula, febriculae</a> n</li>
+          <li id="word-250" class="word"><a href="http://www.latin-dictionary.net/definition/20392/febris-febris">febris, febris</a> n</li>
+          <li id="word-251" class="word"><a href="http://www.latin-dictionary.net/definition/20393/Februarius-Februaria-Februarium">Februarius, Februaria, Februarium</a> adj</li>
+          <li id="word-252" class="word"><a href="http://www.latin-dictionary.net/definition/20394/februum-februi">februum, februi</a> n</li>
+          <li id="word-253" class="word"><a href="http://www.latin-dictionary.net/definition/20395/feclinditas-feclinditatis">feclinditas, feclinditatis</a> n</li>
+          <li id="word-254" class="word"><a href="http://www.latin-dictionary.net/definition/20396/feculentia-feculentiae">feculentia, feculentiae</a> n</li>
+          <li id="word-255" class="word"><a href="http://www.latin-dictionary.net/definition/20397/fecundatio-fecundationis">fecundatio, fecundationis</a> n</li>
+          <li id="word-256" class="word"><a href="http://www.latin-dictionary.net/definition/20398/fecunditas-fecunditatis">fecunditas, fecunditatis</a> n</li>
+          <li id="word-257" class="word"><a href="http://www.latin-dictionary.net/definition/20399/fecundo-fecundare-fecundavi-fecundatus">fecundo, fecundare, fecundavi, fecundatus</a> v</li>
+          <li id="word-258" class="word"><a href="http://www.latin-dictionary.net/definition/20400/fecundus-fecunda">fecundus, fecunda</a> adj</li>
+          <li id="word-259" class="word"><a href="http://www.latin-dictionary.net/definition/20401/feditas-feditatis">feditas, feditatis</a> n</li>
+          <li id="word-260" class="word"><a href="http://www.latin-dictionary.net/definition/20402/fedus-fedi">fedus, fedi</a> n</li>
+          <li id="word-261" class="word"><a href="http://www.latin-dictionary.net/definition/20403/fefello-fefellare-fefellavi-fefellatus">fefello, fefellare, fefellavi, fefellatus</a> v</li>
+          <li id="word-262" class="word"><a href="http://www.latin-dictionary.net/definition/20404/feficius-feficia-feficium">feficius, feficia, feficium</a> adj</li>
+          <li id="word-263" class="word"><a href="http://www.latin-dictionary.net/definition/20405/fel-fellis">fel, fellis</a> n</li>
+          <li id="word-264" class="word"><a href="http://www.latin-dictionary.net/definition/20406/fel-abb">fel., abb.</a> adj</li>
+          <li id="word-265" class="word"><a href="http://www.latin-dictionary.net/definition/20407/feles-felis">feles, felis</a> n</li>
+          <li id="word-266" class="word"><a href="http://www.latin-dictionary.net/definition/20408/felicitas-felicitatis">felicitas, felicitatis</a> n</li>
+          <li id="word-267" class="word"><a href="http://www.latin-dictionary.net/definition/20409/feliciter">feliciter</a> adv</li>
+          <li id="word-268" class="word"><a href="http://www.latin-dictionary.net/definition/20410/felio-felire-felivi-felitus">felio, felire, felivi, felitus</a> v</li>
+          <li id="word-269" class="word"><a href="http://www.latin-dictionary.net/definition/20411/felis-felis">felis, felis</a> n</li>
+          <li id="word-270" class="word"><a href="http://www.latin-dictionary.net/definition/20412/felix-felicis">felix, felicis</a> adj</li>
+          <li id="word-271" class="word"><a href="http://www.latin-dictionary.net/definition/20413/fellato-fellatare-fellatavi-fellatatus">fellato, fellatare, fellatavi, fellatatus</a> v</li>
+          <li id="word-272" class="word"><a href="http://www.latin-dictionary.net/definition/20414/fellator-fellatoris">fellator, fellatoris</a> n</li>
+          <li id="word-273" class="word"><a href="http://www.latin-dictionary.net/definition/20415/fellatrix-fellatricis">fellatrix, fellatricis</a> n</li>
+          <li id="word-274" class="word"><a href="http://www.latin-dictionary.net/definition/20416/fellico-fellicare-fellicavi-fellicatus">fellico, fellicare, fellicavi, fellicatus</a> v</li>
+          <li id="word-275" class="word"><a href="http://www.latin-dictionary.net/definition/20417/fellito-fellitare-fellitavi-fellitatus">fellito, fellitare, fellitavi, fellitatus</a> v</li>
+          <li id="word-276" class="word"><a href="http://www.latin-dictionary.net/definition/20418/fello-fellare-fellavi-fellatus">fello, fellare, fellavi, fellatus</a> v</li>
+          <li id="word-277" class="word"><a href="http://www.latin-dictionary.net/definition/20419/felo-felare-felavi-felatus">felo, felare, felavi, felatus</a> v</li>
+          <li id="word-278" class="word"><a href="http://www.latin-dictionary.net/definition/20420/felo-felonis">felo, felonis</a> n</li>
+          <li id="word-279" class="word"><a href="http://www.latin-dictionary.net/definition/20421/felonia-feloniae">felonia, feloniae</a> n</li>
+          <li id="word-280" class="word"><a href="http://www.latin-dictionary.net/definition/20422/femella-femellae">femella, femellae</a> n</li>
+          <li id="word-281" class="word"><a href="http://www.latin-dictionary.net/definition/20423/femen-feminis">femen, feminis</a> n</li>
+          <li id="word-282" class="word"><a href="http://www.latin-dictionary.net/definition/20424/femina-feminae">femina, feminae</a> n</li>
+          <li id="word-283" class="word"><a href="http://www.latin-dictionary.net/definition/20425/feminal-feminalis">feminal, feminalis</a> n</li>
+          <li id="word-284" class="word"><a href="http://www.latin-dictionary.net/definition/20426/feminalum-feminali">feminalum, feminali</a> n</li>
+          <li id="word-285" class="word"><a href="http://www.latin-dictionary.net/definition/20427/femineus-feminea-femineum">femineus, feminea, femineum</a> adj</li>
+          <li id="word-286" class="word"><a href="http://www.latin-dictionary.net/definition/20428/femininus-feminina-femininum">femininus, feminina, femininum</a> adj</li>
+          <li id="word-287" class="word"><a href="http://www.latin-dictionary.net/definition/20429/feminismus-feminismi">feminismus, feminismi</a> n</li>
+          <li id="word-288" class="word"><a href="http://www.latin-dictionary.net/definition/20430/feministria-feministriae">feministria, feministriae</a> n</li>
+          <li id="word-289" class="word"><a href="http://www.latin-dictionary.net/definition/20431/feminus-femina-feminum">feminus, femina, feminum</a> adj</li>
+          <li id="word-290" class="word"><a href="http://www.latin-dictionary.net/definition/20432/femoralum-femorali">femoralum, femorali</a> n</li>
+          <li id="word-291" class="word"><a href="http://www.latin-dictionary.net/definition/20433/femur-feminis">femur, feminis</a> n</li>
+          <li id="word-292" class="word"><a href="http://www.latin-dictionary.net/definition/20434/femur-femoris">femur, femoris</a> n</li>
+          <li id="word-293" class="word"><a href="http://www.latin-dictionary.net/definition/20435/fenero-fenerare-feneravi-feneratus">fenero, fenerare, feneravi, feneratus</a> v</li>
+          <li id="word-294" class="word"><a href="http://www.latin-dictionary.net/definition/20436/feneror-fenerari-feneratus">feneror, fenerari, feneratus</a> v</li>
+          <li id="word-295" class="word"><a href="http://www.latin-dictionary.net/definition/20437/fenestella-fenestellae">fenestella, fenestellae</a> n</li>
+          <li id="word-296" class="word"><a href="http://www.latin-dictionary.net/definition/20438/fenestra-fenestrae">fenestra, fenestrae</a> n</li>
+          <li id="word-297" class="word"><a href="http://www.latin-dictionary.net/definition/20439/feniculum-feniculi">feniculum, feniculi</a> n</li>
+          <li id="word-298" class="word"><a href="http://www.latin-dictionary.net/definition/20440/fenisecium-fenisecii">fenisecium, fenisecii</a> n</li>
+          <li id="word-299" class="word"><a href="http://www.latin-dictionary.net/definition/20441/fenisicia-fenisiciae">fenisicia, fenisiciae</a> n</li>
+          <li id="word-300" class="word"><a href="http://www.latin-dictionary.net/definition/20442/fenisicium-fenisicii">fenisicium, fenisicii</a> n</li>
+          <li id="word-301" class="word"><a href="http://www.latin-dictionary.net/definition/20443/fenum-feni">fenum, feni</a> n</li>
+          <li id="word-302" class="word"><a href="http://www.latin-dictionary.net/definition/20444/fenus-fenoris">fenus, fenoris</a> n</li>
+          <li id="word-303" class="word"><a href="http://www.latin-dictionary.net/definition/20445/feodalis-feodalis">feodalis, feodalis</a> n</li>
+          <li id="word-304" class="word"><a href="http://www.latin-dictionary.net/definition/20446/feoffamentum-feoffamenti">feoffamentum, feoffamenti</a> n</li>
+          <li id="word-305" class="word"><a href="http://www.latin-dictionary.net/definition/20447/feoffator-feoffatoris">feoffator, feoffatoris</a> n</li>
+          <li id="word-306" class="word"><a href="http://www.latin-dictionary.net/definition/20448/feoffatus-feoffati">feoffatus, feoffati</a> n</li>
+          <li id="word-307" class="word"><a href="http://www.latin-dictionary.net/definition/20449/feoffo-feoffare-feoffavi-feoffatus">feoffo, feoffare, feoffavi, feoffatus</a> v</li>
+          <li id="word-308" class="word"><a href="http://www.latin-dictionary.net/definition/20450/fer-abb">fer., abb.</a> n</li>
+          <li id="word-309" class="word"><a href="http://www.latin-dictionary.net/definition/20451/fera-ferae">fera, ferae</a> n</li>
+          <li id="word-310" class="word"><a href="http://www.latin-dictionary.net/definition/20452/Ferale-Feralis">Ferale, Feralis</a> n</li>
+          <li id="word-311" class="word"><a href="http://www.latin-dictionary.net/definition/20453/feralis-feralis-ferale">feralis, feralis, ferale</a> adj</li>
+          <li id="word-312" class="word"><a href="http://www.latin-dictionary.net/definition/20454/feraliter">feraliter</a> adv</li>
+          <li id="word-313" class="word"><a href="http://www.latin-dictionary.net/definition/20455/feramentus-feramenta-feramentum">feramentus, feramenta, feramentum</a> adj</li>
+          <li id="word-314" class="word"><a href="http://www.latin-dictionary.net/definition/20456/ferax-feracis">ferax, feracis</a> adj</li>
+          <li id="word-315" class="word"><a href="http://www.latin-dictionary.net/definition/20457/ferctum-fercti">ferctum, fercti</a> n</li>
+          <li id="word-316" class="word"><a href="http://www.latin-dictionary.net/definition/20458/fercuium-fercui-i">fercuium, fercui(i)</a> n</li>
+          <li id="word-317" class="word"><a href="http://www.latin-dictionary.net/definition/20459/ferculum-ferculi">ferculum, ferculi</a> n</li>
+          <li id="word-318" class="word"><a href="http://www.latin-dictionary.net/definition/20460/fere">fere</a> adv</li>
+          <li id="word-319" class="word"><a href="http://www.latin-dictionary.net/definition/20461/ferentarius-ferentari-i">ferentarius, ferentari(i)</a> n</li>
+          <li id="word-320" class="word"><a href="http://www.latin-dictionary.net/definition/20462/feretrum-feretri">feretrum, feretri</a> n</li>
+          <li id="word-321" class="word"><a href="http://www.latin-dictionary.net/definition/20463/feria-feriae">feria, feriae</a> n</li>
+          <li id="word-322" class="word"><a href="http://www.latin-dictionary.net/definition/20464/feria-feriae">feria, feriae</a> n</li>
+          <li id="word-323" class="word"><a href="http://www.latin-dictionary.net/definition/20465/ferialis-ferialis-feriale">ferialis, ferialis, feriale</a> adj</li>
+          <li id="word-324" class="word"><a href="http://www.latin-dictionary.net/definition/20466/feriatio-feriationis">feriatio, feriationis</a> n</li>
+          <li id="word-325" class="word"><a href="http://www.latin-dictionary.net/definition/20467/feriatus-feriata-feriatum">feriatus, feriata, feriatum</a> adj</li>
+          <li id="word-326" class="word"><a href="http://www.latin-dictionary.net/definition/20468/feriatus-feriati">feriatus, feriati</a> n</li>
+          <li id="word-327" class="word"><a href="http://www.latin-dictionary.net/definition/20469/fericulum-fericuli">fericulum, fericuli</a> n</li>
+          <li id="word-328" class="word"><a href="http://www.latin-dictionary.net/definition/20470/ferina-ferinae">ferina, ferinae</a> n</li>
+          <li id="word-329" class="word"><a href="http://www.latin-dictionary.net/definition/20471/ferinus-ferina-ferinum">ferinus, ferina, ferinum</a> adj</li>
+          <li id="word-330" class="word"><a href="http://www.latin-dictionary.net/definition/20472/ferio-feriare-feriavi-feriatus">ferio, feriare, feriavi, feriatus</a> v</li>
+          <li id="word-331" class="word"><a href="http://www.latin-dictionary.net/definition/20473/ferio-ferire">ferio, ferire, -, -</a> v</li>
+          <li id="word-332" class="word"><a href="http://www.latin-dictionary.net/definition/20474/ferior-feriari-feriatus">ferior, feriari, feriatus</a> v</li>
+          <li id="word-333" class="word"><a href="http://www.latin-dictionary.net/definition/20475/feritas-feritatis">feritas, feritatis</a> n</li>
+          <li id="word-334" class="word"><a href="http://www.latin-dictionary.net/definition/20476/ferito-feritare-feritavi-feritatus">ferito, feritare, feritavi, feritatus</a> v</li>
+          <li id="word-335" class="word"><a href="http://www.latin-dictionary.net/definition/20477/ferme">ferme</a> adv</li>
+          <li id="word-336" class="word"><a href="http://www.latin-dictionary.net/definition/20478/fermentaceus-fermentacei">fermentaceus, fermentacei</a> n</li>
+          <li id="word-337" class="word"><a href="http://www.latin-dictionary.net/definition/20479/fermentatus-fermentata-fermentatum">fermentatus, fermentata, fermentatum</a> adj</li>
+          <li id="word-338" class="word"><a href="http://www.latin-dictionary.net/definition/20480/fermento-fermentare-fermentavi-fermentatus">fermento, fermentare, fermentavi, fermentatus</a> v</li>
+          <li id="word-339" class="word"><a href="http://www.latin-dictionary.net/definition/20481/fermentum-fermenti">fermentum, fermenti</a> n</li>
+          <li id="word-340" class="word"><a href="http://www.latin-dictionary.net/definition/20482/fero-ferre-tuli-latus">fero, ferre, tuli, latus</a> v</li>
+          <li id="word-341" class="word"><a href="http://www.latin-dictionary.net/definition/20483/ferocia-ferociae">ferocia, ferociae</a> n</li>
+          <li id="word-342" class="word"><a href="http://www.latin-dictionary.net/definition/20484/ferocio-ferocire">ferocio, ferocire, -, -</a> v</li>
+          <li id="word-343" class="word"><a href="http://www.latin-dictionary.net/definition/20485/ferocitas-ferocitatis">ferocitas, ferocitatis</a> n</li>
+          <li id="word-344" class="word"><a href="http://www.latin-dictionary.net/definition/20486/ferociter-ferocius-ferocissime">ferociter, ferocius, ferocissime</a> adv</li>
+          <li id="word-345" class="word"><a href="http://www.latin-dictionary.net/definition/20487/ferox-gen-ferocis">ferox, (gen.), ferocis</a> adj</li>
+          <li id="word-346" class="word"><a href="http://www.latin-dictionary.net/definition/20488/ferraiola-ferraiolae">ferraiola, ferraiolae</a> n</li>
+          <li id="word-347" class="word"><a href="http://www.latin-dictionary.net/definition/20489/ferramentum-ferramenti">ferramentum, ferramenti</a> n</li>
+          <li id="word-348" class="word"><a href="http://www.latin-dictionary.net/definition/20490/ferraria-ferrariae">ferraria, ferrariae</a> n</li>
+          <li id="word-349" class="word"><a href="http://www.latin-dictionary.net/definition/20491/ferrarius-ferraria-ferrarium">ferrarius, ferraria, ferrarium</a> adj</li>
+          <li id="word-350" class="word"><a href="http://www.latin-dictionary.net/definition/20492/ferrarius-ferrarii">ferrarius, ferrarii</a> n</li>
+          <li id="word-351" class="word"><a href="http://www.latin-dictionary.net/definition/20493/ferratilis-ferratilis-ferratile">ferratilis, ferratilis, ferratile</a> adj</li>
+          <li id="word-352" class="word"><a href="http://www.latin-dictionary.net/definition/20494/ferratus-ferrata-ferratum">ferratus, ferrata, ferratum</a> adj</li>
+          <li id="word-353" class="word"><a href="http://www.latin-dictionary.net/definition/20495/ferratus-ferrati">ferratus, ferrati</a> n</li>
+          <li id="word-354" class="word"><a href="http://www.latin-dictionary.net/definition/20496/ferraus-ferraa-ferraum">ferraus, ferraa, ferraum</a> adj</li>
+          <li id="word-355" class="word"><a href="http://www.latin-dictionary.net/definition/20497/ferreus-ferrea-ferreum">ferreus, ferrea, ferreum</a> adj</li>
+          <li id="word-356" class="word"><a href="http://www.latin-dictionary.net/definition/20498/ferrivia-ferriviae">ferrivia, ferriviae</a> n</li>
+          <li id="word-357" class="word"><a href="http://www.latin-dictionary.net/definition/20499/ferriviarius-ferriviaria-ferriviarium">ferriviarius, ferriviaria, ferriviarium</a> adj</li>
+          <li id="word-358" class="word"><a href="http://www.latin-dictionary.net/definition/20500/ferrogriseus-ferrogrisea-ferrogriseum">ferrogriseus, ferrogrisea, ferrogriseum</a> adj</li>
+          <li id="word-359" class="word"><a href="http://www.latin-dictionary.net/definition/20501/ferrous-ferroa-ferroum">ferrous, ferroa, ferroum</a> adj</li>
+          <li id="word-360" class="word"><a href="http://www.latin-dictionary.net/definition/20502/ferrugineus-ferruginea-ferrugineum">ferrugineus, ferruginea, ferrugineum</a> adj</li>
+          <li id="word-361" class="word"><a href="http://www.latin-dictionary.net/definition/20503/ferruginus-ferrugina-ferruginum">ferruginus, ferrugina, ferruginum</a> adj</li>
+          <li id="word-362" class="word"><a href="http://www.latin-dictionary.net/definition/20504/ferrugo-ferruginis">ferrugo, ferruginis</a> n</li>
+          <li id="word-363" class="word"><a href="http://www.latin-dictionary.net/definition/20505/ferrum-ferri">ferrum, ferri</a> n</li>
+          <li id="word-364" class="word"><a href="http://www.latin-dictionary.net/definition/20506/ferrumen-ferruminis">ferrumen, ferruminis</a> n</li>
+          <li id="word-365" class="word"><a href="http://www.latin-dictionary.net/definition/20507/ferrumino-ferruminare-ferruminavi-ferruminatus">ferrumino, ferruminare, ferruminavi, ferruminatus</a> v</li>
+          <li id="word-366" class="word"><a href="http://www.latin-dictionary.net/definition/20508/fertilis-fertile-fertilior">fertilis, fertile, fertilior</a> adj</li>
+          <li id="word-367" class="word"><a href="http://www.latin-dictionary.net/definition/20509/fertilisatio-fertilisationis">fertilisatio, fertilisationis</a> n</li>
+          <li id="word-368" class="word"><a href="http://www.latin-dictionary.net/definition/20510/fertilitas-fertilitatis">fertilitas, fertilitatis</a> n</li>
+          <li id="word-369" class="word"><a href="http://www.latin-dictionary.net/definition/20511/fertum-ferti">fertum, ferti</a> n</li>
+          <li id="word-370" class="word"><a href="http://www.latin-dictionary.net/definition/20512/ferula-ferulae">ferula, ferulae</a> n</li>
+          <li id="word-371" class="word"><a href="http://www.latin-dictionary.net/definition/20513/ferumino-feruminare-feruminavi-feruminatus">ferumino, feruminare, feruminavi, feruminatus</a> v</li>
+          <li id="word-372" class="word"><a href="http://www.latin-dictionary.net/definition/20514/ferus-fera-ferum">ferus, fera, ferum</a> adj</li>
+          <li id="word-373" class="word"><a href="http://www.latin-dictionary.net/definition/20515/ferus-feri">ferus, feri</a> n</li>
+          <li id="word-374" class="word"><a href="http://www.latin-dictionary.net/definition/20516/fervefacio-fervefacere-fervefeci-fervefactus">fervefacio, fervefacere, fervefeci, fervefactus</a> v</li>
+          <li id="word-375" class="word"><a href="http://www.latin-dictionary.net/definition/20517/fervens-gen-ferventis">fervens, (gen.), ferventis</a> adj</li>
+          <li id="word-376" class="word"><a href="http://www.latin-dictionary.net/definition/20518/ferveo-fervere-ferbui">ferveo, fervere, ferbui, -</a> v</li>
+          <li id="word-377" class="word"><a href="http://www.latin-dictionary.net/definition/20519/ferveo-fervere-ferbui">ferveo, fervere, ferbui, -</a> v</li>
+          <li id="word-378" class="word"><a href="http://www.latin-dictionary.net/definition/20520/fervesco-fervescere">fervesco, fervescere, -, -</a> v</li>
+          <li id="word-379" class="word"><a href="http://www.latin-dictionary.net/definition/20521/fervidus-fervida-fervidum">fervidus, fervida, fervidum</a> adj</li>
+          <li id="word-380" class="word"><a href="http://www.latin-dictionary.net/definition/20522/fervo-fervere-fervi">fervo, fervere, fervi, -</a> v</li>
+          <li id="word-381" class="word"><a href="http://www.latin-dictionary.net/definition/20523/fervo-fervere-fervi">fervo, fervere, fervi, -</a> v</li>
+          <li id="word-382" class="word"><a href="http://www.latin-dictionary.net/definition/20524/fervor-fervoris">fervor, fervoris</a> n</li>
+          <li id="word-383" class="word"><a href="http://www.latin-dictionary.net/definition/20525/fessus-fessa-fessum">fessus, fessa, fessum</a> adj</li>
+          <li id="word-384" class="word"><a href="http://www.latin-dictionary.net/definition/20526/festinanter-festinantius-festinissime">festinanter, festinantius, festinissime</a> adv</li>
+          <li id="word-385" class="word"><a href="http://www.latin-dictionary.net/definition/20527/festinantia-festinantiae">festinantia, festinantiae</a> n</li>
+          <li id="word-386" class="word"><a href="http://www.latin-dictionary.net/definition/20528/festinatim">festinatim</a> adv</li>
+          <li id="word-387" class="word"><a href="http://www.latin-dictionary.net/definition/20529/festinatio-festinationis">festinatio, festinationis</a> n</li>
+          <li id="word-388" class="word"><a href="http://www.latin-dictionary.net/definition/20530/festinato-festinatius-festinatissime">festinato, festinatius, festinatissime</a> adv</li>
+          <li id="word-389" class="word"><a href="http://www.latin-dictionary.net/definition/20531/festino-festinare-festinavi-festinatus">festino, festinare, festinavi, festinatus</a> v</li>
+          <li id="word-390" class="word"><a href="http://www.latin-dictionary.net/definition/20532/festinus-festina-festinum">festinus, festina, festinum</a> adj</li>
+          <li id="word-391" class="word"><a href="http://www.latin-dictionary.net/definition/20533/festive-festivius-festivissime">festive, festivius, festivissime</a> adv</li>
+          <li id="word-392" class="word"><a href="http://www.latin-dictionary.net/definition/20534/festivitas-festivitatis">festivitas, festivitatis</a> n</li>
+          <li id="word-393" class="word"><a href="http://www.latin-dictionary.net/definition/20535/festiviter">festiviter</a> adv</li>
+          <li id="word-394" class="word"><a href="http://www.latin-dictionary.net/definition/20536/festivus-festiva">festivus, festiva</a> adj</li>
+          <li id="word-395" class="word"><a href="http://www.latin-dictionary.net/definition/20537/festuca-festucae">festuca, festucae</a> n</li>
+          <li id="word-396" class="word"><a href="http://www.latin-dictionary.net/definition/20538/festucula-festuculae">festucula, festuculae</a> n</li>
+          <li id="word-397" class="word"><a href="http://www.latin-dictionary.net/definition/20539/festum-festi">festum, festi</a> n</li>
+          <li id="word-398" class="word"><a href="http://www.latin-dictionary.net/definition/20540/festus-festa-festum">festus, festa, festum</a> adj</li>
+          <li id="word-399" class="word"><a href="http://www.latin-dictionary.net/definition/20541/feteo-fetere">feteo, fetere, -, -</a> v</li>
+          <li id="word-400" class="word"><a href="http://www.latin-dictionary.net/definition/20542/fetialis-fetialis">fetialis, fetialis</a> n</li>
+          <li id="word-401" class="word"><a href="http://www.latin-dictionary.net/definition/20543/fetialis-fetialis-fetiale">fetialis, fetialis, fetiale</a> adj</li>
+          <li id="word-402" class="word"><a href="http://www.latin-dictionary.net/definition/20544/fetidus-fetida-fetidum">fetidus, fetida, fetidum</a> adj</li>
+          <li id="word-403" class="word"><a href="http://www.latin-dictionary.net/definition/20545/fetifer-fetifera-fetiferum">fetifer, fetifera, fetiferum</a> adj</li>
+          <li id="word-404" class="word"><a href="http://www.latin-dictionary.net/definition/20546/fetifico-fetificare-fetificavi-fetificatus">fetifico, fetificare, fetificavi, fetificatus</a> v</li>
+          <li id="word-405" class="word"><a href="http://www.latin-dictionary.net/definition/20547/fetificus-fetifica-fetificum">fetificus, fetifica, fetificum</a> adj</li>
+          <li id="word-406" class="word"><a href="http://www.latin-dictionary.net/definition/20548/feto-fetare-fetavi-fetatus">feto, fetare, fetavi, fetatus</a> v</li>
+          <li id="word-407" class="word"><a href="http://www.latin-dictionary.net/definition/20549/fetor-fetoris">fetor, fetoris</a> n</li>
+          <li id="word-408" class="word"><a href="http://www.latin-dictionary.net/definition/20550/fetosus-fetosa-fetosum">fetosus, fetosa, fetosum</a> adj</li>
+          <li id="word-409" class="word"><a href="http://www.latin-dictionary.net/definition/20551/fetulentus-fetulenta-fetulentum">fetulentus, fetulenta, fetulentum</a> adj</li>
+          <li id="word-410" class="word"><a href="http://www.latin-dictionary.net/definition/20552/fetuosus-fetuosa-fetuosum">fetuosus, fetuosa, fetuosum</a> adj</li>
+          <li id="word-411" class="word"><a href="http://www.latin-dictionary.net/definition/20553/fetura-feturae">fetura, feturae</a> n</li>
+          <li id="word-412" class="word"><a href="http://www.latin-dictionary.net/definition/20554/fetura-feturae">fetura, feturae</a> n</li>
+          <li id="word-413" class="word"><a href="http://www.latin-dictionary.net/definition/20555/feturatus-feturata-feturatum">feturatus, feturata, feturatum</a> adj</li>
+          <li id="word-414" class="word"><a href="http://www.latin-dictionary.net/definition/20556/fetus-feta-fetum">fetus, feta, fetum</a> adj</li>
+          <li id="word-415" class="word"><a href="http://www.latin-dictionary.net/definition/20557/fetus-feta-fetum">fetus, feta, fetum</a> adj</li>
+          <li id="word-416" class="word"><a href="http://www.latin-dictionary.net/definition/20558/fetus-fetus">fetus, fetus</a> n</li>
+          <li id="word-417" class="word"><a href="http://www.latin-dictionary.net/definition/20559/fetus-fetus">fetus, fetus</a> n</li>
+          <li id="word-418" class="word"><a href="http://www.latin-dictionary.net/definition/20560/fetus-fetus">fetus, fetus</a> n</li>
+          <li id="word-419" class="word"><a href="http://www.latin-dictionary.net/definition/20561/fetus-fetus">fetus, fetus</a> n</li>
+          <li id="word-420" class="word"><a href="http://www.latin-dictionary.net/definition/20562/fetutina-fetutinae">fetutina, fetutinae</a> n</li>
+          <li id="word-421" class="word"><a href="http://www.latin-dictionary.net/definition/20563/feudum-feudi">feudum, feudi</a> n</li>
+          <li id="word-422" class="word"><a href="http://www.latin-dictionary.net/definition/20564/fiala-fialae">fiala, fialae</a> n</li>
+          <li id="word-423" class="word"><a href="http://www.latin-dictionary.net/definition/20565/fiber-fibri">fiber, fibri</a> n</li>
+          <li id="word-424" class="word"><a href="http://www.latin-dictionary.net/definition/20566/fibiculaa-fibiculaae">fibiculaa, fibiculaae</a> n</li>
+          <li id="word-425" class="word"><a href="http://www.latin-dictionary.net/definition/20567/fibra-fibrae">fibra, fibrae</a> n</li>
+          <li id="word-426" class="word"><a href="http://www.latin-dictionary.net/definition/20568/fibroma-fibromatis">fibroma, fibromatis</a> n</li>
+          <li id="word-427" class="word"><a href="http://www.latin-dictionary.net/definition/20569/fibula-fibulae">fibula, fibulae</a> n</li>
+          <li id="word-428" class="word"><a href="http://www.latin-dictionary.net/definition/20570/fibulo-fibulare-fibulavi-fibulatus">fibulo, fibulare, fibulavi, fibulatus</a> v</li>
+          <li id="word-429" class="word"><a href="http://www.latin-dictionary.net/definition/20571/ficatum-ficati">ficatum, ficati</a> n</li>
+          <li id="word-430" class="word"><a href="http://www.latin-dictionary.net/definition/20572/ficedula-ficedulae">ficedula, ficedulae</a> n</li>
+          <li id="word-431" class="word"><a href="http://www.latin-dictionary.net/definition/20573/ficetum-ficeti">ficetum, ficeti</a> n</li>
+          <li id="word-432" class="word"><a href="http://www.latin-dictionary.net/definition/20574/ficte">ficte</a> adv</li>
+          <li id="word-433" class="word"><a href="http://www.latin-dictionary.net/definition/20575/fictice">fictice</a> adv</li>
+          <li id="word-434" class="word"><a href="http://www.latin-dictionary.net/definition/20576/ficticius-ficticia-ficticium">ficticius, ficticia, ficticium</a> adj</li>
+          <li id="word-435" class="word"><a href="http://www.latin-dictionary.net/definition/20577/fictile-fictilis">fictile, fictilis</a> n</li>
+          <li id="word-436" class="word"><a href="http://www.latin-dictionary.net/definition/20578/fictilis-fictilis-fictile">fictilis, fictilis, fictile</a> adj</li>
+          <li id="word-437" class="word"><a href="http://www.latin-dictionary.net/definition/20579/fictio-fictionis">fictio, fictionis</a> n</li>
+          <li id="word-438" class="word"><a href="http://www.latin-dictionary.net/definition/20580/fictitius-fictitia-fictitium">fictitius, fictitia, fictitium</a> adj</li>
+          <li id="word-439" class="word"><a href="http://www.latin-dictionary.net/definition/20581/fictor-fictoris">fictor, fictoris</a> n</li>
+          <li id="word-440" class="word"><a href="http://www.latin-dictionary.net/definition/20582/fictus-ficta-fictum">fictus, ficta, fictum</a> adj</li>
+          <li id="word-441" class="word"><a href="http://www.latin-dictionary.net/definition/20583/ficulneus-ficulnea-ficulneum">ficulneus, ficulnea, ficulneum</a> adj</li>
+          <li id="word-442" class="word"><a href="http://www.latin-dictionary.net/definition/20584/ficulnus-ficulna-ficulnum">ficulnus, ficulna, ficulnum</a> adj</li>
+          <li id="word-443" class="word"><a href="http://www.latin-dictionary.net/definition/20585/ficus-fici">ficus, fici</a> n</li>
+          <li id="word-444" class="word"><a href="http://www.latin-dictionary.net/definition/20586/ficus-ficus">ficus, ficus</a> n</li>
+          <li id="word-445" class="word"><a href="http://www.latin-dictionary.net/definition/20587/fideicommissarius-fideicommissari-i">fideicommissarius, fideicommissari(i)</a> n</li>
+          <li id="word-446" class="word"><a href="http://www.latin-dictionary.net/definition/20588/fideicommissarius-fideicommissaria-fideicommissarium">fideicommissarius, fideicommissaria, fideicommissarium</a> adj</li>
+          <li id="word-447" class="word"><a href="http://www.latin-dictionary.net/definition/20589/fideicommissum-fideicommissi">fideicommissum, fideicommissi</a> n</li>
+          <li id="word-448" class="word"><a href="http://www.latin-dictionary.net/definition/20590/fideicommissus-fideicommissa-fideicommissum">fideicommissus, fideicommissa, fideicommissum</a> adj</li>
+          <li id="word-449" class="word"><a href="http://www.latin-dictionary.net/definition/20591/fideicommitto-fideicommittere-fideicommisi-fideicommissus">fideicommitto, fideicommittere, fideicommisi, fideicommissus</a> v</li>
+          <li id="word-450" class="word"><a href="http://www.latin-dictionary.net/definition/20592/fideiubeo-fideiubere-fideiussi-fideiussus">fideiubeo, fideiubere, fideiussi, fideiussus</a> v</li>
+          <li id="word-451" class="word"><a href="http://www.latin-dictionary.net/definition/20593/fideiussor-fideiussoris">fideiussor, fideiussoris</a> n</li>
+          <li id="word-452" class="word"><a href="http://www.latin-dictionary.net/definition/20594/fidejussorius-fidejussoria-fidejussorium">fidejussorius, fidejussoria, fidejussorium</a> adj</li>
+          <li id="word-453" class="word"><a href="http://www.latin-dictionary.net/definition/20595/fidelia-fideliae">fidelia, fideliae</a> n</li>
+          <li id="word-454" class="word"><a href="http://www.latin-dictionary.net/definition/20596/fidelis-fidele-fidelior">fidelis, fidele, fidelior</a> adj</li>
+          <li id="word-455" class="word"><a href="http://www.latin-dictionary.net/definition/20597/fidelitas-fidelitatis">fidelitas, fidelitatis</a> n</li>
+          <li id="word-456" class="word"><a href="http://www.latin-dictionary.net/definition/20598/fideliter-fidelius-fidelissime">fideliter, fidelius, fidelissime</a> adv</li>
+          <li id="word-457" class="word"><a href="http://www.latin-dictionary.net/definition/20599/fideliter-fidelius-fidelissime">fideliter, fidelius, fidelissime</a> adv</li>
+          <li id="word-458" class="word"><a href="http://www.latin-dictionary.net/definition/20600/fidens-gen-fidentis">fidens, (gen.), fidentis</a> adj</li>
+          <li id="word-459" class="word"><a href="http://www.latin-dictionary.net/definition/20601/fides-fidei">fides, fidei</a> n</li>
+          <li id="word-460" class="word"><a href="http://www.latin-dictionary.net/definition/20602/fides-fidis">fides, fidis</a> n</li>
+          <li id="word-461" class="word"><a href="http://www.latin-dictionary.net/definition/20603/fidicen-fidicinis">fidicen, fidicinis</a> n</li>
+          <li id="word-462" class="word"><a href="http://www.latin-dictionary.net/definition/20604/fidicina-fidicinae">fidicina, fidicinae</a> n</li>
+          <li id="word-463" class="word"><a href="http://www.latin-dictionary.net/definition/20605/fidicinus-fidicina-fidicinum">fidicinus, fidicina, fidicinum</a> adj</li>
+          <li id="word-464" class="word"><a href="http://www.latin-dictionary.net/definition/20606/fidicula-fidiculae">fidicula, fidiculae</a> n</li>
+          <li id="word-465" class="word"><a href="http://www.latin-dictionary.net/definition/20607/fidis-fidis">fidis, fidis</a> n</li>
+          <li id="word-466" class="word"><a href="http://www.latin-dictionary.net/definition/20608/fido-fidere-fisus">fido, fidere, fisus</a> v</li>
+          <li id="word-467" class="word"><a href="http://www.latin-dictionary.net/definition/20609/fiducia-fiduciae">fiducia, fiduciae</a> n</li>
+          <li id="word-468" class="word"><a href="http://www.latin-dictionary.net/definition/20610/fiducialiter-fiducialius-fiducialissime">fiducialiter, fiducialius, fiducialissime</a> adv</li>
+          <li id="word-469" class="word"><a href="http://www.latin-dictionary.net/definition/20611/fiduciarius-fiduciaria-fiduciarium">fiduciarius, fiduciaria, fiduciarium</a> adj</li>
+          <li id="word-470" class="word"><a href="http://www.latin-dictionary.net/definition/20612/fidus-fida-fidum">fidus, fida, fidum</a> adj</li>
+          <li id="word-471" class="word"><a href="http://www.latin-dictionary.net/definition/20613/figilina-figilinae">figilina, figilinae</a> n</li>
+          <li id="word-472" class="word"><a href="http://www.latin-dictionary.net/definition/20614/figlina-figlinae">figlina, figlinae</a> n</li>
+          <li id="word-473" class="word"><a href="http://www.latin-dictionary.net/definition/20615/figmentum-figmenti">figmentum, figmenti</a> n</li>
+          <li id="word-474" class="word"><a href="http://www.latin-dictionary.net/definition/20616/figo-figere-fixi-fixus">figo, figere, fixi, fixus</a> v</li>
+          <li id="word-475" class="word"><a href="http://www.latin-dictionary.net/definition/20617/figulina-figulinae">figulina, figulinae</a> n</li>
+          <li id="word-476" class="word"><a href="http://www.latin-dictionary.net/definition/20618/figulus-figuli">figulus, figuli</a> n</li>
+          <li id="word-477" class="word"><a href="http://www.latin-dictionary.net/definition/20619/figura-figurae">figura, figurae</a> n</li>
+          <li id="word-478" class="word"><a href="http://www.latin-dictionary.net/definition/20620/figuraliter">figuraliter</a> adv</li>
+          <li id="word-479" class="word"><a href="http://www.latin-dictionary.net/definition/20621/figuratio-figurationis">figuratio, figurationis</a> n</li>
+          <li id="word-480" class="word"><a href="http://www.latin-dictionary.net/definition/20622/figuro-figurare-figuravi-figuratus">figuro, figurare, figuravi, figuratus</a> v</li>
+          <li id="word-481" class="word"><a href="http://www.latin-dictionary.net/definition/20623/filetum-fileti">filetum, fileti</a> n</li>
+          <li id="word-482" class="word"><a href="http://www.latin-dictionary.net/definition/20624/filia-filiae">filia, filiae</a> n</li>
+          <li id="word-483" class="word"><a href="http://www.latin-dictionary.net/definition/20625/filiatio-filiationis">filiatio, filiationis</a> n</li>
+          <li id="word-484" class="word"><a href="http://www.latin-dictionary.net/definition/20626/filicatus-filicata-filicatum">filicatus, filicata, filicatum</a> adj</li>
+          <li id="word-485" class="word"><a href="http://www.latin-dictionary.net/definition/20627/filiformis-filiformis-filiforme">filiformis, filiformis, filiforme</a> adj</li>
+          <li id="word-486" class="word"><a href="http://www.latin-dictionary.net/definition/20628/filiola-filiolae">filiola, filiolae</a> n</li>
+          <li id="word-487" class="word"><a href="http://www.latin-dictionary.net/definition/20629/filiolus-filioli">filiolus, filioli</a> n</li>
+          <li id="word-488" class="word"><a href="http://www.latin-dictionary.net/definition/20630/filius-fili">filius, fili</a> n</li>
+          <li id="word-489" class="word"><a href="http://www.latin-dictionary.net/definition/20631/filix-filicis">filix, filicis</a> n</li>
+          <li id="word-490" class="word"><a href="http://www.latin-dictionary.net/definition/20632/filtrum-filtri">filtrum, filtri</a> n</li>
+          <li id="word-491" class="word"><a href="http://www.latin-dictionary.net/definition/20633/filum-fili">filum, fili</a> n</li>
+          <li id="word-492" class="word"><a href="http://www.latin-dictionary.net/definition/20634/fimbria-fimbriae">fimbria, fimbriae</a> n</li>
+          <li id="word-493" class="word"><a href="http://www.latin-dictionary.net/definition/20635/fimbriatus-fimbriata-fimbriatum">fimbriatus, fimbriata, fimbriatum</a> adj</li>
+          <li id="word-494" class="word"><a href="http://www.latin-dictionary.net/definition/20636/fimum-fimi">fimum, fimi</a> n</li>
+          <li id="word-495" class="word"><a href="http://www.latin-dictionary.net/definition/20637/fimus-fimi">fimus, fimi</a> n</li>
+          <li id="word-496" class="word"><a href="http://www.latin-dictionary.net/definition/20638/finalis-finalis-finale">finalis, finalis, finale</a> adj</li>
+          <li id="word-497" class="word"><a href="http://www.latin-dictionary.net/definition/20639/finalitas-finalitatis">finalitas, finalitatis</a> n</li>
+          <li id="word-498" class="word"><a href="http://www.latin-dictionary.net/definition/20640/finaliter">finaliter</a> adv</li>
+          <li id="word-499" class="word"><a href="http://www.latin-dictionary.net/definition/20641/finalus-finala-finalum">finalus, finala, finalum</a> adj</li>
+          <li id="word-500" class="word"><a href="http://www.latin-dictionary.net/definition/20642/finctus-fincta-finctum">finctus, fincta, finctum</a> adj</li>
+          <li id="word-501" class="word"><a href="http://www.latin-dictionary.net/definition/20643/findo-findere-fidi-fissus">findo, findere, fidi, fissus</a> v</li>
+          <li id="word-502" class="word"><a href="http://www.latin-dictionary.net/definition/20644/fine">fine</a> prep</li>
+          <li id="word-503" class="word"><a href="http://www.latin-dictionary.net/definition/20645/fingo-fingere-finxi-fictus">fingo, fingere, finxi, fictus</a> v</li>
+          <li id="word-504" class="word"><a href="http://www.latin-dictionary.net/definition/20646/fingo-fingere-finxi-fictus">fingo, fingere, finxi, fictus</a> v</li>
+          <li id="word-505" class="word"><a href="http://www.latin-dictionary.net/definition/20647/fingo-fingere-finxi-fictus">fingo, fingere, finxi, fictus</a> v</li>
+          <li id="word-506" class="word"><a href="http://www.latin-dictionary.net/definition/20648/fingo-fingere-fixi-finctus">fingo, fingere, fixi, finctus</a> v</li>
+          <li id="word-507" class="word"><a href="http://www.latin-dictionary.net/definition/20649/fingo-fingere-fixi-finctus">fingo, fingere, fixi, finctus</a> v</li>
+          <li id="word-508" class="word"><a href="http://www.latin-dictionary.net/definition/20650/fingo-fingere-fixi-finctus">fingo, fingere, fixi, finctus</a> v</li>
+          <li id="word-509" class="word"><a href="http://www.latin-dictionary.net/definition/20651/fini">fini</a> prep</li>
+          <li id="word-510" class="word"><a href="http://www.latin-dictionary.net/definition/20652/finio-finire-finivi-finitus">finio, finire, finivi, finitus</a> v</li>
+          <li id="word-511" class="word"><a href="http://www.latin-dictionary.net/definition/20653/finis-finis">finis, finis</a> n</li>
+          <li id="word-512" class="word"><a href="http://www.latin-dictionary.net/definition/20654/finitimus-finitima-finitimum">finitimus, finitima, finitimum</a> adj</li>
+          <li id="word-513" class="word"><a href="http://www.latin-dictionary.net/definition/20655/finitimus-finitimi">finitimus, finitimi</a> n</li>
+          <li id="word-514" class="word"><a href="http://www.latin-dictionary.net/definition/20656/finitio-finitionis">finitio, finitionis</a> n</li>
+          <li id="word-515" class="word"><a href="http://www.latin-dictionary.net/definition/20657/finitio-finitionis">finitio, finitionis</a> n</li>
+          <li id="word-516" class="word"><a href="http://www.latin-dictionary.net/definition/20658/finitumus-finituma-finitumum">finitumus, finituma, finitumum</a> adj</li>
+          <li id="word-517" class="word"><a href="http://www.latin-dictionary.net/definition/20659/fio-feri-factus">fio, feri, factus</a> v</li>
+          <li id="word-518" class="word"><a href="http://www.latin-dictionary.net/definition/20660/fio-feri-factus">fio, feri, factus</a> v</li>
+          <li id="word-519" class="word"><a href="http://www.latin-dictionary.net/definition/20661/fio-feri-factus">fio, feri, factus</a> v</li>
+          <li id="word-520" class="word"><a href="http://www.latin-dictionary.net/definition/20662/firmaculum-firmaculi">firmaculum, firmaculi</a> n</li>
+          <li id="word-521" class="word"><a href="http://www.latin-dictionary.net/definition/20663/firmale-firmalis">firmale, firmalis</a> n</li>
+          <li id="word-522" class="word"><a href="http://www.latin-dictionary.net/definition/20664/firmamen-firmaminis">firmamen, firmaminis</a> n</li>
+          <li id="word-523" class="word"><a href="http://www.latin-dictionary.net/definition/20665/firmamentum-firmamenti">firmamentum, firmamenti</a> n</li>
+          <li id="word-524" class="word"><a href="http://www.latin-dictionary.net/definition/20666/firmarius-firmarii">firmarius, firmarii</a> n</li>
+          <li id="word-525" class="word"><a href="http://www.latin-dictionary.net/definition/20667/firmitas-firmitatis">firmitas, firmitatis</a> n</li>
+          <li id="word-526" class="word"><a href="http://www.latin-dictionary.net/definition/20668/firmiter">firmiter</a> adv</li>
+          <li id="word-527" class="word"><a href="http://www.latin-dictionary.net/definition/20669/firmitudo-firmitudinis">firmitudo, firmitudinis</a> n</li>
+          <li id="word-528" class="word"><a href="http://www.latin-dictionary.net/definition/20670/firmo-firmare-firmavi-firmatus">firmo, firmare, firmavi, firmatus</a> v</li>
+          <li id="word-529" class="word"><a href="http://www.latin-dictionary.net/definition/20671/firmus-firma">firmus, firma</a> adj</li>
+          <li id="word-530" class="word"><a href="http://www.latin-dictionary.net/definition/20672/firmus-firma">firmus, firma</a> adj</li>
+          <li id="word-531" class="word"><a href="http://www.latin-dictionary.net/definition/20673/fiscale-fiscalis">fiscale, fiscalis</a> n</li>
+          <li id="word-532" class="word"><a href="http://www.latin-dictionary.net/definition/20674/fiscalis-fiscalis-fiscale">fiscalis, fiscalis, fiscale</a> adj</li>
+          <li id="word-533" class="word"><a href="http://www.latin-dictionary.net/definition/20675/fiscella-fiscellae">fiscella, fiscellae</a> n</li>
+          <li id="word-534" class="word"><a href="http://www.latin-dictionary.net/definition/20676/fiscina-fiscinae">fiscina, fiscinae</a> n</li>
+          <li id="word-535" class="word"><a href="http://www.latin-dictionary.net/definition/20677/fiscus-fisci">fiscus, fisci</a> n</li>
+          <li id="word-536" class="word"><a href="http://www.latin-dictionary.net/definition/20678/fissilis-fissilis-fissile">fissilis, fissilis, fissile</a> adj</li>
+          <li id="word-537" class="word"><a href="http://www.latin-dictionary.net/definition/20679/fistuca-fistucae">fistuca, fistucae</a> n</li>
+          <li id="word-538" class="word"><a href="http://www.latin-dictionary.net/definition/20680/fistula-fistulae">fistula, fistulae</a> n</li>
+          <li id="word-539" class="word"><a href="http://www.latin-dictionary.net/definition/20681/fistulator-fistulatoris">fistulator, fistulatoris</a> n</li>
+          <li id="word-540" class="word"><a href="http://www.latin-dictionary.net/definition/20682/fixatorium-fixatorii">fixatorium, fixatorii</a> n</li>
+          <li id="word-541" class="word"><a href="http://www.latin-dictionary.net/definition/20683/fixtura-fixturae">fixtura, fixturae</a> n</li>
+          <li id="word-542" class="word"><a href="http://www.latin-dictionary.net/definition/20684/fixum-fixi">fixum, fixi</a> n</li>
+          <li id="word-543" class="word"><a href="http://www.latin-dictionary.net/definition/20685/fixura-fixurae">fixura, fixurae</a> n</li>
+          <li id="word-544" class="word"><a href="http://www.latin-dictionary.net/definition/20686/fixus-fixa-fixum">fixus, fixa, fixum</a> adj</li>
+          <li id="word-545" class="word"><a href="http://www.latin-dictionary.net/definition/20687/fixus-fixa-fixum">fixus, fixa, fixum</a> adj</li>
+          <li id="word-546" class="word"><a href="http://www.latin-dictionary.net/definition/20688/flabellum-flabelli">flabellum, flabelli</a> n</li>
+          <li id="word-547" class="word"><a href="http://www.latin-dictionary.net/definition/20689/flabrum-flabri">flabrum, flabri</a> n</li>
+          <li id="word-548" class="word"><a href="http://www.latin-dictionary.net/definition/20690/flacceo-flaccere">flacceo, flaccere, -, -</a> v</li>
+          <li id="word-549" class="word"><a href="http://www.latin-dictionary.net/definition/20691/flaccesco-flaccescere-flaccui">flaccesco, flaccescere, flaccui, -</a> v</li>
+          <li id="word-550" class="word"><a href="http://www.latin-dictionary.net/definition/20692/flaccidus-flaccida-flaccidum">flaccidus, flaccida, flaccidum</a> adj</li>
+          <li id="word-551" class="word"><a href="http://www.latin-dictionary.net/definition/20693/Flaccus-Flacci">Flaccus, Flacci</a> n</li>
+          <li id="word-552" class="word"><a href="http://www.latin-dictionary.net/definition/20694/flagello-flagellare-flagellavi-flagellatus">flagello, flagellare, flagellavi, flagellatus</a> v</li>
+          <li id="word-553" class="word"><a href="http://www.latin-dictionary.net/definition/20695/flagellum-flagelli">flagellum, flagelli</a> n</li>
+          <li id="word-554" class="word"><a href="http://www.latin-dictionary.net/definition/20696/flagitatio-flagitationis">flagitatio, flagitationis</a> n</li>
+          <li id="word-555" class="word"><a href="http://www.latin-dictionary.net/definition/20697/flagitator-flagitatoris">flagitator, flagitatoris</a> n</li>
+          <li id="word-556" class="word"><a href="http://www.latin-dictionary.net/definition/20698/flagitiosus-flagitiosa">flagitiosus, flagitiosa</a> adj</li>
+          <li id="word-557" class="word"><a href="http://www.latin-dictionary.net/definition/20699/flagitium-flagiti-i">flagitium, flagiti(i)</a> n</li>
+          <li id="word-558" class="word"><a href="http://www.latin-dictionary.net/definition/20700/flagito-flagitare-flagitavi-flagitatus">flagito, flagitare, flagitavi, flagitatus</a> v</li>
+          <li id="word-559" class="word"><a href="http://www.latin-dictionary.net/definition/20701/flagrans-flagrantis">flagrans, flagrantis</a> adj</li>
+          <li id="word-560" class="word"><a href="http://www.latin-dictionary.net/definition/20702/flagrans-flagrantis">flagrans, flagrantis</a> adj</li>
+          <li id="word-561" class="word"><a href="http://www.latin-dictionary.net/definition/20703/flagranter-flagrantius-flagrantissime">flagranter, flagrantius, flagrantissime</a> adv</li>
+          <li id="word-562" class="word"><a href="http://www.latin-dictionary.net/definition/20704/flagrantia-flagrantiae">flagrantia, flagrantiae</a> n</li>
+          <li id="word-563" class="word"><a href="http://www.latin-dictionary.net/definition/20705/flagritriba-flagritribae">flagritriba, flagritribae</a> n</li>
+          <li id="word-564" class="word"><a href="http://www.latin-dictionary.net/definition/20706/flagro-flagrare-flagravi-flagratus">flagro, flagrare, flagravi, flagratus</a> v</li>
+          <li id="word-565" class="word"><a href="http://www.latin-dictionary.net/definition/20707/flagrum-flagri">flagrum, flagri</a> n</li>
+          <li id="word-566" class="word"><a href="http://www.latin-dictionary.net/definition/20708/flamen-flaminis">flamen, flaminis</a> n</li>
+          <li id="word-567" class="word"><a href="http://www.latin-dictionary.net/definition/20709/flamen-flaminis">flamen, flaminis</a> n</li>
+          <li id="word-568" class="word"><a href="http://www.latin-dictionary.net/definition/20710/flamina-flaminae">flamina, flaminae</a> n</li>
+          <li id="word-569" class="word"><a href="http://www.latin-dictionary.net/definition/20711/flaminia-flaminiae">flaminia, flaminiae</a> n</li>
+          <li id="word-570" class="word"><a href="http://www.latin-dictionary.net/definition/20712/flaminica-flaminicae">flaminica, flaminicae</a> n</li>
+          <li id="word-571" class="word"><a href="http://www.latin-dictionary.net/definition/20713/flaminium-flaminii">flaminium, flaminii</a> n</li>
+          <li id="word-572" class="word"><a href="http://www.latin-dictionary.net/definition/20714/flaminius-flaminia-flaminium">flaminius, flaminia, flaminium</a> adj</li>
+          <li id="word-573" class="word"><a href="http://www.latin-dictionary.net/definition/20715/flamma-flammae">flamma, flammae</a> n</li>
+          <li id="word-574" class="word"><a href="http://www.latin-dictionary.net/definition/20716/flammeolum-flammeoli">flammeolum, flammeoli</a> n</li>
+          <li id="word-575" class="word"><a href="http://www.latin-dictionary.net/definition/20717/flammeum-flammei">flammeum, flammei</a> n</li>
+          <li id="word-576" class="word"><a href="http://www.latin-dictionary.net/definition/20718/flammeus-flammea-flammeum">flammeus, flammea, flammeum</a> adj</li>
+          <li id="word-577" class="word"><a href="http://www.latin-dictionary.net/definition/20719/flammidus-flammida-flammidum">flammidus, flammida, flammidum</a> adj</li>
+          <li id="word-578" class="word"><a href="http://www.latin-dictionary.net/definition/20720/flammifer-flammifera-flammiferum">flammifer, flammifera, flammiferum</a> adj</li>
+          <li id="word-579" class="word"><a href="http://www.latin-dictionary.net/definition/20721/flammiger-flammigera-flammigerum">flammiger, flammigera, flammigerum</a> adj</li>
+          <li id="word-580" class="word"><a href="http://www.latin-dictionary.net/definition/20722/flammiger-flammigra-flammigrum">flammiger, flammigra, flammigrum</a> adj</li>
+          <li id="word-581" class="word"><a href="http://www.latin-dictionary.net/definition/20723/flammigero-flammigerare">flammigero, flammigerare, -, -</a> v</li>
+          <li id="word-582" class="word"><a href="http://www.latin-dictionary.net/definition/20724/flammigero-flammigerare-flammigeravi-flammigeratus">flammigero, flammigerare, flammigeravi, flammigeratus</a> v</li>
+          <li id="word-583" class="word"><a href="http://www.latin-dictionary.net/definition/20725/flammo-flammare-flammavi-flammatus">flammo, flammare, flammavi, flammatus</a> v</li>
+          <li id="word-584" class="word"><a href="http://www.latin-dictionary.net/definition/20726/flammula-flammulae">flammula, flammulae</a> n</li>
+          <li id="word-585" class="word"><a href="http://www.latin-dictionary.net/definition/20727/flandrensis-flandrensis-flandrense">flandrensis, flandrensis, flandrense</a> adj</li>
+          <li id="word-586" class="word"><a href="http://www.latin-dictionary.net/definition/20728/flatilis-flatilis-flatile">flatilis, flatilis, flatile</a> adj</li>
+          <li id="word-587" class="word"><a href="http://www.latin-dictionary.net/definition/20729/flatus-flatus">flatus, flatus</a> n</li>
+          <li id="word-588" class="word"><a href="http://www.latin-dictionary.net/definition/20730/flavedo-flavedinis">flavedo, flavedinis</a> n</li>
+          <li id="word-589" class="word"><a href="http://www.latin-dictionary.net/definition/20731/flaveo-flavere">flaveo, flavere, -, -</a> v</li>
+          <li id="word-590" class="word"><a href="http://www.latin-dictionary.net/definition/20732/flavesco-flavescere">flavesco, flavescere, -, -</a> v</li>
+          <li id="word-591" class="word"><a href="http://www.latin-dictionary.net/definition/20733/flavitas-flavitatis">flavitas, flavitatis</a> n</li>
+          <li id="word-592" class="word"><a href="http://www.latin-dictionary.net/definition/20734/flavor-flavoris">flavor, flavoris</a> n</li>
+          <li id="word-593" class="word"><a href="http://www.latin-dictionary.net/definition/20735/flavus-flava-flavum">flavus, flava, flavum</a> adj</li>
+          <li id="word-594" class="word"><a href="http://www.latin-dictionary.net/definition/20736/flebile">flebile</a> adv</li>
+          <li id="word-595" class="word"><a href="http://www.latin-dictionary.net/definition/20737/flebilis-flebilis-flebile">flebilis, flebilis, flebile</a> adj</li>
+          <li id="word-596" class="word"><a href="http://www.latin-dictionary.net/definition/20738/flecto-flectere-flexi-flexus">flecto, flectere, flexi, flexus</a> v</li>
+          <li id="word-597" class="word"><a href="http://www.latin-dictionary.net/definition/20739/fleo-flere-flevi-fletus">fleo, flere, flevi, fletus</a> v</li>
+          <li id="word-598" class="word"><a href="http://www.latin-dictionary.net/definition/20740/fletus-fletus">fletus, fletus</a> n</li>
+          <li id="word-599" class="word"><a href="http://www.latin-dictionary.net/definition/20741/flexanimus-flexanima-flexanimum">flexanimus, flexanima, flexanimum</a> adj</li>
+          <li id="word-600" class="word"><a href="http://www.latin-dictionary.net/definition/20742/flexibilis-flexibilis-flexibile">flexibilis, flexibilis, flexibile</a> adj</li>
+          <li id="word-601" class="word"><a href="http://www.latin-dictionary.net/definition/20743/flexibilitas-flexibilitatis">flexibilitas, flexibilitatis</a> n</li>
+          <li id="word-602" class="word"><a href="http://www.latin-dictionary.net/definition/20744/flexilis-flexilis-flexile">flexilis, flexilis, flexile</a> adj</li>
+          <li id="word-603" class="word"><a href="http://www.latin-dictionary.net/definition/20745/flexiloquus-flexiloqua-flexiloquum">flexiloquus, flexiloqua, flexiloquum</a> adj</li>
+          <li id="word-604" class="word"><a href="http://www.latin-dictionary.net/definition/20746/flexipes-gen-flexipedis">flexipes, (gen.), flexipedis</a> adj</li>
+          <li id="word-605" class="word"><a href="http://www.latin-dictionary.net/definition/20747/flexuosus-flexuosa">flexuosus, flexuosa</a> adj</li>
+          <li id="word-606" class="word"><a href="http://www.latin-dictionary.net/definition/20748/flexus-flexus">flexus, flexus</a> n</li>
+          <li id="word-607" class="word"><a href="http://www.latin-dictionary.net/definition/20749/flictus-flictus">flictus, flictus</a> n</li>
+          <li id="word-608" class="word"><a href="http://www.latin-dictionary.net/definition/20750/fligo-fligere">fligo, fligere, -, -</a> v</li>
+          <li id="word-609" class="word"><a href="http://www.latin-dictionary.net/definition/20751/flo-flare-flavi-flatus">flo, flare, flavi, flatus</a> v</li>
+          <li id="word-610" class="word"><a href="http://www.latin-dictionary.net/definition/20752/floccifacio-floccifacere-floccifeci-floccifactus">floccifacio, floccifacere, floccifeci, floccifactus</a> v</li>
+          <li id="word-611" class="word"><a href="http://www.latin-dictionary.net/definition/20753/floccipendo-floccipendere-floccipependi-floccipensus">floccipendo, floccipendere, floccipependi, floccipensus</a> v</li>
+          <li id="word-612" class="word"><a href="http://www.latin-dictionary.net/definition/20754/floccus-flocci">floccus, flocci</a> n</li>
+          <li id="word-613" class="word"><a href="http://www.latin-dictionary.net/definition/20755/Flora-Florae">Flora, Florae</a> n</li>
+          <li id="word-614" class="word"><a href="http://www.latin-dictionary.net/definition/20756/florens-florentis">florens, florentis</a> adj</li>
+          <li id="word-615" class="word"><a href="http://www.latin-dictionary.net/definition/20757/floreo-florere-florui">floreo, florere, florui, -</a> v</li>
+          <li id="word-616" class="word"><a href="http://www.latin-dictionary.net/definition/20758/floresco-florescere">floresco, florescere, -, -</a> v</li>
+          <li id="word-617" class="word"><a href="http://www.latin-dictionary.net/definition/20759/floreus-florea-floreum">floreus, florea, floreum</a> adj</li>
+          <li id="word-618" class="word"><a href="http://www.latin-dictionary.net/definition/20760/floridus-florida-floridum">floridus, florida, floridum</a> adj</li>
+          <li id="word-619" class="word"><a href="http://www.latin-dictionary.net/definition/20761/florifer-florifera-floriferum">florifer, florifera, floriferum</a> adj</li>
+          <li id="word-620" class="word"><a href="http://www.latin-dictionary.net/definition/20762/floriger-florigera-florigerum">floriger, florigera, florigerum</a> adj</li>
+          <li id="word-621" class="word"><a href="http://www.latin-dictionary.net/definition/20763/flos-floris">flos, floris</a> n</li>
+          <li id="word-622" class="word"><a href="http://www.latin-dictionary.net/definition/20764/flosculus-flosculi">flosculus, flosculi</a> n</li>
+          <li id="word-623" class="word"><a href="http://www.latin-dictionary.net/definition/20765/fluctifragus-fluctifraga-fluctifragum">fluctifragus, fluctifraga, fluctifragum</a> adj</li>
+          <li id="word-624" class="word"><a href="http://www.latin-dictionary.net/definition/20766/fluctio-fluctionis">fluctio, fluctionis</a> n</li>
+          <li id="word-625" class="word"><a href="http://www.latin-dictionary.net/definition/20767/fluctivagus-fluctivaga-fluctivagum">fluctivagus, fluctivaga, fluctivagum</a> adj</li>
+          <li id="word-626" class="word"><a href="http://www.latin-dictionary.net/definition/20768/fluctuatio-fluctuationis">fluctuatio, fluctuationis</a> n</li>
+          <li id="word-627" class="word"><a href="http://www.latin-dictionary.net/definition/20769/fluctuo-fluctuare-fluctuavi-fluctuatus">fluctuo, fluctuare, fluctuavi, fluctuatus</a> v</li>
+          <li id="word-628" class="word"><a href="http://www.latin-dictionary.net/definition/20770/fluctuor-fluctuari-fluctuatus">fluctuor, fluctuari, fluctuatus</a> v</li>
+          <li id="word-629" class="word"><a href="http://www.latin-dictionary.net/definition/20771/fluctuosus-fluctuosa-fluctuosum">fluctuosus, fluctuosa, fluctuosum</a> adj</li>
+          <li id="word-630" class="word"><a href="http://www.latin-dictionary.net/definition/20772/fluctus-fluctus">fluctus, fluctus</a> n</li>
+          <li id="word-631" class="word"><a href="http://www.latin-dictionary.net/definition/20773/fluenter">fluenter</a> adv</li>
+          <li id="word-632" class="word"><a href="http://www.latin-dictionary.net/definition/20774/fluentisonus-fluentisona-fluentisonum">fluentisonus, fluentisona, fluentisonum</a> adj</li>
+          <li id="word-633" class="word"><a href="http://www.latin-dictionary.net/definition/20775/fluentum-fluenti">fluentum, fluenti</a> n</li>
+          <li id="word-634" class="word"><a href="http://www.latin-dictionary.net/definition/20776/fluentus-fluenta-fluentum">fluentus, fluenta, fluentum</a> adj</li>
+          <li id="word-635" class="word"><a href="http://www.latin-dictionary.net/definition/20777/fluidus-fluida-fluidum">fluidus, fluida, fluidum</a> adj</li>
+          <li id="word-636" class="word"><a href="http://www.latin-dictionary.net/definition/20778/fluito-fluitare-fluitavi-fluitatus">fluito, fluitare, fluitavi, fluitatus</a> v</li>
+          <li id="word-637" class="word"><a href="http://www.latin-dictionary.net/definition/20779/flumen-fluminis">flumen, fluminis</a> n</li>
+          <li id="word-638" class="word"><a href="http://www.latin-dictionary.net/definition/20780/fluo-fluere-fluxi-fluxus">fluo, fluere, fluxi, fluxus</a> v</li>
+          <li id="word-639" class="word"><a href="http://www.latin-dictionary.net/definition/20781/fluorescens-gen-fluorescentis">fluorescens, (gen.), fluorescentis</a> adj</li>
+          <li id="word-640" class="word"><a href="http://www.latin-dictionary.net/definition/20782/fluorescentia-fluorescentiae">fluorescentia, fluorescentiae</a> n</li>
+          <li id="word-641" class="word"><a href="http://www.latin-dictionary.net/definition/20783/flustrum-flustri">flustrum, flustri</a> n</li>
+          <li id="word-642" class="word"><a href="http://www.latin-dictionary.net/definition/20784/fluus-flua-fluum">fluus, flua, fluum</a> adj</li>
+          <li id="word-643" class="word"><a href="http://www.latin-dictionary.net/definition/20785/fluvialis-fluvialis-fluviale">fluvialis, fluvialis, fluviale</a> adj</li>
+          <li id="word-644" class="word"><a href="http://www.latin-dictionary.net/definition/20786/fluviaticus-fluviatica-fluviaticum">fluviaticus, fluviatica, fluviaticum</a> adj</li>
+          <li id="word-645" class="word"><a href="http://www.latin-dictionary.net/definition/20787/fluviatilis-fluviatilis-fluviatile">fluviatilis, fluviatilis, fluviatile</a> adj</li>
+          <li id="word-646" class="word"><a href="http://www.latin-dictionary.net/definition/20788/fluvidus-fluvida-fluvidum">fluvidus, fluvida, fluvidum</a> adj</li>
+          <li id="word-647" class="word"><a href="http://www.latin-dictionary.net/definition/20789/fluvius-fluvi-i">fluvius, fluvi(i)</a> n</li>
+          <li id="word-648" class="word"><a href="http://www.latin-dictionary.net/definition/20790/fluxilis-fluxilis-fluxile">fluxilis, fluxilis, fluxile</a> adj</li>
+          <li id="word-649" class="word"><a href="http://www.latin-dictionary.net/definition/20791/fluxus-fluxa-fluxum">fluxus, fluxa, fluxum</a> adj</li>
+          <li id="word-650" class="word"><a href="http://www.latin-dictionary.net/definition/20792/focal-focalis">focal, focalis</a> n</li>
+          <li id="word-651" class="word"><a href="http://www.latin-dictionary.net/definition/20793/focale-focalis">focale, focalis</a> n</li>
+          <li id="word-652" class="word"><a href="http://www.latin-dictionary.net/definition/20794/focaria-focariae">focaria, focariae</a> n</li>
+          <li id="word-653" class="word"><a href="http://www.latin-dictionary.net/definition/20795/focarius-focarii">focarius, focarii</a> n</li>
+          <li id="word-654" class="word"><a href="http://www.latin-dictionary.net/definition/20796/focillo-focillare-focillavi-focillatus">focillo, focillare, focillavi, focillatus</a> v</li>
+          <li id="word-655" class="word"><a href="http://www.latin-dictionary.net/definition/20797/focilo-focilare-focilavi-focilatus">focilo, focilare, focilavi, focilatus</a> v</li>
+          <li id="word-656" class="word"><a href="http://www.latin-dictionary.net/definition/20798/foculus-foculi">foculus, foculi</a> n</li>
+          <li id="word-657" class="word"><a href="http://www.latin-dictionary.net/definition/20799/focus-foci">focus, foci</a> n</li>
+          <li id="word-658" class="word"><a href="http://www.latin-dictionary.net/definition/20800/fodico-fodicare-fodicavi-fodicatus">fodico, fodicare, fodicavi, fodicatus</a> v</li>
+          <li id="word-659" class="word"><a href="http://www.latin-dictionary.net/definition/20801/fodina-fodinae">fodina, fodinae</a> n</li>
+          <li id="word-660" class="word"><a href="http://www.latin-dictionary.net/definition/20802/fodio-fodere-fodi-fossus">fodio, fodere, fodi, fossus</a> v</li>
+          <li id="word-661" class="word"><a href="http://www.latin-dictionary.net/definition/20803/fodorus-fodori">fodorus, fodori</a> n</li>
+          <li id="word-662" class="word"><a href="http://www.latin-dictionary.net/definition/20804/fodrum-fodri">fodrum, fodri</a> n</li>
+          <li id="word-663" class="word"><a href="http://www.latin-dictionary.net/definition/20805/fodrus-fodri">fodrus, fodri</a> n</li>
+          <li id="word-664" class="word"><a href="http://www.latin-dictionary.net/definition/20806/foede-foedius-foedissime">foede, foedius, foedissime</a> adv</li>
+          <li id="word-665" class="word"><a href="http://www.latin-dictionary.net/definition/20807/foede-foedius-foedissime">foede, foedius, foedissime</a> adv</li>
+          <li id="word-666" class="word"><a href="http://www.latin-dictionary.net/definition/20808/foederalis-foederalis-foederale">foederalis, foederalis, foederale</a> adj</li>
+          <li id="word-667" class="word"><a href="http://www.latin-dictionary.net/definition/20809/foederalismus-foederalismi">foederalismus, foederalismi</a> n</li>
+          <li id="word-668" class="word"><a href="http://www.latin-dictionary.net/definition/20810/foederalista-foederalistae">foederalista, foederalistae</a> n</li>
+          <li id="word-669" class="word"><a href="http://www.latin-dictionary.net/definition/20811/foederatus-foederata-foederatum">foederatus, foederata, foederatum</a> adj</li>
+          <li id="word-670" class="word"><a href="http://www.latin-dictionary.net/definition/20812/foedero-foederare-foederavi-foederatus">foedero, foederare, foederavi, foederatus</a> v</li>
+          <li id="word-671" class="word"><a href="http://www.latin-dictionary.net/definition/20813/foedifragus-foedifraga-foedifragum">foedifragus, foedifraga, foedifragum</a> adj</li>
+          <li id="word-672" class="word"><a href="http://www.latin-dictionary.net/definition/20814/foeditas-foeditatis">foeditas, foeditatis</a> n</li>
+          <li id="word-673" class="word"><a href="http://www.latin-dictionary.net/definition/20815/foeditas-foeditatis">foeditas, foeditatis</a> n</li>
+          <li id="word-674" class="word"><a href="http://www.latin-dictionary.net/definition/20816/foedo-foedare-foedavi-foedatus">foedo, foedare, foedavi, foedatus</a> v</li>
+          <li id="word-675" class="word"><a href="http://www.latin-dictionary.net/definition/20817/foedo-foedare-foedavi-foedatus">foedo, foedare, foedavi, foedatus</a> v</li>
+          <li id="word-676" class="word"><a href="http://www.latin-dictionary.net/definition/20818/foedo-foedare-foedavi-foedatus">foedo, foedare, foedavi, foedatus</a> v</li>
+          <li id="word-677" class="word"><a href="http://www.latin-dictionary.net/definition/20819/foedo-foedare-foedavi-foedatus">foedo, foedare, foedavi, foedatus</a> v</li>
+          <li id="word-678" class="word"><a href="http://www.latin-dictionary.net/definition/20820/foedus-foeda">foedus, foeda</a> adj</li>
+          <li id="word-679" class="word"><a href="http://www.latin-dictionary.net/definition/20821/foedus-foeda">foedus, foeda</a> adj</li>
+          <li id="word-680" class="word"><a href="http://www.latin-dictionary.net/definition/20822/foedus-foeda">foedus, foeda</a> adj</li>
+          <li id="word-681" class="word"><a href="http://www.latin-dictionary.net/definition/20823/foedus-foeda">foedus, foeda</a> adj</li>
+          <li id="word-682" class="word"><a href="http://www.latin-dictionary.net/definition/20824/foedus-foederis">foedus, foederis</a> n</li>
+          <li id="word-683" class="word"><a href="http://www.latin-dictionary.net/definition/20825/foedus-foederis">foedus, foederis</a> n</li>
+          <li id="word-684" class="word"><a href="http://www.latin-dictionary.net/definition/20826/foedus-foederis">foedus, foederis</a> n</li>
+          <li id="word-685" class="word"><a href="http://www.latin-dictionary.net/definition/20827/foenum-foeni">foenum, foeni</a> n</li>
+          <li id="word-686" class="word"><a href="http://www.latin-dictionary.net/definition/20828/foenus-foenoris">foenus, foenoris</a> n</li>
+          <li id="word-687" class="word"><a href="http://www.latin-dictionary.net/definition/20829/foeteo-foetere">foeteo, foetere, -, -</a> v</li>
+          <li id="word-688" class="word"><a href="http://www.latin-dictionary.net/definition/20830/foetidus-foetida-foetidum">foetidus, foetida, foetidum</a> adj</li>
+          <li id="word-689" class="word"><a href="http://www.latin-dictionary.net/definition/20831/foetifer-foetifera-foetiferum">foetifer, foetifera, foetiferum</a> adj</li>
+          <li id="word-690" class="word"><a href="http://www.latin-dictionary.net/definition/20832/foetifico-foetificare-foetificavi-foetificatus">foetifico, foetificare, foetificavi, foetificatus</a> v</li>
+          <li id="word-691" class="word"><a href="http://www.latin-dictionary.net/definition/20833/foetificus-foetifica-foetificum">foetificus, foetifica, foetificum</a> adj</li>
+          <li id="word-692" class="word"><a href="http://www.latin-dictionary.net/definition/20834/foeto-foetare-foetavi-foetatus">foeto, foetare, foetavi, foetatus</a> v</li>
+          <li id="word-693" class="word"><a href="http://www.latin-dictionary.net/definition/20835/foetor-foetoris">foetor, foetoris</a> n</li>
+          <li id="word-694" class="word"><a href="http://www.latin-dictionary.net/definition/20836/foetosus-foetosa-foetosum">foetosus, foetosa, foetosum</a> adj</li>
+          <li id="word-695" class="word"><a href="http://www.latin-dictionary.net/definition/20837/foetulentus-foetulenta-foetulentum">foetulentus, foetulenta, foetulentum</a> adj</li>
+          <li id="word-696" class="word"><a href="http://www.latin-dictionary.net/definition/20838/foetuosus-foetuosa-foetuosum">foetuosus, foetuosa, foetuosum</a> adj</li>
+          <li id="word-697" class="word"><a href="http://www.latin-dictionary.net/definition/20839/foetura-foeturae">foetura, foeturae</a> n</li>
+          <li id="word-698" class="word"><a href="http://www.latin-dictionary.net/definition/20840/foetura-foeturae">foetura, foeturae</a> n</li>
+          <li id="word-699" class="word"><a href="http://www.latin-dictionary.net/definition/20841/foeturatus-foeturata-foeturatum">foeturatus, foeturata, foeturatum</a> adj</li>
+          <li id="word-700" class="word"><a href="http://www.latin-dictionary.net/definition/20842/foetus-foeta-foetum">foetus, foeta, foetum</a> adj</li>
+          <li id="word-701" class="word"><a href="http://www.latin-dictionary.net/definition/20843/foetus-foeta-foetum">foetus, foeta, foetum</a> adj</li>
+          <li id="word-702" class="word"><a href="http://www.latin-dictionary.net/definition/20844/foetus-foetus">foetus, foetus</a> n</li>
+          <li id="word-703" class="word"><a href="http://www.latin-dictionary.net/definition/20845/foetus-foetus">foetus, foetus</a> n</li>
+          <li id="word-704" class="word"><a href="http://www.latin-dictionary.net/definition/20846/foetus-foetus">foetus, foetus</a> n</li>
+          <li id="word-705" class="word"><a href="http://www.latin-dictionary.net/definition/20847/foetus-foetus">foetus, foetus</a> n</li>
+          <li id="word-706" class="word"><a href="http://www.latin-dictionary.net/definition/20848/foetutina-foetutinae">foetutina, foetutinae</a> n</li>
+          <li id="word-707" class="word"><a href="http://www.latin-dictionary.net/definition/20849/foliatum-foliati">foliatum, foliati</a> n</li>
+          <li id="word-708" class="word"><a href="http://www.latin-dictionary.net/definition/20850/foliatus-foliata-foliatum">foliatus, foliata, foliatum</a> adj</li>
+          <li id="word-709" class="word"><a href="http://www.latin-dictionary.net/definition/20851/foliothecula-foliotheculae">foliothecula, foliotheculae</a> n</li>
+          <li id="word-710" class="word"><a href="http://www.latin-dictionary.net/definition/20852/folium-foli-i">folium, foli(i)</a> n</li>
+          <li id="word-711" class="word"><a href="http://www.latin-dictionary.net/definition/20853/folliculus-folliculi">folliculus, folliculi</a> n</li>
+          <li id="word-712" class="word"><a href="http://www.latin-dictionary.net/definition/20854/follis-follis">follis, follis</a> n</li>
+          <li id="word-713" class="word"><a href="http://www.latin-dictionary.net/definition/20855/fomentum-fomenti">fomentum, fomenti</a> n</li>
+          <li id="word-714" class="word"><a href="http://www.latin-dictionary.net/definition/20856/fomes-fomitis">fomes, fomitis</a> n</li>
+          <li id="word-715" class="word"><a href="http://www.latin-dictionary.net/definition/20857/fons-fontis">fons, fontis</a> n</li>
+          <li id="word-716" class="word"><a href="http://www.latin-dictionary.net/definition/20858/fontalis-fontalis-fontale">fontalis, fontalis, fontale</a> adj</li>
+          <li id="word-717" class="word"><a href="http://www.latin-dictionary.net/definition/20859/fontanus-fontana-fontanum">fontanus, fontana, fontanum</a> adj</li>
+          <li id="word-718" class="word"><a href="http://www.latin-dictionary.net/definition/20860/fonticulus-fonticuli">fonticulus, fonticuli</a> n</li>
+          <li id="word-719" class="word"><a href="http://www.latin-dictionary.net/definition/20861/for-fari-fatus">for, fari, fatus</a> v</li>
+          <li id="word-720" class="word"><a href="http://www.latin-dictionary.net/definition/20862/forabilis-forabilis-forabile">forabilis, forabilis, forabile</a> adj</li>
+          <li id="word-721" class="word"><a href="http://www.latin-dictionary.net/definition/20863/foramen-foraminis">foramen, foraminis</a> n</li>
+          <li id="word-722" class="word"><a href="http://www.latin-dictionary.net/definition/20864/foraneus-foranea-foraneum">foraneus, foranea, foraneum</a> adj</li>
+          <li id="word-723" class="word"><a href="http://www.latin-dictionary.net/definition/20865/foras">foras</a> adv</li>
+          <li id="word-724" class="word"><a href="http://www.latin-dictionary.net/definition/20866/forceps-forcipis">forceps, forcipis</a> n</li>
+          <li id="word-725" class="word"><a href="http://www.latin-dictionary.net/definition/20867/forcia-forciae">forcia, forciae</a> n</li>
+          <li id="word-726" class="word"><a href="http://www.latin-dictionary.net/definition/20868/forda-fordae">forda, fordae</a> n</li>
+          <li id="word-727" class="word"><a href="http://www.latin-dictionary.net/definition/20869/fordeaceus-fordeacea-fordeaceum">fordeaceus, fordeacea, fordeaceum</a> adj</li>
+          <li id="word-728" class="word"><a href="http://www.latin-dictionary.net/definition/20870/fordearius-fordearia-fordearium">fordearius, fordearia, fordearium</a> adj</li>
+          <li id="word-729" class="word"><a href="http://www.latin-dictionary.net/definition/20871/fordeum-fordei">fordeum, fordei</a> n</li>
+          <li id="word-730" class="word"><a href="http://www.latin-dictionary.net/definition/20872/fordiaceus-fordiacea-fordiaceum">fordiaceus, fordiacea, fordiaceum</a> adj</li>
+          <li id="word-731" class="word"><a href="http://www.latin-dictionary.net/definition/20873/fordiarius-fordiaria-fordiarium">fordiarius, fordiaria, fordiarium</a> adj</li>
+          <li id="word-732" class="word"><a href="http://www.latin-dictionary.net/definition/20874/fordus-forda-fordum">fordus, forda, fordum</a> adj</li>
+          <li id="word-733" class="word"><a href="http://www.latin-dictionary.net/definition/20875/forensis-forensis-forense">forensis, forensis, forense</a> adj</li>
+          <li id="word-734" class="word"><a href="http://www.latin-dictionary.net/definition/20876/foresta-forestae">foresta, forestae</a> n</li>
+          <li id="word-735" class="word"><a href="http://www.latin-dictionary.net/definition/20877/forfex-forficis">forfex, forficis</a> n</li>
+          <li id="word-736" class="word"><a href="http://www.latin-dictionary.net/definition/20878/foricula-foriculae">foricula, foriculae</a> n</li>
+          <li id="word-737" class="word"><a href="http://www.latin-dictionary.net/definition/20879/forinsecum-forinseci">forinsecum, forinseci</a> n</li>
+          <li id="word-738" class="word"><a href="http://www.latin-dictionary.net/definition/20880/forinsecus">forinsecus</a> adv</li>
+          <li id="word-739" class="word"><a href="http://www.latin-dictionary.net/definition/20881/foris">foris</a> adv</li>
+          <li id="word-740" class="word"><a href="http://www.latin-dictionary.net/definition/20882/foris-foris">foris, foris</a> n</li>
+          <li id="word-741" class="word"><a href="http://www.latin-dictionary.net/definition/20883/forisfacio-forisfacere-forisfeci-forisfactus">forisfacio, forisfacere, forisfeci, forisfactus</a> v</li>
+          <li id="word-742" class="word"><a href="http://www.latin-dictionary.net/definition/20884/forma-formae">forma, formae</a> n</li>
+          <li id="word-743" class="word"><a href="http://www.latin-dictionary.net/definition/20885/formabilis-formabilis-formabile">formabilis, formabilis, formabile</a> adj</li>
+          <li id="word-744" class="word"><a href="http://www.latin-dictionary.net/definition/20886/formalis-formalis-formale">formalis, formalis, formale</a> adj</li>
+          <li id="word-745" class="word"><a href="http://www.latin-dictionary.net/definition/20887/formalis-formalis-formale">formalis, formalis, formale</a> adj</li>
+          <li id="word-746" class="word"><a href="http://www.latin-dictionary.net/definition/20888/formalismus-formalismi">formalismus, formalismi</a> n</li>
+          <li id="word-747" class="word"><a href="http://www.latin-dictionary.net/definition/20889/formaliter">formaliter</a> adv</li>
+          <li id="word-748" class="word"><a href="http://www.latin-dictionary.net/definition/20890/formamentum-formamenti">formamentum, formamenti</a> n</li>
+          <li id="word-749" class="word"><a href="http://www.latin-dictionary.net/definition/20891/formatrix-formatricis">formatrix, formatricis</a> n</li>
+          <li id="word-750" class="word"><a href="http://www.latin-dictionary.net/definition/20892/formica-formicae">formica, formicae</a> n</li>
+          <li id="word-751" class="word"><a href="http://www.latin-dictionary.net/definition/20893/formidabilis-formidabilis-formidabile">formidabilis, formidabilis, formidabile</a> adj</li>
+          <li id="word-752" class="word"><a href="http://www.latin-dictionary.net/definition/20894/formidilose-formidilosius-formidilosissime">formidilose, formidilosius, formidilosissime</a> adv</li>
+          <li id="word-753" class="word"><a href="http://www.latin-dictionary.net/definition/20895/formidilosus-formidilosa">formidilosus, formidilosa</a> adj</li>
+          <li id="word-754" class="word"><a href="http://www.latin-dictionary.net/definition/20896/formido-formidare-formidavi-formidatus">formido, formidare, formidavi, formidatus</a> v</li>
+          <li id="word-755" class="word"><a href="http://www.latin-dictionary.net/definition/20897/formido-formidinis">formido, formidinis</a> n</li>
+          <li id="word-756" class="word"><a href="http://www.latin-dictionary.net/definition/20898/formido-formidinis">formido, formidinis</a> n</li>
+          <li id="word-757" class="word"><a href="http://www.latin-dictionary.net/definition/20899/formidolose-formidolosius-formidolosissime">formidolose, formidolosius, formidolosissime</a> adv</li>
+          <li id="word-758" class="word"><a href="http://www.latin-dictionary.net/definition/20900/formidolosus-formidolosa">formidolosus, formidolosa</a> adj</li>
+          <li id="word-759" class="word"><a href="http://www.latin-dictionary.net/definition/20901/formidulose-formidulosius-formidulosissime">formidulose, formidulosius, formidulosissime</a> adv</li>
+          <li id="word-760" class="word"><a href="http://www.latin-dictionary.net/definition/20902/formidulosus-formidulosa">formidulosus, formidulosa</a> adj</li>
+          <li id="word-761" class="word"><a href="http://www.latin-dictionary.net/definition/20903/formo-formare-formavi-formatus">formo, formare, formavi, formatus</a> v</li>
+          <li id="word-762" class="word"><a href="http://www.latin-dictionary.net/definition/20904/formonse-formonsius-formonsissime">formonse, formonsius, formonsissime</a> adv</li>
+          <li id="word-763" class="word"><a href="http://www.latin-dictionary.net/definition/20905/formonsulus-formonsula-formonsulum">formonsulus, formonsula, formonsulum</a> adj</li>
+          <li id="word-764" class="word"><a href="http://www.latin-dictionary.net/definition/20906/formonsus-formonsa">formonsus, formonsa</a> adj</li>
+          <li id="word-765" class="word"><a href="http://www.latin-dictionary.net/definition/20907/formose-formosius-formosissime">formose, formosius, formosissime</a> adv</li>
+          <li id="word-766" class="word"><a href="http://www.latin-dictionary.net/definition/20908/formosulus-formosula-formosulum">formosulus, formosula, formosulum</a> adj</li>
+          <li id="word-767" class="word"><a href="http://www.latin-dictionary.net/definition/20909/formosus-formosa">formosus, formosa</a> adj</li>
+          <li id="word-768" class="word"><a href="http://www.latin-dictionary.net/definition/20910/formula-formulae">formula, formulae</a> n</li>
+          <li id="word-769" class="word"><a href="http://www.latin-dictionary.net/definition/20911/formula-formulae">formula, formulae</a> n</li>
+          <li id="word-770" class="word"><a href="http://www.latin-dictionary.net/definition/20912/formula-formulae">formula, formulae</a> n</li>
+          <li id="word-771" class="word"><a href="http://www.latin-dictionary.net/definition/20913/fornacula-fornaculae">fornacula, fornaculae</a> n</li>
+          <li id="word-772" class="word"><a href="http://www.latin-dictionary.net/definition/20914/fornax-fornacis">fornax, fornacis</a> n</li>
+          <li id="word-773" class="word"><a href="http://www.latin-dictionary.net/definition/20915/fornicaria-fornicariae">fornicaria, fornicariae</a> n</li>
+          <li id="word-774" class="word"><a href="http://www.latin-dictionary.net/definition/20916/fornicarius-fornicarii">fornicarius, fornicarii</a> n</li>
+          <li id="word-775" class="word"><a href="http://www.latin-dictionary.net/definition/20917/fornicatim">fornicatim</a> adv</li>
+          <li id="word-776" class="word"><a href="http://www.latin-dictionary.net/definition/20918/fornicatio-fornicationis">fornicatio, fornicationis</a> n</li>
+          <li id="word-777" class="word"><a href="http://www.latin-dictionary.net/definition/20919/fornicatio-fornicationis">fornicatio, fornicationis</a> n</li>
+          <li id="word-778" class="word"><a href="http://www.latin-dictionary.net/definition/20920/fornicator-fornicatoris">fornicator, fornicatoris</a> n</li>
+          <li id="word-779" class="word"><a href="http://www.latin-dictionary.net/definition/20921/fornicatrix-fornicatricis">fornicatrix, fornicatricis</a> n</li>
+          <li id="word-780" class="word"><a href="http://www.latin-dictionary.net/definition/20922/fornicatus-fornicata-fornicatum">fornicatus, fornicata, fornicatum</a> adj</li>
+          <li id="word-781" class="word"><a href="http://www.latin-dictionary.net/definition/20923/fornico-fornicare-fornicavi-fornicatus">fornico, fornicare, fornicavi, fornicatus</a> v</li>
+          <li id="word-782" class="word"><a href="http://www.latin-dictionary.net/definition/20924/fornicor-fornicari-fornicatus">fornicor, fornicari, fornicatus</a> v</li>
+          <li id="word-783" class="word"><a href="http://www.latin-dictionary.net/definition/20925/fornix-fornicis">fornix, fornicis</a> n</li>
+          <li id="word-784" class="word"><a href="http://www.latin-dictionary.net/definition/20926/forpex-forpicis">forpex, forpicis</a> n</li>
+          <li id="word-785" class="word"><a href="http://www.latin-dictionary.net/definition/20927/fors-fortis">fors, fortis</a> n</li>
+          <li id="word-786" class="word"><a href="http://www.latin-dictionary.net/definition/20928/forsan">forsan</a> adv</li>
+          <li id="word-787" class="word"><a href="http://www.latin-dictionary.net/definition/20929/forsit">forsit</a> adv</li>
+          <li id="word-788" class="word"><a href="http://www.latin-dictionary.net/definition/20930/forsitam">forsitam</a> adv</li>
+          <li id="word-789" class="word"><a href="http://www.latin-dictionary.net/definition/20931/forsitan">forsitan</a> adv</li>
+          <li id="word-790" class="word"><a href="http://www.latin-dictionary.net/definition/20932/fortasse">fortasse</a> adv</li>
+          <li id="word-791" class="word"><a href="http://www.latin-dictionary.net/definition/20933/fortassis">fortassis</a> adv</li>
+          <li id="word-792" class="word"><a href="http://www.latin-dictionary.net/definition/20934/forte">forte</a> adv</li>
+          <li id="word-793" class="word"><a href="http://www.latin-dictionary.net/definition/20935/forticulus-forticula-forticulum">forticulus, forticula, forticulum</a> adj</li>
+          <li id="word-794" class="word"><a href="http://www.latin-dictionary.net/definition/20936/fortificatio-fortificationis">fortificatio, fortificationis</a> n</li>
+          <li id="word-795" class="word"><a href="http://www.latin-dictionary.net/definition/20937/fortifico-fortificare-fortificavi-fortificatus">fortifico, fortificare, fortificavi, fortificatus</a> v</li>
+          <li id="word-796" class="word"><a href="http://www.latin-dictionary.net/definition/20938/fortis-forte-fortior">fortis, forte, fortior</a> adj</li>
+          <li id="word-797" class="word"><a href="http://www.latin-dictionary.net/definition/20939/fortiter-fortius-fortissime">fortiter, fortius, fortissime</a> adv</li>
+          <li id="word-798" class="word"><a href="http://www.latin-dictionary.net/definition/20940/fortitudo-fortitudinis">fortitudo, fortitudinis</a> n</li>
+          <li id="word-799" class="word"><a href="http://www.latin-dictionary.net/definition/20941/fortuito">fortuito</a> adv</li>
+          <li id="word-800" class="word"><a href="http://www.latin-dictionary.net/definition/20942/fortuitu">fortuitu</a> adv</li>
+          <li id="word-801" class="word"><a href="http://www.latin-dictionary.net/definition/20943/fortuitum-fortuiti">fortuitum, fortuiti</a> n</li>
+          <li id="word-802" class="word"><a href="http://www.latin-dictionary.net/definition/20944/fortuitus-fortuita-fortuitum">fortuitus, fortuita, fortuitum</a> adj</li>
+          <li id="word-803" class="word"><a href="http://www.latin-dictionary.net/definition/20945/fortuna-fortunae">fortuna, fortunae</a> n</li>
+          <li id="word-804" class="word"><a href="http://www.latin-dictionary.net/definition/20946/fortunate">fortunate</a> adv</li>
+          <li id="word-805" class="word"><a href="http://www.latin-dictionary.net/definition/20947/fortunatus-fortunata">fortunatus, fortunata</a> adj</li>
+          <li id="word-806" class="word"><a href="http://www.latin-dictionary.net/definition/20948/fortunium-fortunii">fortunium, fortunii</a> n</li>
+          <li id="word-807" class="word"><a href="http://www.latin-dictionary.net/definition/20949/fortuno-fortunare-fortunavi-fortunatus">fortuno, fortunare, fortunavi, fortunatus</a> v</li>
+          <li id="word-808" class="word"><a href="http://www.latin-dictionary.net/definition/20950/foruitus-foruita-foruitum">foruitus, foruita, foruitum</a> adj</li>
+          <li id="word-809" class="word"><a href="http://www.latin-dictionary.net/definition/20951/forum-fori">forum, fori</a> n</li>
+          <li id="word-810" class="word"><a href="http://www.latin-dictionary.net/definition/20952/forus-fori">forus, fori</a> n</li>
+          <li id="word-811" class="word"><a href="http://www.latin-dictionary.net/definition/20953/fossa-fossae">fossa, fossae</a> n</li>
+          <li id="word-812" class="word"><a href="http://www.latin-dictionary.net/definition/20954/fossatum-fossati">fossatum, fossati</a> n</li>
+          <li id="word-813" class="word"><a href="http://www.latin-dictionary.net/definition/20955/fossatus-fossata-fossatum">fossatus, fossata, fossatum</a> adj</li>
+          <li id="word-814" class="word"><a href="http://www.latin-dictionary.net/definition/20956/fossatus-fossati">fossatus, fossati</a> n</li>
+          <li id="word-815" class="word"><a href="http://www.latin-dictionary.net/definition/20957/fossicius-fossicia-fossicium">fossicius, fossicia, fossicium</a> adj</li>
+          <li id="word-816" class="word"><a href="http://www.latin-dictionary.net/definition/20958/fossile-fossilis">fossile, fossilis</a> n</li>
+          <li id="word-817" class="word"><a href="http://www.latin-dictionary.net/definition/20959/fossilis-fossilis-fossile">fossilis, fossilis, fossile</a> adj</li>
+          <li id="word-818" class="word"><a href="http://www.latin-dictionary.net/definition/20960/fossio-fossionis">fossio, fossionis</a> n</li>
+          <li id="word-819" class="word"><a href="http://www.latin-dictionary.net/definition/20961/fossor-fossoris">fossor, fossoris</a> n</li>
+          <li id="word-820" class="word"><a href="http://www.latin-dictionary.net/definition/20962/fovea-foveae">fovea, foveae</a> n</li>
+          <li id="word-821" class="word"><a href="http://www.latin-dictionary.net/definition/20963/foveo-fovere-fovi-fotus">foveo, fovere, fovi, fotus</a> v</li>
+          <li id="word-822" class="word"><a href="http://www.latin-dictionary.net/definition/20964/fracesco-fracescere-fracui">fracesco, fracescere, fracui, -</a> v</li>
+          <li id="word-823" class="word"><a href="http://www.latin-dictionary.net/definition/20965/fractio-fractionis">fractio, fractionis</a> n</li>
+          <li id="word-824" class="word"><a href="http://www.latin-dictionary.net/definition/20966/fragilis-fragilis-fragile">fragilis, fragilis, fragile</a> adj</li>
+          <li id="word-825" class="word"><a href="http://www.latin-dictionary.net/definition/20967/fragilitas-fragilitatis">fragilitas, fragilitatis</a> n</li>
+          <li id="word-826" class="word"><a href="http://www.latin-dictionary.net/definition/20968/fraglans-fraglantis">fraglans, fraglantis</a> adj</li>
+          <li id="word-827" class="word"><a href="http://www.latin-dictionary.net/definition/20969/fraglans-fraglantis">fraglans, fraglantis</a> adj</li>
+          <li id="word-828" class="word"><a href="http://www.latin-dictionary.net/definition/20970/fraglanter-fraglantius-fraglantissime">fraglanter, fraglantius, fraglantissime</a> adv</li>
+          <li id="word-829" class="word"><a href="http://www.latin-dictionary.net/definition/20971/fraglantia-fraglantiae">fraglantia, fraglantiae</a> n</li>
+          <li id="word-830" class="word"><a href="http://www.latin-dictionary.net/definition/20972/fragmen-fragminis">fragmen, fragminis</a> n</li>
+          <li id="word-831" class="word"><a href="http://www.latin-dictionary.net/definition/20973/fragmentum-fragmenti">fragmentum, fragmenti</a> n</li>
+          <li id="word-832" class="word"><a href="http://www.latin-dictionary.net/definition/20974/fragor-fragoris">fragor, fragoris</a> n</li>
+          <li id="word-833" class="word"><a href="http://www.latin-dictionary.net/definition/20975/fragosus-fragosa-fragosum">fragosus, fragosa, fragosum</a> adj</li>
+          <li id="word-834" class="word"><a href="http://www.latin-dictionary.net/definition/20976/fragrantia-fragrantiae">fragrantia, fragrantiae</a> n</li>
+          <li id="word-835" class="word"><a href="http://www.latin-dictionary.net/definition/20977/fragro-fragrare-fragravi-fragratus">fragro, fragrare, fragravi, fragratus</a> v</li>
+          <li id="word-836" class="word"><a href="http://www.latin-dictionary.net/definition/20978/fragum-fragi">fragum, fragi</a> n</li>
+          <li id="word-837" class="word"><a href="http://www.latin-dictionary.net/definition/20979/framea-frameae">framea, frameae</a> n</li>
+          <li id="word-838" class="word"><a href="http://www.latin-dictionary.net/definition/20980/francomurarius-francomurarii">francomurarius, francomurarii</a> n</li>
+          <li id="word-839" class="word"><a href="http://www.latin-dictionary.net/definition/20981/francus-franci">francus, franci</a> n</li>
+          <li id="word-840" class="word"><a href="http://www.latin-dictionary.net/definition/20982/frango-frangere-fregi-fractus">frango, frangere, fregi, fractus</a> v</li>
+          <li id="word-841" class="word"><a href="http://www.latin-dictionary.net/definition/20983/frater-fratris">frater, fratris</a> n</li>
+          <li id="word-842" class="word"><a href="http://www.latin-dictionary.net/definition/20984/fraterculus-fraterculi">fraterculus, fraterculi</a> n</li>
+          <li id="word-843" class="word"><a href="http://www.latin-dictionary.net/definition/20985/fraternitas-fraternitatis">fraternitas, fraternitatis</a> n</li>
+          <li id="word-844" class="word"><a href="http://www.latin-dictionary.net/definition/20986/fraternus-fraterna-fraternum">fraternus, fraterna, fraternum</a> adj</li>
+          <li id="word-845" class="word"><a href="http://www.latin-dictionary.net/definition/20987/fratricida-fratricidae">fratricida, fratricidae</a> n</li>
+          <li id="word-846" class="word"><a href="http://www.latin-dictionary.net/definition/20988/fraudo-fraudare-fraudavi-fraudatus">fraudo, fraudare, fraudavi, fraudatus</a> v</li>
+          <li id="word-847" class="word"><a href="http://www.latin-dictionary.net/definition/20989/fraudo-fraudare-fraudavi-fraudatus">fraudo, fraudare, fraudavi, fraudatus</a> v</li>
+          <li id="word-848" class="word"><a href="http://www.latin-dictionary.net/definition/20990/fraudulenter-fraudulentius-fraudulentissime">fraudulenter, fraudulentius, fraudulentissime</a> adv</li>
+          <li id="word-849" class="word"><a href="http://www.latin-dictionary.net/definition/20991/fraudulentia-fraudulentiae">fraudulentia, fraudulentiae</a> n</li>
+          <li id="word-850" class="word"><a href="http://www.latin-dictionary.net/definition/20992/fraudulentus-fraudulenta">fraudulentus, fraudulenta</a> adj</li>
+          <li id="word-851" class="word"><a href="http://www.latin-dictionary.net/definition/20993/fraudulosus-fraudulosa-fraudulosum">fraudulosus, fraudulosa, fraudulosum</a> adj</li>
+          <li id="word-852" class="word"><a href="http://www.latin-dictionary.net/definition/20994/fraus-fraudis">fraus, fraudis</a> n</li>
+          <li id="word-853" class="word"><a href="http://www.latin-dictionary.net/definition/20995/fraxineus-fraxinea-fraxineum">fraxineus, fraxinea, fraxineum</a> adj</li>
+          <li id="word-854" class="word"><a href="http://www.latin-dictionary.net/definition/20996/fraxinus-fraxina-fraxinum">fraxinus, fraxina, fraxinum</a> adj</li>
+          <li id="word-855" class="word"><a href="http://www.latin-dictionary.net/definition/20997/fraxinus-fraxini">fraxinus, fraxini</a> n</li>
+          <li id="word-856" class="word"><a href="http://www.latin-dictionary.net/definition/20998/fremebundus-fremebunda-fremebundum">fremebundus, fremebunda, fremebundum</a> adj</li>
+          <li id="word-857" class="word"><a href="http://www.latin-dictionary.net/definition/20999/fremitus-fremita-fremitum">fremitus, fremita, fremitum</a> adj</li>
+          <li id="word-858" class="word"><a href="http://www.latin-dictionary.net/definition/21000/fremitus-fremitus">fremitus, fremitus</a> n</li>
+          <li id="word-859" class="word"><a href="http://www.latin-dictionary.net/definition/21001/fremo-fremere-fremui-fremitus">fremo, fremere, fremui, fremitus</a> v</li>
+          <li id="word-860" class="word"><a href="http://www.latin-dictionary.net/definition/21002/fremor-fremoris">fremor, fremoris</a> n</li>
+          <li id="word-861" class="word"><a href="http://www.latin-dictionary.net/definition/21003/frendeo-frendere">frendeo, frendere, -, -</a> v</li>
+          <li id="word-862" class="word"><a href="http://www.latin-dictionary.net/definition/21004/frendo-frendere-frendui-fresus">frendo, frendere, frendui, fresus</a> v</li>
+          <li id="word-863" class="word"><a href="http://www.latin-dictionary.net/definition/21005/freno-frenare-frenavi-frenatus">freno, frenare, frenavi, frenatus</a> v</li>
+          <li id="word-864" class="word"><a href="http://www.latin-dictionary.net/definition/21006/frenum-freni">frenum, freni</a> n</li>
+          <li id="word-865" class="word"><a href="http://www.latin-dictionary.net/definition/21007/frenus-freni">frenus, freni</a> n</li>
+          <li id="word-866" class="word"><a href="http://www.latin-dictionary.net/definition/21008/frequens-frequentis">frequens, frequentis</a> adj</li>
+          <li id="word-867" class="word"><a href="http://www.latin-dictionary.net/definition/21009/frequenter">frequenter</a> adv</li>
+          <li id="word-868" class="word"><a href="http://www.latin-dictionary.net/definition/21010/frequentia-frequentiae">frequentia, frequentiae</a> n</li>
+          <li id="word-869" class="word"><a href="http://www.latin-dictionary.net/definition/21011/frequento-frequentare-frequentavi-frequentatus">frequento, frequentare, frequentavi, frequentatus</a> v</li>
+          <li id="word-870" class="word"><a href="http://www.latin-dictionary.net/definition/21012/fretum-freti">fretum, freti</a> n</li>
+          <li id="word-871" class="word"><a href="http://www.latin-dictionary.net/definition/21013/fretus-freta-fretum">fretus, freta, fretum</a> adj</li>
+          <li id="word-872" class="word"><a href="http://www.latin-dictionary.net/definition/21014/fribusculum-fribusculi">fribusculum, fribusculi</a> n</li>
+          <li id="word-873" class="word"><a href="http://www.latin-dictionary.net/definition/21015/fricatio-fricationis">fricatio, fricationis</a> n</li>
+          <li id="word-874" class="word"><a href="http://www.latin-dictionary.net/definition/21016/fricatus-fricatus">fricatus, fricatus</a> n</li>
+          <li id="word-875" class="word"><a href="http://www.latin-dictionary.net/definition/21017/frico-fricare-fricui-frictus">frico, fricare, fricui, frictus</a> v</li>
+          <li id="word-876" class="word"><a href="http://www.latin-dictionary.net/definition/21018/frictio-frictionis">frictio, frictionis</a> n</li>
+          <li id="word-877" class="word"><a href="http://www.latin-dictionary.net/definition/21019/frigdor-frigdoris">frigdor, frigdoris</a> n</li>
+          <li id="word-878" class="word"><a href="http://www.latin-dictionary.net/definition/21020/frigeo-frigere">frigeo, frigere, -, -</a> v</li>
+          <li id="word-879" class="word"><a href="http://www.latin-dictionary.net/definition/21021/frigesco-frigescere-frixi">frigesco, frigescere, frixi, -</a> v</li>
+          <li id="word-880" class="word"><a href="http://www.latin-dictionary.net/definition/21022/frigidarium-frigidarii">frigidarium, frigidarii</a> n</li>
+          <li id="word-881" class="word"><a href="http://www.latin-dictionary.net/definition/21023/frigidarius-frigidaria-frigidarium">frigidarius, frigidaria, frigidarium</a> adj</li>
+          <li id="word-882" class="word"><a href="http://www.latin-dictionary.net/definition/21024/frigidulus-frigidula-frigidulum">frigidulus, frigidula, frigidulum</a> adj</li>
+          <li id="word-883" class="word"><a href="http://www.latin-dictionary.net/definition/21025/frigidus-frigida">frigidus, frigida</a> adj</li>
+          <li id="word-884" class="word"><a href="http://www.latin-dictionary.net/definition/21026/frigo-frigere-frixi-frictus">frigo, frigere, frixi, frictus</a> v</li>
+          <li id="word-885" class="word"><a href="http://www.latin-dictionary.net/definition/21027/frigor-frigoris">frigor, frigoris</a> n</li>
+          <li id="word-886" class="word"><a href="http://www.latin-dictionary.net/definition/21028/frigus-frigoris">frigus, frigoris</a> n</li>
+          <li id="word-887" class="word"><a href="http://www.latin-dictionary.net/definition/21029/frigusculum-frigusculi">frigusculum, frigusculi</a> n</li>
+          <li id="word-888" class="word"><a href="http://www.latin-dictionary.net/definition/21030/friguttio-friguttire">friguttio, friguttire, -, -</a> v</li>
+          <li id="word-889" class="word"><a href="http://www.latin-dictionary.net/definition/21031/fringulio-fringulire">fringulio, fringulire, -, -</a> v</li>
+          <li id="word-890" class="word"><a href="http://www.latin-dictionary.net/definition/21032/fringultio-fringultire">fringultio, fringultire, -, -</a> v</li>
+          <li id="word-891" class="word"><a href="http://www.latin-dictionary.net/definition/21033/frio-friare-friavi-friatus">frio, friare, friavi, friatus</a> v</li>
+          <li id="word-892" class="word"><a href="http://www.latin-dictionary.net/definition/21034/frisiatus-frisiata-frisiatum">frisiatus, frisiata, frisiatum</a> adj</li>
+          <li id="word-893" class="word"><a href="http://www.latin-dictionary.net/definition/21035/fritillus-fritilli">fritillus, fritilli</a> n</li>
+          <li id="word-894" class="word"><a href="http://www.latin-dictionary.net/definition/21036/frivolus-frivola-frivolum">frivolus, frivola, frivolum</a> adj</li>
+          <li id="word-895" class="word"><a href="http://www.latin-dictionary.net/definition/21037/frixeolum-frixeoli">frixeolum, frixeoli</a> n</li>
+          <li id="word-896" class="word"><a href="http://www.latin-dictionary.net/definition/21038/frixo-frixare-frixavi-frixatus">frixo, frixare, frixavi, frixatus</a> v</li>
+          <li id="word-897" class="word"><a href="http://www.latin-dictionary.net/definition/21039/frixorium-frixorii">frixorium, frixorii</a> n</li>
+          <li id="word-898" class="word"><a href="http://www.latin-dictionary.net/definition/21040/frixura-frixurae">frixura, frixurae</a> n</li>
+          <li id="word-899" class="word"><a href="http://www.latin-dictionary.net/definition/21041/frixus-frixa-frixum">frixus, frixa, frixum</a> adj</li>
+          <li id="word-900" class="word"><a href="http://www.latin-dictionary.net/definition/21042/fromo-fromare-fromavi-fromatus">fromo, fromare, fromavi, fromatus</a> v</li>
+          <li id="word-901" class="word"><a href="http://www.latin-dictionary.net/definition/21043/frondator-frondatoris">frondator, frondatoris</a> n</li>
+          <li id="word-902" class="word"><a href="http://www.latin-dictionary.net/definition/21044/frondeo-frondere-frondui-fronditus">frondeo, frondere, frondui, fronditus</a> v</li>
+          <li id="word-903" class="word"><a href="http://www.latin-dictionary.net/definition/21045/frondesco-frondescere">frondesco, frondescere, -, -</a> v</li>
+          <li id="word-904" class="word"><a href="http://www.latin-dictionary.net/definition/21046/frondeus-frondea-frondeum">frondeus, frondea, frondeum</a> adj</li>
+          <li id="word-905" class="word"><a href="http://www.latin-dictionary.net/definition/21047/frondifer-frondifera-frondiferum">frondifer, frondifera, frondiferum</a> adj</li>
+          <li id="word-906" class="word"><a href="http://www.latin-dictionary.net/definition/21048/frondosus-frondosa-frondosum">frondosus, frondosa, frondosum</a> adj</li>
+          <li id="word-907" class="word"><a href="http://www.latin-dictionary.net/definition/21049/frons-frondis">frons, frondis</a> n</li>
+          <li id="word-908" class="word"><a href="http://www.latin-dictionary.net/definition/21050/frons-frontis">frons, frontis</a> n</li>
+          <li id="word-909" class="word"><a href="http://www.latin-dictionary.net/definition/21051/frontal-frontalis">frontal, frontalis</a> n</li>
+          <li id="word-910" class="word"><a href="http://www.latin-dictionary.net/definition/21052/fronto-frontonis">fronto, frontonis</a> n</li>
+          <li id="word-911" class="word"><a href="http://www.latin-dictionary.net/definition/21053/fructifer-fructifera-fructiferum">fructifer, fructifera, fructiferum</a> adj</li>
+          <li id="word-912" class="word"><a href="http://www.latin-dictionary.net/definition/21054/fructifero-fructiferare-fructiferavi-fructiferatus">fructifero, fructiferare, fructiferavi, fructiferatus</a> v</li>
+          <li id="word-913" class="word"><a href="http://www.latin-dictionary.net/definition/21055/fructifico-fructificare-fructificavi-fructificatus">fructifico, fructificare, fructificavi, fructificatus</a> v</li>
+          <li id="word-914" class="word"><a href="http://www.latin-dictionary.net/definition/21056/fructuarius-fructuaria-fructuarium">fructuarius, fructuaria, fructuarium</a> adj</li>
+          <li id="word-915" class="word"><a href="http://www.latin-dictionary.net/definition/21057/fructuosus-fructuosa">fructuosus, fructuosa</a> adj</li>
+          <li id="word-916" class="word"><a href="http://www.latin-dictionary.net/definition/21058/fructus-fructus">fructus, fructus</a> n</li>
+          <li id="word-917" class="word"><a href="http://www.latin-dictionary.net/definition/21059/frucuosus-frucuosa-frucuosum">frucuosus, frucuosa, frucuosum</a> adj</li>
+          <li id="word-918" class="word"><a href="http://www.latin-dictionary.net/definition/21060/frugalis-frugale-frugalior">frugalis, frugale, frugalior</a> adj</li>
+          <li id="word-919" class="word"><a href="http://www.latin-dictionary.net/definition/21061/frugalitas-frugalitatis">frugalitas, frugalitatis</a> n</li>
+          <li id="word-920" class="word"><a href="http://www.latin-dictionary.net/definition/21062/frugaliter-frugalius-frugalissime">frugaliter, frugalius, frugalissime</a> adv</li>
+          <li id="word-921" class="word"><a href="http://www.latin-dictionary.net/definition/21063/frugi-undeclined">frugi, undeclined</a> adj</li>
+          <li id="word-922" class="word"><a href="http://www.latin-dictionary.net/definition/21064/frugifer-frugifera-frugiferum">frugifer, frugifera, frugiferum</a> adj</li>
+          <li id="word-923" class="word"><a href="http://www.latin-dictionary.net/definition/21065/frugiferens-gen-frugiferentis">frugiferens, (gen.), frugiferentis</a> adj</li>
+          <li id="word-924" class="word"><a href="http://www.latin-dictionary.net/definition/21066/frugilegus-frugilega-frugilegum">frugilegus, frugilega, frugilegum</a> adj</li>
+          <li id="word-925" class="word"><a href="http://www.latin-dictionary.net/definition/21067/frugiparus-frugipara-frugiparum">frugiparus, frugipara, frugiparum</a> adj</li>
+          <li id="word-926" class="word"><a href="http://www.latin-dictionary.net/definition/21068/fruitio-fruitionis">fruitio, fruitionis</a> n</li>
+          <li id="word-927" class="word"><a href="http://www.latin-dictionary.net/definition/21069/frumentarius-frumentaria-frumentarium">frumentarius, frumentaria, frumentarium</a> adj</li>
+          <li id="word-928" class="word"><a href="http://www.latin-dictionary.net/definition/21070/frumentatio-frumentationis">frumentatio, frumentationis</a> n</li>
+          <li id="word-929" class="word"><a href="http://www.latin-dictionary.net/definition/21071/frumentator-frumentatoris">frumentator, frumentatoris</a> n</li>
+          <li id="word-930" class="word"><a href="http://www.latin-dictionary.net/definition/21072/frumentor-frumentari-frumentatus">frumentor, frumentari, frumentatus</a> v</li>
+          <li id="word-931" class="word"><a href="http://www.latin-dictionary.net/definition/21073/frumentum-frumenti">frumentum, frumenti</a> n</li>
+          <li id="word-932" class="word"><a href="http://www.latin-dictionary.net/definition/21074/frunesco-frunescere">frunesco, frunescere, -, -</a> v</li>
+          <li id="word-933" class="word"><a href="http://www.latin-dictionary.net/definition/21075/fruniscor-frunisci-frunitus">fruniscor, frunisci, frunitus</a> v</li>
+          <li id="word-934" class="word"><a href="http://www.latin-dictionary.net/definition/21076/fruor-fruari-fruitus">fruor, fruari, fruitus</a> v</li>
+          <li id="word-935" class="word"><a href="http://www.latin-dictionary.net/definition/21077/fruor-frui-fructus">fruor, frui, fructus</a> v</li>
+          <li id="word-936" class="word"><a href="http://www.latin-dictionary.net/definition/21078/frustatim">frustatim</a> adv</li>
+          <li id="word-937" class="word"><a href="http://www.latin-dictionary.net/definition/21079/frustillatim">frustillatim</a> adv</li>
+          <li id="word-938" class="word"><a href="http://www.latin-dictionary.net/definition/21080/frustra">frustra</a> adv</li>
+          <li id="word-939" class="word"><a href="http://www.latin-dictionary.net/definition/21081/frustramen-frustraminis">frustramen, frustraminis</a> n</li>
+          <li id="word-940" class="word"><a href="http://www.latin-dictionary.net/definition/21082/frustratio-frustrationis">frustratio, frustrationis</a> n</li>
+          <li id="word-941" class="word"><a href="http://www.latin-dictionary.net/definition/21083/frustro-frustrare-frustravi-frustratus">frustro, frustrare, frustravi, frustratus</a> v</li>
+          <li id="word-942" class="word"><a href="http://www.latin-dictionary.net/definition/21084/frustro-frustrare-frustravi-frustratus">frustro, frustrare, frustravi, frustratus</a> v</li>
+          <li id="word-943" class="word"><a href="http://www.latin-dictionary.net/definition/21085/frustror-frustrari-frustratus">frustror, frustrari, frustratus</a> v</li>
+          <li id="word-944" class="word"><a href="http://www.latin-dictionary.net/definition/21086/frustror-frustrari-frustratus">frustror, frustrari, frustratus</a> v</li>
+          <li id="word-945" class="word"><a href="http://www.latin-dictionary.net/definition/21087/frustum-frusti">frustum, frusti</a> n</li>
+          <li id="word-946" class="word"><a href="http://www.latin-dictionary.net/definition/21088/frutectosus-frutectosa-frutectosum">frutectosus, frutectosa, frutectosum</a> adj</li>
+          <li id="word-947" class="word"><a href="http://www.latin-dictionary.net/definition/21089/frutectum-frutecti">frutectum, frutecti</a> n</li>
+          <li id="word-948" class="word"><a href="http://www.latin-dictionary.net/definition/21090/frutetum-fruteti">frutetum, fruteti</a> n</li>
+          <li id="word-949" class="word"><a href="http://www.latin-dictionary.net/definition/21091/frutex-fruticis">frutex, fruticis</a> n</li>
+          <li id="word-950" class="word"><a href="http://www.latin-dictionary.net/definition/21092/fruticetum-fruticeti">fruticetum, fruticeti</a> n</li>
+          <li id="word-951" class="word"><a href="http://www.latin-dictionary.net/definition/21093/frutico-fruticare-fruticavi-fruticatus">frutico, fruticare, fruticavi, fruticatus</a> v</li>
+          <li id="word-952" class="word"><a href="http://www.latin-dictionary.net/definition/21094/fruticor-fruticari-fruticatus">fruticor, fruticari, fruticatus</a> v</li>
+          <li id="word-953" class="word"><a href="http://www.latin-dictionary.net/definition/21095/fruticosus-fruticosa-fruticosum">fruticosus, fruticosa, fruticosum</a> adj</li>
+          <li id="word-954" class="word"><a href="http://www.latin-dictionary.net/definition/21096/frux-frugis">frux, frugis</a> n</li>
+          <li id="word-955" class="word"><a href="http://www.latin-dictionary.net/definition/21097/Frygia-Frygiae">Frygia, Frygiae</a> n</li>
+          <li id="word-956" class="word"><a href="http://www.latin-dictionary.net/definition/21098/Frygius-Frygia-Frygium">Frygius, Frygia, Frygium</a> adj</li>
+          <li id="word-957" class="word"><a href="http://www.latin-dictionary.net/definition/21099/fuco-fucare-fucavi-fucatus">fuco, fucare, fucavi, fucatus</a> v</li>
+          <li id="word-958" class="word"><a href="http://www.latin-dictionary.net/definition/21100/fucosus-fucosa-fucosum">fucosus, fucosa, fucosum</a> adj</li>
+          <li id="word-959" class="word"><a href="http://www.latin-dictionary.net/definition/21101/fucus-fuci">fucus, fuci</a> n</li>
+          <li id="word-960" class="word"><a href="http://www.latin-dictionary.net/definition/21102/fuga-fugae">fuga, fugae</a> n</li>
+          <li id="word-961" class="word"><a href="http://www.latin-dictionary.net/definition/21103/fuga-fugae">fuga, fugae</a> n</li>
+          <li id="word-962" class="word"><a href="http://www.latin-dictionary.net/definition/21104/fugax-gen-fugacis">fugax, (gen.), fugacis</a> adj</li>
+          <li id="word-963" class="word"><a href="http://www.latin-dictionary.net/definition/21105/fugio-fugere-fugi-fugitus">fugio, fugere, fugi, fugitus</a> v</li>
+          <li id="word-964" class="word"><a href="http://www.latin-dictionary.net/definition/21106/fugitivus-fugitiva-fugitivum">fugitivus, fugitiva, fugitivum</a> adj</li>
+          <li id="word-965" class="word"><a href="http://www.latin-dictionary.net/definition/21107/fugitivus-fugitivi">fugitivus, fugitivi</a> n</li>
+          <li id="word-966" class="word"><a href="http://www.latin-dictionary.net/definition/21108/fugo-fugare-fugavi-fugatus">fugo, fugare, fugavi, fugatus</a> v</li>
+          <li id="word-967" class="word"><a href="http://www.latin-dictionary.net/definition/21109/fulcimen-fulciminis">fulcimen, fulciminis</a> n</li>
+          <li id="word-968" class="word"><a href="http://www.latin-dictionary.net/definition/21110/fulcimentum-fulcimenti">fulcimentum, fulcimenti</a> n</li>
+          <li id="word-969" class="word"><a href="http://www.latin-dictionary.net/definition/21111/fulcio-fulcire-fulsi-fultus">fulcio, fulcire, fulsi, fultus</a> v</li>
+          <li id="word-970" class="word"><a href="http://www.latin-dictionary.net/definition/21112/fulcrum-fulcri">fulcrum, fulcri</a> n</li>
+          <li id="word-971" class="word"><a href="http://www.latin-dictionary.net/definition/21113/fulcrum-fulcri">fulcrum, fulcri</a> n</li>
+          <li id="word-972" class="word"><a href="http://www.latin-dictionary.net/definition/21114/fulgens-fulgentis">fulgens, fulgentis</a> adj</li>
+          <li id="word-973" class="word"><a href="http://www.latin-dictionary.net/definition/21115/fulgenter-fulgentius-fulgentissime">fulgenter, fulgentius, fulgentissime</a> adv</li>
+          <li id="word-974" class="word"><a href="http://www.latin-dictionary.net/definition/21116/fulgeo-fulgere-fulsi">fulgeo, fulgere, fulsi, -</a> v</li>
+          <li id="word-975" class="word"><a href="http://www.latin-dictionary.net/definition/21117/fulgesco-fulgescere">fulgesco, fulgescere, -, -</a> v</li>
+          <li id="word-976" class="word"><a href="http://www.latin-dictionary.net/definition/21118/fulgidus-fulgida-fulgidum">fulgidus, fulgida, fulgidum</a> adj</li>
+          <li id="word-977" class="word"><a href="http://www.latin-dictionary.net/definition/21119/fulgor-fulgoris">fulgor, fulgoris</a> n</li>
+          <li id="word-978" class="word"><a href="http://www.latin-dictionary.net/definition/21120/fulgueo-fulguere-fulgsi">fulgueo, fulguere, fulgsi, -</a> v</li>
+          <li id="word-979" class="word"><a href="http://www.latin-dictionary.net/definition/21121/fulguo-fulguere-fulgsi">fulguo, fulguere, fulgsi, -</a> v</li>
+          <li id="word-980" class="word"><a href="http://www.latin-dictionary.net/definition/21122/fulgur-fulguris">fulgur, fulguris</a> n</li>
+          <li id="word-981" class="word"><a href="http://www.latin-dictionary.net/definition/21123/fulgurator-fulguratoris">fulgurator, fulguratoris</a> n</li>
+          <li id="word-982" class="word"><a href="http://www.latin-dictionary.net/definition/21124/fulguratus-fulgurata-fulguratum">fulguratus, fulgurata, fulguratum</a> adj</li>
+          <li id="word-983" class="word"><a href="http://www.latin-dictionary.net/definition/21125/fulguritus-fulgurita-fulguritum">fulguritus, fulgurita, fulguritum</a> adj</li>
+          <li id="word-984" class="word"><a href="http://www.latin-dictionary.net/definition/21126/fulguro-fulgurare-fulguravi-fulguratus">fulguro, fulgurare, fulguravi, fulguratus</a> v</li>
+          <li id="word-985" class="word"><a href="http://www.latin-dictionary.net/definition/21127/fulica-fulicae">fulica, fulicae</a> n</li>
+          <li id="word-986" class="word"><a href="http://www.latin-dictionary.net/definition/21128/fuligo-fuliginis">fuligo, fuliginis</a> n</li>
+          <li id="word-987" class="word"><a href="http://www.latin-dictionary.net/definition/21129/fullo-fullonis">fullo, fullonis</a> n</li>
+          <li id="word-988" class="word"><a href="http://www.latin-dictionary.net/definition/21130/fullonia-fulloniae">fullonia, fulloniae</a> n</li>
+          <li id="word-989" class="word"><a href="http://www.latin-dictionary.net/definition/21131/fullonica-fullonicae">fullonica, fullonicae</a> n</li>
+          <li id="word-990" class="word"><a href="http://www.latin-dictionary.net/definition/21132/fullonium-fullonii">fullonium, fullonii</a> n</li>
+          <li id="word-991" class="word"><a href="http://www.latin-dictionary.net/definition/21133/fulmen-fulminis">fulmen, fulminis</a> n</li>
+          <li id="word-992" class="word"><a href="http://www.latin-dictionary.net/definition/21134/fulmenta-fulmentae">fulmenta, fulmentae</a> n</li>
+          <li id="word-993" class="word"><a href="http://www.latin-dictionary.net/definition/21135/fulmentum-fulmenti">fulmentum, fulmenti</a> n</li>
+          <li id="word-994" class="word"><a href="http://www.latin-dictionary.net/definition/21136/fulmineus-fulminea-fulmineum">fulmineus, fulminea, fulmineum</a> adj</li>
+          <li id="word-995" class="word"><a href="http://www.latin-dictionary.net/definition/21137/fulmino-fulminare-fulminavi-fulminatus">fulmino, fulminare, fulminavi, fulminatus</a> v</li>
+          <li id="word-996" class="word"><a href="http://www.latin-dictionary.net/definition/21138/fultus-fulta-fultum">fultus, fulta, fultum</a> adj</li>
+          <li id="word-997" class="word"><a href="http://www.latin-dictionary.net/definition/21139/fulvus-fulva-fulvum">fulvus, fulva, fulvum</a> adj</li>
+          <li id="word-998" class="word"><a href="http://www.latin-dictionary.net/definition/21140/fumaculum-fumaculi">fumaculum, fumaculi</a> n</li>
+          <li id="word-999" class="word"><a href="http://www.latin-dictionary.net/definition/21141/fumator-fumatoris">fumator, fumatoris</a> n</li>
+          <li id="word-1000" class="word"><a href="http://www.latin-dictionary.net/definition/21142/fumeus-fumea-fumeum">fumeus, fumea, fumeum</a> adj</li>
+          <li id="word-1001" class="word"><a href="http://www.latin-dictionary.net/definition/21143/fumidus-fumida-fumidum">fumidus, fumida, fumidum</a> adj</li>
+          <li id="word-1002" class="word"><a href="http://www.latin-dictionary.net/definition/21144/fumifer-fumifera-fumiferum">fumifer, fumifera, fumiferum</a> adj</li>
+          <li id="word-1003" class="word"><a href="http://www.latin-dictionary.net/definition/21145/fumifico-fumificare-fumificavi-fumificatus">fumifico, fumificare, fumificavi, fumificatus</a> v</li>
+          <li id="word-1004" class="word"><a href="http://www.latin-dictionary.net/definition/21146/fumificus-fumifica-fumificum">fumificus, fumifica, fumificum</a> adj</li>
+          <li id="word-1005" class="word"><a href="http://www.latin-dictionary.net/definition/21147/fumigabundus-fumigabunda-fumigabundum">fumigabundus, fumigabunda, fumigabundum</a> adj</li>
+          <li id="word-1006" class="word"><a href="http://www.latin-dictionary.net/definition/21148/fumigans-gen-fumigantis">fumigans, (gen.), fumigantis</a> adj</li>
+          <li id="word-1007" class="word"><a href="http://www.latin-dictionary.net/definition/21149/fumigium-fumigii">fumigium, fumigii</a> n</li>
+          <li id="word-1008" class="word"><a href="http://www.latin-dictionary.net/definition/21150/fumigo-fumigare-fumigavi-fumigatus">fumigo, fumigare, fumigavi, fumigatus</a> v</li>
+          <li id="word-1009" class="word"><a href="http://www.latin-dictionary.net/definition/21151/fumigo-fumigare-fumigavi-fumigatus">fumigo, fumigare, fumigavi, fumigatus</a> v</li>
+          <li id="word-1010" class="word"><a href="http://www.latin-dictionary.net/definition/21152/fumisugium-fumisugii">fumisugium, fumisugii</a> n</li>
+          <li id="word-1011" class="word"><a href="http://www.latin-dictionary.net/definition/21153/fumo-fumare-fumavi">fumo, fumare, fumavi, -</a> v</li>
+          <li id="word-1012" class="word"><a href="http://www.latin-dictionary.net/definition/21154/fumosus-fumosa-fumosum">fumosus, fumosa, fumosum</a> adj</li>
+          <li id="word-1013" class="word"><a href="http://www.latin-dictionary.net/definition/21155/fumus-fumi">fumus, fumi</a> n</li>
+          <li id="word-1014" class="word"><a href="http://www.latin-dictionary.net/definition/21156/funale-funalis">funale, funalis</a> n</li>
+          <li id="word-1015" class="word"><a href="http://www.latin-dictionary.net/definition/21157/funambulus-funambuli">funambulus, funambuli</a> n</li>
+          <li id="word-1016" class="word"><a href="http://www.latin-dictionary.net/definition/21158/functio-functionis">functio, functionis</a> n</li>
+          <li id="word-1017" class="word"><a href="http://www.latin-dictionary.net/definition/21159/functio-functionis">functio, functionis</a> n</li>
+          <li id="word-1018" class="word"><a href="http://www.latin-dictionary.net/definition/21160/functionalis-functionalis-functionale">functionalis, functionalis, functionale</a> adj</li>
+          <li id="word-1019" class="word"><a href="http://www.latin-dictionary.net/definition/21161/functionaliter">functionaliter</a> adv</li>
+          <li id="word-1020" class="word"><a href="http://www.latin-dictionary.net/definition/21162/funda-fundae">funda, fundae</a> n</li>
+          <li id="word-1021" class="word"><a href="http://www.latin-dictionary.net/definition/21163/fundaitor-fundaitoris">fundaitor, fundaitoris</a> n</li>
+          <li id="word-1022" class="word"><a href="http://www.latin-dictionary.net/definition/21164/fundamen-fundaminis">fundamen, fundaminis</a> n</li>
+          <li id="word-1023" class="word"><a href="http://www.latin-dictionary.net/definition/21165/fundamentum-fundamenti">fundamentum, fundamenti</a> n</li>
+          <li id="word-1024" class="word"><a href="http://www.latin-dictionary.net/definition/21166/fundatio-fundationis">fundatio, fundationis</a> n</li>
+          <li id="word-1025" class="word"><a href="http://www.latin-dictionary.net/definition/21167/fundatrix-fundatricis">fundatrix, fundatricis</a> n</li>
+          <li id="word-1026" class="word"><a href="http://www.latin-dictionary.net/definition/21168/fundibalarius-fundibalarii">fundibalarius, fundibalarii</a> n</li>
+          <li id="word-1027" class="word"><a href="http://www.latin-dictionary.net/definition/21169/fundibalum-fundibali">fundibalum, fundibali</a> n</li>
+          <li id="word-1028" class="word"><a href="http://www.latin-dictionary.net/definition/21170/fundibalus-fundibali">fundibalus, fundibali</a> n</li>
+          <li id="word-1029" class="word"><a href="http://www.latin-dictionary.net/definition/21171/fundibulum-fundibuli">fundibulum, fundibuli</a> n</li>
+          <li id="word-1030" class="word"><a href="http://www.latin-dictionary.net/definition/21172/fundimentum-fundimenti">fundimentum, fundimenti</a> n</li>
+          <li id="word-1031" class="word"><a href="http://www.latin-dictionary.net/definition/21173/funditor-funditoris">funditor, funditoris</a> n</li>
+          <li id="word-1032" class="word"><a href="http://www.latin-dictionary.net/definition/21174/funditus">funditus</a> adv</li>
+          <li id="word-1033" class="word"><a href="http://www.latin-dictionary.net/definition/21175/fundius">fundius</a> adv</li>
+          <li id="word-1034" class="word"><a href="http://www.latin-dictionary.net/definition/21176/fundo-fundare-fundavi-fundatus">fundo, fundare, fundavi, fundatus</a> v</li>
+          <li id="word-1035" class="word"><a href="http://www.latin-dictionary.net/definition/21177/fundo-fundere-fudi-fusus">fundo, fundere, fudi, fusus</a> v</li>
+          <li id="word-1036" class="word"><a href="http://www.latin-dictionary.net/definition/21178/fundus-fundi">fundus, fundi</a> n</li>
+          <li id="word-1037" class="word"><a href="http://www.latin-dictionary.net/definition/21179/funebre-funebris">funebre, funebris</a> n</li>
+          <li id="word-1038" class="word"><a href="http://www.latin-dictionary.net/definition/21180/funebris-funebris-funebre">funebris, funebris, funebre</a> adj</li>
+          <li id="word-1039" class="word"><a href="http://www.latin-dictionary.net/definition/21181/funereus-funerea-funereum">funereus, funerea, funereum</a> adj</li>
+          <li id="word-1040" class="word"><a href="http://www.latin-dictionary.net/definition/21182/funero-funerare-funeravi-funeratus">funero, funerare, funeravi, funeratus</a> v</li>
+          <li id="word-1041" class="word"><a href="http://www.latin-dictionary.net/definition/21183/funesto-funestare-funestavi-funestatus">funesto, funestare, funestavi, funestatus</a> v</li>
+          <li id="word-1042" class="word"><a href="http://www.latin-dictionary.net/definition/21184/funestus-funesta-funestum">funestus, funesta, funestum</a> adj</li>
+          <li id="word-1043" class="word"><a href="http://www.latin-dictionary.net/definition/21185/funginus-fungina-funginum">funginus, fungina, funginum</a> adj</li>
+          <li id="word-1044" class="word"><a href="http://www.latin-dictionary.net/definition/21186/fungor-fungi-functus">fungor, fungi, functus</a> v</li>
+          <li id="word-1045" class="word"><a href="http://www.latin-dictionary.net/definition/21187/fungosus-fungosa-fungosum">fungosus, fungosa, fungosum</a> adj</li>
+          <li id="word-1046" class="word"><a href="http://www.latin-dictionary.net/definition/21188/fungus-fungi">fungus, fungi</a> n</li>
+          <li id="word-1047" class="word"><a href="http://www.latin-dictionary.net/definition/21189/funiculus-funiculi">funiculus, funiculi</a> n</li>
+          <li id="word-1048" class="word"><a href="http://www.latin-dictionary.net/definition/21190/funis-funis">funis, funis</a> n</li>
+          <li id="word-1049" class="word"><a href="http://www.latin-dictionary.net/definition/21191/funivia-funiviae">funivia, funiviae</a> n</li>
+          <li id="word-1050" class="word"><a href="http://www.latin-dictionary.net/definition/21192/funus-funeris">funus, funeris</a> n</li>
+          <li id="word-1051" class="word"><a href="http://www.latin-dictionary.net/definition/21193/fur-furis">fur, furis</a> n</li>
+          <li id="word-1052" class="word"><a href="http://www.latin-dictionary.net/definition/21194/furax-gen-furacis">furax, (gen.), furacis</a> adj</li>
+          <li id="word-1053" class="word"><a href="http://www.latin-dictionary.net/definition/21195/furca-furcae">furca, furcae</a> n</li>
+          <li id="word-1054" class="word"><a href="http://www.latin-dictionary.net/definition/21196/furcifer-furciferi">furcifer, furciferi</a> n</li>
+          <li id="word-1055" class="word"><a href="http://www.latin-dictionary.net/definition/21197/furcilla-furcillae">furcilla, furcillae</a> n</li>
+          <li id="word-1056" class="word"><a href="http://www.latin-dictionary.net/definition/21198/furcillo-furcillare-furcillavi-furcillatus">furcillo, furcillare, furcillavi, furcillatus</a> v</li>
+          <li id="word-1057" class="word"><a href="http://www.latin-dictionary.net/definition/21199/furcula-furculae">furcula, furculae</a> n</li>
+          <li id="word-1058" class="word"><a href="http://www.latin-dictionary.net/definition/21200/furfur-furfuris">furfur, furfuris</a> n</li>
+          <li id="word-1059" class="word"><a href="http://www.latin-dictionary.net/definition/21201/furia-furiae">furia, furiae</a> n</li>
+          <li id="word-1060" class="word"><a href="http://www.latin-dictionary.net/definition/21202/furialis-furialis-furiale">furialis, furialis, furiale</a> adj</li>
+          <li id="word-1061" class="word"><a href="http://www.latin-dictionary.net/definition/21203/furibundus-furibunda-furibundum">furibundus, furibunda, furibundum</a> adj</li>
+          <li id="word-1062" class="word"><a href="http://www.latin-dictionary.net/definition/21204/furio-furiare-furiavi-furiatus">furio, furiare, furiavi, furiatus</a> v</li>
+          <li id="word-1063" class="word"><a href="http://www.latin-dictionary.net/definition/21205/furiosus-furiosa-furiosum">furiosus, furiosa, furiosum</a> adj</li>
+          <li id="word-1064" class="word"><a href="http://www.latin-dictionary.net/definition/21206/furnax-furnacis">furnax, furnacis</a> n</li>
+          <li id="word-1065" class="word"><a href="http://www.latin-dictionary.net/definition/21207/furnus-furni">furnus, furni</a> n</li>
+          <li id="word-1066" class="word"><a href="http://www.latin-dictionary.net/definition/21208/furo-furere">furo, furere, -, -</a> v</li>
+          <li id="word-1067" class="word"><a href="http://www.latin-dictionary.net/definition/21209/furor-furari-furatus">furor, furari, furatus</a> v</li>
+          <li id="word-1068" class="word"><a href="http://www.latin-dictionary.net/definition/21210/furor-furoris">furor, furoris</a> n</li>
+          <li id="word-1069" class="word"><a href="http://www.latin-dictionary.net/definition/21211/furs-furis">furs, furis</a> n</li>
+          <li id="word-1070" class="word"><a href="http://www.latin-dictionary.net/definition/21212/furtificus-furtifica-furtificum">furtificus, furtifica, furtificum</a> adj</li>
+          <li id="word-1071" class="word"><a href="http://www.latin-dictionary.net/definition/21213/furtim">furtim</a> adv</li>
+          <li id="word-1072" class="word"><a href="http://www.latin-dictionary.net/definition/21214/furtivus-furtiva-furtivum">furtivus, furtiva, furtivum</a> adj</li>
+          <li id="word-1073" class="word"><a href="http://www.latin-dictionary.net/definition/21215/furtum-furti">furtum, furti</a> n</li>
+          <li id="word-1074" class="word"><a href="http://www.latin-dictionary.net/definition/21216/furunculus-furunculi">furunculus, furunculi</a> n</li>
+          <li id="word-1075" class="word"><a href="http://www.latin-dictionary.net/definition/21217/furvus-furva-furvum">furvus, furva, furvum</a> adj</li>
+          <li id="word-1076" class="word"><a href="http://www.latin-dictionary.net/definition/21218/fuscina-fuscinae">fuscina, fuscinae</a> n</li>
+          <li id="word-1077" class="word"><a href="http://www.latin-dictionary.net/definition/21219/fuscinula-fuscinulae">fuscinula, fuscinulae</a> n</li>
+          <li id="word-1078" class="word"><a href="http://www.latin-dictionary.net/definition/21220/fusco-fuscare-fuscavi-fuscatus">fusco, fuscare, fuscavi, fuscatus</a> v</li>
+          <li id="word-1079" class="word"><a href="http://www.latin-dictionary.net/definition/21221/fuscus-fusca-fuscum">fuscus, fusca, fuscum</a> adj</li>
+          <li id="word-1080" class="word"><a href="http://www.latin-dictionary.net/definition/21222/fusiformis-fusiformis-fusiforme">fusiformis, fusiformis, fusiforme</a> adj</li>
+          <li id="word-1081" class="word"><a href="http://www.latin-dictionary.net/definition/21223/fusilis-fusilis-fusile">fusilis, fusilis, fusile</a> adj</li>
+          <li id="word-1082" class="word"><a href="http://www.latin-dictionary.net/definition/21224/fustibalus-fustibali">fustibalus, fustibali</a> n</li>
+          <li id="word-1083" class="word"><a href="http://www.latin-dictionary.net/definition/21225/fustis-fustis">fustis, fustis</a> n</li>
+          <li id="word-1084" class="word"><a href="http://www.latin-dictionary.net/definition/21226/fustuarium-fustuari-i">fustuarium, fustuari(i)</a> n</li>
+          <li id="word-1085" class="word"><a href="http://www.latin-dictionary.net/definition/21227/fusus-fusa-fusum">fusus, fusa, fusum</a> adj</li>
+          <li id="word-1086" class="word"><a href="http://www.latin-dictionary.net/definition/21228/fusus-fusi">fusus, fusi</a> n</li>
+          <li id="word-1087" class="word"><a href="http://www.latin-dictionary.net/definition/21229/futatim">futatim</a> adv</li>
+          <li id="word-1088" class="word"><a href="http://www.latin-dictionary.net/definition/21230/futilis-futilis-futile">futilis, futilis, futile</a> adj</li>
+          <li id="word-1089" class="word"><a href="http://www.latin-dictionary.net/definition/21231/futtilis-futtilis-futtile">futtilis, futtilis, futtile</a> adj</li>
+          <li id="word-1090" class="word"><a href="http://www.latin-dictionary.net/definition/21232/futuo-futuere-futui-fututus">futuo, futuere, futui, fututus</a> v</li>
+          <li id="word-1091" class="word"><a href="http://www.latin-dictionary.net/definition/21233/futurismus-futurismi">futurismus, futurismi</a> n</li>
+          <li id="word-1092" class="word"><a href="http://www.latin-dictionary.net/definition/21234/futurologus-futurologi">futurologus, futurologi</a> n</li>
+          <li id="word-1093" class="word"><a href="http://www.latin-dictionary.net/definition/21235/futurus-futura-futurum">futurus, futura, futurum</a> adj</li>
+          <li id="word-1094" class="word"><a href="http://www.latin-dictionary.net/definition/21236/fylacterium-fylacterii">fylacterium, fylacterii</a> n</li>

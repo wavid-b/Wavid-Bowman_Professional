@@ -1,0 +1,708 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/21806/ha">ha</a> interj</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/21807/Habacuc-undeclined">Habacuc, undeclined</a> n</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/21808/habena-habenae">habena, habenae</a> n</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/21809/habeo-habere-habui-habitus">habeo, habere, habui, habitus</a> v</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/21810/habetudo-habetudinis">habetudo, habetudinis</a> n</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/21811/habilis-habilis-habile">habilis, habilis, habile</a> adj</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/21812/habilitas-habilitatis">habilitas, habilitatis</a> n</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/21813/habilito-habilitare-habilitavi-habilitatus">habilito, habilitare, habilitavi, habilitatus</a> v</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/21814/habitabilis-habitabilis-habitabile">habitabilis, habitabilis, habitabile</a> adj</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/21815/habitaculum-habitaculi">habitaculum, habitaculi</a> n</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/21816/habitans-habitantis">habitans, habitantis</a> n</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/21817/habitatio-habitationis">habitatio, habitationis</a> n</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/21818/habitator-habitatoris">habitator, habitatoris</a> n</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/21819/habitatrix-habitatricis">habitatrix, habitatricis</a> n</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/21820/habito-habitare-habitavi-habitatus">habito, habitare, habitavi, habitatus</a> v</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/21821/habitualis-habitualis-habituale">habitualis, habitualis, habituale</a> adj</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/21822/habitualiter">habitualiter</a> adv</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/21823/habitudinalis-habitudinalis-habitudinale">habitudinalis, habitudinalis, habitudinale</a> adj</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/21824/habitudo-habitudinis">habitudo, habitudinis</a> n</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/21825/habituo-habituare-habituavi-habituatus">habituo, habituare, habituavi, habituatus</a> v</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/21826/habitus-habitus">habitus, habitus</a> n</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/21827/Habraeus-Habraea-Habraeum">Habraeus, Habraea, Habraeum</a> adj</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/21828/habrodiaetus-habrodiaeti">habrodiaetus, habrodiaeti</a> n</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/21829/habrotonum-habrotoni">habrotonum, habrotoni</a> n</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/21830/hac">hac</a> adv</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/21831/Haceldama-undeclined">Haceldama, undeclined</a> n</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/21832/hactenus">hactenus</a> adv</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/21833/Hadrianus-Hadriana-Hadrianum">Hadrianus, Hadriana, Hadrianum</a> adj</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/21834/Hadrianus-Hadriani">Hadrianus, Hadriani</a> n</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/21835/Hadrumetinus-Hadrumetina-Hadrumetinum">Hadrumetinus, Hadrumetina, Hadrumetinum</a> adj</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/21836/Hadrumetinus-Hadrumetini">Hadrumetinus, Hadrumetini</a> n</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/21837/Hadrumetum-Hadrumeti">Hadrumetum, Hadrumeti</a> n</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/21838/Hadrumetus-Hadrumeti">Hadrumetus, Hadrumeti</a> n</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/21839/haedilia-haediliae">haedilia, haediliae</a> n</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/21840/haedilla-haedillae">haedilla, haedillae</a> n</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/21841/haedillus-haedilli">haedillus, haedilli</a> n</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/21842/haedinus-haedina-haedinum">haedinus, haedina, haedinum</a> adj</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/21843/haedulea-haeduleae">haedulea, haeduleae</a> n</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/21844/haedulus-haeduli">haedulus, haeduli</a> n</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/21845/haedus-haedi">haedus, haedi</a> n</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/21846/Haeduus-Haedui">Haeduus, Haedui</a> n</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/21847/haemorrhagia-haemorrhagiae">haemorrhagia, haemorrhagiae</a> n</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/21848/haemorrhois-haemorrhoidis">haemorrhois, haemorrhoidis</a> n</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/21849/haemorrhoissus-haemorrhoissa-haemorrhoissum">haemorrhoissus, haemorrhoissa, haemorrhoissum</a> adj</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/21850/haemorroida-haemorroidae">haemorroida, haemorroidae</a> n</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/21851/haereditas-haereditatis">haereditas, haereditatis</a> n</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/21852/haereo-haerere-haesi-haesus">haereo, haerere, haesi, haesus</a> v</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/21853/haeresiarcha-haeresiarchae">haeresiarcha, haeresiarchae</a> n</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/21854/haeresis-haereseos-is">haeresis, haereseos/is</a> n</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/21855/haeresis-haeresis">haeresis, haeresis</a> n</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/21856/haereticus-haeretica-haereticum">haereticus, haeretica, haereticum</a> adj</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/21857/haereticus-haeretici">haereticus, haeretici</a> n</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/21858/haesitatio-haesitationis">haesitatio, haesitationis</a> n</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/21859/haesito-haesitare-haesitavi-haesitatus">haesito, haesitare, haesitavi, haesitatus</a> v</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/21860/hagiographia-hagiographiae">hagiographia, hagiographiae</a> n</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/21861/hagiographicus-hagiographica-hagiographicum">hagiographicus, hagiographica, hagiographicum</a> adj</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/21862/hagiographus-hagiographa-hagiographum">hagiographus, hagiographa, hagiographum</a> adj</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/21863/hagiographus-hagiographi">hagiographus, hagiographi</a> n</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/21864/hagios-hagia-hagion">hagios, hagia, hagion</a> adj</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/21865/hahahae">hahahae</a> interj</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/21866/hahahe">hahahe</a> interj</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/21867/haicu-haicus">haicu, haicus</a> n</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/21868/halatio-halationis">halatio, halationis</a> n</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/21869/halcycon-halcyonis">halcycon, halcyonis</a> n</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/21870/haliaeetos-haliaeeti">haliaeetos, haliaeeti</a> n</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/21871/halica-halicae">halica, halicae</a> n</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/21872/halicacius-halicacia-halicacium">halicacius, halicacia, halicacium</a> adj</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/21873/halicastrum-halicastri">halicastrum, halicastri</a> n</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/21874/halito-halitare-halitavi-halitatus">halito, halitare, halitavi, halitatus</a> v</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/21875/halitus-halitus">halitus, halitus</a> n</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/21876/hallec-hallecis">hallec, hallecis</a> n</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/21877/Hallelujah">Hallelujah</a> interj</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/21878/hallucinator-hallucinatoris">hallucinator, hallucinatoris</a> n</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/21879/hallus-halli">hallus, halli</a> n</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/21880/halmaturus-halmaturi">halmaturus, halmaturi</a> n</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/21881/halo-halare-halavi-halatus">halo, halare, halavi, halatus</a> v</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/21882/halucinatio-halucinationis">halucinatio, halucinationis</a> n</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/21883/halucinor-halucinari-halucinatus">halucinor, halucinari, halucinatus</a> v</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/21884/hama-hamae">hama, hamae</a> n</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/21885/hamadryas-hamadryados-is">hamadryas, hamadryados/is</a> n</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/21886/hamatus-hamata-hamatum">hamatus, hamata, hamatum</a> adj</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/21887/hamiota-hamiotae">hamiota, hamiotae</a> n</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/21888/hammonitrum-hammonitri">hammonitrum, hammonitri</a> n</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/21889/hamula-hamulae">hamula, hamulae</a> n</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/21890/hamus-hami">hamus, hami</a> n</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/21891/hannapus-hannapi">hannapus, hannapi</a> n</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/21892/Hannibal-Hannibalis">Hannibal, Hannibalis</a> n</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/21893/hapalus-hapala-hapalum">hapalus, hapala, hapalum</a> adj</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/21894/hara-harae">hara, harae</a> n</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/21895/harena-harenae">harena, harenae</a> n</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/21896/harenaceus-harenacea-harenaceum">harenaceus, harenacea, harenaceum</a> adj</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/21897/harenaria-harenariae">harenaria, harenariae</a> n</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/21898/harenaria-harenariae">harenaria, harenariae</a> n</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/21899/harenarium-harenarii">harenarium, harenarii</a> n</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/21900/harenarius-harenaria-harenarium">harenarius, harenaria, harenarium</a> adj</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/21901/harenarius-harenarii">harenarius, harenarii</a> n</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/21902/harenatio-harenationis">harenatio, harenationis</a> n</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/21903/harenatum-harenati">harenatum, harenati</a> n</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/21904/harenatus-harenata-harenatum">harenatus, harenata, harenatum</a> adj</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/21905/harenifodina-harenifodinae">harenifodina, harenifodinae</a> n</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/21906/harenivagus-harenivaga-harenivagum">harenivagus, harenivaga, harenivagum</a> adj</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/21907/harenosum-harenosi">harenosum, harenosi</a> n</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/21908/harenosus-harenosa-harenosum">harenosus, harenosa, harenosum</a> adj</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/21909/harenula-harenulae">harenula, harenulae</a> n</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/21910/haricolor-haricolari-haricolatus">haricolor, haricolari, haricolatus</a> v</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/21911/hariola-hariolae">hariola, hariolae</a> n</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/21912/hariolor-hariolari-hariolatus">hariolor, hariolari, hariolatus</a> v</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/21913/hariolus-harioli">hariolus, harioli</a> n</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/21914/harmonia-harmoniae">harmonia, harmoniae</a> n</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/21915/harmonica-harmonicae">harmonica, harmonicae</a> n</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/21916/harmonice">harmonice</a> adv</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/21917/harmonice-harmonices">harmonice, harmonices</a> n</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/21918/harmonicus-harmonica-harmonicum">harmonicus, harmonica, harmonicum</a> adj</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/21919/harmonium-harmonii">harmonium, harmonii</a> n</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/21920/harpagatus-harpagata-harpagatum">harpagatus, harpagata, harpagatum</a> adj</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/21921/harpago-harpagonis">harpago, harpagonis</a> n</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/21922/harpastum-harpasti">harpastum, harpasti</a> n</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/21923/harpax-gen-harpacis">harpax, (gen.), harpacis</a> adj</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/21924/harpe-harpes">harpe, harpes</a> n</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/21925/harpyria-harpyriae">harpyria, harpyriae</a> n</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/21926/harum-hari">harum, hari</a> n</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/21927/harundifer-harundifera-harundiferum">harundifer, harundifera, harundiferum</a> adj</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/21928/harundinetum-harundineti">harundinetum, harundineti</a> adj</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/21929/harundineus-harundinea-harundineum">harundineus, harundinea, harundineum</a> adj</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/21930/harundinosus-harundinosa-harundinosum">harundinosus, harundinosa, harundinosum</a> adj</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/21931/harundo-harundinis">harundo, harundinis</a> n</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/21932/haruspex-haruspicis">haruspex, haruspicis</a> n</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/21933/haruspicina-haruspicinae">haruspicina, haruspicinae</a> n</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/21934/haruspicinus-haruspicina-haruspicinum">haruspicinus, haruspicina, haruspicinum</a> adj</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/21935/harviga-harvigae">harviga, harvigae</a> n</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/21936/harvix-harvigis">harvix, harvigis</a> n</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/21937/Hasdrubal-Hasdrubalis">Hasdrubal, Hasdrubalis</a> n</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/21938/hasisum-hasisi">hasisum, hasisi</a> n</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/21939/hasta-hastae">hasta, hastae</a> n</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/21940/hastatus-hastata-hastatum">hastatus, hastata, hastatum</a> adj</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/21941/hastatus-hastati">hastatus, hastati</a> n</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/21942/hastile-hastilis">hastile, hastilis</a> n</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/21943/hastilis-hastilis-hastile">hastilis, hastilis, hastile</a> adj</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/21944/hau">hau</a> adv</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/21945/hau">hau</a> interj</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/21946/haud">haud</a> adv</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/21947/hauddum">hauddum</a> adv</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/21948/haudquaquam">haudquaquam</a> adv</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/21949/hauquaquam">hauquaquam</a> adv</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/21950/haurio-haurire-hausi-haustus">haurio, haurire, hausi, haustus</a> v</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/21951/haustrum-haustri">haustrum, haustri</a> n</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/21952/haustus-haustus">haustus, haustus</a> n</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/21953/haut">haut</a> adv</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/21954/have">have</a> interj</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/21955/havens-gen-haventis">havens, (gen.), haventis</a> adj</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/21956/haveo-havere">haveo, havere, -, -</a> v</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/21957/haveo-havere">haveo, havere, -, -</a> v</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/21958/he-undeclined">he, undeclined</a> n</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/21959/hebdomada-hebdomadae">hebdomada, hebdomadae</a> n</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/21960/hebdomada-hebdomadae">hebdomada, hebdomadae</a> n</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/21961/hebdomadarius-hebdomadaria-hebdomadarium">hebdomadarius, hebdomadaria, hebdomadarium</a> adj</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/21962/hebdomadarius-hebdomadarii">hebdomadarius, hebdomadarii</a> n</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/21963/hebdomas-hebdomadis">hebdomas, hebdomadis</a> n</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/21964/hebdomas-hebdomadis">hebdomas, hebdomadis</a> n</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/21965/hebdomas-hebdomados-is">hebdomas, hebdomados/is</a> n</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/21966/hebdomas-hebdomados-is">hebdomas, hebdomados/is</a> n</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/21967/hebenius-hebenia-hebenium">hebenius, hebenia, hebenium</a> adj</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/21968/hebenum-hebeni">hebenum, hebeni</a> n</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/21969/hebenus-hebeni">hebenus, hebeni</a> n</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/21970/hebeo-hebere">hebeo, hebere, -, -</a> v</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/21971/hebes-gen-hebetis">hebes, (gen.), hebetis</a> adj</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/21972/hebesco-hebescere">hebesco, hebescere, -, -</a> v</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/21973/hebeto-hebetare-hebetavi-hebetatus">hebeto, hebetare, hebetavi, hebetatus</a> v</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/21974/hebetudo-hebetudinis">hebetudo, hebetudinis</a> v</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/21975/Hebraea-Hebraeae">Hebraea, Hebraeae</a> n</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/21976/Hebraeus-Hebraea-Hebraeum">Hebraeus, Hebraea, Hebraeum</a> adj</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/21977/Hebraeus-Hebraei">Hebraeus, Hebraei</a> n</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/21978/Hebraice">Hebraice</a> adv</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/21979/Hebraicis-Hebraicis-Hebraice">Hebraicis, Hebraicis, Hebraice</a> adj</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/21980/Hebraicus-Hebraica-Hebraicum">Hebraicus, Hebraica, Hebraicum</a> adj</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/21981/hebria-hebriae">hebria, hebriae</a> n</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/21982/hecatolitrum-hecatolitri">hecatolitrum, hecatolitri</a> n</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/21983/hecatombe-hecatombes">hecatombe, hecatombes</a> n</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/21984/hecatometrum-hecatometri">hecatometrum, hecatometri</a> n</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/21985/hectarea-hectareae">hectarea, hectareae</a> n</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/21986/Hector-Hectoris">Hector, Hectoris</a> n</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/21987/hedera-hederae">hedera, hederae</a> n</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/21988/hederacius-hederacia-hederacium">hederacius, hederacia, hederacium</a> adj</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/21989/hedonismus-hedonismi">hedonismus, hedonismi</a> n</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/21990/hedonisticus-hedonistica-hedonisticum">hedonisticus, hedonistica, hedonisticum</a> adj</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/21991/hedus-hedi">hedus, hedi</a> n</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/21992/hedychrum-hedychri">hedychrum, hedychri</a> n</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/21993/Hegumen-Hegumenis">Hegumen, Hegumenis</a> n</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/21994/hei">hei</a> interj</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/21995/heia">heia</a> interj</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/21996/heiros-heira-heiron">heiros, heira, heiron</a> adj</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/21997/hejulor-hejulari-hejulatus">hejulor, hejulari, hejulatus</a> v</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/21998/Heli">Heli</a> interj</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/21999/helica-helicae">helica, helicae</a> n</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/22000/helicopterum-helicopteri">helicopterum, helicopteri</a> n</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/22001/helleborum-hellebori">helleborum, hellebori</a> n</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/22002/helleborus-hellebori">helleborus, hellebori</a> n</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/22003/hellenismus-hellenismi">hellenismus, hellenismi</a> n</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/22004/hellenisticus-hellenistica-hellenisticum">hellenisticus, hellenistica, hellenisticum</a> adj</li>
+          <li id="word-199" class="word"><a href="http://www.latin-dictionary.net/definition/22005/helluatio-helluationis">helluatio, helluationis</a> n</li>
+          <li id="word-200" class="word"><a href="http://www.latin-dictionary.net/definition/22006/helluo-helluonis">helluo, helluonis</a> n</li>
+          <li id="word-201" class="word"><a href="http://www.latin-dictionary.net/definition/22007/helluor-helluari-helluatus">helluor, helluari, helluatus</a> v</li>
+          <li id="word-202" class="word"><a href="http://www.latin-dictionary.net/definition/22008/helops-helopis">helops, helopis</a> n</li>
+          <li id="word-203" class="word"><a href="http://www.latin-dictionary.net/definition/22009/heluo-heluonis">heluo, heluonis</a> n</li>
+          <li id="word-204" class="word"><a href="http://www.latin-dictionary.net/definition/22010/heluor-heluari-heluatus">heluor, heluari, heluatus</a> v</li>
+          <li id="word-205" class="word"><a href="http://www.latin-dictionary.net/definition/22011/helvella-helvellae">helvella, helvellae</a> n</li>
+          <li id="word-206" class="word"><a href="http://www.latin-dictionary.net/definition/22012/Helvetia-Helvetiae">Helvetia, Helvetiae</a> n</li>
+          <li id="word-207" class="word"><a href="http://www.latin-dictionary.net/definition/22013/Helvetius-Helvetia-Helvetium">Helvetius, Helvetia, Helvetium</a> adj</li>
+          <li id="word-208" class="word"><a href="http://www.latin-dictionary.net/definition/22014/Helvetius-Helvetii">Helvetius, Helvetii</a> n</li>
+          <li id="word-209" class="word"><a href="http://www.latin-dictionary.net/definition/22015/helxine-helxines">helxine, helxines</a> n</li>
+          <li id="word-210" class="word"><a href="http://www.latin-dictionary.net/definition/22016/hem">hem</a> interj</li>
+          <li id="word-211" class="word"><a href="http://www.latin-dictionary.net/definition/22017/hemera-hemerae">hemera, hemerae</a> n</li>
+          <li id="word-212" class="word"><a href="http://www.latin-dictionary.net/definition/22018/hemerodromus-hemerodromi">hemerodromus, hemerodromi</a> n</li>
+          <li id="word-213" class="word"><a href="http://www.latin-dictionary.net/definition/22019/hemicillus-hemicilli">hemicillus, hemicilli</a> n</li>
+          <li id="word-214" class="word"><a href="http://www.latin-dictionary.net/definition/22020/hemicrania-hemicraniae">hemicrania, hemicraniae</a> n</li>
+          <li id="word-215" class="word"><a href="http://www.latin-dictionary.net/definition/22021/hemicyclium-hemicyclii">hemicyclium, hemicyclii</a> n</li>
+          <li id="word-216" class="word"><a href="http://www.latin-dictionary.net/definition/22022/hemiditonus-hemiditoni">hemiditonus, hemiditoni</a> n</li>
+          <li id="word-217" class="word"><a href="http://www.latin-dictionary.net/definition/22023/hemina-heminae">hemina, heminae</a> n</li>
+          <li id="word-218" class="word"><a href="http://www.latin-dictionary.net/definition/22024/heminarium-heminarii">heminarium, heminarii</a> n</li>
+          <li id="word-219" class="word"><a href="http://www.latin-dictionary.net/definition/22025/hemiolios-hemiolios-hemiolion">hemiolios, hemiolios, hemiolion</a> adj</li>
+          <li id="word-220" class="word"><a href="http://www.latin-dictionary.net/definition/22026/hemisphaerion-hemisphaerii">hemisphaerion, hemisphaerii</a> n</li>
+          <li id="word-221" class="word"><a href="http://www.latin-dictionary.net/definition/22027/hemisphaerium-hemisphaerii">hemisphaerium, hemisphaerii</a> n</li>
+          <li id="word-222" class="word"><a href="http://www.latin-dictionary.net/definition/22028/hemitonion-hemitonii">hemitonion, hemitonii</a> n</li>
+          <li id="word-223" class="word"><a href="http://www.latin-dictionary.net/definition/22029/hemitonium-hemitonii">hemitonium, hemitonii</a> n</li>
+          <li id="word-224" class="word"><a href="http://www.latin-dictionary.net/definition/22030/hemorrhoissa-hemorrhoissae">hemorrhoissa, hemorrhoissae</a> n</li>
+          <li id="word-225" class="word"><a href="http://www.latin-dictionary.net/definition/22031/hemorrhoissus-hemorrhoissa-hemorrhoissum">hemorrhoissus, hemorrhoissa, hemorrhoissum</a> adj</li>
+          <li id="word-226" class="word"><a href="http://www.latin-dictionary.net/definition/22032/hendecasyllabus-hendecasyllaba-hendecasyllabum">hendecasyllabus, hendecasyllaba, hendecasyllabum</a> adj</li>
+          <li id="word-227" class="word"><a href="http://www.latin-dictionary.net/definition/22033/hendecasyllabus-hendecasyllabi">hendecasyllabus, hendecasyllabi</a> n</li>
+          <li id="word-228" class="word"><a href="http://www.latin-dictionary.net/definition/22034/heortologia-heortologiae">heortologia, heortologiae</a> n</li>
+          <li id="word-229" class="word"><a href="http://www.latin-dictionary.net/definition/22035/hepatitis-hepatitidis">hepatitis, hepatitidis</a> n</li>
+          <li id="word-230" class="word"><a href="http://www.latin-dictionary.net/definition/22036/heptas-heptados-is">heptas, heptados/is</a> n</li>
+          <li id="word-231" class="word"><a href="http://www.latin-dictionary.net/definition/22037/hepteris-hepteris">hepteris, hepteris</a> n</li>
+          <li id="word-232" class="word"><a href="http://www.latin-dictionary.net/definition/22038/hera-herae">hera, herae</a> n</li>
+          <li id="word-233" class="word"><a href="http://www.latin-dictionary.net/definition/22039/herba-herbae">herba, herbae</a> n</li>
+          <li id="word-234" class="word"><a href="http://www.latin-dictionary.net/definition/22040/herbaceus-herbacea-herbaceum">herbaceus, herbacea, herbaceum</a> adj</li>
+          <li id="word-235" class="word"><a href="http://www.latin-dictionary.net/definition/22041/herbagium-herbagii">herbagium, herbagii</a> n</li>
+          <li id="word-236" class="word"><a href="http://www.latin-dictionary.net/definition/22042/herbesco-herbescere">herbesco, herbescere, -, -</a> v</li>
+          <li id="word-237" class="word"><a href="http://www.latin-dictionary.net/definition/22043/herbicidum-herbicidi">herbicidum, herbicidi</a> n</li>
+          <li id="word-238" class="word"><a href="http://www.latin-dictionary.net/definition/22044/herbidus-herbida-herbidum">herbidus, herbida, herbidum</a> adj</li>
+          <li id="word-239" class="word"><a href="http://www.latin-dictionary.net/definition/22045/herbifer-herbifera-herbiferum">herbifer, herbifera, herbiferum</a> adj</li>
+          <li id="word-240" class="word"><a href="http://www.latin-dictionary.net/definition/22046/herbipotens-gen-herbipotentis">herbipotens, (gen.), herbipotentis</a> adj</li>
+          <li id="word-241" class="word"><a href="http://www.latin-dictionary.net/definition/22047/herbisectrum-herbisectri">herbisectrum, herbisectri</a> n</li>
+          <li id="word-242" class="word"><a href="http://www.latin-dictionary.net/definition/22048/herbosus-herbosa-herbosum">herbosus, herbosa, herbosum</a> adj</li>
+          <li id="word-243" class="word"><a href="http://www.latin-dictionary.net/definition/22049/herbula-herbulae">herbula, herbulae</a> n</li>
+          <li id="word-244" class="word"><a href="http://www.latin-dictionary.net/definition/22050/hercisco-herciscere">hercisco, herciscere, -, -</a> v</li>
+          <li id="word-245" class="word"><a href="http://www.latin-dictionary.net/definition/22051/hercle">hercle</a> interj</li>
+          <li id="word-246" class="word"><a href="http://www.latin-dictionary.net/definition/22052/herctum-hercti">herctum, hercti</a> n</li>
+          <li id="word-247" class="word"><a href="http://www.latin-dictionary.net/definition/22053/hercule">hercule</a> interj</li>
+          <li id="word-248" class="word"><a href="http://www.latin-dictionary.net/definition/22054/Hercules-Herculis">Hercules, Herculis</a> n</li>
+          <li id="word-249" class="word"><a href="http://www.latin-dictionary.net/definition/22055/here">here</a> adv</li>
+          <li id="word-250" class="word"><a href="http://www.latin-dictionary.net/definition/22056/hereditarius-hereditaria-hereditarium">hereditarius, hereditaria, hereditarium</a> adj</li>
+          <li id="word-251" class="word"><a href="http://www.latin-dictionary.net/definition/22057/hereditas-hereditatis">hereditas, hereditatis</a> n</li>
+          <li id="word-252" class="word"><a href="http://www.latin-dictionary.net/definition/22058/heredito-hereditare-hereditavi-hereditatus">heredito, hereditare, hereditavi, hereditatus</a> v</li>
+          <li id="word-253" class="word"><a href="http://www.latin-dictionary.net/definition/22059/heremita-heremitae">heremita, heremitae</a> n</li>
+          <li id="word-254" class="word"><a href="http://www.latin-dictionary.net/definition/22060/heremiticus-heremitica-heremiticum">heremiticus, heremitica, heremiticum</a> adj</li>
+          <li id="word-255" class="word"><a href="http://www.latin-dictionary.net/definition/22061/heremus-herema-heremum">heremus, herema, heremum</a> adj</li>
+          <li id="word-256" class="word"><a href="http://www.latin-dictionary.net/definition/22062/heremus-heremi">heremus, heremi</a> n</li>
+          <li id="word-257" class="word"><a href="http://www.latin-dictionary.net/definition/22063/hereo-herere-hesi-hesus">hereo, herere, hesi, hesus</a> v</li>
+          <li id="word-258" class="word"><a href="http://www.latin-dictionary.net/definition/22064/heres-heredis">heres, heredis</a> n</li>
+          <li id="word-259" class="word"><a href="http://www.latin-dictionary.net/definition/22065/hereticus-heretica-hereticum">hereticus, heretica, hereticum</a> adj</li>
+          <li id="word-260" class="word"><a href="http://www.latin-dictionary.net/definition/22066/hereticus-heretici">hereticus, heretici</a> n</li>
+          <li id="word-261" class="word"><a href="http://www.latin-dictionary.net/definition/22067/heri">heri</a> adv</li>
+          <li id="word-262" class="word"><a href="http://www.latin-dictionary.net/definition/22068/herinacius-herinacii">herinacius, herinacii</a> n</li>
+          <li id="word-263" class="word"><a href="http://www.latin-dictionary.net/definition/22069/herma-hermae">herma, hermae</a> n</li>
+          <li id="word-264" class="word"><a href="http://www.latin-dictionary.net/definition/22070/hermaphroditus-hermaphroditi">hermaphroditus, hermaphroditi</a> n</li>
+          <li id="word-265" class="word"><a href="http://www.latin-dictionary.net/definition/22071/hermeneutica-hermeneuticae">hermeneutica, hermeneuticae</a> n</li>
+          <li id="word-266" class="word"><a href="http://www.latin-dictionary.net/definition/22072/hermeneuticus-hermeneutica-hermeneuticum">hermeneuticus, hermeneutica, hermeneuticum</a> adj</li>
+          <li id="word-267" class="word"><a href="http://www.latin-dictionary.net/definition/22073/Hermes-Hermae">Hermes, Hermae</a> n</li>
+          <li id="word-268" class="word"><a href="http://www.latin-dictionary.net/definition/22074/hermetice">hermetice</a> adv</li>
+          <li id="word-269" class="word"><a href="http://www.latin-dictionary.net/definition/22075/hermeticus-hermetica-hermeticum">hermeticus, hermetica, hermeticum</a> adj</li>
+          <li id="word-270" class="word"><a href="http://www.latin-dictionary.net/definition/22076/hermitonium-hermitonii">hermitonium, hermitonii</a> n</li>
+          <li id="word-271" class="word"><a href="http://www.latin-dictionary.net/definition/22077/herniosus-herniosa-herniosum">herniosus, herniosa, herniosum</a> adj</li>
+          <li id="word-272" class="word"><a href="http://www.latin-dictionary.net/definition/22078/Herodes-Herodis">Herodes, Herodis</a> n</li>
+          <li id="word-273" class="word"><a href="http://www.latin-dictionary.net/definition/22079/herodio-herodionis">herodio, herodionis</a> n</li>
+          <li id="word-274" class="word"><a href="http://www.latin-dictionary.net/definition/22080/herodius-herodii">herodius, herodii</a> n</li>
+          <li id="word-275" class="word"><a href="http://www.latin-dictionary.net/definition/22081/heroicitas-heroicitatis">heroicitas, heroicitatis</a> n</li>
+          <li id="word-276" class="word"><a href="http://www.latin-dictionary.net/definition/22082/heroicus-heroica-heroicum">heroicus, heroica, heroicum</a> adj</li>
+          <li id="word-277" class="word"><a href="http://www.latin-dictionary.net/definition/22083/heroina-heroinae">heroina, heroinae</a> n</li>
+          <li id="word-278" class="word"><a href="http://www.latin-dictionary.net/definition/22084/heroina-heroinae">heroina, heroinae</a> n</li>
+          <li id="word-279" class="word"><a href="http://www.latin-dictionary.net/definition/22085/heroine-heroines">heroine, heroines</a> n</li>
+          <li id="word-280" class="word"><a href="http://www.latin-dictionary.net/definition/22086/herois-heroidos-is">herois, heroidos/is</a> n</li>
+          <li id="word-281" class="word"><a href="http://www.latin-dictionary.net/definition/22087/heros-herois">heros, herois</a> n</li>
+          <li id="word-282" class="word"><a href="http://www.latin-dictionary.net/definition/22088/heros-herois">heros, herois</a> n</li>
+          <li id="word-283" class="word"><a href="http://www.latin-dictionary.net/definition/22089/herous-heroa-heroum">herous, heroa, heroum</a> adj</li>
+          <li id="word-284" class="word"><a href="http://www.latin-dictionary.net/definition/22090/herus-heri">herus, heri</a> n</li>
+          <li id="word-285" class="word"><a href="http://www.latin-dictionary.net/definition/22091/hesitatio-hesitationis">hesitatio, hesitationis</a> n</li>
+          <li id="word-286" class="word"><a href="http://www.latin-dictionary.net/definition/22092/Hesperia-Hesperiae">Hesperia, Hesperiae</a> n</li>
+          <li id="word-287" class="word"><a href="http://www.latin-dictionary.net/definition/22093/hesperius-hesperia-hesperium">hesperius, hesperia, hesperium</a> adj</li>
+          <li id="word-288" class="word"><a href="http://www.latin-dictionary.net/definition/22094/Hesperus-Hesperi">Hesperus, Hesperi</a> n</li>
+          <li id="word-289" class="word"><a href="http://www.latin-dictionary.net/definition/22095/hesternus-hesterna-hesternum">hesternus, hesterna, hesternum</a> adj</li>
+          <li id="word-290" class="word"><a href="http://www.latin-dictionary.net/definition/22096/hetaeria-hetaeriae">hetaeria, hetaeriae</a> n</li>
+          <li id="word-291" class="word"><a href="http://www.latin-dictionary.net/definition/22097/hetaeriarcha-hetaeriarchae">hetaeriarcha, hetaeriarchae</a> n</li>
+          <li id="word-292" class="word"><a href="http://www.latin-dictionary.net/definition/22098/hetairia-hetairiae">hetairia, hetairiae</a> n</li>
+          <li id="word-293" class="word"><a href="http://www.latin-dictionary.net/definition/22099/heterogeneus-heterogenea-heterogeneum">heterogeneus, heterogenea, heterogeneum</a> adj</li>
+          <li id="word-294" class="word"><a href="http://www.latin-dictionary.net/definition/22100/heterogenia-heterogeniae">heterogenia, heterogeniae</a> n</li>
+          <li id="word-295" class="word"><a href="http://www.latin-dictionary.net/definition/22101/heterosexualis-heterosexualis-heterosexuale">heterosexualis, heterosexualis, heterosexuale</a> adj</li>
+          <li id="word-296" class="word"><a href="http://www.latin-dictionary.net/definition/22102/heth-undeclined">heth, undeclined</a> n</li>
+          <li id="word-297" class="word"><a href="http://www.latin-dictionary.net/definition/22103/hethanim-undeclined">hethanim, undeclined</a> n</li>
+          <li id="word-298" class="word"><a href="http://www.latin-dictionary.net/definition/22104/heu">heu</a> interj</li>
+          <li id="word-299" class="word"><a href="http://www.latin-dictionary.net/definition/22105/heuristicus-heuristica-heuristicum">heuristicus, heuristica, heuristicum</a> adj</li>
+          <li id="word-300" class="word"><a href="http://www.latin-dictionary.net/definition/22106/heus">heus</a> interj</li>
+          <li id="word-301" class="word"><a href="http://www.latin-dictionary.net/definition/22107/Heva-Hevae">Heva, Hevae</a> n</li>
+          <li id="word-302" class="word"><a href="http://www.latin-dictionary.net/definition/22108/hexagonon-hexagoni">hexagonon, hexagoni</a> n</li>
+          <li id="word-303" class="word"><a href="http://www.latin-dictionary.net/definition/22109/hexagonum-hexagoni">hexagonum, hexagoni</a> n</li>
+          <li id="word-304" class="word"><a href="http://www.latin-dictionary.net/definition/22110/hexameter-hexametra-hexametrum">hexameter, hexametra, hexametrum</a> adj</li>
+          <li id="word-305" class="word"><a href="http://www.latin-dictionary.net/definition/22111/hexameter-hexametri">hexameter, hexametri</a> n</li>
+          <li id="word-306" class="word"><a href="http://www.latin-dictionary.net/definition/22112/hexametrus-hexametra-hexametrum">hexametrus, hexametra, hexametrum</a> adj</li>
+          <li id="word-307" class="word"><a href="http://www.latin-dictionary.net/definition/22113/hexametrus-hexametri">hexametrus, hexametri</a> n</li>
+          <li id="word-308" class="word"><a href="http://www.latin-dictionary.net/definition/22114/hexapeda-hexapedae">hexapeda, hexapedae</a> n</li>
+          <li id="word-309" class="word"><a href="http://www.latin-dictionary.net/definition/22115/hexaphorum-hexaphori">hexaphorum, hexaphori</a> n</li>
+          <li id="word-310" class="word"><a href="http://www.latin-dictionary.net/definition/22116/hexas-hexados-is">hexas, hexados/is</a> n</li>
+          <li id="word-311" class="word"><a href="http://www.latin-dictionary.net/definition/22117/hexeris-hexeris">hexeris, hexeris</a> n</li>
+          <li id="word-312" class="word"><a href="http://www.latin-dictionary.net/definition/22118/hiacinthina-hiacinthinae">hiacinthina, hiacinthinae</a> n</li>
+          <li id="word-313" class="word"><a href="http://www.latin-dictionary.net/definition/22119/hiacinthinus-hiacinthina-hiacinthinum">hiacinthinus, hiacinthina, hiacinthinum</a> adj</li>
+          <li id="word-314" class="word"><a href="http://www.latin-dictionary.net/definition/22120/hiatus-hiatus">hiatus, hiatus</a> n</li>
+          <li id="word-315" class="word"><a href="http://www.latin-dictionary.net/definition/22121/hiatus-hiatus">hiatus, hiatus</a> n</li>
+          <li id="word-316" class="word"><a href="http://www.latin-dictionary.net/definition/22122/hibernaculum-hibernaculi">hibernaculum, hibernaculi</a> n</li>
+          <li id="word-317" class="word"><a href="http://www.latin-dictionary.net/definition/22123/hibernalis-hibernalis-hibernale">hibernalis, hibernalis, hibernale</a> adj</li>
+          <li id="word-318" class="word"><a href="http://www.latin-dictionary.net/definition/22124/Hibernia-Hiberniae">Hibernia, Hiberniae</a> n</li>
+          <li id="word-319" class="word"><a href="http://www.latin-dictionary.net/definition/22125/hiberno-hibernare-hibernavi-hibernatus">hiberno, hibernare, hibernavi, hibernatus</a> v</li>
+          <li id="word-320" class="word"><a href="http://www.latin-dictionary.net/definition/22126/hibernum-hiberni">hibernum, hiberni</a> n</li>
+          <li id="word-321" class="word"><a href="http://www.latin-dictionary.net/definition/22127/hibernus-hiberna-hibernum">hibernus, hiberna, hibernum</a> adj</li>
+          <li id="word-322" class="word"><a href="http://www.latin-dictionary.net/definition/22128/Hibernus-Hiberni">Hibernus, Hiberni</a> n</li>
+          <li id="word-323" class="word"><a href="http://www.latin-dictionary.net/definition/22129/hibiscum-hibisci">hibiscum, hibisci</a> n</li>
+          <li id="word-324" class="word"><a href="http://www.latin-dictionary.net/definition/22130/hibiscus-hibisci">hibiscus, hibisci</a> n</li>
+          <li id="word-325" class="word"><a href="http://www.latin-dictionary.net/definition/22131/hibix-hibicis">hibix, hibicis</a> n</li>
+          <li id="word-326" class="word"><a href="http://www.latin-dictionary.net/definition/22132/hibrida-hibridae">hibrida, hibridae</a> n</li>
+          <li id="word-327" class="word"><a href="http://www.latin-dictionary.net/definition/22133/hic">hic</a> adv</li>
+          <li id="word-328" class="word"><a href="http://www.latin-dictionary.net/definition/22134/hic-haec-hoc">hic, haec, hoc</a> adv</li>
+          <li id="word-329" class="word"><a href="http://www.latin-dictionary.net/definition/22135/hiemalis-hiemalis-hiemale">hiemalis, hiemalis, hiemale</a> adj</li>
+          <li id="word-330" class="word"><a href="http://www.latin-dictionary.net/definition/22136/hiemans-gen-hiemantis">hiemans, (gen.), hiemantis</a> adj</li>
+          <li id="word-331" class="word"><a href="http://www.latin-dictionary.net/definition/22137/hiemo-hiemare-hiemavi-hiematus">hiemo, hiemare, hiemavi, hiematus</a> v</li>
+          <li id="word-332" class="word"><a href="http://www.latin-dictionary.net/definition/22138/hiemps-hiemis">hiemps, hiemis</a> n</li>
+          <li id="word-333" class="word"><a href="http://www.latin-dictionary.net/definition/22139/hiems-hiemis">hiems, hiemis</a> n</li>
+          <li id="word-334" class="word"><a href="http://www.latin-dictionary.net/definition/22140/hiera-hierae">hiera, hierae</a> n</li>
+          <li id="word-335" class="word"><a href="http://www.latin-dictionary.net/definition/22141/hierarcha-hierarchae">hierarcha, hierarchae</a> n</li>
+          <li id="word-336" class="word"><a href="http://www.latin-dictionary.net/definition/22142/hierarchia-hierarchiae">hierarchia, hierarchiae</a> n</li>
+          <li id="word-337" class="word"><a href="http://www.latin-dictionary.net/definition/22143/hierarchicus-hierarchica-hierarchicum">hierarchicus, hierarchica, hierarchicum</a> adj</li>
+          <li id="word-338" class="word"><a href="http://www.latin-dictionary.net/definition/22144/hieraticus-hieratica-hieraticum">hieraticus, hieratica, hieraticum</a> adj</li>
+          <li id="word-339" class="word"><a href="http://www.latin-dictionary.net/definition/22145/Hieremias-Hieremiae">Hieremias, Hieremiae</a> n</li>
+          <li id="word-340" class="word"><a href="http://www.latin-dictionary.net/definition/22146/Hiericuntinus-Hiericuntina-Hiericuntinum">Hiericuntinus, Hiericuntina, Hiericuntinum</a> adj</li>
+          <li id="word-341" class="word"><a href="http://www.latin-dictionary.net/definition/22147/Hiericus-Hiericuntis">Hiericus, Hiericuntis</a> n</li>
+          <li id="word-342" class="word"><a href="http://www.latin-dictionary.net/definition/22148/hieroglyphum-hieroglyphi">hieroglyphum, hieroglyphi</a> n</li>
+          <li id="word-343" class="word"><a href="http://www.latin-dictionary.net/definition/22149/hieronica-hieronicae">hieronica, hieronicae</a> n</li>
+          <li id="word-344" class="word"><a href="http://www.latin-dictionary.net/definition/22150/Hieronymus-Hieronymi">Hieronymus, Hieronymi</a> n</li>
+          <li id="word-345" class="word"><a href="http://www.latin-dictionary.net/definition/22151/Hierosolimitanus-Hierosolimitana-Hierosolimitanum">Hierosolimitanus, Hierosolimitana, Hierosolimitanum</a> adj</li>
+          <li id="word-346" class="word"><a href="http://www.latin-dictionary.net/definition/22152/Hierosolyma-Hierosolymae">Hierosolyma, Hierosolymae</a> n</li>
+          <li id="word-347" class="word"><a href="http://www.latin-dictionary.net/definition/22153/Hierosolymum-Hierosolymi">Hierosolymum, Hierosolymi</a> n</li>
+          <li id="word-348" class="word"><a href="http://www.latin-dictionary.net/definition/22154/hierotheca-hierothecae">hierotheca, hierothecae</a> n</li>
+          <li id="word-349" class="word"><a href="http://www.latin-dictionary.net/definition/22155/Hierurgia-Hierurgiae">Hierurgia, Hierurgiae</a> n</li>
+          <li id="word-350" class="word"><a href="http://www.latin-dictionary.net/definition/22156/hierus-hiera-hierum">hierus, hiera, hierum</a> adj</li>
+          <li id="word-351" class="word"><a href="http://www.latin-dictionary.net/definition/22157/Hierusalem-undeclined">Hierusalem, undeclined</a> n</li>
+          <li id="word-352" class="word"><a href="http://www.latin-dictionary.net/definition/22158/hilaresco-hilarescere">hilaresco, hilarescere, -, -</a> v</li>
+          <li id="word-353" class="word"><a href="http://www.latin-dictionary.net/definition/22159/hilaris-hilare-hilarior">hilaris, hilare, hilarior</a> adj</li>
+          <li id="word-354" class="word"><a href="http://www.latin-dictionary.net/definition/22160/hilarisco-hilariscere">hilarisco, hilariscere, -, -</a> v</li>
+          <li id="word-355" class="word"><a href="http://www.latin-dictionary.net/definition/22161/hilaritas-hilaritatis">hilaritas, hilaritatis</a> n</li>
+          <li id="word-356" class="word"><a href="http://www.latin-dictionary.net/definition/22162/Hilarium-Hilarii">Hilarium, Hilarii</a> n</li>
+          <li id="word-357" class="word"><a href="http://www.latin-dictionary.net/definition/22163/Hilarius-Hilari">Hilarius, Hilari</a> n</li>
+          <li id="word-358" class="word"><a href="http://www.latin-dictionary.net/definition/22164/hilaro-hilarare-hilaravi-hilaratus">hilaro, hilarare, hilaravi, hilaratus</a> v</li>
+          <li id="word-359" class="word"><a href="http://www.latin-dictionary.net/definition/22165/hilarulus-hilarula-hilarulum">hilarulus, hilarula, hilarulum</a> adj</li>
+          <li id="word-360" class="word"><a href="http://www.latin-dictionary.net/definition/22166/hilarus-hilara">hilarus, hilara</a> adj</li>
+          <li id="word-361" class="word"><a href="http://www.latin-dictionary.net/definition/22167/hilum-hili">hilum, hili</a> n</li>
+          <li id="word-362" class="word"><a href="http://www.latin-dictionary.net/definition/22168/hin-undeclined">hin, undeclined</a> n</li>
+          <li id="word-363" class="word"><a href="http://www.latin-dictionary.net/definition/22169/hinc">hinc</a> adv</li>
+          <li id="word-364" class="word"><a href="http://www.latin-dictionary.net/definition/22170/Hinduismus-Hinduismi">Hinduismus, Hinduismi</a> n</li>
+          <li id="word-365" class="word"><a href="http://www.latin-dictionary.net/definition/22171/hinnio-hinnire-hinnivi-hinnitus">hinnio, hinnire, hinnivi, hinnitus</a> v</li>
+          <li id="word-366" class="word"><a href="http://www.latin-dictionary.net/definition/22172/hinnitus-hinnitus">hinnitus, hinnitus</a> n</li>
+          <li id="word-367" class="word"><a href="http://www.latin-dictionary.net/definition/22173/hinnuleus-hinnulei">hinnuleus, hinnulei</a> n</li>
+          <li id="word-368" class="word"><a href="http://www.latin-dictionary.net/definition/22174/hinnulus-hinnuli">hinnulus, hinnuli</a> n</li>
+          <li id="word-369" class="word"><a href="http://www.latin-dictionary.net/definition/22175/hinnus-hinni">hinnus, hinni</a> n</li>
+          <li id="word-370" class="word"><a href="http://www.latin-dictionary.net/definition/22176/hinulus-hinuli">hinulus, hinuli</a> n</li>
+          <li id="word-371" class="word"><a href="http://www.latin-dictionary.net/definition/22177/hio-hiare-hiavi-hiatus">hio, hiare, hiavi, hiatus</a> v</li>
+          <li id="word-372" class="word"><a href="http://www.latin-dictionary.net/definition/22178/hippagogus-hippagogi">hippagogus, hippagogi</a> n</li>
+          <li id="word-373" class="word"><a href="http://www.latin-dictionary.net/definition/22179/Hippo-Hipponis">Hippo, Hipponis</a> n</li>
+          <li id="word-374" class="word"><a href="http://www.latin-dictionary.net/definition/22180/hippocampus-hippocampi">hippocampus, hippocampi</a> n</li>
+          <li id="word-375" class="word"><a href="http://www.latin-dictionary.net/definition/22181/hippocentaurus-hippocentauri">hippocentaurus, hippocentauri</a> n</li>
+          <li id="word-376" class="word"><a href="http://www.latin-dictionary.net/definition/22182/hippodromos-hippodromi">hippodromos, hippodromi</a> n</li>
+          <li id="word-377" class="word"><a href="http://www.latin-dictionary.net/definition/22183/hippomanes-hippomanis">hippomanes, hippomanis</a> n</li>
+          <li id="word-378" class="word"><a href="http://www.latin-dictionary.net/definition/22184/hippomanes-hippomanis">hippomanes, hippomanis</a> n</li>
+          <li id="word-379" class="word"><a href="http://www.latin-dictionary.net/definition/22185/Hipponensis-Hipponensis-Hipponense">Hipponensis, Hipponensis, Hipponense</a> adj</li>
+          <li id="word-380" class="word"><a href="http://www.latin-dictionary.net/definition/22186/hippotoxota-hippotoxotae">hippotoxota, hippotoxotae</a> n</li>
+          <li id="word-381" class="word"><a href="http://www.latin-dictionary.net/definition/22187/hippurus-hippuri">hippurus, hippuri</a> n</li>
+          <li id="word-382" class="word"><a href="http://www.latin-dictionary.net/definition/22188/hippurus-hippuri">hippurus, hippuri</a> n</li>
+          <li id="word-383" class="word"><a href="http://www.latin-dictionary.net/definition/22189/hircinus-hircina-hircinum">hircinus, hircina, hircinum</a> adj</li>
+          <li id="word-384" class="word"><a href="http://www.latin-dictionary.net/definition/22190/hircus-hirci">hircus, hirci</a> n</li>
+          <li id="word-385" class="word"><a href="http://www.latin-dictionary.net/definition/22191/hirnea-hirneae">hirnea, hirneae</a> n</li>
+          <li id="word-386" class="word"><a href="http://www.latin-dictionary.net/definition/22192/hirneacus-hirneaca-hirneacum">hirneacus, hirneaca, hirneacum</a> adj</li>
+          <li id="word-387" class="word"><a href="http://www.latin-dictionary.net/definition/22193/hirneosus-hirneosa-hirneosum">hirneosus, hirneosa, hirneosum</a> adj</li>
+          <li id="word-388" class="word"><a href="http://www.latin-dictionary.net/definition/22194/hirniacus-hirniaca-hirniacum">hirniacus, hirniaca, hirniacum</a> adj</li>
+          <li id="word-389" class="word"><a href="http://www.latin-dictionary.net/definition/22195/hirniosus-hirniosa-hirniosum">hirniosus, hirniosa, hirniosum</a> adj</li>
+          <li id="word-390" class="word"><a href="http://www.latin-dictionary.net/definition/22196/hirsutus-hirsuta-hirsutum">hirsutus, hirsuta, hirsutum</a> adj</li>
+          <li id="word-391" class="word"><a href="http://www.latin-dictionary.net/definition/22197/hirtus-hirta-hirtum">hirtus, hirta, hirtum</a> adj</li>
+          <li id="word-392" class="word"><a href="http://www.latin-dictionary.net/definition/22198/hirudo-hirudinis">hirudo, hirudinis</a> n</li>
+          <li id="word-393" class="word"><a href="http://www.latin-dictionary.net/definition/22199/hirundininus-hirundinina-hirundininum">hirundininus, hirundinina, hirundininum</a> adj</li>
+          <li id="word-394" class="word"><a href="http://www.latin-dictionary.net/definition/22200/hirundo-hirundinis">hirundo, hirundinis</a> n</li>
+          <li id="word-395" class="word"><a href="http://www.latin-dictionary.net/definition/22201/hisco-hiscare">hisco, hiscare, -, -</a> v</li>
+          <li id="word-396" class="word"><a href="http://www.latin-dictionary.net/definition/22202/hisopum-hisopi">hisopum, hisopi</a> n</li>
+          <li id="word-397" class="word"><a href="http://www.latin-dictionary.net/definition/22203/hisopus-hisopi">hisopus, hisopi</a> n</li>
+          <li id="word-398" class="word"><a href="http://www.latin-dictionary.net/definition/22204/Hispane">Hispane</a> adv</li>
+          <li id="word-399" class="word"><a href="http://www.latin-dictionary.net/definition/22205/Hispania-Hispaniae">Hispania, Hispaniae</a> n</li>
+          <li id="word-400" class="word"><a href="http://www.latin-dictionary.net/definition/22206/Hispanus-Hispana-Hispanum">Hispanus, Hispana, Hispanum</a> adj</li>
+          <li id="word-401" class="word"><a href="http://www.latin-dictionary.net/definition/22207/hispidus-hispida-hispidum">hispidus, hispida, hispidum</a> adj</li>
+          <li id="word-402" class="word"><a href="http://www.latin-dictionary.net/definition/22208/hissopum-hissopi">hissopum, hissopi</a> n</li>
+          <li id="word-403" class="word"><a href="http://www.latin-dictionary.net/definition/22209/hissopus-hissopi">hissopus, hissopi</a> n</li>
+          <li id="word-404" class="word"><a href="http://www.latin-dictionary.net/definition/22210/historia-historiae">historia, historiae</a> n</li>
+          <li id="word-405" class="word"><a href="http://www.latin-dictionary.net/definition/22211/historialis-historialis-historiale">historialis, historialis, historiale</a> adj</li>
+          <li id="word-406" class="word"><a href="http://www.latin-dictionary.net/definition/22212/historialiter">historialiter</a> adv</li>
+          <li id="word-407" class="word"><a href="http://www.latin-dictionary.net/definition/22213/historicus-historica-historicum">historicus, historica, historicum</a> adj</li>
+          <li id="word-408" class="word"><a href="http://www.latin-dictionary.net/definition/22214/historiographus-historiographi">historiographus, historiographi</a> n</li>
+          <li id="word-409" class="word"><a href="http://www.latin-dictionary.net/definition/22215/histriatus-histriata-histriatum">histriatus, histriata, histriatum</a> adj</li>
+          <li id="word-410" class="word"><a href="http://www.latin-dictionary.net/definition/22216/histricus-histrica-histricum">histricus, histrica, histricum</a> adj</li>
+          <li id="word-411" class="word"><a href="http://www.latin-dictionary.net/definition/22217/histrio-histrionis">histrio, histrionis</a> n</li>
+          <li id="word-412" class="word"><a href="http://www.latin-dictionary.net/definition/22218/histronia-histroniae">histronia, histroniae</a> n</li>
+          <li id="word-413" class="word"><a href="http://www.latin-dictionary.net/definition/22219/hiulcus-hiulca-hiulcum">hiulcus, hiulca, hiulcum</a> adj</li>
+          <li id="word-414" class="word"><a href="http://www.latin-dictionary.net/definition/22220/hocceus-hoccei">hocceus, hoccei</a> n</li>
+          <li id="word-415" class="word"><a href="http://www.latin-dictionary.net/definition/22221/hocusque">hocusque</a> adv</li>
+          <li id="word-416" class="word"><a href="http://www.latin-dictionary.net/definition/22222/hodie">hodie</a> adv</li>
+          <li id="word-417" class="word"><a href="http://www.latin-dictionary.net/definition/22223/hodiernus-hodierna-hodiernum">hodiernus, hodierna, hodiernum</a> adj</li>
+          <li id="word-418" class="word"><a href="http://www.latin-dictionary.net/definition/22224/hoedilla-hoedillae">hoedilla, hoedillae</a> n</li>
+          <li id="word-419" class="word"><a href="http://www.latin-dictionary.net/definition/22225/hoedillus-hoedilli">hoedillus, hoedilli</a> n</li>
+          <li id="word-420" class="word"><a href="http://www.latin-dictionary.net/definition/22226/hoedinus-hoedina-hoedinum">hoedinus, hoedina, hoedinum</a> adj</li>
+          <li id="word-421" class="word"><a href="http://www.latin-dictionary.net/definition/22227/hoedulus-hoeduli">hoedulus, hoeduli</a> n</li>
+          <li id="word-422" class="word"><a href="http://www.latin-dictionary.net/definition/22228/hoedus-hoedi">hoedus, hoedi</a> n</li>
+          <li id="word-423" class="word"><a href="http://www.latin-dictionary.net/definition/22229/holisatrum-holisatri">holisatrum, holisatri</a> n</li>
+          <li id="word-424" class="word"><a href="http://www.latin-dictionary.net/definition/22230/holitorius-holitoria-holitorium">holitorius, holitoria, holitorium</a> adj</li>
+          <li id="word-425" class="word"><a href="http://www.latin-dictionary.net/definition/22231/holocaustoma-holocaustomatis">holocaustoma, holocaustomatis</a> n</li>
+          <li id="word-426" class="word"><a href="http://www.latin-dictionary.net/definition/22232/holocaustosis-holocaustosos-is">holocaustosis, holocaustosos/is</a> n</li>
+          <li id="word-427" class="word"><a href="http://www.latin-dictionary.net/definition/22233/holocaustosis-holocaustosos-is">holocaustosis, holocaustosos/is</a> n</li>
+          <li id="word-428" class="word"><a href="http://www.latin-dictionary.net/definition/22234/holocaustum-holocausti">holocaustum, holocausti</a> n</li>
+          <li id="word-429" class="word"><a href="http://www.latin-dictionary.net/definition/22235/holocautom-holocautomatis">holocautom, holocautomatis</a> n</li>
+          <li id="word-430" class="word"><a href="http://www.latin-dictionary.net/definition/22236/holosericum-holoserici">holosericum, holoserici</a> n</li>
+          <li id="word-431" class="word"><a href="http://www.latin-dictionary.net/definition/22237/holosericus-holoserica-holosericum">holosericus, holoserica, holosericum</a> adj</li>
+          <li id="word-432" class="word"><a href="http://www.latin-dictionary.net/definition/22238/holoverus-holovera-holoverum">holoverus, holovera, holoverum</a> adj</li>
+          <li id="word-433" class="word"><a href="http://www.latin-dictionary.net/definition/22239/holus-holeris">holus, holeris</a> n</li>
+          <li id="word-434" class="word"><a href="http://www.latin-dictionary.net/definition/22240/holusculum-holusculi">holusculum, holusculi</a> n</li>
+          <li id="word-435" class="word"><a href="http://www.latin-dictionary.net/definition/22241/homagium-homagii">homagium, homagii</a> n</li>
+          <li id="word-436" class="word"><a href="http://www.latin-dictionary.net/definition/22242/homicida-homicidae">homicida, homicidae</a> n</li>
+          <li id="word-437" class="word"><a href="http://www.latin-dictionary.net/definition/22243/homicidium-homicidi-i">homicidium, homicidi(i)</a> n</li>
+          <li id="word-438" class="word"><a href="http://www.latin-dictionary.net/definition/22244/homileticum-homiletici">homileticum, homiletici</a> n</li>
+          <li id="word-439" class="word"><a href="http://www.latin-dictionary.net/definition/22245/homileticus-homiletica-homileticum">homileticus, homiletica, homileticum</a> adj</li>
+          <li id="word-440" class="word"><a href="http://www.latin-dictionary.net/definition/22246/homilia-homiliae">homilia, homiliae</a> n</li>
+          <li id="word-441" class="word"><a href="http://www.latin-dictionary.net/definition/22247/homiliarium-homiliarii">homiliarium, homiliarii</a> n</li>
+          <li id="word-442" class="word"><a href="http://www.latin-dictionary.net/definition/22248/homo-hominis">homo, hominis</a> n</li>
+          <li id="word-443" class="word"><a href="http://www.latin-dictionary.net/definition/22249/homoeoteleuton-homoeoteleuti">homoeoteleuton, homoeoteleuti</a> n</li>
+          <li id="word-444" class="word"><a href="http://www.latin-dictionary.net/definition/22250/homogeneitas-homogeneitatis">homogeneitas, homogeneitatis</a> n</li>
+          <li id="word-445" class="word"><a href="http://www.latin-dictionary.net/definition/22251/homogeneus-homogenea-homogeneum">homogeneus, homogenea, homogeneum</a> adj</li>
+          <li id="word-446" class="word"><a href="http://www.latin-dictionary.net/definition/22252/homogium-homogii">homogium, homogii</a> n</li>
+          <li id="word-447" class="word"><a href="http://www.latin-dictionary.net/definition/22253/homographus-homographa-homographum">homographus, homographa, homographum</a> adj</li>
+          <li id="word-448" class="word"><a href="http://www.latin-dictionary.net/definition/22254/homoiousius-homoiousia-homoiousium">homoiousius, homoiousia, homoiousium</a> adj</li>
+          <li id="word-449" class="word"><a href="http://www.latin-dictionary.net/definition/22255/homologus-homologi">homologus, homologi</a> n</li>
+          <li id="word-450" class="word"><a href="http://www.latin-dictionary.net/definition/22256/homoousius-homoousia-homoousium">homoousius, homoousia, homoousium</a> adj</li>
+          <li id="word-451" class="word"><a href="http://www.latin-dictionary.net/definition/22257/homosexualis-homosexualis">homosexualis, homosexualis</a> n</li>
+          <li id="word-452" class="word"><a href="http://www.latin-dictionary.net/definition/22258/homosexualis-homosexualis-homosexuale">homosexualis, homosexualis, homosexuale</a> adj</li>
+          <li id="word-453" class="word"><a href="http://www.latin-dictionary.net/definition/22259/homosexualitas-homosexualitatis">homosexualitas, homosexualitatis</a> n</li>
+          <li id="word-454" class="word"><a href="http://www.latin-dictionary.net/definition/22260/homullus-homulli">homullus, homulli</a> n</li>
+          <li id="word-455" class="word"><a href="http://www.latin-dictionary.net/definition/22261/homuncio-homuncionis">homuncio, homuncionis</a> n</li>
+          <li id="word-456" class="word"><a href="http://www.latin-dictionary.net/definition/22262/Homuncionita-Homuncionitae">Homuncionita, Homuncionitae</a> n</li>
+          <li id="word-457" class="word"><a href="http://www.latin-dictionary.net/definition/22263/homunculus-homunculi">homunculus, homunculi</a> n</li>
+          <li id="word-458" class="word"><a href="http://www.latin-dictionary.net/definition/22264/honestas-honestatis">honestas, honestatis</a> n</li>
+          <li id="word-459" class="word"><a href="http://www.latin-dictionary.net/definition/22265/honeste">honeste</a> adv</li>
+          <li id="word-460" class="word"><a href="http://www.latin-dictionary.net/definition/22266/honesto-honestare-honestavi-honestatus">honesto, honestare, honestavi, honestatus</a> v</li>
+          <li id="word-461" class="word"><a href="http://www.latin-dictionary.net/definition/22267/honestor-honestari-honestatus">honestor, honestari, honestatus</a> v</li>
+          <li id="word-462" class="word"><a href="http://www.latin-dictionary.net/definition/22268/honestus-honesta">honestus, honesta</a> adj</li>
+          <li id="word-463" class="word"><a href="http://www.latin-dictionary.net/definition/22269/honor-honoris">honor, honoris</a> n</li>
+          <li id="word-464" class="word"><a href="http://www.latin-dictionary.net/definition/22270/honorabilis-honorabilis-honorabile">honorabilis, honorabilis, honorabile</a> adj</li>
+          <li id="word-465" class="word"><a href="http://www.latin-dictionary.net/definition/22271/honorabiliter">honorabiliter</a> adv</li>
+          <li id="word-466" class="word"><a href="http://www.latin-dictionary.net/definition/22272/honorarium-honorarii">honorarium, honorarii</a> n</li>
+          <li id="word-467" class="word"><a href="http://www.latin-dictionary.net/definition/22273/honorarius-honoraria-honorarium">honorarius, honoraria, honorarium</a> adj</li>
+          <li id="word-468" class="word"><a href="http://www.latin-dictionary.net/definition/22274/honorate-honoratius-honoratissime">honorate, honoratius, honoratissime</a> adv</li>
+          <li id="word-469" class="word"><a href="http://www.latin-dictionary.net/definition/22275/honoratus-honorata">honoratus, honorata</a> adj</li>
+          <li id="word-470" class="word"><a href="http://www.latin-dictionary.net/definition/22276/honorificatus-honorificata-honorificatum">honorificatus, honorificata, honorificatum</a> adj</li>
+          <li id="word-471" class="word"><a href="http://www.latin-dictionary.net/definition/22277/honorifice-honorificentius-honorificentissime">honorifice, honorificentius, honorificentissime</a> adv</li>
+          <li id="word-472" class="word"><a href="http://www.latin-dictionary.net/definition/22278/honorificentia-honorificentiae">honorificentia, honorificentiae</a> n</li>
+          <li id="word-473" class="word"><a href="http://www.latin-dictionary.net/definition/22279/honorifico-honorificare-honorificavi-honorificatus">honorifico, honorificare, honorificavi, honorificatus</a> v</li>
+          <li id="word-474" class="word"><a href="http://www.latin-dictionary.net/definition/22280/honorificus-honorifica">honorificus, honorifica</a> adj</li>
+          <li id="word-475" class="word"><a href="http://www.latin-dictionary.net/definition/22281/Honorius-Honorii">Honorius, Honorii</a> n</li>
+          <li id="word-476" class="word"><a href="http://www.latin-dictionary.net/definition/22282/honoro-honorare-honoravi-honoratus">honoro, honorare, honoravi, honoratus</a> v</li>
+          <li id="word-477" class="word"><a href="http://www.latin-dictionary.net/definition/22283/honorus-honora-honorum">honorus, honora, honorum</a> adj</li>
+          <li id="word-478" class="word"><a href="http://www.latin-dictionary.net/definition/22284/honos-honoris">honos, honoris</a> n</li>
+          <li id="word-479" class="word"><a href="http://www.latin-dictionary.net/definition/22285/hoplomachus-hoplomachi">hoplomachus, hoplomachi</a> n</li>
+          <li id="word-480" class="word"><a href="http://www.latin-dictionary.net/definition/22286/hora-horae">hora, horae</a> n</li>
+          <li id="word-481" class="word"><a href="http://www.latin-dictionary.net/definition/22287/horalis-horalis-horale">horalis, horalis, horale</a> adj</li>
+          <li id="word-482" class="word"><a href="http://www.latin-dictionary.net/definition/22288/horarium-horarii">horarium, horarii</a> n</li>
+          <li id="word-483" class="word"><a href="http://www.latin-dictionary.net/definition/22289/horarius-horaria-horarium">horarius, horaria, horarium</a> adj</li>
+          <li id="word-484" class="word"><a href="http://www.latin-dictionary.net/definition/22290/horarius-horarii">horarius, horarii</a> n</li>
+          <li id="word-485" class="word"><a href="http://www.latin-dictionary.net/definition/22291/hordeaceus-hordeacea-hordeaceum">hordeaceus, hordeacea, hordeaceum</a> adj</li>
+          <li id="word-486" class="word"><a href="http://www.latin-dictionary.net/definition/22292/hordeacius-hordeacia-hordeacium">hordeacius, hordeacia, hordeacium</a> adj</li>
+          <li id="word-487" class="word"><a href="http://www.latin-dictionary.net/definition/22293/hordearius-hordearia-hordearium">hordearius, hordearia, hordearium</a> adj</li>
+          <li id="word-488" class="word"><a href="http://www.latin-dictionary.net/definition/22294/hordeum-hordei">hordeum, hordei</a> n</li>
+          <li id="word-489" class="word"><a href="http://www.latin-dictionary.net/definition/22295/hordiaceus-hordiacea-hordiaceum">hordiaceus, hordiacea, hordiaceum</a> adj</li>
+          <li id="word-490" class="word"><a href="http://www.latin-dictionary.net/definition/22296/hordiacius-hordiacia-hordiacium">hordiacius, hordiacia, hordiacium</a> adj</li>
+          <li id="word-491" class="word"><a href="http://www.latin-dictionary.net/definition/22297/hordiarius-hordiaria-hordiarium">hordiarius, hordiaria, hordiarium</a> adj</li>
+          <li id="word-492" class="word"><a href="http://www.latin-dictionary.net/definition/22298/Horeb-undeclined">Horeb, undeclined</a> n</li>
+          <li id="word-493" class="word"><a href="http://www.latin-dictionary.net/definition/22299/horia-horiae">horia, horiae</a> n</li>
+          <li id="word-494" class="word"><a href="http://www.latin-dictionary.net/definition/22300/horizon-horizontos-is">horizon, horizontos/is</a> n</li>
+          <li id="word-495" class="word"><a href="http://www.latin-dictionary.net/definition/22301/horizontalis-horizontalis-horizontale">horizontalis, horizontalis, horizontale</a> adj</li>
+          <li id="word-496" class="word"><a href="http://www.latin-dictionary.net/definition/22302/horizontaliter">horizontaliter</a> adv</li>
+          <li id="word-497" class="word"><a href="http://www.latin-dictionary.net/definition/22303/horminum-hormini">horminum, hormini</a> n</li>
+          <li id="word-498" class="word"><a href="http://www.latin-dictionary.net/definition/22304/hormonum-hormoni">hormonum, hormoni</a> n</li>
+          <li id="word-499" class="word"><a href="http://www.latin-dictionary.net/definition/22305/hornotinus-hornotina-hornotinum">hornotinus, hornotina, hornotinum</a> adj</li>
+          <li id="word-500" class="word"><a href="http://www.latin-dictionary.net/definition/22306/hornus-horna-hornum">hornus, horna, hornum</a> adj</li>
+          <li id="word-501" class="word"><a href="http://www.latin-dictionary.net/definition/22307/horologiarius-horologiarii">horologiarius, horologiarii</a> n</li>
+          <li id="word-502" class="word"><a href="http://www.latin-dictionary.net/definition/22308/horologion-horologii">horologion, horologii</a> n</li>
+          <li id="word-503" class="word"><a href="http://www.latin-dictionary.net/definition/22309/horologium-horologi-i">horologium, horologi(i)</a> n</li>
+          <li id="word-504" class="word"><a href="http://www.latin-dictionary.net/definition/22310/horoma-horomatis">horoma, horomatis</a> n</li>
+          <li id="word-505" class="word"><a href="http://www.latin-dictionary.net/definition/22311/horrendus-horrenda-horrendum">horrendus, horrenda, horrendum</a> adj</li>
+          <li id="word-506" class="word"><a href="http://www.latin-dictionary.net/definition/22312/horreo-horrere-horrui">horreo, horrere, horrui, -</a> v</li>
+          <li id="word-507" class="word"><a href="http://www.latin-dictionary.net/definition/22313/horresco-horrescere-horrui">horresco, horrescere, horrui, -</a> v</li>
+          <li id="word-508" class="word"><a href="http://www.latin-dictionary.net/definition/22314/horreum-horrei">horreum, horrei</a> n</li>
+          <li id="word-509" class="word"><a href="http://www.latin-dictionary.net/definition/22315/horribilis-horribile-horribilior">horribilis, horribile, horribilior</a> adj</li>
+          <li id="word-510" class="word"><a href="http://www.latin-dictionary.net/definition/22316/horridulus-horridula-horridulum">horridulus, horridula, horridulum</a> adj</li>
+          <li id="word-511" class="word"><a href="http://www.latin-dictionary.net/definition/22317/horridus-horrida-horridum">horridus, horrida, horridum</a> adj</li>
+          <li id="word-512" class="word"><a href="http://www.latin-dictionary.net/definition/22318/horrifer-horrifera-horriferum">horrifer, horrifera, horriferum</a> adj</li>
+          <li id="word-513" class="word"><a href="http://www.latin-dictionary.net/definition/22319/horrificus-horrifica-horrificum">horrificus, horrifica, horrificum</a> adj</li>
+          <li id="word-514" class="word"><a href="http://www.latin-dictionary.net/definition/22320/horripilatio-horripilationis">horripilatio, horripilationis</a> n</li>
+          <li id="word-515" class="word"><a href="http://www.latin-dictionary.net/definition/22321/horripilo-horripilare-horripilavi-horripilatus">horripilo, horripilare, horripilavi, horripilatus</a> v</li>
+          <li id="word-516" class="word"><a href="http://www.latin-dictionary.net/definition/22322/horrisonus-horrisona-horrisonum">horrisonus, horrisona, horrisonum</a> adj</li>
+          <li id="word-517" class="word"><a href="http://www.latin-dictionary.net/definition/22323/horror-horroris">horror, horroris</a> n</li>
+          <li id="word-518" class="word"><a href="http://www.latin-dictionary.net/definition/22324/hortalitium-hortalitii">hortalitium, hortalitii</a> n</li>
+          <li id="word-519" class="word"><a href="http://www.latin-dictionary.net/definition/22325/hortamen-hortaminis">hortamen, hortaminis</a> n</li>
+          <li id="word-520" class="word"><a href="http://www.latin-dictionary.net/definition/22326/hortamentum-hortamenti">hortamentum, hortamenti</a> n</li>
+          <li id="word-521" class="word"><a href="http://www.latin-dictionary.net/definition/22327/hortatio-hortationis">hortatio, hortationis</a> n</li>
+          <li id="word-522" class="word"><a href="http://www.latin-dictionary.net/definition/22328/hortativus-hortativa-hortativum">hortativus, hortativa, hortativum</a> adj</li>
+          <li id="word-523" class="word"><a href="http://www.latin-dictionary.net/definition/22329/hortator-hortatoris">hortator, hortatoris</a> n</li>
+          <li id="word-524" class="word"><a href="http://www.latin-dictionary.net/definition/22330/hortatorius-hortatoria-hortatorium">hortatorius, hortatoria, hortatorium</a> adj</li>
+          <li id="word-525" class="word"><a href="http://www.latin-dictionary.net/definition/22331/hortatus-hortata-hortatum">hortatus, hortata, hortatum</a> adj</li>
+          <li id="word-526" class="word"><a href="http://www.latin-dictionary.net/definition/22332/hortensis-hortensis-hortense">hortensis, hortensis, hortense</a> adj</li>
+          <li id="word-527" class="word"><a href="http://www.latin-dictionary.net/definition/22333/hortensium-hortensii">hortensium, hortensii</a> n</li>
+          <li id="word-528" class="word"><a href="http://www.latin-dictionary.net/definition/22334/hortensius-hortensia-hortensium">hortensius, hortensia, hortensium</a> adj</li>
+          <li id="word-529" class="word"><a href="http://www.latin-dictionary.net/definition/22335/Hortius-Horti">Hortius, Horti</a> n</li>
+          <li id="word-530" class="word"><a href="http://www.latin-dictionary.net/definition/22336/Hortius-Hortia-Hortium">Hortius, Hortia, Hortium</a> adj</li>
+          <li id="word-531" class="word"><a href="http://www.latin-dictionary.net/definition/22337/hortor-hortari-hortatus">hortor, hortari, hortatus</a> v</li>
+          <li id="word-532" class="word"><a href="http://www.latin-dictionary.net/definition/22338/hortulanus-hortulani">hortulanus, hortulani</a> n</li>
+          <li id="word-533" class="word"><a href="http://www.latin-dictionary.net/definition/22339/hortulus-hortuli">hortulus, hortuli</a> n</li>
+          <li id="word-534" class="word"><a href="http://www.latin-dictionary.net/definition/22340/hortus-horti">hortus, horti</a> n</li>
+          <li id="word-535" class="word"><a href="http://www.latin-dictionary.net/definition/22341/Hosanna">Hosanna</a> interj</li>
+          <li id="word-536" class="word"><a href="http://www.latin-dictionary.net/definition/22342/Hosianna">Hosianna</a> interj</li>
+          <li id="word-537" class="word"><a href="http://www.latin-dictionary.net/definition/22343/hospes-gen-hospitis">hospes, (gen.), hospitis</a> adj</li>
+          <li id="word-538" class="word"><a href="http://www.latin-dictionary.net/definition/22344/hospes-hospitis">hospes, hospitis</a> n</li>
+          <li id="word-539" class="word"><a href="http://www.latin-dictionary.net/definition/22345/hospita-hospitae">hospita, hospitae</a> n</li>
+          <li id="word-540" class="word"><a href="http://www.latin-dictionary.net/definition/22346/hospitale-hospitalis">hospitale, hospitalis</a> n</li>
+          <li id="word-541" class="word"><a href="http://www.latin-dictionary.net/definition/22347/hospitalis-hospitalis-hospitale">hospitalis, hospitalis, hospitale</a> adj</li>
+          <li id="word-542" class="word"><a href="http://www.latin-dictionary.net/definition/22348/hospitalitas-hospitalitatis">hospitalitas, hospitalitatis</a> n</li>
+          <li id="word-543" class="word"><a href="http://www.latin-dictionary.net/definition/22349/hospitaliter">hospitaliter</a> adv</li>
+          <li id="word-544" class="word"><a href="http://www.latin-dictionary.net/definition/22350/hospitium-hospiti-i">hospitium, hospiti(i)</a> n</li>
+          <li id="word-545" class="word"><a href="http://www.latin-dictionary.net/definition/22351/hospito-hospitare-hospitavi-hospitatus">hospito, hospitare, hospitavi, hospitatus</a> v</li>
+          <li id="word-546" class="word"><a href="http://www.latin-dictionary.net/definition/22352/hospitor-hospitari-hospitatus">hospitor, hospitari, hospitatus</a> v</li>
+          <li id="word-547" class="word"><a href="http://www.latin-dictionary.net/definition/22353/hospitus-hospita-hospitum">hospitus, hospita, hospitum</a> adj</li>
+          <li id="word-548" class="word"><a href="http://www.latin-dictionary.net/definition/22354/hostia-hostiae">hostia, hostiae</a> n</li>
+          <li id="word-549" class="word"><a href="http://www.latin-dictionary.net/definition/22355/hostiaria-hostiariae">hostiaria, hostiariae</a> n</li>
+          <li id="word-550" class="word"><a href="http://www.latin-dictionary.net/definition/22356/hosticus-hostica-hosticum">hosticus, hostica, hosticum</a> adj</li>
+          <li id="word-551" class="word"><a href="http://www.latin-dictionary.net/definition/22357/hostilis-hostilis-hostile">hostilis, hostilis, hostile</a> adj</li>
+          <li id="word-552" class="word"><a href="http://www.latin-dictionary.net/definition/22358/hostilitas-hostilitatis">hostilitas, hostilitatis</a> n</li>
+          <li id="word-553" class="word"><a href="http://www.latin-dictionary.net/definition/22359/hostiliter">hostiliter</a> adv</li>
+          <li id="word-554" class="word"><a href="http://www.latin-dictionary.net/definition/22360/hostimentum-hostimenti">hostimentum, hostimenti</a> n</li>
+          <li id="word-555" class="word"><a href="http://www.latin-dictionary.net/definition/22361/hostio-hostire">hostio, hostire, -, -</a> v</li>
+          <li id="word-556" class="word"><a href="http://www.latin-dictionary.net/definition/22362/hostis-hostis">hostis, hostis</a> n</li>
+          <li id="word-557" class="word"><a href="http://www.latin-dictionary.net/definition/22363/HS-abb">HS., abb.</a> n</li>
+          <li id="word-558" class="word"><a href="http://www.latin-dictionary.net/definition/22364/hu-undeclined">hu, undeclined</a> n</li>
+          <li id="word-559" class="word"><a href="http://www.latin-dictionary.net/definition/22365/huc">huc</a> adv</li>
+          <li id="word-560" class="word"><a href="http://www.latin-dictionary.net/definition/22366/huccine">huccine</a> adv</li>
+          <li id="word-561" class="word"><a href="http://www.latin-dictionary.net/definition/22367/hucusque">hucusque</a> adv</li>
+          <li id="word-562" class="word"><a href="http://www.latin-dictionary.net/definition/22368/hue">hue</a> adv</li>
+          <li id="word-563" class="word"><a href="http://www.latin-dictionary.net/definition/22369/hui">hui</a> interj</li>
+          <li id="word-564" class="word"><a href="http://www.latin-dictionary.net/definition/22370/humanismus-humanismi">humanismus, humanismi</a> n</li>
+          <li id="word-565" class="word"><a href="http://www.latin-dictionary.net/definition/22371/humanista-humanistae">humanista, humanistae</a> n</li>
+          <li id="word-566" class="word"><a href="http://www.latin-dictionary.net/definition/22372/humanisticus-humanistica-humanisticum">humanisticus, humanistica, humanisticum</a> adj</li>
+          <li id="word-567" class="word"><a href="http://www.latin-dictionary.net/definition/22373/humanitarius-humanitaria-humanitarium">humanitarius, humanitaria, humanitarium</a> adj</li>
+          <li id="word-568" class="word"><a href="http://www.latin-dictionary.net/definition/22374/humanitas-humanitatis">humanitas, humanitatis</a> n</li>
+          <li id="word-569" class="word"><a href="http://www.latin-dictionary.net/definition/22375/humaniter">humaniter</a> adv</li>
+          <li id="word-570" class="word"><a href="http://www.latin-dictionary.net/definition/22376/humanitus">humanitus</a> adv</li>
+          <li id="word-571" class="word"><a href="http://www.latin-dictionary.net/definition/22377/humano-humanare-humanavi-humanatus">humano, humanare, humanavi, humanatus</a> v</li>
+          <li id="word-572" class="word"><a href="http://www.latin-dictionary.net/definition/22378/humanum-humani">humanum, humani</a> n</li>
+          <li id="word-573" class="word"><a href="http://www.latin-dictionary.net/definition/22379/humanus-humana">humanus, humana</a> adj</li>
+          <li id="word-574" class="word"><a href="http://www.latin-dictionary.net/definition/22380/humecto-humectare-humectavi-humectatus">humecto, humectare, humectavi, humectatus</a> v</li>
+          <li id="word-575" class="word"><a href="http://www.latin-dictionary.net/definition/22381/humectus-humecta-humectum">humectus, humecta, humectum</a> adj</li>
+          <li id="word-576" class="word"><a href="http://www.latin-dictionary.net/definition/22382/humens-gen-humentis">humens, (gen.), humentis</a> adj</li>
+          <li id="word-577" class="word"><a href="http://www.latin-dictionary.net/definition/22383/humerale-humeralis">humerale, humeralis</a> n</li>
+          <li id="word-578" class="word"><a href="http://www.latin-dictionary.net/definition/22384/humerulus-humeruli">humerulus, humeruli</a> n</li>
+          <li id="word-579" class="word"><a href="http://www.latin-dictionary.net/definition/22385/humerus-humeri">humerus, humeri</a> n</li>
+          <li id="word-580" class="word"><a href="http://www.latin-dictionary.net/definition/22386/humi">humi</a> adv</li>
+          <li id="word-581" class="word"><a href="http://www.latin-dictionary.net/definition/22387/humicubatio-humicubationis">humicubatio, humicubationis</a> n</li>
+          <li id="word-582" class="word"><a href="http://www.latin-dictionary.net/definition/22388/humiditas-humiditatis">humiditas, humiditatis</a> n</li>
+          <li id="word-583" class="word"><a href="http://www.latin-dictionary.net/definition/22389/humiditas-humiditatis">humiditas, humiditatis</a> n</li>
+          <li id="word-584" class="word"><a href="http://www.latin-dictionary.net/definition/22390/humidum-humidi">humidum, humidi</a> n</li>
+          <li id="word-585" class="word"><a href="http://www.latin-dictionary.net/definition/22391/humidus-humida-humidum">humidus, humida, humidum</a> adj</li>
+          <li id="word-586" class="word"><a href="http://www.latin-dictionary.net/definition/22392/humiliatio-humiliationis">humiliatio, humiliationis</a> n</li>
+          <li id="word-587" class="word"><a href="http://www.latin-dictionary.net/definition/22393/humilio-humiliare-humiliavi-humiliatus">humilio, humiliare, humiliavi, humiliatus</a> v</li>
+          <li id="word-588" class="word"><a href="http://www.latin-dictionary.net/definition/22394/humilis-humile-humilior">humilis, humile, humilior</a> adj</li>
+          <li id="word-589" class="word"><a href="http://www.latin-dictionary.net/definition/22395/humilitas-humilitatis">humilitas, humilitatis</a> n</li>
+          <li id="word-590" class="word"><a href="http://www.latin-dictionary.net/definition/22396/humilitas-humilitatis">humilitas, humilitatis</a> n</li>
+          <li id="word-591" class="word"><a href="http://www.latin-dictionary.net/definition/22397/humiliter-humilius-humillime">humiliter, humilius, humillime</a> adv</li>
+          <li id="word-592" class="word"><a href="http://www.latin-dictionary.net/definition/22398/humo-humare-humavi-humatus">humo, humare, humavi, humatus</a> v</li>
+          <li id="word-593" class="word"><a href="http://www.latin-dictionary.net/definition/22399/humor-humoris">humor, humoris</a> n</li>
+          <li id="word-594" class="word"><a href="http://www.latin-dictionary.net/definition/22400/humus-humi">humus, humi</a> n</li>
+          <li id="word-595" class="word"><a href="http://www.latin-dictionary.net/definition/22401/hundredum-hundredi">hundredum, hundredi</a> n</li>
+          <li id="word-596" class="word"><a href="http://www.latin-dictionary.net/definition/22402/hutesium-hutesii">hutesium, hutesii</a> n</li>
+          <li id="word-597" class="word"><a href="http://www.latin-dictionary.net/definition/22403/hyacinthina-hyacinthinae">hyacinthina, hyacinthinae</a> n</li>
+          <li id="word-598" class="word"><a href="http://www.latin-dictionary.net/definition/22404/hyacinthinus-hyacinthina-hyacinthinum">hyacinthinus, hyacinthina, hyacinthinum</a> adj</li>
+          <li id="word-599" class="word"><a href="http://www.latin-dictionary.net/definition/22405/hyacinthos-hyacinthi">hyacinthos, hyacinthi</a> n</li>
+          <li id="word-600" class="word"><a href="http://www.latin-dictionary.net/definition/22406/hyacinthus-hyacinthi">hyacinthus, hyacinthi</a> n</li>
+          <li id="word-601" class="word"><a href="http://www.latin-dictionary.net/definition/22407/hyaena-hyaenae">hyaena, hyaenae</a> n</li>
+          <li id="word-602" class="word"><a href="http://www.latin-dictionary.net/definition/22408/hyalus-hyali">hyalus, hyali</a> n</li>
+          <li id="word-603" class="word"><a href="http://www.latin-dictionary.net/definition/22409/Hyas-Hyadis">Hyas, Hyadis</a> n</li>
+          <li id="word-604" class="word"><a href="http://www.latin-dictionary.net/definition/22410/hybernalis-hybernalis-hybernale">hybernalis, hybernalis, hybernale</a> adj</li>
+          <li id="word-605" class="word"><a href="http://www.latin-dictionary.net/definition/22411/hybrida-hybridae">hybrida, hybridae</a> n</li>
+          <li id="word-606" class="word"><a href="http://www.latin-dictionary.net/definition/22412/hydolatria-hydolatriae">hydolatria, hydolatriae</a> n</li>
+          <li id="word-607" class="word"><a href="http://www.latin-dictionary.net/definition/22413/hydolum-hydoli">hydolum, hydoli</a> n</li>
+          <li id="word-608" class="word"><a href="http://www.latin-dictionary.net/definition/22414/hydoneus-hydonea-hydoneum">hydoneus, hydonea, hydoneum</a> adj</li>
+          <li id="word-609" class="word"><a href="http://www.latin-dictionary.net/definition/22415/hydoneus-hydonea-hydoneum">hydoneus, hydonea, hydoneum</a> adj</li>
+          <li id="word-610" class="word"><a href="http://www.latin-dictionary.net/definition/22416/hydra-hydrae">hydra, hydrae</a> n</li>
+          <li id="word-611" class="word"><a href="http://www.latin-dictionary.net/definition/22417/hydrargyrus-hydrargyri">hydrargyrus, hydrargyri</a> n</li>
+          <li id="word-612" class="word"><a href="http://www.latin-dictionary.net/definition/22418/hydraulicus-hydraulica-hydraulicum">hydraulicus, hydraulica, hydraulicum</a> adj</li>
+          <li id="word-613" class="word"><a href="http://www.latin-dictionary.net/definition/22419/hydraulus-hydrauli">hydraulus, hydrauli</a> n</li>
+          <li id="word-614" class="word"><a href="http://www.latin-dictionary.net/definition/22420/hydria-hydriae">hydria, hydriae</a> n</li>
+          <li id="word-615" class="word"><a href="http://www.latin-dictionary.net/definition/22421/hydrocarboneum-hydrocarbonei">hydrocarboneum, hydrocarbonei</a> n</li>
+          <li id="word-616" class="word"><a href="http://www.latin-dictionary.net/definition/22422/hydrogenium-hydrogenii">hydrogenium, hydrogenii</a> n</li>
+          <li id="word-617" class="word"><a href="http://www.latin-dictionary.net/definition/22423/hydrographia-hydrographiae">hydrographia, hydrographiae</a> n</li>
+          <li id="word-618" class="word"><a href="http://www.latin-dictionary.net/definition/22424/hydrographicus-hydrographica-hydrographicum">hydrographicus, hydrographica, hydrographicum</a> adj</li>
+          <li id="word-619" class="word"><a href="http://www.latin-dictionary.net/definition/22425/hydrologicus-hydrologica-hydrologicum">hydrologicus, hydrologica, hydrologicum</a> adj</li>
+          <li id="word-620" class="word"><a href="http://www.latin-dictionary.net/definition/22426/hydromel-hydromelitis">hydromel, hydromelitis</a> n</li>
+          <li id="word-621" class="word"><a href="http://www.latin-dictionary.net/definition/22427/hydromel-hydromellis">hydromel, hydromellis</a> n</li>
+          <li id="word-622" class="word"><a href="http://www.latin-dictionary.net/definition/22428/hydromeli-hydromelitis">hydromeli, hydromelitis</a> n</li>
+          <li id="word-623" class="word"><a href="http://www.latin-dictionary.net/definition/22429/hydromellum-hydromelli">hydromellum, hydromelli</a> n</li>
+          <li id="word-624" class="word"><a href="http://www.latin-dictionary.net/definition/22430/hydropicus-hydropica-hydropicum">hydropicus, hydropica, hydropicum</a> adj</li>
+          <li id="word-625" class="word"><a href="http://www.latin-dictionary.net/definition/22431/hydropisis-hydropisis">hydropisis, hydropisis</a> n</li>
+          <li id="word-626" class="word"><a href="http://www.latin-dictionary.net/definition/22432/hydroplanum-hydroplani">hydroplanum, hydroplani</a> n</li>
+          <li id="word-627" class="word"><a href="http://www.latin-dictionary.net/definition/22433/hydrops-hydropis">hydrops, hydropis</a> n</li>
+          <li id="word-628" class="word"><a href="http://www.latin-dictionary.net/definition/22434/hydrops-hydropos-is">hydrops, hydropos/is</a> n</li>
+          <li id="word-629" class="word"><a href="http://www.latin-dictionary.net/definition/22435/hydrosphaera-hydrosphaerae">hydrosphaera, hydrosphaerae</a> n</li>
+          <li id="word-630" class="word"><a href="http://www.latin-dictionary.net/definition/22436/hydrostatica-hydrostaticae">hydrostatica, hydrostaticae</a> n</li>
+          <li id="word-631" class="word"><a href="http://www.latin-dictionary.net/definition/22437/hydrostaticus-hydrostatica-hydrostaticum">hydrostaticus, hydrostatica, hydrostaticum</a> adj</li>
+          <li id="word-632" class="word"><a href="http://www.latin-dictionary.net/definition/22438/hydrus-hydri">hydrus, hydri</a> n</li>
+          <li id="word-633" class="word"><a href="http://www.latin-dictionary.net/definition/22439/hygiena-hygienae">hygiena, hygienae</a> n</li>
+          <li id="word-634" class="word"><a href="http://www.latin-dictionary.net/definition/22440/hygienicus-hygienica-hygienicum">hygienicus, hygienica, hygienicum</a> adj</li>
+          <li id="word-635" class="word"><a href="http://www.latin-dictionary.net/definition/22441/hygrologia-hygrologiae">hygrologia, hygrologiae</a> n</li>
+          <li id="word-636" class="word"><a href="http://www.latin-dictionary.net/definition/22442/hygrometrum-hygrometri">hygrometrum, hygrometri</a> n</li>
+          <li id="word-637" class="word"><a href="http://www.latin-dictionary.net/definition/22443/hylomorphismus-hylomorphismi">hylomorphismus, hylomorphismi</a> n</li>
+          <li id="word-638" class="word"><a href="http://www.latin-dictionary.net/definition/22444/Hymen-undeclined">Hymen, undeclined</a> n</li>
+          <li id="word-639" class="word"><a href="http://www.latin-dictionary.net/definition/22445/Hymenaeos-Hymenaei">Hymenaeos, Hymenaei</a> n</li>
+          <li id="word-640" class="word"><a href="http://www.latin-dictionary.net/definition/22446/Hymenaeus-Hymenaei">Hymenaeus, Hymenaei</a> n</li>
+          <li id="word-641" class="word"><a href="http://www.latin-dictionary.net/definition/22447/hymera-hymerae">hymera, hymerae</a> n</li>
+          <li id="word-642" class="word"><a href="http://www.latin-dictionary.net/definition/22448/hymnarium-hymnarii">hymnarium, hymnarii</a> n</li>
+          <li id="word-643" class="word"><a href="http://www.latin-dictionary.net/definition/22449/hymnicus-hymnica-hymnicum">hymnicus, hymnica, hymnicum</a> adj</li>
+          <li id="word-644" class="word"><a href="http://www.latin-dictionary.net/definition/22450/hymnizo-hymnizare-hymnizavi-hymnizatus">hymnizo, hymnizare, hymnizavi, hymnizatus</a> v</li>
+          <li id="word-645" class="word"><a href="http://www.latin-dictionary.net/definition/22451/hymnodia-hymnodiae">hymnodia, hymnodiae</a> n</li>
+          <li id="word-646" class="word"><a href="http://www.latin-dictionary.net/definition/22452/hymnologion-hymnologii">hymnologion, hymnologii</a> n</li>
+          <li id="word-647" class="word"><a href="http://www.latin-dictionary.net/definition/22453/hymnus-hymni">hymnus, hymni</a> n</li>
+          <li id="word-648" class="word"><a href="http://www.latin-dictionary.net/definition/22454/hyoscyamus-hyoscyami">hyoscyamus, hyoscyami</a> n</li>
+          <li id="word-649" class="word"><a href="http://www.latin-dictionary.net/definition/22455/hypaethros-hypaethri">hypaethros, hypaethri</a> n</li>
+          <li id="word-650" class="word"><a href="http://www.latin-dictionary.net/definition/22456/hypaethrum-hypaethri">hypaethrum, hypaethri</a> n</li>
+          <li id="word-651" class="word"><a href="http://www.latin-dictionary.net/definition/22457/hypaethrus-hypaethra-hypaethrum">hypaethrus, hypaethra, hypaethrum</a> adj</li>
+          <li id="word-652" class="word"><a href="http://www.latin-dictionary.net/definition/22458/hypallage-hypallages">hypallage, hypallages</a> n</li>
+          <li id="word-653" class="word"><a href="http://www.latin-dictionary.net/definition/22459/hypate-hypates">hypate, hypates</a> n</li>
+          <li id="word-654" class="word"><a href="http://www.latin-dictionary.net/definition/22460/hypaton-hypati">hypaton, hypati</a> n</li>
+          <li id="word-655" class="word"><a href="http://www.latin-dictionary.net/definition/22461/hyperbaton-hyperbati">hyperbaton, hyperbati</a> n</li>
+          <li id="word-656" class="word"><a href="http://www.latin-dictionary.net/definition/22462/hyperbola-hyperbolae">hyperbola, hyperbolae</a> n</li>
+          <li id="word-657" class="word"><a href="http://www.latin-dictionary.net/definition/22463/hyperbolaeos-hyperbolaei">hyperbolaeos, hyperbolaei</a> n</li>
+          <li id="word-658" class="word"><a href="http://www.latin-dictionary.net/definition/22464/hyperbolaeus-hyperbolaea-hyperbolaeum">hyperbolaeus, hyperbolaea, hyperbolaeum</a> adj</li>
+          <li id="word-659" class="word"><a href="http://www.latin-dictionary.net/definition/22465/hyperbole-hyperboles">hyperbole, hyperboles</a> n</li>
+          <li id="word-660" class="word"><a href="http://www.latin-dictionary.net/definition/22466/hyperboleus-hyperbolei">hyperboleus, hyperbolei</a> n</li>
+          <li id="word-661" class="word"><a href="http://www.latin-dictionary.net/definition/22467/hyperbolice">hyperbolice</a> adv</li>
+          <li id="word-662" class="word"><a href="http://www.latin-dictionary.net/definition/22468/hyperbolicus-hyperbolica-hyperbolicum">hyperbolicus, hyperbolica, hyperbolicum</a> adj</li>
+          <li id="word-663" class="word"><a href="http://www.latin-dictionary.net/definition/22469/hypercatalectus-hypercatalecti">hypercatalectus, hypercatalecti</a> n</li>
+          <li id="word-664" class="word"><a href="http://www.latin-dictionary.net/definition/22470/hyperdulia-hyperduliae">hyperdulia, hyperduliae</a> n</li>
+          <li id="word-665" class="word"><a href="http://www.latin-dictionary.net/definition/22471/hypermetricus-hypermetrica-hypermetricum">hypermetricus, hypermetrica, hypermetricum</a> adj</li>
+          <li id="word-666" class="word"><a href="http://www.latin-dictionary.net/definition/22472/hypertrophia-hypertrophiae">hypertrophia, hypertrophiae</a> n</li>
+          <li id="word-667" class="word"><a href="http://www.latin-dictionary.net/definition/22473/hypnosis-hypnosis">hypnosis, hypnosis</a> n</li>
+          <li id="word-668" class="word"><a href="http://www.latin-dictionary.net/definition/22474/hypnotismus-hypnotismi">hypnotismus, hypnotismi</a> n</li>
+          <li id="word-669" class="word"><a href="http://www.latin-dictionary.net/definition/22475/hypnotista-hypnotistae">hypnotista, hypnotistae</a> n</li>
+          <li id="word-670" class="word"><a href="http://www.latin-dictionary.net/definition/22476/hypnotizo-hypnotizare-hypnotizavi-hypnotizatus">hypnotizo, hypnotizare, hypnotizavi, hypnotizatus</a> v</li>
+          <li id="word-671" class="word"><a href="http://www.latin-dictionary.net/definition/22477/hypocauston-hypocausti">hypocauston, hypocausti</a> n</li>
+          <li id="word-672" class="word"><a href="http://www.latin-dictionary.net/definition/22478/hypocaustum-hypocausti">hypocaustum, hypocausti</a> n</li>
+          <li id="word-673" class="word"><a href="http://www.latin-dictionary.net/definition/22479/hypochondria-hypochondriae">hypochondria, hypochondriae</a> n</li>
+          <li id="word-674" class="word"><a href="http://www.latin-dictionary.net/definition/22480/hypochondriacus-hypochondriaca-hypochondriacum">hypochondriacus, hypochondriaca, hypochondriacum</a> adj</li>
+          <li id="word-675" class="word"><a href="http://www.latin-dictionary.net/definition/22481/hypocrisis-hypocrisis">hypocrisis, hypocrisis</a> n</li>
+          <li id="word-676" class="word"><a href="http://www.latin-dictionary.net/definition/22482/hypocrita-hypocritae">hypocrita, hypocritae</a> n</li>
+          <li id="word-677" class="word"><a href="http://www.latin-dictionary.net/definition/22483/hypocrites-hypocritae">hypocrites, hypocritae</a> n</li>
+          <li id="word-678" class="word"><a href="http://www.latin-dictionary.net/definition/22484/hypodiaconus-hypodiaconi">hypodiaconus, hypodiaconi</a> n</li>
+          <li id="word-679" class="word"><a href="http://www.latin-dictionary.net/definition/22485/hypodiaconxus-hypodiaconxi">hypodiaconxus, hypodiaconxi</a> n</li>
+          <li id="word-680" class="word"><a href="http://www.latin-dictionary.net/definition/22486/hypodidascalus-hypodidascali">hypodidascalus, hypodidascali</a> n</li>
+          <li id="word-681" class="word"><a href="http://www.latin-dictionary.net/definition/22487/hypodorius-hypodoria-hypodorium">hypodorius, hypodoria, hypodorium</a> adj</li>
+          <li id="word-682" class="word"><a href="http://www.latin-dictionary.net/definition/22488/hypogaeum-hypogaei">hypogaeum, hypogaei</a> n</li>
+          <li id="word-683" class="word"><a href="http://www.latin-dictionary.net/definition/22489/hypogeum-hypogei">hypogeum, hypogei</a> n</li>
+          <li id="word-684" class="word"><a href="http://www.latin-dictionary.net/definition/22490/hypogeus-hypogea-hypogeum">hypogeus, hypogea, hypogeum</a> adj</li>
+          <li id="word-685" class="word"><a href="http://www.latin-dictionary.net/definition/22491/hypolydius-hypolydia-hypolydium">hypolydius, hypolydia, hypolydium</a> adj</li>
+          <li id="word-686" class="word"><a href="http://www.latin-dictionary.net/definition/22492/hypomnema-hypomnematis">hypomnema, hypomnematis</a> n</li>
+          <li id="word-687" class="word"><a href="http://www.latin-dictionary.net/definition/22493/hypophrygius-hypophrygia-hypophrygium">hypophrygius, hypophrygia, hypophrygium</a> adj</li>
+          <li id="word-688" class="word"><a href="http://www.latin-dictionary.net/definition/22494/hypostasis-hypostasis">hypostasis, hypostasis</a> n</li>
+          <li id="word-689" class="word"><a href="http://www.latin-dictionary.net/definition/22495/Hypostasis-Hypostasis">Hypostasis, Hypostasis</a> n</li>
+          <li id="word-690" class="word"><a href="http://www.latin-dictionary.net/definition/22496/hypostaticus-hypostatica-hypostaticum">hypostaticus, hypostatica, hypostaticum</a> adj</li>
+          <li id="word-691" class="word"><a href="http://www.latin-dictionary.net/definition/22497/hypotenusa-hypotenusae">hypotenusa, hypotenusae</a> n</li>
+          <li id="word-692" class="word"><a href="http://www.latin-dictionary.net/definition/22498/hypotheca-hypothecae">hypotheca, hypothecae</a> n</li>
+          <li id="word-693" class="word"><a href="http://www.latin-dictionary.net/definition/22499/hypothecarius-hypothecaria-hypothecarium">hypothecarius, hypothecaria, hypothecarium</a> adj</li>
+          <li id="word-694" class="word"><a href="http://www.latin-dictionary.net/definition/22500/hypotheco-hypothecare-hypothecavi-hypothecatus">hypotheco, hypothecare, hypothecavi, hypothecatus</a> v</li>
+          <li id="word-695" class="word"><a href="http://www.latin-dictionary.net/definition/22501/hypothesis-hypothesis">hypothesis, hypothesis</a> n</li>
+          <li id="word-696" class="word"><a href="http://www.latin-dictionary.net/definition/22502/hypotheticus-hypothetica-hypotheticum">hypotheticus, hypothetica, hypotheticum</a> adj</li>
+          <li id="word-697" class="word"><a href="http://www.latin-dictionary.net/definition/22503/hypotheticus-hypothetici">hypotheticus, hypothetici</a> n</li>
+          <li id="word-698" class="word"><a href="http://www.latin-dictionary.net/definition/22504/hypozonium-hypozonii">hypozonium, hypozonii</a> n</li>
+          <li id="word-699" class="word"><a href="http://www.latin-dictionary.net/definition/22505/hyrax-hyracis">hyrax, hyracis</a> n</li>
+          <li id="word-700" class="word"><a href="http://www.latin-dictionary.net/definition/22506/hysginum-hysgini">hysginum, hysgini</a> n</li>
+          <li id="word-701" class="word"><a href="http://www.latin-dictionary.net/definition/22507/hysopum-hysopi">hysopum, hysopi</a> n</li>
+          <li id="word-702" class="word"><a href="http://www.latin-dictionary.net/definition/22508/hysopus-hysopi">hysopus, hysopi</a> n</li>
+          <li id="word-703" class="word"><a href="http://www.latin-dictionary.net/definition/22509/hyssopum-hyssopi">hyssopum, hyssopi</a> n</li>
+          <li id="word-704" class="word"><a href="http://www.latin-dictionary.net/definition/22510/hyssopus-hyssopi">hyssopus, hyssopi</a> n</li>
+          <li id="word-705" class="word"><a href="http://www.latin-dictionary.net/definition/22511/hysteria-hysteriae">hysteria, hysteriae</a> n</li>
+          <li id="word-706" class="word"><a href="http://www.latin-dictionary.net/definition/22512/hystericus-hysterica-hystericum">hystericus, hysterica, hystericum</a> adj</li>
+          <li id="word-707" class="word"><a href="http://www.latin-dictionary.net/definition/22513/hysterologia-hysterologiae">hysterologia, hysterologiae</a> n</li>

@@ -1,0 +1,199 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/24852/jacca-jaccae">jacca, jaccae</a> n</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/24853/jaceo-jacere-jacui-jacitus">jaceo, jacere, jacui, jacitus</a> v</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/24854/jacio-jacere-jeci-jactus">jacio, jacere, jeci, jactus</a> v</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/24855/Jacob-undeclined">Jacob, undeclined</a> n</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/24856/jactans-jactantis">jactans, jactantis</a> adj</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/24857/jactanter">jactanter</a> adv</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/24858/jactantia-jactantiae">jactantia, jactantiae</a> n</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/24859/jactatio-jactationis">jactatio, jactationis</a> n</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/24860/jactio-jactionis">jactio, jactionis</a> n</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/24861/jactito-jactitare-jactitavi-jactitatus">jactito, jactitare, jactitavi, jactitatus</a> v</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/24862/jacto-jactare-jactavi-jactatus">jacto, jactare, jactavi, jactatus</a> v</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/24863/jactura-jacturae">jactura, jacturae</a> n</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/24864/jactus-jactus">jactus, jactus</a> n</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/24865/jaculator-jaculatoris">jaculator, jaculatoris</a> n</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/24866/jaculor-jaculari-jaculatus">jaculor, jaculari, jaculatus</a> v</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/24867/jaculum-jaculi">jaculum, jaculi</a> n</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/24868/jaculus-jacula-jaculum">jaculus, jacula, jaculum</a> adj</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/24869/jam">jam</a> adv</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/24870/jamdudum">jamdudum</a> adv</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/24871/jamjam">jamjam</a> adv</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/24872/jamjamque">jamjamque</a> adv</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/24873/jampridem">jampridem</a> adv</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/24874/Jan-abb">Jan., abb.</a> adj</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/24875/janitor-janitoris">janitor, janitoris</a> n</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/24876/janitrix-janitricis">janitrix, janitricis</a> n</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/24877/janthinus-janthina-janthinum">janthinus, janthina, janthinum</a> adj</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/24878/janua-januae">janua, januae</a> n</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/24879/Januarius-Januaria-Januarium">Januarius, Januaria, Januarium</a> adj</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/24880/Janus-Jani">Janus, Jani</a> n</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/24881/jasminum-jasmini">jasminum, jasmini</a> n</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/24882/jaspis-jaspidis">jaspis, jaspidis</a> n</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/24883/jecur-jecinoris">jecur, jecinoris</a> n</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/24884/jecur-jecoris">jecur, jecoris</a> n</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/24885/jecusculum-jecusculi">jecusculum, jecusculi</a> n</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/24886/jejunitas-jejunitatis">jejunitas, jejunitatis</a> n</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/24887/jejunium-jejuni-i">jejunium, jejuni(i)</a> n</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/24888/jejuno-jejunare-jejunavi-jejunatus">jejuno, jejunare, jejunavi, jejunatus</a> v</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/24889/jejunus-jejuna">jejunus, jejuna</a> adj</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/24890/Jemineus-Jeminea-Jemineum">Jemineus, Jeminea, Jemineum</a> adj</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/24891/jentaculum-jentaculi">jentaculum, jentaculi</a> n</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/24892/jento-jentare-jentavi-jentatus">jento, jentare, jentavi, jentatus</a> v</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/24893/Jerusalem-undeclined">Jerusalem, undeclined</a> n</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/24894/Jesuita-Jesuitae">Jesuita, Jesuitae</a> n</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/24895/Jesuiticus-Jesuitica-Jesuiticum">Jesuiticus, Jesuitica, Jesuiticum</a> adj</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/24896/Jesus-Jesu">Jesus, Jesu</a> n</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/24897/Joannes-Joannis">Joannes, Joannis</a> n</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/24898/jobeleus-jobelei">jobeleus, jobelei</a> n</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/24899/jobileus-jobilei">jobileus, jobilei</a> n</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/24900/jocabundus-jocabunda-jocabundum">jocabundus, jocabunda, jocabundum</a> adj</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/24901/jocatio-jocationis">jocatio, jocationis</a> n</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/24902/jocinerosus-jocinerosa-jocinerosum">jocinerosus, jocinerosa, jocinerosum</a> adj</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/24903/joco-jocare-jocavi-jocatus">joco, jocare, jocavi, jocatus</a> v</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/24904/jocor-jocari-jocatus">jocor, jocari, jocatus</a> v</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/24905/jocose-jocosius-jocosissime">jocose, jocosius, jocosissime</a> adv</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/24906/jocosus-jocosa-jocosum">jocosus, jocosa, jocosum</a> adj</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/24907/jocularis-jocularis-joculare">jocularis, jocularis, joculare</a> adj</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/24908/joculor-joculari-joculatus">joculor, joculari, joculatus</a> v</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/24909/jocunde-jocundius-jocundissime">jocunde, jocundius, jocundissime</a> adv</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/24910/jocundiatas-jocundiatatis">jocundiatas, jocundiatatis</a> n</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/24911/jocunditas-jocunditatis">jocunditas, jocunditatis</a> n</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/24912/jocundo-jocundare-jocundavi-jocundatus">jocundo, jocundare, jocundavi, jocundatus</a> v</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/24913/jocundus-jocunda">jocundus, jocunda</a> adj</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/24914/jocur-jocineris">jocur, jocineris</a> n</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/24915/jocur-jocinoris">jocur, jocinoris</a> n</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/24916/jocus-joci">jocus, joci</a> n</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/24917/jocusculum-jocusculi">jocusculum, jocusculi</a> n</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/24918/jod-undeclined">jod, undeclined</a> n</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/24919/Jovis-Jovis">Jovis, Jovis</a> n</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/24920/juba-jubae">juba, jubae</a> n</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/24921/jubar-jubaris">jubar, jubaris</a> n</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/24922/jubatus-jubata-jubatum">jubatus, jubata, jubatum</a> adj</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/24923/jubelaeus-jubelaei">jubelaeus, jubelaei</a> n</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/24924/jubeo-jubere-jussi-jussus">jubeo, jubere, jussi, jussus</a> v</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/24925/jubilaeus-jubilaei">jubilaeus, jubilaei</a> n</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/24926/jubilarius-jubilaria-jubilarium">jubilarius, jubilaria, jubilarium</a> adj</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/24927/jubilatio-jubilationis">jubilatio, jubilationis</a> n</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/24928/jubilatus-jubilatus">jubilatus, jubilatus</a> n</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/24929/jubilo-jubilare-jubilavi-jubilatus">jubilo, jubilare, jubilavi, jubilatus</a> v</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/24930/jubilum-jubili">jubilum, jubili</a> n</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/24931/jubilus-jubili">jubilus, jubili</a> n</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/24932/jubo-jubere-additional-forms">jubo, jubere, additional, forms</a> v</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/24933/juctim">juctim</a> adv</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/24934/jucunde-jucundius-jucundissime">jucunde, jucundius, jucundissime</a> adv</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/24935/jucunditas-jucunditatis">jucunditas, jucunditatis</a> n</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/24936/jucundo-jucundare-jucundavi-jucundatus">jucundo, jucundare, jucundavi, jucundatus</a> v</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/24937/jucundus-jucunda">jucundus, jucunda</a> adj</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/24938/Juda-undeclined">Juda, undeclined</a> n</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/24939/Judaea-Judaeae">Judaea, Judaeae</a> n</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/24940/Judaea-Judaeae">Judaea, Judaeae</a> n</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/24941/Judaeus-Judaea-Judaeum">Judaeus, Judaea, Judaeum</a> adj</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/24942/Judaeus-Judaei">Judaeus, Judaei</a> n</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/24943/Judaicus-Judaica-Judaicum">Judaicus, Judaica, Judaicum</a> adj</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/24944/Judaismus-Judaismi">Judaismus, Judaismi</a> n</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/24945/Judaizo-Judaizare-Judaizavi-Judaizatus">Judaizo, Judaizare, Judaizavi, Judaizatus</a> v</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/24946/Judas-Judae">Judas, Judae</a> n</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/24947/Judes-Judae">Judes, Judae</a> n</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/24948/judex-judicis">judex, judicis</a> n</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/24949/judicalis-judicalis-judicale">judicalis, judicalis, judicale</a> adj</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/24950/judicatio-judicationis">judicatio, judicationis</a> n</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/24951/judiciarius-judiciaria-judiciarium">judiciarius, judiciaria, judiciarium</a> adj</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/24952/judicium-judici-i">judicium, judici(i)</a> n</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/24953/judicium-judici-i">judicium, judici(i)</a> n</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/24954/judico-judicare-judicavi-judicatus">judico, judicare, judicavi, judicatus</a> v</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/24955/juditium-juditi-i">juditium, juditi(i)</a> n</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/24956/juditium-juditi-i">juditium, juditi(i)</a> n</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/24957/jugalis-jugalis-jugale">jugalis, jugalis, jugale</a> adj</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/24958/juger-jugeris">juger, jugeris</a> n</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/24959/jugerum-jugeri">jugerum, jugeri</a> n</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/24960/jugis-jugis-juge">jugis, jugis, juge</a> adj</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/24961/jugiter">jugiter</a> adv</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/24962/juglans-juglandis">juglans, juglandis</a> n</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/24963/jugo-jugare-jugavi-jugatus">jugo, jugare, jugavi, jugatus</a> v</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/24964/jugosus-jugosa-jugosum">jugosus, jugosa, jugosum</a> adj</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/24965/jugulans-jugulandos-is">jugulans, jugulandos/is</a> n</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/24966/jugulo-jugulare-jugulavi-jugulatus">jugulo, jugulare, jugulavi, jugulatus</a> v</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/24967/jugulum-juguli">jugulum, juguli</a> n</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/24968/jugulus-juguli">jugulus, juguli</a> n</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/24969/jugum-jugi">jugum, jugi</a> n</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/24970/Jul-abb">Jul., abb.</a> adj</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/24971/Julianus-Juliani">Julianus, Juliani</a> n</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/24972/julis-julis">julis, julis</a> n</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/24973/Julius-Juli">Julius, Juli</a> n</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/24974/Julius-Julia-Julium">Julius, Julia, Julium</a> adj</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/24975/Julius-Julia-Julium">Julius, Julia, Julium</a> adj</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/24976/julus-juli">julus, juli</a> n</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/24977/jumentum-jumenti">jumentum, jumenti</a> n</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/24978/Jun-abb">Jun., abb.</a> adj</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/24979/junceus-juncea-junceum">junceus, juncea, junceum</a> adj</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/24980/junctim">junctim</a> adv</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/24981/junctura-juncturae">junctura, juncturae</a> n</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/24982/junctus-juncta">junctus, juncta</a> adj</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/24983/juncus-junci">juncus, junci</a> n</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/24984/jungo-jungere-junxi-junctus">jungo, jungere, junxi, junctus</a> v</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/24985/junior-junior-junius">junior, junior, junius</a> adj</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/24986/junior-junioris">junior, junioris</a> n</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/24987/juniperus-juniperi">juniperus, juniperi</a> n</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/24988/Junius-Junia-Junium">Junius, Junia, Junium</a> adj</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/24989/Juno-Junonis">Juno, Junonis</a> n</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/24990/Jupiter-Jovis">Jupiter, Jovis</a> n</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/24991/Juppiter-Jovis">Juppiter, Jovis</a> n</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/24992/juramentum-juramenti">juramentum, juramenti</a> n</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/24993/jurandum-jurandi">jurandum, jurandi</a> n</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/24994/juratus-jurata">juratus, jurata</a> adj</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/24995/jure">jure</a> adv</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/24996/jureconsultus-jureconsulti">jureconsultus, jureconsulti</a> n</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/24997/jureiuro-jureiurare-jureiuravi-jureiuratus">jureiuro, jureiurare, jureiuravi, jureiuratus</a> v</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/24998/jureperitus-jureperita-jureperitum">jureperitus, jureperita, jureperitum</a> adj</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/24999/jurgator-jurgatoris">jurgator, jurgatoris</a> n</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/25000/jurgatorus-jurgatora-jurgatorum">jurgatorus, jurgatora, jurgatorum</a> adj</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/25001/jurgatrix-jurgatricis">jurgatrix, jurgatricis</a> n</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/25002/jurgium-jurgi-i">jurgium, jurgi(i)</a> n</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/25003/jurgo-jurgare-jurgavi-jurgatus">jurgo, jurgare, jurgavi, jurgatus</a> v</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/25004/juridicialis-juridicialis-juridiciale">juridicialis, juridicialis, juridiciale</a> adj</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/25005/juridicus-juridica-juridicum">juridicus, juridica, juridicum</a> adj</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/25006/juridicus-juridici">juridicus, juridici</a> n</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/25007/jurisconsultus-jurisconsulti">jurisconsultus, jurisconsulti</a> n</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/25008/jurisdictio-jurisdictionis">jurisdictio, jurisdictionis</a> n</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/25009/jurisperitus-jurisperita-jurisperitum">jurisperitus, jurisperita, jurisperitum</a> adj</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/25010/juro-jurare-juravi-juratus">juro, jurare, juravi, juratus</a> v</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/25011/jurulentus-jurulenta-jurulentum">jurulentus, jurulenta, jurulentum</a> adj</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/25012/jus-juris">jus, juris</a> n</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/25013/jus-juris">jus, juris</a> n</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/25014/juscellum-juscelli">juscellum, juscelli</a> n</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/25015/jusculum-jusculi">jusculum, jusculi</a> n</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/25016/jusjurandum-jusjurandi">jusjurandum, jusjurandi</a> n</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/25017/jussio-jussionis">jussio, jussionis</a> n</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/25018/jussum-jussi">jussum, jussi</a> n</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/25019/jussus-jussus">jussus, jussus</a> n</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/25020/juste-justius-justissime">juste, justius, justissime</a> adv</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/25021/justico-justicare-justicavi-justicatus">justico, justicare, justicavi, justicatus</a> v</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/25022/justificatio-justificationis">justificatio, justificationis</a> n</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/25023/justificatus-justificata">justificatus, justificata</a> adj</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/25024/justifico-justificare-justificavi-justificatus">justifico, justificare, justificavi, justificatus</a> v</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/25025/Justinianus-Justiniani">Justinianus, Justiniani</a> n</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/25026/justitia-justitiae">justitia, justitiae</a> n</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/25027/justitium-justiti-i">justitium, justiti(i)</a> n</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/25028/justum-justi">justum, justi</a> n</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/25029/justus-justa">justus, justa</a> adj</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/25030/jusum">jusum</a> adv</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/25031/juvamen-juvaminis">juvamen, juvaminis</a> n</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/25032/juvat-juvare-juvit-jutus">juvat, juvare, juvit, jutus</a> v</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/25033/juvenalis-juvenalis-juvenale">juvenalis, juvenalis, juvenale</a> adj</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/25034/juvenaliter">juvenaliter</a> adv</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/25035/juvenca-juvencae">juvenca, juvencae</a> n</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/25036/juvencus-juvenci">juvencus, juvenci</a> n</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/25037/juvenesco-juvenescere-juvenui">juvenesco, juvenescere, juvenui, -</a> v</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/25038/juvenilis-juvenilis-juvenile">juvenilis, juvenilis, juvenile</a> adj</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/25039/juvenis-juvenis">juvenis, juvenis</a> n</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/25040/juvenis-juvenis-juvene">juvenis, juvenis, juvene</a> adj</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/25041/juvenor-juvenari-iuvenatus">juvenor, juvenari, iuvenatus</a> v</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/25042/juventa-juventae">juventa, juventae</a> n</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/25043/juventas-juventatis">juventas, juventatis</a> n</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/25044/juventus-juventutis">juventus, juventutis</a> n</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/25045/juvo-juvare-juvi-jutus">juvo, juvare, juvi, jutus</a> v</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/25046/juxta">juxta</a> adv</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/25047/juxta">juxta</a> prep</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/25048/juxtapositio-juxtapositionis">juxtapositio, juxtapositionis</a> n</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/25049/juxtim">juxtim</a> adv</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/25050/juxtim">juxtim</a> prep</li>

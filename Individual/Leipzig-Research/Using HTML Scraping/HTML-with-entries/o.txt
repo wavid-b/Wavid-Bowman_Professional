@@ -1,0 +1,865 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/28178/o">o</a> interj</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/28179/ob">ob</a> prep</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/28180/obaeratus-obaerata-obaeratum">obaeratus, obaerata, obaeratum</a> adj</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/28181/obaeratus-obaerati">obaeratus, obaerati</a> n</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/28182/obambulo-obambulare-obambulavi-obambulatus">obambulo, obambulare, obambulavi, obambulatus</a> v</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/28183/obarmo-obarmare-obarmavi-obarmatus">obarmo, obarmare, obarmavi, obarmatus</a> v</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/28184/obaro-obarare-obaravi-obaratus">obaro, obarare, obaravi, obaratus</a> v</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/28185/obaudio-obaudire-obaudivi-obauditus">obaudio, obaudire, obaudivi, obauditus</a> v</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/28186/obba-obbae">obba, obbae</a> n</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/28187/obdo-obdere-obdidi-obditus">obdo, obdere, obdidi, obditus</a> v</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/28188/obdormio-obdormire-obdormivi-obdormitus">obdormio, obdormire, obdormivi, obdormitus</a> v</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/28189/obdormisco-obdormiscere">obdormisco, obdormiscere, -, -</a> v</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/28190/obduco-obducere-obduxi-obductus">obduco, obducere, obduxi, obductus</a> v</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/28191/obductico-obducticonis">obductico, obducticonis</a> n</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/28192/obductio-obductionis">obductio, obductionis</a> n</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/28193/obducto-obductare-obductavi-obductatus">obducto, obductare, obductavi, obductatus</a> v</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/28194/obduresco-obdurescere-obdurui">obduresco, obdurescere, obdurui, -</a> v</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/28195/obduro-obdurare-obduravi-obduratus">obduro, obdurare, obduravi, obduratus</a> v</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/28196/obedens-obedentis">obedens, obedentis</a> adj</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/28197/obedienter-obedientius-obedientissime">obedienter, obedientius, obedientissime</a> adv</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/28198/obedientia-obedientiae">obedientia, obedientiae</a> n</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/28199/obedientiarius-obedientiarii">obedientiarius, obedientiarii</a> n</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/28200/obedientio-obedientionis">obedientio, obedientionis</a> n</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/28201/obedio-obedire-obedivi-obeditus">obedio, obedire, obedivi, obeditus</a> v</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/28202/obeliscus-obelisci">obeliscus, obelisci</a> n</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/28203/obelus-obeli">obelus, obeli</a> n</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/28204/obeo-obire-obivi-ii-obitus">obeo, obire, obivi(ii), obitus</a> v</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/28205/obequito-obequitare-obequitavi-obequitatus">obequito, obequitare, obequitavi, obequitatus</a> v</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/28206/obesus-obesa-obesum">obesus, obesa, obesum</a> adj</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/28207/obex-obicis">obex, obicis</a> n</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/28208/obfendo-obfendere-obfendi-obfensus">obfendo, obfendere, obfendi, obfensus</a> v</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/28209/obfendo-obfendere-obfendi-obfensus">obfendo, obfendere, obfendi, obfensus</a> v</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/28210/obfendo-obfendere-obfendi-obfensus">obfendo, obfendere, obfendi, obfensus</a> v</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/28211/obfirmo-obfirmare-obfirmavi-obfirmatus">obfirmo, obfirmare, obfirmavi, obfirmatus</a> v</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/28212/obfringo-obfringere-obfregi-obfractus">obfringo, obfringere, obfregi, obfractus</a> v</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/28213/obfusco-obfuscare-obfuscavi-obfuscatus">obfusco, obfuscare, obfuscavi, obfuscatus</a> v</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/28214/obhaeresco-obhaerescere-obhaesi">obhaeresco, obhaerescere, obhaesi, -</a> v</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/28215/obicio-obicere-objeci-objectus">obicio, obicere, objeci, objectus</a> v</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/28216/obiter">obiter</a> adv</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/28217/obitus-obitus">obitus, obitus</a> n</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/28218/objaceo-objacere-objacui-objacitus">objaceo, objacere, objacui, objacitus</a> v</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/28219/objectatio-objectationis">objectatio, objectationis</a> n</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/28220/objectivitas-objectivitatis">objectivitas, objectivitatis</a> n</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/28221/objectivum-objectivi">objectivum, objectivi</a> n</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/28222/objectivus-objectiva-objectivum">objectivus, objectiva, objectivum</a> adj</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/28223/objecto-objectare-objectavi-objectatus">objecto, objectare, objectavi, objectatus</a> v</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/28224/objectum-objecti">objectum, objecti</a> n</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/28225/objectus-objecta">objectus, objecta</a> adj</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/28226/objectus-objectus">objectus, objectus</a> n</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/28227/objicio-objicere-objeci-objectus">objicio, objicere, objeci, objectus</a> v</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/28228/objrascor-objrasci-obiratus">objrascor, objrasci, obiratus</a> v</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/28229/objurgator-objurgatoris">objurgator, objurgatoris</a> n</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/28230/objurgatorius-objurgatoria-objurgatorium">objurgatorius, objurgatoria, objurgatorium</a> adj</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/28231/objurgo-objurgare-objurgavi-objurgatus">objurgo, objurgare, objurgavi, objurgatus</a> v</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/28232/oblanguesco-oblanguescere-oblangui">oblanguesco, oblanguescere, oblangui, -</a> v</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/28233/oblaqueatio-oblaqueationis">oblaqueatio, oblaqueationis</a> n</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/28234/oblaqueo-oblaqueare-oblaqueavi-oblaqueatus">oblaqueo, oblaqueare, oblaqueavi, oblaqueatus</a> v</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/28235/oblatio-oblationis">oblatio, oblationis</a> n</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/28236/oblatrix-oblatricis">oblatrix, oblatricis</a> n</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/28237/oblatro-oblatrare-oblatravi-oblatratus">oblatro, oblatrare, oblatravi, oblatratus</a> v</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/28238/oblectamen-oblectaminis">oblectamen, oblectaminis</a> n</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/28239/oblectamentum-oblectamenti">oblectamentum, oblectamenti</a> n</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/28240/oblectatio-oblectationis">oblectatio, oblectationis</a> n</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/28241/oblecto-oblectare-oblectavi-oblectatus">oblecto, oblectare, oblectavi, oblectatus</a> v</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/28242/oblido-oblidere-oblisi-oblisus">oblido, oblidere, oblisi, oblisus</a> v</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/28243/obligamentum-obligamenti">obligamentum, obligamenti</a> n</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/28244/obligatio-obligationis">obligatio, obligationis</a> n</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/28245/obligo-obligare-obligavi-obligatus">obligo, obligare, obligavi, obligatus</a> v</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/28246/oblimo-oblimare-oblimavi-oblimatus">oblimo, oblimare, oblimavi, oblimatus</a> v</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/28247/oblino-oblinare-oblinavi-oblinatus">oblino, oblinare, oblinavi, oblinatus</a> v</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/28248/obliquus-obliqua-obliquum">obliquus, obliqua, obliquum</a> adj</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/28249/oblitero-obliterare-obliteravi-obliteratus">oblitero, obliterare, obliteravi, obliteratus</a> v</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/28250/obliterus-oblitera-obliterum">obliterus, oblitera, obliterum</a> adj</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/28251/oblitesco-oblitescere-oblitui">oblitesco, oblitescere, oblitui, -</a> v</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/28252/oblittero-oblitterare-oblitteravi-oblitteratus">oblittero, oblitterare, oblitteravi, oblitteratus</a> v</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/28253/oblitterus-oblittera-oblitterum">oblitterus, oblittera, oblitterum</a> adj</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/28254/oblitus-oblita-oblitum">oblitus, oblita, oblitum</a> adj</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/28255/obliurgatio-obliurgationis">obliurgatio, obliurgationis</a> n</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/28256/oblivio-oblivionis">oblivio, oblivionis</a> n</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/28257/obliviosus-obliviosa-obliviosum">obliviosus, obliviosa, obliviosum</a> adj</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/28258/obliviscor-oblivisci-oblitus">obliviscor, oblivisci, oblitus</a> v</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/28259/oblivium-oblivi-i">oblivium, oblivi(i)</a> n</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/28260/oblocutor-oblocutoris">oblocutor, oblocutoris</a> n</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/28261/oblongus-oblonga-oblongum">oblongus, oblonga, oblongum</a> adj</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/28262/obloquor-obloqui-oblocutus">obloquor, obloqui, oblocutus</a> v</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/28263/obluctor-obluctari-obluctatus">obluctor, obluctari, obluctatus</a> v</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/28264/obmolior-obmoliri-obmolitus">obmolior, obmoliri, obmolitus</a> v</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/28265/obmurmuro-obmurmurare-obmurmuravi-obmurmuratus">obmurmuro, obmurmurare, obmurmuravi, obmurmuratus</a> v</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/28266/obmutesco-obmutescere-obmutui">obmutesco, obmutescere, obmutui, -</a> v</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/28267/obnatus-obnata-obnatum">obnatus, obnata, obnatum</a> adj</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/28268/obnitor-obniti-obnixus">obnitor, obniti, obnixus</a> v</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/28269/obnixe">obnixe</a> adv</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/28270/obnixie">obnixie</a> adv</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/28271/obnixus-obnixa-obnixum">obnixus, obnixa, obnixum</a> adj</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/28272/obnoxietas-obnoxietatis">obnoxietas, obnoxietatis</a> n</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/28273/obnoxiosus-obnoxiosa-obnoxiosum">obnoxiosus, obnoxiosa, obnoxiosum</a> adj</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/28274/obnoxius-obnoxia-obnoxium">obnoxius, obnoxia, obnoxium</a> adj</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/28275/obnubilatio-obnubilationis">obnubilatio, obnubilationis</a> n</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/28276/obnubilo-obnubilare-obnubilavi-obnubilatus">obnubilo, obnubilare, obnubilavi, obnubilatus</a> v</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/28277/obnubo-obnubere-obnupsi-obnuptus">obnubo, obnubere, obnupsi, obnuptus</a> v</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/28278/obnuntiatio-obnuntiationis">obnuntiatio, obnuntiationis</a> n</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/28279/obnuntio-obnuntiare-obnuntiavi-obnuntiatus">obnuntio, obnuntiare, obnuntiavi, obnuntiatus</a> v</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/28280/oboedens-oboedentis">oboedens, oboedentis</a> adj</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/28281/oboediens-gen-oboedientis">oboediens, (gen.), oboedientis</a> adj</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/28282/oboedienter-oboedientius-oboedientissime">oboedienter, oboedientius, oboedientissime</a> adv</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/28283/oboedientia-oboedientiae">oboedientia, oboedientiae</a> n</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/28284/oboedientio-oboedientionis">oboedientio, oboedientionis</a> n</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/28285/oboedio-oboedire-oboedivi-oboeditus">oboedio, oboedire, oboedivi, oboeditus</a> v</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/28286/oboleo-obolere-obolui">oboleo, obolere, obolui, -</a> v</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/28287/obolus-oboli">obolus, oboli</a> n</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/28288/oborior-oboriri-obortus">oborior, oboriri, obortus</a> v</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/28289/obortus-oborta-obortum">obortus, oborta, obortum</a> adj</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/28290/obprobrium-obprobri-i">obprobrium, obprobri(i)</a> n</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/28291/obrepo-obrepere-obrepsi-obreptus">obrepo, obrepere, obrepsi, obreptus</a> v</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/28292/obreptio-obreptionis">obreptio, obreptionis</a> n</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/28293/obrepto-obreptare-obreptavi-obreptatus">obrepto, obreptare, obreptavi, obreptatus</a> v</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/28294/obretio-obretire">obretio, obretire, -, -</a> v</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/28295/obrigesco-obrigescere-obrigui">obrigesco, obrigescere, obrigui, -</a> v</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/28296/obrizum-obrizi">obrizum, obrizi</a> v</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/28297/obrizus-obriza-obrizum">obrizus, obriza, obrizum</a> adj</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/28298/obrogo-obrogare-obrogavi-obrogatus">obrogo, obrogare, obrogavi, obrogatus</a> v</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/28299/obruo-obruere-obrui-obrutus">obruo, obruere, obrui, obrutus</a> v</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/28300/obrussa-obrussae">obrussa, obrussae</a> n</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/28301/obrussus-obrussa-obrussum">obrussus, obrussa, obrussum</a> adj</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/28302/obruza-obruzae">obruza, obruzae</a> n</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/28303/obruzus-obruza-obruzum">obruzus, obruza, obruzum</a> adj</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/28304/obrysum-obrysi">obrysum, obrysi</a> n</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/28305/obrysus-obrysa-obrysum">obrysus, obrysa, obrysum</a> adj</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/28306/obryza-obryzae">obryza, obryzae</a> n</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/28307/obryzatus-obryzata-obryzatum">obryzatus, obryzata, obryzatum</a> adj</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/28308/obryzum-obryzi">obryzum, obryzi</a> n</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/28309/obsaepio-obsaepire-obsaepsi-obsaeptus">obsaepio, obsaepire, obsaepsi, obsaeptus</a> v</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/28310/obsaturo-obsaturare-obsaturavi-obsaturatus">obsaturo, obsaturare, obsaturavi, obsaturatus</a> v</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/28311/obscaene-obscaenius-obscaenissime">obscaene, obscaenius, obscaenissime</a> adv</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/28312/obscaenitas-obscaenitatis">obscaenitas, obscaenitatis</a> n</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/28313/obscaenum-obscaeni">obscaenum, obscaeni</a> n</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/28314/obscaenum-obscaeni">obscaenum, obscaeni</a> n</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/28315/obscaenus-obscaena">obscaenus, obscaena</a> adj</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/28316/obscaenus-obscaena">obscaenus, obscaena</a> adj</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/28317/obscaenus-obscaeni">obscaenus, obscaeni</a> n</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/28318/obscene-obscenius-obscenissime">obscene, obscenius, obscenissime</a> adv</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/28319/obscenitas-obscenitatis">obscenitas, obscenitatis</a> n</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/28320/obscenum-obsceni">obscenum, obsceni</a> n</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/28321/obscenum-obsceni">obscenum, obsceni</a> n</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/28322/obscenus-obscena">obscenus, obscena</a> adj</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/28323/obscenus-obscena">obscenus, obscena</a> adj</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/28324/obscenus-obsceni">obscenus, obsceni</a> n</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/28325/obscuratio-obscurationis">obscuratio, obscurationis</a> n</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/28326/obscuritas-obscuritatis">obscuritas, obscuritatis</a> n</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/28327/obscuro-obscurare-obscuravi-obscuratus">obscuro, obscurare, obscuravi, obscuratus</a> v</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/28328/obscurus-obscura">obscurus, obscura</a> adj</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/28329/obscurus-obscura">obscurus, obscura</a> adj</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/28330/obscurus-obscura">obscurus, obscura</a> adj</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/28331/obscurus-obscura">obscurus, obscura</a> adj</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/28332/obsecratio-obsecrationis">obsecratio, obsecrationis</a> n</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/28333/obsecro-obsecrare-obsecravi-obsecratus">obsecro, obsecrare, obsecravi, obsecratus</a> v</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/28334/obsecundanter">obsecundanter</a> adv</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/28335/obsecundo-obsecundare-obsecundavi-obsecundatus">obsecundo, obsecundare, obsecundavi, obsecundatus</a> v</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/28336/obsequella-obsequellae">obsequella, obsequellae</a> n</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/28337/obsequens-obsequentis">obsequens, obsequentis</a> adj</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/28338/obsequenter">obsequenter</a> adv</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/28339/obsequentia-obsequentiae">obsequentia, obsequentiae</a> n</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/28340/obsequiosus-obsequiosa-obsequiosum">obsequiosus, obsequiosa, obsequiosum</a> adj</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/28341/obsequium-obsequi-i">obsequium, obsequi(i)</a> n</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/28342/obsequium-obsequi-i">obsequium, obsequi(i)</a> n</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/28343/obsequium-obsequi-i">obsequium, obsequi(i)</a> n</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/28344/obsequor-obsequi-obsecutus">obsequor, obsequi, obsecutus</a> v</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/28345/obsero-obserare-obseravi-obseratus">obsero, obserare, obseravi, obseratus</a> v</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/28346/obsero-obserere-obsevi-obsitus">obsero, obserere, obsevi, obsitus</a> v</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/28347/observatio-observationis">observatio, observationis</a> n</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/28348/observatorium-observatorii">observatorium, observatorii</a> n</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/28349/observito-observitare-observitavi-observitatus">observito, observitare, observitavi, observitatus</a> v</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/28350/observo-observare-observavi-observatus">observo, observare, observavi, observatus</a> v</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/28351/obses-obsidis">obses, obsidis</a> n</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/28352/obsessio-obsessionis">obsessio, obsessionis</a> n</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/28353/obsessor-obsessoris">obsessor, obsessoris</a> n</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/28354/obsetricium-obsetricii">obsetricium, obsetricii</a> n</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/28355/obsetricius-obsetricia-obsetricium">obsetricius, obsetricia, obsetricium</a> adj</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/28356/obsetrico-obsetricare-obsetricavi-obsetricatus">obsetrico, obsetricare, obsetricavi, obsetricatus</a> v</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/28357/obsetrix-obsetricis">obsetrix, obsetricis</a> n</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/28358/obsideo-obsidere-obsedi-obsessus">obsideo, obsidere, obsedi, obsessus</a> v</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/28359/obsidialis-obsidialis-obsidiale">obsidialis, obsidialis, obsidiale</a> adj</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/28360/obsidio-obsidionis">obsidio, obsidionis</a> n</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/28361/obsidionalis-obsidionalis-obsidionale">obsidionalis, obsidionalis, obsidionale</a> adj</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/28362/obsidium-obsidi-i">obsidium, obsidi(i)</a> n</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/28363/obsido-obsidere">obsido, obsidere, -, -</a> v</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/28364/obsignator-obsignatoris">obsignator, obsignatoris</a> n</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/28365/obsigno-obsignare-obsignavi-obsignatus">obsigno, obsignare, obsignavi, obsignatus</a> v</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/28366/obsisto-obsistere-obstiti-obstitus">obsisto, obsistere, obstiti, obstitus</a> v</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/28367/obsitus-obsita-obsitum">obsitus, obsita, obsitum</a> adj</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/28368/obsolefacio-obsolefacere-obsolefeci-obsolefactus">obsolefacio, obsolefacere, obsolefeci, obsolefactus</a> v</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/28369/obsolefio-obsoleferi-obsolefactus">obsolefio, obsoleferi, obsolefactus</a> v</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/28370/obsolesco-obsolescere-obsolevi-obsoletus">obsolesco, obsolescere, obsolevi, obsoletus</a> v</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/28371/obsoletus-obsoleta-obsoletum">obsoletus, obsoleta, obsoletum</a> adj</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/28372/obsonator-obsonatoris">obsonator, obsonatoris</a> n</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/28373/obsonatus-obsonatus">obsonatus, obsonatus</a> n</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/28374/obsonium-obsoni-i">obsonium, obsoni(i)</a> n</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/28375/obsono-obsonare-obsonavi-obsonatus">obsono, obsonare, obsonavi, obsonatus</a> v</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/28376/obsonor-obsonari-obsonatus">obsonor, obsonari, obsonatus</a> v</li>
+          <li id="word-199" class="word"><a href="http://www.latin-dictionary.net/definition/28377/obsorbeo-obsorbere-obsorbui-obsorbitus">obsorbeo, obsorbere, obsorbui, obsorbitus</a> v</li>
+          <li id="word-200" class="word"><a href="http://www.latin-dictionary.net/definition/28378/obstaculum-obstaculi">obstaculum, obstaculi</a> n</li>
+          <li id="word-201" class="word"><a href="http://www.latin-dictionary.net/definition/28379/obstantia-obstantiae">obstantia, obstantiae</a> n</li>
+          <li id="word-202" class="word"><a href="http://www.latin-dictionary.net/definition/28380/obstetricium-obstetricii">obstetricium, obstetricii</a> n</li>
+          <li id="word-203" class="word"><a href="http://www.latin-dictionary.net/definition/28381/obstetricius-obstetricia-obstetricium">obstetricius, obstetricia, obstetricium</a> adj</li>
+          <li id="word-204" class="word"><a href="http://www.latin-dictionary.net/definition/28382/obstetrico-obstetricare-obstetricavi-obstetricatus">obstetrico, obstetricare, obstetricavi, obstetricatus</a> v</li>
+          <li id="word-205" class="word"><a href="http://www.latin-dictionary.net/definition/28383/obstetritius-obstetritia-obstetritium">obstetritius, obstetritia, obstetritium</a> adj</li>
+          <li id="word-206" class="word"><a href="http://www.latin-dictionary.net/definition/28384/obstetrix-obstetricis">obstetrix, obstetricis</a> n</li>
+          <li id="word-207" class="word"><a href="http://www.latin-dictionary.net/definition/28385/obstinate">obstinate</a> adv</li>
+          <li id="word-208" class="word"><a href="http://www.latin-dictionary.net/definition/28386/obstinatio-obstinationis">obstinatio, obstinationis</a> n</li>
+          <li id="word-209" class="word"><a href="http://www.latin-dictionary.net/definition/28387/obstinatus-obstinata-obstinatum">obstinatus, obstinata, obstinatum</a> adj</li>
+          <li id="word-210" class="word"><a href="http://www.latin-dictionary.net/definition/28388/obstino-obstinare-obstinavi-obstinatus">obstino, obstinare, obstinavi, obstinatus</a> v</li>
+          <li id="word-211" class="word"><a href="http://www.latin-dictionary.net/definition/28389/obstipesco-obstipescere-obstipui">obstipesco, obstipescere, obstipui, -</a> v</li>
+          <li id="word-212" class="word"><a href="http://www.latin-dictionary.net/definition/28390/obstipus-obstipa-obstipum">obstipus, obstipa, obstipum</a> adj</li>
+          <li id="word-213" class="word"><a href="http://www.latin-dictionary.net/definition/28391/obstitrix-obstitricis">obstitrix, obstitricis</a> n</li>
+          <li id="word-214" class="word"><a href="http://www.latin-dictionary.net/definition/28392/obsto-obstare-obstiti">obsto, obstare, obstiti, -</a> v</li>
+          <li id="word-215" class="word"><a href="http://www.latin-dictionary.net/definition/28393/obstrepo-obstrepere-obstrepui-obstrepitus">obstrepo, obstrepere, obstrepui, obstrepitus</a> v</li>
+          <li id="word-216" class="word"><a href="http://www.latin-dictionary.net/definition/28394/obstringo-obstringere-obstrinxi-obstrictus">obstringo, obstringere, obstrinxi, obstrictus</a> v</li>
+          <li id="word-217" class="word"><a href="http://www.latin-dictionary.net/definition/28395/obstructio-obstructionis">obstructio, obstructionis</a> n</li>
+          <li id="word-218" class="word"><a href="http://www.latin-dictionary.net/definition/28396/obstruo-obstruere-obstruxi-obstructus">obstruo, obstruere, obstruxi, obstructus</a> v</li>
+          <li id="word-219" class="word"><a href="http://www.latin-dictionary.net/definition/28397/obstupefacio-obstupefacere-obstupefeci-obstupefactus">obstupefacio, obstupefacere, obstupefeci, obstupefactus</a> v</li>
+          <li id="word-220" class="word"><a href="http://www.latin-dictionary.net/definition/28398/obstupefio-obstupeferi-obstupefactus">obstupefio, obstupeferi, obstupefactus</a> v</li>
+          <li id="word-221" class="word"><a href="http://www.latin-dictionary.net/definition/28399/obstupesco-obstupescere-obstupui">obstupesco, obstupescere, obstupui, -</a> v</li>
+          <li id="word-222" class="word"><a href="http://www.latin-dictionary.net/definition/28400/obstupidus-obstupida-obstupidum">obstupidus, obstupida, obstupidum</a> adj</li>
+          <li id="word-223" class="word"><a href="http://www.latin-dictionary.net/definition/28401/obsum-obesse-obfui-obfuturus">obsum, obesse, obfui, obfuturus</a> v</li>
+          <li id="word-224" class="word"><a href="http://www.latin-dictionary.net/definition/28402/obsum-obesse-offui-offuturus">obsum, obesse, offui, offuturus</a> v</li>
+          <li id="word-225" class="word"><a href="http://www.latin-dictionary.net/definition/28403/obsuo-obsuere-obsui-obsutus">obsuo, obsuere, obsui, obsutus</a> v</li>
+          <li id="word-226" class="word"><a href="http://www.latin-dictionary.net/definition/28404/obsurdesco-obsurdescere-obsurdui">obsurdesco, obsurdescere, obsurdui, -</a> v</li>
+          <li id="word-227" class="word"><a href="http://www.latin-dictionary.net/definition/28405/obtego-obtegere-obtexi-obtectus">obtego, obtegere, obtexi, obtectus</a> v</li>
+          <li id="word-228" class="word"><a href="http://www.latin-dictionary.net/definition/28406/obtemperatio-obtemperationis">obtemperatio, obtemperationis</a> n</li>
+          <li id="word-229" class="word"><a href="http://www.latin-dictionary.net/definition/28407/obtempero-obtemperare-obtemperavi-obtemperatus">obtempero, obtemperare, obtemperavi, obtemperatus</a> v</li>
+          <li id="word-230" class="word"><a href="http://www.latin-dictionary.net/definition/28408/obtendo-obtendere-obtendi-obtentus">obtendo, obtendere, obtendi, obtentus</a> v</li>
+          <li id="word-231" class="word"><a href="http://www.latin-dictionary.net/definition/28409/obtenebresco-obtenebrescere">obtenebresco, obtenebrescere, -, -</a> v</li>
+          <li id="word-232" class="word"><a href="http://www.latin-dictionary.net/definition/28410/obtenebricatus-obtenebricata-obtenebricatum">obtenebricatus, obtenebricata, obtenebricatum</a> adj</li>
+          <li id="word-233" class="word"><a href="http://www.latin-dictionary.net/definition/28411/obtenebro-obtenebrare-obtenebravi-obtenebratus">obtenebro, obtenebrare, obtenebravi, obtenebratus</a> v</li>
+          <li id="word-234" class="word"><a href="http://www.latin-dictionary.net/definition/28412/obtentus-obtentus">obtentus, obtentus</a> n</li>
+          <li id="word-235" class="word"><a href="http://www.latin-dictionary.net/definition/28413/obtero-obterere-obtrivi-obtritus">obtero, obterere, obtrivi, obtritus</a> v</li>
+          <li id="word-236" class="word"><a href="http://www.latin-dictionary.net/definition/28414/obtestatio-obtestationis">obtestatio, obtestationis</a> n</li>
+          <li id="word-237" class="word"><a href="http://www.latin-dictionary.net/definition/28415/obtestor-obtestari-obtestatus">obtestor, obtestari, obtestatus</a> v</li>
+          <li id="word-238" class="word"><a href="http://www.latin-dictionary.net/definition/28416/obtexo-obtexere">obtexo, obtexere, -, -</a> v</li>
+          <li id="word-239" class="word"><a href="http://www.latin-dictionary.net/definition/28417/obticeo-obticere">obticeo, obticere, -, -</a> v</li>
+          <li id="word-240" class="word"><a href="http://www.latin-dictionary.net/definition/28418/obticesco-obticescere-obticui">obticesco, obticescere, obticui, -</a> v</li>
+          <li id="word-241" class="word"><a href="http://www.latin-dictionary.net/definition/28419/obtineo-obtinere-obtinui-obtentus">obtineo, obtinere, obtinui, obtentus</a> v</li>
+          <li id="word-242" class="word"><a href="http://www.latin-dictionary.net/definition/28420/obtingo-obtingere-obtigi">obtingo, obtingere, obtigi, -</a> v</li>
+          <li id="word-243" class="word"><a href="http://www.latin-dictionary.net/definition/28421/obtorpesco-obtorpescere-obtorpui">obtorpesco, obtorpescere, obtorpui, -</a> v</li>
+          <li id="word-244" class="word"><a href="http://www.latin-dictionary.net/definition/28422/obtorqueo-obtorquere-obtorsi-obtortus">obtorqueo, obtorquere, obtorsi, obtortus</a> v</li>
+          <li id="word-245" class="word"><a href="http://www.latin-dictionary.net/definition/28423/obtrectatio-obtrectationis">obtrectatio, obtrectationis</a> n</li>
+          <li id="word-246" class="word"><a href="http://www.latin-dictionary.net/definition/28424/obtrectator-obtrectatoris">obtrectator, obtrectatoris</a> n</li>
+          <li id="word-247" class="word"><a href="http://www.latin-dictionary.net/definition/28425/obtrecto-obtrectare-obtrectavi-obtrectatus">obtrecto, obtrectare, obtrectavi, obtrectatus</a> v</li>
+          <li id="word-248" class="word"><a href="http://www.latin-dictionary.net/definition/28426/obtrunco-obtruncare-obtruncavi-obtruncatus">obtrunco, obtruncare, obtruncavi, obtruncatus</a> v</li>
+          <li id="word-249" class="word"><a href="http://www.latin-dictionary.net/definition/28427/obtueeor-obtueeri-obtueitus">obtueeor, obtueeri, obtueitus</a> v</li>
+          <li id="word-250" class="word"><a href="http://www.latin-dictionary.net/definition/28428/obtundo-obtundere-obtudi-obtunsus">obtundo, obtundere, obtudi, obtunsus</a> v</li>
+          <li id="word-251" class="word"><a href="http://www.latin-dictionary.net/definition/28429/obtundo-obtundere-obtudi-obtusus">obtundo, obtundere, obtudi, obtusus</a> v</li>
+          <li id="word-252" class="word"><a href="http://www.latin-dictionary.net/definition/28430/obturgesco-obturgescere-obtursi">obturgesco, obturgescere, obtursi, -</a> v</li>
+          <li id="word-253" class="word"><a href="http://www.latin-dictionary.net/definition/28431/obturo-obturare-obturavi-obturatus">obturo, obturare, obturavi, obturatus</a> v</li>
+          <li id="word-254" class="word"><a href="http://www.latin-dictionary.net/definition/28432/obtusus-obtusa-obtusum">obtusus, obtusa, obtusum</a> adj</li>
+          <li id="word-255" class="word"><a href="http://www.latin-dictionary.net/definition/28433/obtutus-obtutus">obtutus, obtutus</a> n</li>
+          <li id="word-256" class="word"><a href="http://www.latin-dictionary.net/definition/28434/obumbro-obumbrare-obumbravi-obumbratus">obumbro, obumbrare, obumbravi, obumbratus</a> v</li>
+          <li id="word-257" class="word"><a href="http://www.latin-dictionary.net/definition/28435/obuncus-obunca-obuncum">obuncus, obunca, obuncum</a> adj</li>
+          <li id="word-258" class="word"><a href="http://www.latin-dictionary.net/definition/28436/obustus-obusta-obustum">obustus, obusta, obustum</a> adj</li>
+          <li id="word-259" class="word"><a href="http://www.latin-dictionary.net/definition/28437/obvallatus-obvallata-obvallatum">obvallatus, obvallata, obvallatum</a> adj</li>
+          <li id="word-260" class="word"><a href="http://www.latin-dictionary.net/definition/28438/obvenio-obvenire-obveni-obventus">obvenio, obvenire, obveni, obventus</a> v</li>
+          <li id="word-261" class="word"><a href="http://www.latin-dictionary.net/definition/28439/obversor-obversari-obversatus">obversor, obversari, obversatus</a> v</li>
+          <li id="word-262" class="word"><a href="http://www.latin-dictionary.net/definition/28440/obversus-obversa-obversum">obversus, obversa, obversum</a> adj</li>
+          <li id="word-263" class="word"><a href="http://www.latin-dictionary.net/definition/28441/obversus-obversi">obversus, obversi</a> n</li>
+          <li id="word-264" class="word"><a href="http://www.latin-dictionary.net/definition/28442/obverto-obvertere-obverti-obversus">obverto, obvertere, obverti, obversus</a> v</li>
+          <li id="word-265" class="word"><a href="http://www.latin-dictionary.net/definition/28443/obviam">obviam</a> adv</li>
+          <li id="word-266" class="word"><a href="http://www.latin-dictionary.net/definition/28444/obvio-obviare-obviavi-obviatus">obvio, obviare, obviavi, obviatus</a> v</li>
+          <li id="word-267" class="word"><a href="http://www.latin-dictionary.net/definition/28445/obvius-obvia-obvium">obvius, obvia, obvium</a> adj</li>
+          <li id="word-268" class="word"><a href="http://www.latin-dictionary.net/definition/28446/obvolvo-obvolvere-obvolvi-obvolutus">obvolvo, obvolvere, obvolvi, obvolutus</a> v</li>
+          <li id="word-269" class="word"><a href="http://www.latin-dictionary.net/definition/28447/occaeco-occaecare-occaecavi-occaecatus">occaeco, occaecare, occaecavi, occaecatus</a> v</li>
+          <li id="word-270" class="word"><a href="http://www.latin-dictionary.net/definition/28448/occallesco-occallescere-occallui">occallesco, occallescere, occallui, -</a> v</li>
+          <li id="word-271" class="word"><a href="http://www.latin-dictionary.net/definition/28449/occano-occanere-occanui">occano, occanere, occanui, -</a> v</li>
+          <li id="word-272" class="word"><a href="http://www.latin-dictionary.net/definition/28450/occasio-occasionis">occasio, occasionis</a> n</li>
+          <li id="word-273" class="word"><a href="http://www.latin-dictionary.net/definition/28451/occasiuncula-occasiunculae">occasiuncula, occasiunculae</a> n</li>
+          <li id="word-274" class="word"><a href="http://www.latin-dictionary.net/definition/28452/occasus-occasus">occasus, occasus</a> n</li>
+          <li id="word-275" class="word"><a href="http://www.latin-dictionary.net/definition/28453/occatio-occationis">occatio, occationis</a> n</li>
+          <li id="word-276" class="word"><a href="http://www.latin-dictionary.net/definition/28454/occator-occatoris">occator, occatoris</a> n</li>
+          <li id="word-277" class="word"><a href="http://www.latin-dictionary.net/definition/28455/occecatio-occecationis">occecatio, occecationis</a> n</li>
+          <li id="word-278" class="word"><a href="http://www.latin-dictionary.net/definition/28456/occedo-occedere-occessi-occessus">occedo, occedere, occessi, occessus</a> v</li>
+          <li id="word-279" class="word"><a href="http://www.latin-dictionary.net/definition/28457/occento-occentare-occentavi-occentatus">occento, occentare, occentavi, occentatus</a> v</li>
+          <li id="word-280" class="word"><a href="http://www.latin-dictionary.net/definition/28458/occidens-gen-occidentis">occidens, (gen.), occidentis</a> adj</li>
+          <li id="word-281" class="word"><a href="http://www.latin-dictionary.net/definition/28459/occidens-occidentis">occidens, occidentis</a> n</li>
+          <li id="word-282" class="word"><a href="http://www.latin-dictionary.net/definition/28460/occidentalis-occidentalis-occidentale">occidentalis, occidentalis, occidentale</a> adj</li>
+          <li id="word-283" class="word"><a href="http://www.latin-dictionary.net/definition/28461/occidio-occidionis">occidio, occidionis</a> n</li>
+          <li id="word-284" class="word"><a href="http://www.latin-dictionary.net/definition/28462/occido-occidere-occidi-occasus">occido, occidere, occidi, occasus</a> v</li>
+          <li id="word-285" class="word"><a href="http://www.latin-dictionary.net/definition/28463/occido-occidere-occidi-occisus">occido, occidere, occidi, occisus</a> v</li>
+          <li id="word-286" class="word"><a href="http://www.latin-dictionary.net/definition/28464/occiduus-occidua-occiduum">occiduus, occidua, occiduum</a> adj</li>
+          <li id="word-287" class="word"><a href="http://www.latin-dictionary.net/definition/28465/occino-occinere-occinui">occino, occinere, occinui, -</a> v</li>
+          <li id="word-288" class="word"><a href="http://www.latin-dictionary.net/definition/28466/occipio-occipere-occepi-occeptus">occipio, occipere, occepi, occeptus</a> v</li>
+          <li id="word-289" class="word"><a href="http://www.latin-dictionary.net/definition/28467/occipitium-occipitii">occipitium, occipitii</a> n</li>
+          <li id="word-290" class="word"><a href="http://www.latin-dictionary.net/definition/28468/occiput-occipitis">occiput, occipitis</a> n</li>
+          <li id="word-291" class="word"><a href="http://www.latin-dictionary.net/definition/28469/occisio-occisionis">occisio, occisionis</a> n</li>
+          <li id="word-292" class="word"><a href="http://www.latin-dictionary.net/definition/28470/occisor-occisoris">occisor, occisoris</a> n</li>
+          <li id="word-293" class="word"><a href="http://www.latin-dictionary.net/definition/28471/occlamito-occlamitare">occlamito, occlamitare, -, -</a> v</li>
+          <li id="word-294" class="word"><a href="http://www.latin-dictionary.net/definition/28472/occludo-occludere-occlusi-occlusus">occludo, occludere, occlusi, occlusus</a> v</li>
+          <li id="word-295" class="word"><a href="http://www.latin-dictionary.net/definition/28473/occo-occare-occavi-occatus">occo, occare, occavi, occatus</a> v</li>
+          <li id="word-296" class="word"><a href="http://www.latin-dictionary.net/definition/28474/occubo-occubare-occubui-occubitus">occubo, occubare, occubui, occubitus</a> v</li>
+          <li id="word-297" class="word"><a href="http://www.latin-dictionary.net/definition/28475/occulco-occulcare-occulcavi-occulcatus">occulco, occulcare, occulcavi, occulcatus</a> v</li>
+          <li id="word-298" class="word"><a href="http://www.latin-dictionary.net/definition/28476/occulo-occulere-occului-occultus">occulo, occulere, occului, occultus</a> v</li>
+          <li id="word-299" class="word"><a href="http://www.latin-dictionary.net/definition/28477/occultatio-occultationis">occultatio, occultationis</a> n</li>
+          <li id="word-300" class="word"><a href="http://www.latin-dictionary.net/definition/28478/occulte">occulte</a> adv</li>
+          <li id="word-301" class="word"><a href="http://www.latin-dictionary.net/definition/28479/occultismus-occultismi">occultismus, occultismi</a> n</li>
+          <li id="word-302" class="word"><a href="http://www.latin-dictionary.net/definition/28480/occulto-occultare-occultavi-occultatus">occulto, occultare, occultavi, occultatus</a> v</li>
+          <li id="word-303" class="word"><a href="http://www.latin-dictionary.net/definition/28481/occultum-occulti">occultum, occulti</a> n</li>
+          <li id="word-304" class="word"><a href="http://www.latin-dictionary.net/definition/28482/occultus-occulta">occultus, occulta</a> adj</li>
+          <li id="word-305" class="word"><a href="http://www.latin-dictionary.net/definition/28483/occumbo-occumbere-occumbui-occumbitus">occumbo, occumbere, occumbui, occumbitus</a> v</li>
+          <li id="word-306" class="word"><a href="http://www.latin-dictionary.net/definition/28484/occupatio-occupationis">occupatio, occupationis</a> n</li>
+          <li id="word-307" class="word"><a href="http://www.latin-dictionary.net/definition/28485/occupatus-occupata-occupatum">occupatus, occupata, occupatum</a> adj</li>
+          <li id="word-308" class="word"><a href="http://www.latin-dictionary.net/definition/28486/occupo-occupare-occupavi-occupatus">occupo, occupare, occupavi, occupatus</a> v</li>
+          <li id="word-309" class="word"><a href="http://www.latin-dictionary.net/definition/28487/occuro-occurare-occuravi-occuratus">occuro, occurare, occuravi, occuratus</a> v</li>
+          <li id="word-310" class="word"><a href="http://www.latin-dictionary.net/definition/28488/occurro-occurrere-occucurri-occursus">occurro, occurrere, occucurri, occursus</a> v</li>
+          <li id="word-311" class="word"><a href="http://www.latin-dictionary.net/definition/28489/occurro-occurrere-occurri-occursus">occurro, occurrere, occurri, occursus</a> v</li>
+          <li id="word-312" class="word"><a href="http://www.latin-dictionary.net/definition/28490/occurso-occursare-occursavi-occursatus">occurso, occursare, occursavi, occursatus</a> v</li>
+          <li id="word-313" class="word"><a href="http://www.latin-dictionary.net/definition/28491/occursus-occursus">occursus, occursus</a> n</li>
+          <li id="word-314" class="word"><a href="http://www.latin-dictionary.net/definition/28492/Oceanus-Oceani">Oceanus, Oceani</a> n</li>
+          <li id="word-315" class="word"><a href="http://www.latin-dictionary.net/definition/28493/ocellum-ocelli">ocellum, ocelli</a> n</li>
+          <li id="word-316" class="word"><a href="http://www.latin-dictionary.net/definition/28494/ocellus-ocelli">ocellus, ocelli</a> n</li>
+          <li id="word-317" class="word"><a href="http://www.latin-dictionary.net/definition/28495/Ocelum-Oceli">Ocelum, Oceli</a> n</li>
+          <li id="word-318" class="word"><a href="http://www.latin-dictionary.net/definition/28496/ochraceus-ochracea-ochraceum">ochraceus, ochracea, ochraceum</a> adj</li>
+          <li id="word-319" class="word"><a href="http://www.latin-dictionary.net/definition/28497/ocimum-ocimi">ocimum, ocimi</a> n</li>
+          <li id="word-320" class="word"><a href="http://www.latin-dictionary.net/definition/28498/ocimus-ocimi">ocimus, ocimi</a> n</li>
+          <li id="word-321" class="word"><a href="http://www.latin-dictionary.net/definition/28499/ocinum-ocini">ocinum, ocini</a> n</li>
+          <li id="word-322" class="word"><a href="http://www.latin-dictionary.net/definition/28500/ocior-ocior-ocius">ocior, ocior, ocius</a> adj</li>
+          <li id="word-323" class="word"><a href="http://www.latin-dictionary.net/definition/28501/ocis-oce-ocior">ocis, oce, ocior</a> adj</li>
+          <li id="word-324" class="word"><a href="http://www.latin-dictionary.net/definition/28502/ocissimus-ocissima-ocissimum">ocissimus, ocissima, ocissimum</a> adj</li>
+          <li id="word-325" class="word"><a href="http://www.latin-dictionary.net/definition/28503/ocrea-ocreae">ocrea, ocreae</a> n</li>
+          <li id="word-326" class="word"><a href="http://www.latin-dictionary.net/definition/28504/ocreatus-ocreata-ocreatum">ocreatus, ocreata, ocreatum</a> adj</li>
+          <li id="word-327" class="word"><a href="http://www.latin-dictionary.net/definition/28505/Oct-abb">Oct., abb.</a> adj</li>
+          <li id="word-328" class="word"><a href="http://www.latin-dictionary.net/definition/28506/octachordos-octachordos-octachordon">octachordos, octachordos, octachordon</a> adj</li>
+          <li id="word-329" class="word"><a href="http://www.latin-dictionary.net/definition/28507/octaedros-octaedri">octaedros, octaedri</a> n</li>
+          <li id="word-330" class="word"><a href="http://www.latin-dictionary.net/definition/28508/Octavius-Octavii">Octavius, Octavii</a> n</li>
+          <li id="word-331" class="word"><a href="http://www.latin-dictionary.net/definition/28509/octavodecem-octavodecimus">octavodecem, octavodecimus</a> n</li>
+          <li id="word-332" class="word"><a href="http://www.latin-dictionary.net/definition/28510/octingentensim">octingentensim</a> n</li>
+          <li id="word-333" class="word"><a href="http://www.latin-dictionary.net/definition/28511/octingentensum">octingentensum</a> n</li>
+          <li id="word-334" class="word"><a href="http://www.latin-dictionary.net/definition/28512/octingenti">octingenti</a> n</li>
+          <li id="word-335" class="word"><a href="http://www.latin-dictionary.net/definition/28513/octipes-gen-octipedis">octipes, (gen.), octipedis</a> adj</li>
+          <li id="word-336" class="word"><a href="http://www.latin-dictionary.net/definition/28514/octo-octavus">octo, octavus</a> adj</li>
+          <li id="word-337" class="word"><a href="http://www.latin-dictionary.net/definition/28515/October-Octobris">October, Octobris</a> n</li>
+          <li id="word-338" class="word"><a href="http://www.latin-dictionary.net/definition/28516/October-Octobris-Octobre">October, Octobris, Octobre</a> adj</li>
+          <li id="word-339" class="word"><a href="http://www.latin-dictionary.net/definition/28517/octodecim">octodecim</a> adj</li>
+          <li id="word-340" class="word"><a href="http://www.latin-dictionary.net/definition/28518/octogenarius-octogenaria-octogenarium">octogenarius, octogenaria, octogenarium</a> adj</li>
+          <li id="word-341" class="word"><a href="http://www.latin-dictionary.net/definition/28519/octogensim">octogensim</a> adj</li>
+          <li id="word-342" class="word"><a href="http://www.latin-dictionary.net/definition/28520/octogensum">octogensum</a> adj</li>
+          <li id="word-343" class="word"><a href="http://www.latin-dictionary.net/definition/28521/octoginta-octogesimus">octoginta, octogesimus</a> adj</li>
+          <li id="word-344" class="word"><a href="http://www.latin-dictionary.net/definition/28522/octoiugis-octoiugis-octoiuge">octoiugis, octoiugis, octoiuge</a> adj</li>
+          <li id="word-345" class="word"><a href="http://www.latin-dictionary.net/definition/28523/octonarius-octonaria-octonarium">octonarius, octonaria, octonarium</a> adj</li>
+          <li id="word-346" class="word"><a href="http://www.latin-dictionary.net/definition/28524/octophoron-octophori">octophoron, octophori</a> n</li>
+          <li id="word-347" class="word"><a href="http://www.latin-dictionary.net/definition/28525/octophoros-octophoros-octophoron">octophoros, octophoros, octophoron</a> adj</li>
+          <li id="word-348" class="word"><a href="http://www.latin-dictionary.net/definition/28526/octuplicatus-octuplicata-octuplicatum">octuplicatus, octuplicata, octuplicatum</a> adj</li>
+          <li id="word-349" class="word"><a href="http://www.latin-dictionary.net/definition/28527/octuplum-octupli">octuplum, octupli</a> n</li>
+          <li id="word-350" class="word"><a href="http://www.latin-dictionary.net/definition/28528/octuplus-octupla-octuplum">octuplus, octupla, octuplum</a> adj</li>
+          <li id="word-351" class="word"><a href="http://www.latin-dictionary.net/definition/28529/octussis-octussis">octussis, octussis</a> n</li>
+          <li id="word-352" class="word"><a href="http://www.latin-dictionary.net/definition/28530/oculatus-oculata-oculatum">oculatus, oculata, oculatum</a> adj</li>
+          <li id="word-353" class="word"><a href="http://www.latin-dictionary.net/definition/28531/oculus-oculi">oculus, oculi</a> n</li>
+          <li id="word-354" class="word"><a href="http://www.latin-dictionary.net/definition/28532/odeo-odire-odivi-ii">odeo, odire, odivi(ii), -</a> v</li>
+          <li id="word-355" class="word"><a href="http://www.latin-dictionary.net/definition/28533/odi-odisse-osus">odi, odisse, osus</a> v</li>
+          <li id="word-356" class="word"><a href="http://www.latin-dictionary.net/definition/28534/odibilis-odibilis-odibile">odibilis, odibilis, odibile</a> adj</li>
+          <li id="word-357" class="word"><a href="http://www.latin-dictionary.net/definition/28535/odio-odire-odivi">odio, odire, odivi, -</a> v</li>
+          <li id="word-358" class="word"><a href="http://www.latin-dictionary.net/definition/28536/odiose">odiose</a> adv</li>
+          <li id="word-359" class="word"><a href="http://www.latin-dictionary.net/definition/28537/odiosus-odiosa">odiosus, odiosa</a> adj</li>
+          <li id="word-360" class="word"><a href="http://www.latin-dictionary.net/definition/28538/odium-odi-i">odium, odi(i)</a> n</li>
+          <li id="word-361" class="word"><a href="http://www.latin-dictionary.net/definition/28539/odium-odi-i">odium, odi(i)</a> n</li>
+          <li id="word-362" class="word"><a href="http://www.latin-dictionary.net/definition/28540/Odollames-Odollamitis">Odollames, Odollamitis</a> n</li>
+          <li id="word-363" class="word"><a href="http://www.latin-dictionary.net/definition/28541/odontalgia-odontalgiae">odontalgia, odontalgiae</a> n</li>
+          <li id="word-364" class="word"><a href="http://www.latin-dictionary.net/definition/28542/odontologia-odontologiae">odontologia, odontologiae</a> n</li>
+          <li id="word-365" class="word"><a href="http://www.latin-dictionary.net/definition/28543/odor-odoris">odor, odoris</a> n</li>
+          <li id="word-366" class="word"><a href="http://www.latin-dictionary.net/definition/28544/odoramen-odoraminis">odoramen, odoraminis</a> n</li>
+          <li id="word-367" class="word"><a href="http://www.latin-dictionary.net/definition/28545/odoramentum-odoramenti">odoramentum, odoramenti</a> n</li>
+          <li id="word-368" class="word"><a href="http://www.latin-dictionary.net/definition/28546/odoratio-odorationis">odoratio, odorationis</a> n</li>
+          <li id="word-369" class="word"><a href="http://www.latin-dictionary.net/definition/28547/odoratus-odorata-odoratum">odoratus, odorata, odoratum</a> adj</li>
+          <li id="word-370" class="word"><a href="http://www.latin-dictionary.net/definition/28548/odoratus-odoratus">odoratus, odoratus</a> n</li>
+          <li id="word-371" class="word"><a href="http://www.latin-dictionary.net/definition/28549/odorifer-odorifera-odoriferum">odorifer, odorifera, odoriferum</a> adj</li>
+          <li id="word-372" class="word"><a href="http://www.latin-dictionary.net/definition/28550/odoro-odorare-odoravi-odoratus">odoro, odorare, odoravi, odoratus</a> v</li>
+          <li id="word-373" class="word"><a href="http://www.latin-dictionary.net/definition/28551/odoror-odorari-odoratus">odoror, odorari, odoratus</a> v</li>
+          <li id="word-374" class="word"><a href="http://www.latin-dictionary.net/definition/28552/odorus-odora-odorum">odorus, odora, odorum</a> adj</li>
+          <li id="word-375" class="word"><a href="http://www.latin-dictionary.net/definition/28553/oecologia-oecologiae">oecologia, oecologiae</a> n</li>
+          <li id="word-376" class="word"><a href="http://www.latin-dictionary.net/definition/28554/oecologicus-oecologica-oecologicum">oecologicus, oecologica, oecologicum</a> adj</li>
+          <li id="word-377" class="word"><a href="http://www.latin-dictionary.net/definition/28555/oecologista-oecologistae">oecologista, oecologistae</a> n</li>
+          <li id="word-378" class="word"><a href="http://www.latin-dictionary.net/definition/28556/oeconomia-oeconomiae">oeconomia, oeconomiae</a> n</li>
+          <li id="word-379" class="word"><a href="http://www.latin-dictionary.net/definition/28557/oeconomicus-oeconomica-oeconomicum">oeconomicus, oeconomica, oeconomicum</a> adj</li>
+          <li id="word-380" class="word"><a href="http://www.latin-dictionary.net/definition/28558/oeconomus-oeconomi">oeconomus, oeconomi</a> n</li>
+          <li id="word-381" class="word"><a href="http://www.latin-dictionary.net/definition/28559/oecosystema-oecosystematis">oecosystema, oecosystematis</a> n</li>
+          <li id="word-382" class="word"><a href="http://www.latin-dictionary.net/definition/28560/oecumenicus-oecumenica-oecumenicum">oecumenicus, oecumenica, oecumenicum</a> adj</li>
+          <li id="word-383" class="word"><a href="http://www.latin-dictionary.net/definition/28561/oecumenismus-oecumenismi">oecumenismus, oecumenismi</a> n</li>
+          <li id="word-384" class="word"><a href="http://www.latin-dictionary.net/definition/28562/oenanthe-oenanthes">oenanthe, oenanthes</a> n</li>
+          <li id="word-385" class="word"><a href="http://www.latin-dictionary.net/definition/28563/oenococtus-oenococta-oenococtum">oenococtus, oenococta, oenococtum</a> adj</li>
+          <li id="word-386" class="word"><a href="http://www.latin-dictionary.net/definition/28564/oenophorum-oenophori">oenophorum, oenophori</a> n</li>
+          <li id="word-387" class="word"><a href="http://www.latin-dictionary.net/definition/28565/oephi-undeclined">oephi, undeclined</a> n</li>
+          <li id="word-388" class="word"><a href="http://www.latin-dictionary.net/definition/28566/oestrus-oestri">oestrus, oestri</a> n</li>
+          <li id="word-389" class="word"><a href="http://www.latin-dictionary.net/definition/28567/oesypum-oesypi">oesypum, oesypi</a> n</li>
+          <li id="word-390" class="word"><a href="http://www.latin-dictionary.net/definition/28568/ofella-ofellae">ofella, ofellae</a> n</li>
+          <li id="word-391" class="word"><a href="http://www.latin-dictionary.net/definition/28569/offa-offae">offa, offae</a> n</li>
+          <li id="word-392" class="word"><a href="http://www.latin-dictionary.net/definition/28570/offendiculum-offendiculi">offendiculum, offendiculi</a> n</li>
+          <li id="word-393" class="word"><a href="http://www.latin-dictionary.net/definition/28571/offendo-offendere-offendi-offensus">offendo, offendere, offendi, offensus</a> v</li>
+          <li id="word-394" class="word"><a href="http://www.latin-dictionary.net/definition/28572/offendo-offendere-offendi-offensus">offendo, offendere, offendi, offensus</a> v</li>
+          <li id="word-395" class="word"><a href="http://www.latin-dictionary.net/definition/28573/offendo-offendere-offendi-offensus">offendo, offendere, offendi, offensus</a> v</li>
+          <li id="word-396" class="word"><a href="http://www.latin-dictionary.net/definition/28574/offensa-offensae">offensa, offensae</a> n</li>
+          <li id="word-397" class="word"><a href="http://www.latin-dictionary.net/definition/28575/offensio-offensionis">offensio, offensionis</a> n</li>
+          <li id="word-398" class="word"><a href="http://www.latin-dictionary.net/definition/28576/offensiuncula-offensiunculae">offensiuncula, offensiunculae</a> n</li>
+          <li id="word-399" class="word"><a href="http://www.latin-dictionary.net/definition/28577/offenso-offensare-offensavi-offensatus">offenso, offensare, offensavi, offensatus</a> v</li>
+          <li id="word-400" class="word"><a href="http://www.latin-dictionary.net/definition/28578/offensum-offensi">offensum, offensi</a> n</li>
+          <li id="word-401" class="word"><a href="http://www.latin-dictionary.net/definition/28579/offensus-offensa">offensus, offensa</a> adj</li>
+          <li id="word-402" class="word"><a href="http://www.latin-dictionary.net/definition/28580/offensus-offensus">offensus, offensus</a> n</li>
+          <li id="word-403" class="word"><a href="http://www.latin-dictionary.net/definition/28581/offero-offerare-offeravi-offeratus">offero, offerare, offeravi, offeratus</a> v</li>
+          <li id="word-404" class="word"><a href="http://www.latin-dictionary.net/definition/28582/offero-offerre-obtuli-oblatus">offero, offerre, obtuli, oblatus</a> v</li>
+          <li id="word-405" class="word"><a href="http://www.latin-dictionary.net/definition/28583/offertio-offertionis">offertio, offertionis</a> n</li>
+          <li id="word-406" class="word"><a href="http://www.latin-dictionary.net/definition/28584/offertoria-offertoriae">offertoria, offertoriae</a> n</li>
+          <li id="word-407" class="word"><a href="http://www.latin-dictionary.net/definition/28585/offertorium-offertorii">offertorium, offertorii</a> n</li>
+          <li id="word-408" class="word"><a href="http://www.latin-dictionary.net/definition/28586/offerumenta-offerumentae">offerumenta, offerumentae</a> n</li>
+          <li id="word-409" class="word"><a href="http://www.latin-dictionary.net/definition/28587/officialis-officialis">officialis, officialis</a> n</li>
+          <li id="word-410" class="word"><a href="http://www.latin-dictionary.net/definition/28588/officialis-officialis-officiale">officialis, officialis, officiale</a> adj</li>
+          <li id="word-411" class="word"><a href="http://www.latin-dictionary.net/definition/28589/officiarius-officiarii">officiarius, officiarii</a> n</li>
+          <li id="word-412" class="word"><a href="http://www.latin-dictionary.net/definition/28590/officina-officinae">officina, officinae</a> n</li>
+          <li id="word-413" class="word"><a href="http://www.latin-dictionary.net/definition/28591/officio-officere-offeci-offectus">officio, officere, offeci, offectus</a> v</li>
+          <li id="word-414" class="word"><a href="http://www.latin-dictionary.net/definition/28592/officiosus-officiosa-officiosum">officiosus, officiosa, officiosum</a> adj</li>
+          <li id="word-415" class="word"><a href="http://www.latin-dictionary.net/definition/28593/officium-offici-i">officium, offici(i)</a> n</li>
+          <li id="word-416" class="word"><a href="http://www.latin-dictionary.net/definition/28594/offigo-offigere-offixi-offixus">offigo, offigere, offixi, offixus</a> v</li>
+          <li id="word-417" class="word"><a href="http://www.latin-dictionary.net/definition/28595/offirmatus-offirmata">offirmatus, offirmata</a> adj</li>
+          <li id="word-418" class="word"><a href="http://www.latin-dictionary.net/definition/28596/offirmo-offirmare-offirmavi-offirmatus">offirmo, offirmare, offirmavi, offirmatus</a> v</li>
+          <li id="word-419" class="word"><a href="http://www.latin-dictionary.net/definition/28597/offlecto-offlectere">offlecto, offlectere, -, -</a> v</li>
+          <li id="word-420" class="word"><a href="http://www.latin-dictionary.net/definition/28598/offoco-offocare-offocavi-offocatus">offoco, offocare, offocavi, offocatus</a> v</li>
+          <li id="word-421" class="word"><a href="http://www.latin-dictionary.net/definition/28599/offrenatus-offrenata-offrenatum">offrenatus, offrenata, offrenatum</a> adj</li>
+          <li id="word-422" class="word"><a href="http://www.latin-dictionary.net/definition/28600/offringo-offringere-offregi-offractus">offringo, offringere, offregi, offractus</a> v</li>
+          <li id="word-423" class="word"><a href="http://www.latin-dictionary.net/definition/28601/offucia-offuciae">offucia, offuciae</a> n</li>
+          <li id="word-424" class="word"><a href="http://www.latin-dictionary.net/definition/28602/offuco-offucare-offucavi-offucatus">offuco, offucare, offucavi, offucatus</a> v</li>
+          <li id="word-425" class="word"><a href="http://www.latin-dictionary.net/definition/28603/offulgeo-offulgere-offulsi">offulgeo, offulgere, offulsi, -</a> v</li>
+          <li id="word-426" class="word"><a href="http://www.latin-dictionary.net/definition/28604/offundo-offundere-offudi-offusus">offundo, offundere, offudi, offusus</a> v</li>
+          <li id="word-427" class="word"><a href="http://www.latin-dictionary.net/definition/28605/offuscatio-offuscationis">offuscatio, offuscationis</a> v</li>
+          <li id="word-428" class="word"><a href="http://www.latin-dictionary.net/definition/28606/ogdoas-ogdoadis">ogdoas, ogdoadis</a> v</li>
+          <li id="word-429" class="word"><a href="http://www.latin-dictionary.net/definition/28607/ogganio-ogganire">ogganio, ogganire, -, -</a> v</li>
+          <li id="word-430" class="word"><a href="http://www.latin-dictionary.net/definition/28608/oggannio-oggannire">oggannio, oggannire, -, -</a> v</li>
+          <li id="word-431" class="word"><a href="http://www.latin-dictionary.net/definition/28609/oggero-oggerere">oggero, oggerere, -, -</a> v</li>
+          <li id="word-432" class="word"><a href="http://www.latin-dictionary.net/definition/28610/oh">oh</a> interj</li>
+          <li id="word-433" class="word"><a href="http://www.latin-dictionary.net/definition/28611/ohe">ohe</a> interj</li>
+          <li id="word-434" class="word"><a href="http://www.latin-dictionary.net/definition/28612/oi">oi</a> interj</li>
+          <li id="word-435" class="word"><a href="http://www.latin-dictionary.net/definition/28613/oiei">oiei</a> interj</li>
+          <li id="word-436" class="word"><a href="http://www.latin-dictionary.net/definition/28614/olea-oleae">olea, oleae</a> n</li>
+          <li id="word-437" class="word"><a href="http://www.latin-dictionary.net/definition/28615/oleaginosus-oleaginosa-oleaginosum">oleaginosus, oleaginosa, oleaginosum</a> adj</li>
+          <li id="word-438" class="word"><a href="http://www.latin-dictionary.net/definition/28616/oleaginus-oleagina-oleaginum">oleaginus, oleagina, oleaginum</a> adj</li>
+          <li id="word-439" class="word"><a href="http://www.latin-dictionary.net/definition/28617/olearius-olearia-olearium">olearius, olearia, olearium</a> adj</li>
+          <li id="word-440" class="word"><a href="http://www.latin-dictionary.net/definition/28618/olearius-olearii">olearius, olearii</a> n</li>
+          <li id="word-441" class="word"><a href="http://www.latin-dictionary.net/definition/28619/oleaster-oleastri">oleaster, oleastri</a> n</li>
+          <li id="word-442" class="word"><a href="http://www.latin-dictionary.net/definition/28620/olefacio-olefacere-olefeci-olefactus">olefacio, olefacere, olefeci, olefactus</a> v</li>
+          <li id="word-443" class="word"><a href="http://www.latin-dictionary.net/definition/28621/olefacto-olefactare-olefactavi-olefactatus">olefacto, olefactare, olefactavi, olefactatus</a> v</li>
+          <li id="word-444" class="word"><a href="http://www.latin-dictionary.net/definition/28622/oleiductus-oleiductus">oleiductus, oleiductus</a> n</li>
+          <li id="word-445" class="word"><a href="http://www.latin-dictionary.net/definition/28623/olens-gen-olentis">olens, (gen.), olentis</a> adj</li>
+          <li id="word-446" class="word"><a href="http://www.latin-dictionary.net/definition/28624/oleo-olere-olui">oleo, olere, olui, -</a> v</li>
+          <li id="word-447" class="word"><a href="http://www.latin-dictionary.net/definition/28625/oleosus-oleosa-oleosum">oleosus, oleosa, oleosum</a> adj</li>
+          <li id="word-448" class="word"><a href="http://www.latin-dictionary.net/definition/28626/oleum-olei">oleum, olei</a> n</li>
+          <li id="word-449" class="word"><a href="http://www.latin-dictionary.net/definition/28627/olfacio-olfacere-olfeci-olfactus">olfacio, olfacere, olfeci, olfactus</a> v</li>
+          <li id="word-450" class="word"><a href="http://www.latin-dictionary.net/definition/28628/olfacto-olfactare-olfactavi-olfactatus">olfacto, olfactare, olfactavi, olfactatus</a> v</li>
+          <li id="word-451" class="word"><a href="http://www.latin-dictionary.net/definition/28629/olfactoriolum-olfactorioli">olfactoriolum, olfactorioli</a> n</li>
+          <li id="word-452" class="word"><a href="http://www.latin-dictionary.net/definition/28630/olfactorium-olfactorii">olfactorium, olfactorii</a> n</li>
+          <li id="word-453" class="word"><a href="http://www.latin-dictionary.net/definition/28631/olfactorius-olfactoria-olfactorium">olfactorius, olfactoria, olfactorium</a> adj</li>
+          <li id="word-454" class="word"><a href="http://www.latin-dictionary.net/definition/28632/olidus-olida-olidum">olidus, olida, olidum</a> adj</li>
+          <li id="word-455" class="word"><a href="http://www.latin-dictionary.net/definition/28633/oligarcha-oligarchae">oligarcha, oligarchae</a> n</li>
+          <li id="word-456" class="word"><a href="http://www.latin-dictionary.net/definition/28634/oligarchia-oligarchiae">oligarchia, oligarchiae</a> n</li>
+          <li id="word-457" class="word"><a href="http://www.latin-dictionary.net/definition/28635/oligarchicus-oligarchica-oligarchicum">oligarchicus, oligarchica, oligarchicum</a> adj</li>
+          <li id="word-458" class="word"><a href="http://www.latin-dictionary.net/definition/28636/olim">olim</a> adv</li>
+          <li id="word-459" class="word"><a href="http://www.latin-dictionary.net/definition/28637/olitor-olitoris">olitor, olitoris</a> n</li>
+          <li id="word-460" class="word"><a href="http://www.latin-dictionary.net/definition/28638/olitorius-olitoria-olitorium">olitorius, olitoria, olitorium</a> adj</li>
+          <li id="word-461" class="word"><a href="http://www.latin-dictionary.net/definition/28639/oliva-olivae">oliva, olivae</a> n</li>
+          <li id="word-462" class="word"><a href="http://www.latin-dictionary.net/definition/28640/olivaceus-olivacea-olivaceum">olivaceus, olivacea, olivaceum</a> adj</li>
+          <li id="word-463" class="word"><a href="http://www.latin-dictionary.net/definition/28641/olivetum-oliveti">olivetum, oliveti</a> n</li>
+          <li id="word-464" class="word"><a href="http://www.latin-dictionary.net/definition/28642/olivifer-olivifera-oliviferum">olivifer, olivifera, oliviferum</a> adj</li>
+          <li id="word-465" class="word"><a href="http://www.latin-dictionary.net/definition/28643/olivitas-olivitatis">olivitas, olivitatis</a> n</li>
+          <li id="word-466" class="word"><a href="http://www.latin-dictionary.net/definition/28644/olivum-olivi">olivum, olivi</a> n</li>
+          <li id="word-467" class="word"><a href="http://www.latin-dictionary.net/definition/28645/olla-ollae">olla, ollae</a> n</li>
+          <li id="word-468" class="word"><a href="http://www.latin-dictionary.net/definition/28646/olle-olla-ollud">olle, olla, ollud</a> n</li>
+          <li id="word-469" class="word"><a href="http://www.latin-dictionary.net/definition/28647/ollus-olla-ollum">ollus, olla, ollum</a> adj</li>
+          <li id="word-470" class="word"><a href="http://www.latin-dictionary.net/definition/28648/olor-oloris">olor, oloris</a> n</li>
+          <li id="word-471" class="word"><a href="http://www.latin-dictionary.net/definition/28649/olorinus-olorina-olorinum">olorinus, olorina, olorinum</a> adj</li>
+          <li id="word-472" class="word"><a href="http://www.latin-dictionary.net/definition/28650/olus-oleris">olus, oleris</a> n</li>
+          <li id="word-473" class="word"><a href="http://www.latin-dictionary.net/definition/28651/Olympia-Olympiae">Olympia, Olympiae</a> n</li>
+          <li id="word-474" class="word"><a href="http://www.latin-dictionary.net/definition/28652/Olympus-Olympi">Olympus, Olympi</a> n</li>
+          <li id="word-475" class="word"><a href="http://www.latin-dictionary.net/definition/28653/olyra-olyrae">olyra, olyrae</a> n</li>
+          <li id="word-476" class="word"><a href="http://www.latin-dictionary.net/definition/28654/omasum-omasi">omasum, omasi</a> n</li>
+          <li id="word-477" class="word"><a href="http://www.latin-dictionary.net/definition/28655/omega-undeclined">omega, undeclined</a> n</li>
+          <li id="word-478" class="word"><a href="http://www.latin-dictionary.net/definition/28656/omen-ominis">omen, ominis</a> n</li>
+          <li id="word-479" class="word"><a href="http://www.latin-dictionary.net/definition/28657/omentum-omenti">omentum, omenti</a> n</li>
+          <li id="word-480" class="word"><a href="http://www.latin-dictionary.net/definition/28658/ominor-ominari-ominatus">ominor, ominari, ominatus</a> v</li>
+          <li id="word-481" class="word"><a href="http://www.latin-dictionary.net/definition/28659/ominosus-ominosa-ominosum">ominosus, ominosa, ominosum</a> adj</li>
+          <li id="word-482" class="word"><a href="http://www.latin-dictionary.net/definition/28660/omissus-omissa">omissus, omissa</a> adj</li>
+          <li id="word-483" class="word"><a href="http://www.latin-dictionary.net/definition/28661/omitto-omittere-omisi-omissus">omitto, omittere, omisi, omissus</a> v</li>
+          <li id="word-484" class="word"><a href="http://www.latin-dictionary.net/definition/28662/omne-omnis">omne, omnis</a> n</li>
+          <li id="word-485" class="word"><a href="http://www.latin-dictionary.net/definition/28663/omnia">omnia</a> adv</li>
+          <li id="word-486" class="word"><a href="http://www.latin-dictionary.net/definition/28664/omnifariam">omnifariam</a> adv</li>
+          <li id="word-487" class="word"><a href="http://www.latin-dictionary.net/definition/28665/omnifer-omnifera-omniferum">omnifer, omnifera, omniferum</a> adj</li>
+          <li id="word-488" class="word"><a href="http://www.latin-dictionary.net/definition/28666/omnigenus-omnigena-omnigenum">omnigenus, omnigena, omnigenum</a> adj</li>
+          <li id="word-489" class="word"><a href="http://www.latin-dictionary.net/definition/28667/omnimodis">omnimodis</a> adv</li>
+          <li id="word-490" class="word"><a href="http://www.latin-dictionary.net/definition/28668/omnimodo">omnimodo</a> adv</li>
+          <li id="word-491" class="word"><a href="http://www.latin-dictionary.net/definition/28669/omnimodus-omnimoda-omnimodum">omnimodus, omnimoda, omnimodum</a> adj</li>
+          <li id="word-492" class="word"><a href="http://www.latin-dictionary.net/definition/28670/omnino">omnino</a> adv</li>
+          <li id="word-493" class="word"><a href="http://www.latin-dictionary.net/definition/28671/omniparens-gen-omniparentis">omniparens, (gen.), omniparentis</a> adj</li>
+          <li id="word-494" class="word"><a href="http://www.latin-dictionary.net/definition/28672/omnipotens-gen-omnipotentis">omnipotens, (gen.), omnipotentis</a> adj</li>
+          <li id="word-495" class="word"><a href="http://www.latin-dictionary.net/definition/28673/omnipotentia-omnipotentiae">omnipotentia, omnipotentiae</a> n</li>
+          <li id="word-496" class="word"><a href="http://www.latin-dictionary.net/definition/28674/omnipraesens-gen-omnipraesentis">omnipraesens, (gen.), omnipraesentis</a> adj</li>
+          <li id="word-497" class="word"><a href="http://www.latin-dictionary.net/definition/28675/omnis-omnis">omnis, omnis</a> n</li>
+          <li id="word-498" class="word"><a href="http://www.latin-dictionary.net/definition/28676/omnis-omnis-omne">omnis, omnis, omne</a> adj</li>
+          <li id="word-499" class="word"><a href="http://www.latin-dictionary.net/definition/28677/omniscientia-omniscientiae">omniscientia, omniscientiae</a> n</li>
+          <li id="word-500" class="word"><a href="http://www.latin-dictionary.net/definition/28678/omnituens-gen-omnituentis">omnituens, (gen.), omnituentis</a> adj</li>
+          <li id="word-501" class="word"><a href="http://www.latin-dictionary.net/definition/28679/omnivagus-omnivaga-omnivagum">omnivagus, omnivaga, omnivagum</a> adj</li>
+          <li id="word-502" class="word"><a href="http://www.latin-dictionary.net/definition/28680/omnivolus-omnivola-omnivolum">omnivolus, omnivola, omnivolum</a> adj</li>
+          <li id="word-503" class="word"><a href="http://www.latin-dictionary.net/definition/28681/omphacius-omphacii">omphacius, omphacii</a> n</li>
+          <li id="word-504" class="word"><a href="http://www.latin-dictionary.net/definition/28682/onager-onagri">onager, onagri</a> n</li>
+          <li id="word-505" class="word"><a href="http://www.latin-dictionary.net/definition/28683/onerarius-oneraria-onerarium">onerarius, oneraria, onerarium</a> adj</li>
+          <li id="word-506" class="word"><a href="http://www.latin-dictionary.net/definition/28684/onero-onerare-oneravi-oneratus">onero, onerare, oneravi, oneratus</a> v</li>
+          <li id="word-507" class="word"><a href="http://www.latin-dictionary.net/definition/28685/onerosus-onerosa-onerosum">onerosus, onerosa, onerosum</a> adj</li>
+          <li id="word-508" class="word"><a href="http://www.latin-dictionary.net/definition/28686/onocentaurus-onocentauri">onocentaurus, onocentauri</a> n</li>
+          <li id="word-509" class="word"><a href="http://www.latin-dictionary.net/definition/28687/onocrotalus-onocrotali">onocrotalus, onocrotali</a> n</li>
+          <li id="word-510" class="word"><a href="http://www.latin-dictionary.net/definition/28688/ontologia-ontologiae">ontologia, ontologiae</a> n</li>
+          <li id="word-511" class="word"><a href="http://www.latin-dictionary.net/definition/28689/onus-oneris">onus, oneris</a> n</li>
+          <li id="word-512" class="word"><a href="http://www.latin-dictionary.net/definition/28690/onustus-onusta-onustum">onustus, onusta, onustum</a> adj</li>
+          <li id="word-513" class="word"><a href="http://www.latin-dictionary.net/definition/28691/onycha-onychae">onycha, onychae</a> n</li>
+          <li id="word-514" class="word"><a href="http://www.latin-dictionary.net/definition/28692/onyche-onyches">onyche, onyches</a> n</li>
+          <li id="word-515" class="word"><a href="http://www.latin-dictionary.net/definition/28693/onychinus-onychina-onychinum">onychinus, onychina, onychinum</a> adj</li>
+          <li id="word-516" class="word"><a href="http://www.latin-dictionary.net/definition/28694/onyx-onychis">onyx, onychis</a> n</li>
+          <li id="word-517" class="word"><a href="http://www.latin-dictionary.net/definition/28695/onyx-onychis">onyx, onychis</a> n</li>
+          <li id="word-518" class="word"><a href="http://www.latin-dictionary.net/definition/28696/opaco-opacare-opacavi-opacatus">opaco, opacare, opacavi, opacatus</a> v</li>
+          <li id="word-519" class="word"><a href="http://www.latin-dictionary.net/definition/28697/opacus-opaca-opacum">opacus, opaca, opacum</a> adj</li>
+          <li id="word-520" class="word"><a href="http://www.latin-dictionary.net/definition/28698/opella-opellae">opella, opellae</a> n</li>
+          <li id="word-521" class="word"><a href="http://www.latin-dictionary.net/definition/28699/opera-operae">opera, operae</a> n</li>
+          <li id="word-522" class="word"><a href="http://www.latin-dictionary.net/definition/28700/operaria-operariae">operaria, operariae</a> n</li>
+          <li id="word-523" class="word"><a href="http://www.latin-dictionary.net/definition/28701/operarius-operari-i">operarius, operari(i)</a> n</li>
+          <li id="word-524" class="word"><a href="http://www.latin-dictionary.net/definition/28702/operarius-operaria-operarium">operarius, operaria, operarium</a> adj</li>
+          <li id="word-525" class="word"><a href="http://www.latin-dictionary.net/definition/28703/operatio-operationis">operatio, operationis</a> n</li>
+          <li id="word-526" class="word"><a href="http://www.latin-dictionary.net/definition/28704/operatio-operationis">operatio, operationis</a> n</li>
+          <li id="word-527" class="word"><a href="http://www.latin-dictionary.net/definition/28705/operatio-operationis">operatio, operationis</a> n</li>
+          <li id="word-528" class="word"><a href="http://www.latin-dictionary.net/definition/28706/operatorius-operatoria-operatorium">operatorius, operatoria, operatorium</a> adj</li>
+          <li id="word-529" class="word"><a href="http://www.latin-dictionary.net/definition/28707/operculum-operculi">operculum, operculi</a> n</li>
+          <li id="word-530" class="word"><a href="http://www.latin-dictionary.net/definition/28708/operimentum-operimenti">operimentum, operimenti</a> n</li>
+          <li id="word-531" class="word"><a href="http://www.latin-dictionary.net/definition/28709/operio-operire-operui-opertus">operio, operire, operui, opertus</a> v</li>
+          <li id="word-532" class="word"><a href="http://www.latin-dictionary.net/definition/28710/operistitium-operistitii">operistitium, operistitii</a> n</li>
+          <li id="word-533" class="word"><a href="http://www.latin-dictionary.net/definition/28711/opero-operare-operavi-operatus">opero, operare, operavi, operatus</a> v</li>
+          <li id="word-534" class="word"><a href="http://www.latin-dictionary.net/definition/28712/operor-operari-operatus">operor, operari, operatus</a> v</li>
+          <li id="word-535" class="word"><a href="http://www.latin-dictionary.net/definition/28713/operosus-operosa-operosum">operosus, operosa, operosum</a> adj</li>
+          <li id="word-536" class="word"><a href="http://www.latin-dictionary.net/definition/28714/opertorium-opertori-i">opertorium, opertori(i)</a> n</li>
+          <li id="word-537" class="word"><a href="http://www.latin-dictionary.net/definition/28715/opertum-operti">opertum, operti</a> n</li>
+          <li id="word-538" class="word"><a href="http://www.latin-dictionary.net/definition/28716/opertus-operta-opertum">opertus, operta, opertum</a> adj</li>
+          <li id="word-539" class="word"><a href="http://www.latin-dictionary.net/definition/28717/ophiomachus-ophiomachi">ophiomachus, ophiomachi</a> n</li>
+          <li id="word-540" class="word"><a href="http://www.latin-dictionary.net/definition/28718/ophites-ophitae">ophites, ophitae</a> n</li>
+          <li id="word-541" class="word"><a href="http://www.latin-dictionary.net/definition/28719/ophthalmia-ophthalmiae">ophthalmia, ophthalmiae</a> n</li>
+          <li id="word-542" class="word"><a href="http://www.latin-dictionary.net/definition/28720/ophthalmologia-ophthalmologiae">ophthalmologia, ophthalmologiae</a> n</li>
+          <li id="word-543" class="word"><a href="http://www.latin-dictionary.net/definition/28721/ophthalmologus-ophthalmologi">ophthalmologus, ophthalmologi</a> n</li>
+          <li id="word-544" class="word"><a href="http://www.latin-dictionary.net/definition/28722/opicus-opica-opicum">opicus, opica, opicum</a> adj</li>
+          <li id="word-545" class="word"><a href="http://www.latin-dictionary.net/definition/28723/opifer-opifera-opiferum">opifer, opifera, opiferum</a> adj</li>
+          <li id="word-546" class="word"><a href="http://www.latin-dictionary.net/definition/28724/opifex-opificis">opifex, opificis</a> n</li>
+          <li id="word-547" class="word"><a href="http://www.latin-dictionary.net/definition/28725/opilio-opilionis">opilio, opilionis</a> n</li>
+          <li id="word-548" class="word"><a href="http://www.latin-dictionary.net/definition/28726/opimus-opima-opimum">opimus, opima, opimum</a> adj</li>
+          <li id="word-549" class="word"><a href="http://www.latin-dictionary.net/definition/28727/opinatus-opinata-opinatum">opinatus, opinata, opinatum</a> adj</li>
+          <li id="word-550" class="word"><a href="http://www.latin-dictionary.net/definition/28728/opinatus-opinatus">opinatus, opinatus</a> n</li>
+          <li id="word-551" class="word"><a href="http://www.latin-dictionary.net/definition/28729/opinio-opinionis">opinio, opinionis</a> n</li>
+          <li id="word-552" class="word"><a href="http://www.latin-dictionary.net/definition/28730/opiniosus-opiniosa-opiniosum">opiniosus, opiniosa, opiniosum</a> adj</li>
+          <li id="word-553" class="word"><a href="http://www.latin-dictionary.net/definition/28731/opinitas-opinitatis">opinitas, opinitatis</a> n</li>
+          <li id="word-554" class="word"><a href="http://www.latin-dictionary.net/definition/28732/opinor-opinari-opinatus">opinor, opinari, opinatus</a> v</li>
+          <li id="word-555" class="word"><a href="http://www.latin-dictionary.net/definition/28733/opipare">opipare</a> adv</li>
+          <li id="word-556" class="word"><a href="http://www.latin-dictionary.net/definition/28734/opiparus-opipara-opiparum">opiparus, opipara, opiparum</a> adj</li>
+          <li id="word-557" class="word"><a href="http://www.latin-dictionary.net/definition/28735/opisthotonos-opisthotoni">opisthotonos, opisthotoni</a> n</li>
+          <li id="word-558" class="word"><a href="http://www.latin-dictionary.net/definition/28736/opisthotonos-opisthotonos-opisthotonon">opisthotonos, opisthotonos, opisthotonon</a> adj</li>
+          <li id="word-559" class="word"><a href="http://www.latin-dictionary.net/definition/28737/opitulatrix-opitulatricis">opitulatrix, opitulatricis</a> n</li>
+          <li id="word-560" class="word"><a href="http://www.latin-dictionary.net/definition/28738/opitulor-opitulari-opitulatus">opitulor, opitulari, opitulatus</a> v</li>
+          <li id="word-561" class="word"><a href="http://www.latin-dictionary.net/definition/28739/opium-opii">opium, opii</a> n</li>
+          <li id="word-562" class="word"><a href="http://www.latin-dictionary.net/definition/28740/opopanax-opopanacis">opopanax, opopanacis</a> n</li>
+          <li id="word-563" class="word"><a href="http://www.latin-dictionary.net/definition/28741/oporotheca-oporothecae">oporotheca, oporothecae</a> n</li>
+          <li id="word-564" class="word"><a href="http://www.latin-dictionary.net/definition/28742/oporothece-oporotheces">oporothece, oporotheces</a> n</li>
+          <li id="word-565" class="word"><a href="http://www.latin-dictionary.net/definition/28743/oporteo-oportere-oportui-oportuitus">oporteo, oportere, oportui, oportuitus</a> v</li>
+          <li id="word-566" class="word"><a href="http://www.latin-dictionary.net/definition/28744/oportet-oportere-oportuit">oportet, oportere, oportuit, -</a> v</li>
+          <li id="word-567" class="word"><a href="http://www.latin-dictionary.net/definition/28745/oportune-oportunius-oportunissime">oportune, oportunius, oportunissime</a> adv</li>
+          <li id="word-568" class="word"><a href="http://www.latin-dictionary.net/definition/28746/oportunitas-oportunitatis">oportunitas, oportunitatis</a> n</li>
+          <li id="word-569" class="word"><a href="http://www.latin-dictionary.net/definition/28747/oportunus-oportuna">oportunus, oportuna</a> adj</li>
+          <li id="word-570" class="word"><a href="http://www.latin-dictionary.net/definition/28748/oppando-oppandere-oppandi-oppansus">oppando, oppandere, oppandi, oppansus</a> v</li>
+          <li id="word-571" class="word"><a href="http://www.latin-dictionary.net/definition/28749/oppando-oppandere-oppandi-oppassus">oppando, oppandere, oppandi, oppassus</a> v</li>
+          <li id="word-572" class="word"><a href="http://www.latin-dictionary.net/definition/28750/oppansum-oppansi">oppansum, oppansi</a> n</li>
+          <li id="word-573" class="word"><a href="http://www.latin-dictionary.net/definition/28751/oppassum-oppassi">oppassum, oppassi</a> n</li>
+          <li id="word-574" class="word"><a href="http://www.latin-dictionary.net/definition/28752/oppedo-oppedere">oppedo, oppedere, -, -</a> v</li>
+          <li id="word-575" class="word"><a href="http://www.latin-dictionary.net/definition/28753/opperior-opperiri-opperitus">opperior, opperiri, opperitus</a> v</li>
+          <li id="word-576" class="word"><a href="http://www.latin-dictionary.net/definition/28754/oppeto-oppetere-oppetivi-oppetitus">oppeto, oppetere, oppetivi, oppetitus</a> v</li>
+          <li id="word-577" class="word"><a href="http://www.latin-dictionary.net/definition/28755/oppidaneus-oppidanea-oppidaneum">oppidaneus, oppidanea, oppidaneum</a> adj</li>
+          <li id="word-578" class="word"><a href="http://www.latin-dictionary.net/definition/28756/oppidanus-oppidana-oppidanum">oppidanus, oppidana, oppidanum</a> adj</li>
+          <li id="word-579" class="word"><a href="http://www.latin-dictionary.net/definition/28757/oppidanus-oppidani">oppidanus, oppidani</a> n</li>
+          <li id="word-580" class="word"><a href="http://www.latin-dictionary.net/definition/28758/oppido">oppido</a> adv</li>
+          <li id="word-581" class="word"><a href="http://www.latin-dictionary.net/definition/28759/oppidulum-oppiduli">oppidulum, oppiduli</a> n</li>
+          <li id="word-582" class="word"><a href="http://www.latin-dictionary.net/definition/28760/oppidum-oppidi">oppidum, oppidi</a> n</li>
+          <li id="word-583" class="word"><a href="http://www.latin-dictionary.net/definition/28761/oppilo-oppilare-oppilavi-oppilatus">oppilo, oppilare, oppilavi, oppilatus</a> v</li>
+          <li id="word-584" class="word"><a href="http://www.latin-dictionary.net/definition/28762/oppleo-opplere-opplevi-oppletus">oppleo, opplere, opplevi, oppletus</a> v</li>
+          <li id="word-585" class="word"><a href="http://www.latin-dictionary.net/definition/28763/oppono-opponere-opposui-oppositus">oppono, opponere, opposui, oppositus</a> v</li>
+          <li id="word-586" class="word"><a href="http://www.latin-dictionary.net/definition/28764/opportune-opportunius-opportunissime">opportune, opportunius, opportunissime</a> adv</li>
+          <li id="word-587" class="word"><a href="http://www.latin-dictionary.net/definition/28765/opportunismus-opportunismi">opportunismus, opportunismi</a> n</li>
+          <li id="word-588" class="word"><a href="http://www.latin-dictionary.net/definition/28766/opportunitas-opportunitatis">opportunitas, opportunitatis</a> n</li>
+          <li id="word-589" class="word"><a href="http://www.latin-dictionary.net/definition/28767/opportunus-opportuna">opportunus, opportuna</a> adj</li>
+          <li id="word-590" class="word"><a href="http://www.latin-dictionary.net/definition/28768/oppositus-opposita-oppositum">oppositus, opposita, oppositum</a> adj</li>
+          <li id="word-591" class="word"><a href="http://www.latin-dictionary.net/definition/28769/oppositus-oppositus">oppositus, oppositus</a> n</li>
+          <li id="word-592" class="word"><a href="http://www.latin-dictionary.net/definition/28770/oppressio-oppressionis">oppressio, oppressionis</a> n</li>
+          <li id="word-593" class="word"><a href="http://www.latin-dictionary.net/definition/28771/oppressus-oppressus">oppressus, oppressus</a> n</li>
+          <li id="word-594" class="word"><a href="http://www.latin-dictionary.net/definition/28772/opprimo-opprimere-oppressi-oppressus">opprimo, opprimere, oppressi, oppressus</a> v</li>
+          <li id="word-595" class="word"><a href="http://www.latin-dictionary.net/definition/28773/opprobrium-opprobri-i">opprobrium, opprobri(i)</a> n</li>
+          <li id="word-596" class="word"><a href="http://www.latin-dictionary.net/definition/28774/opprobro-opprobrare-opprobravi-opprobratus">opprobro, opprobrare, opprobravi, opprobratus</a> v</li>
+          <li id="word-597" class="word"><a href="http://www.latin-dictionary.net/definition/28775/oppugnatio-oppugnationis">oppugnatio, oppugnationis</a> n</li>
+          <li id="word-598" class="word"><a href="http://www.latin-dictionary.net/definition/28776/oppugnator-oppugnatoris">oppugnator, oppugnatoris</a> n</li>
+          <li id="word-599" class="word"><a href="http://www.latin-dictionary.net/definition/28777/oppugno-oppugnare-oppugnavi-oppugnatus">oppugno, oppugnare, oppugnavi, oppugnatus</a> v</li>
+          <li id="word-600" class="word"><a href="http://www.latin-dictionary.net/definition/28778/oprepo-oprepere-oprepsi-opreptus">oprepo, oprepere, oprepsi, opreptus</a> v</li>
+          <li id="word-601" class="word"><a href="http://www.latin-dictionary.net/definition/28779/opreptio-opreptionis">opreptio, opreptionis</a> n</li>
+          <li id="word-602" class="word"><a href="http://www.latin-dictionary.net/definition/28780/oprepto-opreptare-opreptavi-opreptatus">oprepto, opreptare, opreptavi, opreptatus</a> v</li>
+          <li id="word-603" class="word"><a href="http://www.latin-dictionary.net/definition/28781/ops-opis">ops, opis</a> n</li>
+          <li id="word-604" class="word"><a href="http://www.latin-dictionary.net/definition/28782/opscaene-opscaenius-opscaenissime">opscaene, opscaenius, opscaenissime</a> adv</li>
+          <li id="word-605" class="word"><a href="http://www.latin-dictionary.net/definition/28783/opscaenitas-opscaenitatis">opscaenitas, opscaenitatis</a> n</li>
+          <li id="word-606" class="word"><a href="http://www.latin-dictionary.net/definition/28784/opscaenum-opscaeni">opscaenum, opscaeni</a> n</li>
+          <li id="word-607" class="word"><a href="http://www.latin-dictionary.net/definition/28785/opscaenum-opscaeni">opscaenum, opscaeni</a> n</li>
+          <li id="word-608" class="word"><a href="http://www.latin-dictionary.net/definition/28786/opscaenus-opscaena">opscaenus, opscaena</a> adj</li>
+          <li id="word-609" class="word"><a href="http://www.latin-dictionary.net/definition/28787/opscaenus-opscaena">opscaenus, opscaena</a> adj</li>
+          <li id="word-610" class="word"><a href="http://www.latin-dictionary.net/definition/28788/opscaenus-opscaeni">opscaenus, opscaeni</a> n</li>
+          <li id="word-611" class="word"><a href="http://www.latin-dictionary.net/definition/28789/opscene-opscenius-opscenissime">opscene, opscenius, opscenissime</a> adv</li>
+          <li id="word-612" class="word"><a href="http://www.latin-dictionary.net/definition/28790/opscenitas-opscenitatis">opscenitas, opscenitatis</a> n</li>
+          <li id="word-613" class="word"><a href="http://www.latin-dictionary.net/definition/28791/opscenum-opsceni">opscenum, opsceni</a> n</li>
+          <li id="word-614" class="word"><a href="http://www.latin-dictionary.net/definition/28792/opscenum-opsceni">opscenum, opsceni</a> n</li>
+          <li id="word-615" class="word"><a href="http://www.latin-dictionary.net/definition/28793/opscenus-opscena">opscenus, opscena</a> adj</li>
+          <li id="word-616" class="word"><a href="http://www.latin-dictionary.net/definition/28794/opscenus-opscena">opscenus, opscena</a> adj</li>
+          <li id="word-617" class="word"><a href="http://www.latin-dictionary.net/definition/28795/opscenus-opsceni">opscenus, opsceni</a> n</li>
+          <li id="word-618" class="word"><a href="http://www.latin-dictionary.net/definition/28796/opsecro-opsecrare-opsecravi-opsecratus">opsecro, opsecrare, opsecravi, opsecratus</a> v</li>
+          <li id="word-619" class="word"><a href="http://www.latin-dictionary.net/definition/28797/opsecundanter">opsecundanter</a> adv</li>
+          <li id="word-620" class="word"><a href="http://www.latin-dictionary.net/definition/28798/opsecundo-opsecundare-opsecundavi-opsecundatus">opsecundo, opsecundare, opsecundavi, opsecundatus</a> v</li>
+          <li id="word-621" class="word"><a href="http://www.latin-dictionary.net/definition/28799/opsequium-opsequi-i">opsequium, opsequi(i)</a> n</li>
+          <li id="word-622" class="word"><a href="http://www.latin-dictionary.net/definition/28800/opsequium-opsequi-i">opsequium, opsequi(i)</a> n</li>
+          <li id="word-623" class="word"><a href="http://www.latin-dictionary.net/definition/28801/opsequium-opsequi-i">opsequium, opsequi(i)</a> n</li>
+          <li id="word-624" class="word"><a href="http://www.latin-dictionary.net/definition/28802/opservatio-opservationis">opservatio, opservationis</a> n</li>
+          <li id="word-625" class="word"><a href="http://www.latin-dictionary.net/definition/28803/opsono-opsonare-opsonavi-opsonatus">opsono, opsonare, opsonavi, opsonatus</a> v</li>
+          <li id="word-626" class="word"><a href="http://www.latin-dictionary.net/definition/28804/opsonor-opsonari-opsonatus">opsonor, opsonari, opsonatus</a> v</li>
+          <li id="word-627" class="word"><a href="http://www.latin-dictionary.net/definition/28805/opstetricium-opstetricii">opstetricium, opstetricii</a> n</li>
+          <li id="word-628" class="word"><a href="http://www.latin-dictionary.net/definition/28806/opstetricius-opstetricia-opstetricium">opstetricius, opstetricia, opstetricium</a> adj</li>
+          <li id="word-629" class="word"><a href="http://www.latin-dictionary.net/definition/28807/opstetrico-opstetricare-opstetricavi-opstetricatus">opstetrico, opstetricare, opstetricavi, opstetricatus</a> v</li>
+          <li id="word-630" class="word"><a href="http://www.latin-dictionary.net/definition/28808/opstetritius-opstetritia-opstetritium">opstetritius, opstetritia, opstetritium</a> adj</li>
+          <li id="word-631" class="word"><a href="http://www.latin-dictionary.net/definition/28809/opstetrix-opstetricis">opstetrix, opstetricis</a> n</li>
+          <li id="word-632" class="word"><a href="http://www.latin-dictionary.net/definition/28810/opstitrix-opstitricis">opstitrix, opstitricis</a> n</li>
+          <li id="word-633" class="word"><a href="http://www.latin-dictionary.net/definition/28811/optabilis-optabilis-optabile">optabilis, optabilis, optabile</a> adj</li>
+          <li id="word-634" class="word"><a href="http://www.latin-dictionary.net/definition/28812/optatio-optationis">optatio, optationis</a> n</li>
+          <li id="word-635" class="word"><a href="http://www.latin-dictionary.net/definition/28813/optatum-optati">optatum, optati</a> n</li>
+          <li id="word-636" class="word"><a href="http://www.latin-dictionary.net/definition/28814/optatus-optata">optatus, optata</a> adj</li>
+          <li id="word-637" class="word"><a href="http://www.latin-dictionary.net/definition/28815/optempero-optemperare-optemperavi-optemperatus">optempero, optemperare, optemperavi, optemperatus</a> v</li>
+          <li id="word-638" class="word"><a href="http://www.latin-dictionary.net/definition/28816/opticus-optica-opticum">opticus, optica, opticum</a> adj</li>
+          <li id="word-639" class="word"><a href="http://www.latin-dictionary.net/definition/28817/opticus-optici">opticus, optici</a> n</li>
+          <li id="word-640" class="word"><a href="http://www.latin-dictionary.net/definition/28818/optimas-gen-optimatis">optimas, (gen.), optimatis</a> adj</li>
+          <li id="word-641" class="word"><a href="http://www.latin-dictionary.net/definition/28819/optimas-optimatis">optimas, optimatis</a> n</li>
+          <li id="word-642" class="word"><a href="http://www.latin-dictionary.net/definition/28820/optimismus-optimismi">optimismus, optimismi</a> n</li>
+          <li id="word-643" class="word"><a href="http://www.latin-dictionary.net/definition/28821/optimista-optimistae">optimista, optimistae</a> n</li>
+          <li id="word-644" class="word"><a href="http://www.latin-dictionary.net/definition/28822/optimisticus-optimistica-optimisticum">optimisticus, optimistica, optimisticum</a> adj</li>
+          <li id="word-645" class="word"><a href="http://www.latin-dictionary.net/definition/28823/optineo-optinere-optinui-optentus">optineo, optinere, optinui, optentus</a> v</li>
+          <li id="word-646" class="word"><a href="http://www.latin-dictionary.net/definition/28824/optingo-optingere-optigi">optingo, optingere, optigi, -</a> v</li>
+          <li id="word-647" class="word"><a href="http://www.latin-dictionary.net/definition/28825/optio-optionis">optio, optionis</a> n</li>
+          <li id="word-648" class="word"><a href="http://www.latin-dictionary.net/definition/28826/optio-optionis">optio, optionis</a> n</li>
+          <li id="word-649" class="word"><a href="http://www.latin-dictionary.net/definition/28827/optivus-optiva-optivum">optivus, optiva, optivum</a> adj</li>
+          <li id="word-650" class="word"><a href="http://www.latin-dictionary.net/definition/28828/opto-optare-optavi-optatus">opto, optare, optavi, optatus</a> v</li>
+          <li id="word-651" class="word"><a href="http://www.latin-dictionary.net/definition/28829/optume">optume</a> adv</li>
+          <li id="word-652" class="word"><a href="http://www.latin-dictionary.net/definition/28830/optumus-optuma-optumum">optumus, optuma, optumum</a> adj</li>
+          <li id="word-653" class="word"><a href="http://www.latin-dictionary.net/definition/28831/opulens-gen-opulentis">opulens, (gen.), opulentis</a> adj</li>
+          <li id="word-654" class="word"><a href="http://www.latin-dictionary.net/definition/28832/opulente-opulentius-opulentissime">opulente, opulentius, opulentissime</a> adv</li>
+          <li id="word-655" class="word"><a href="http://www.latin-dictionary.net/definition/28833/opulentia-opulentiae">opulentia, opulentiae</a> n</li>
+          <li id="word-656" class="word"><a href="http://www.latin-dictionary.net/definition/28834/opulentus-opulenta">opulentus, opulenta</a> adj</li>
+          <li id="word-657" class="word"><a href="http://www.latin-dictionary.net/definition/28835/opupa-opupae">opupa, opupae</a> n</li>
+          <li id="word-658" class="word"><a href="http://www.latin-dictionary.net/definition/28836/opus-operis">opus, operis</a> n</li>
+          <li id="word-659" class="word"><a href="http://www.latin-dictionary.net/definition/28837/opusculum-opusculi">opusculum, opusculi</a> n</li>
+          <li id="word-660" class="word"><a href="http://www.latin-dictionary.net/definition/28838/ora-orae">ora, orae</a> n</li>
+          <li id="word-661" class="word"><a href="http://www.latin-dictionary.net/definition/28839/oraclum-oracli">oraclum, oracli</a> n</li>
+          <li id="word-662" class="word"><a href="http://www.latin-dictionary.net/definition/28840/oraculum-oraculi">oraculum, oraculi</a> n</li>
+          <li id="word-663" class="word"><a href="http://www.latin-dictionary.net/definition/28841/oralis-oralis-orale">oralis, oralis, orale</a> adj</li>
+          <li id="word-664" class="word"><a href="http://www.latin-dictionary.net/definition/28842/orarium-orarii">orarium, orarii</a> n</li>
+          <li id="word-665" class="word"><a href="http://www.latin-dictionary.net/definition/28843/orarius-oraria-orarium">orarius, oraria, orarium</a> adj</li>
+          <li id="word-666" class="word"><a href="http://www.latin-dictionary.net/definition/28844/oratio-orationis">oratio, orationis</a> n</li>
+          <li id="word-667" class="word"><a href="http://www.latin-dictionary.net/definition/28845/oratiuncula-oratiunculae">oratiuncula, oratiunculae</a> n</li>
+          <li id="word-668" class="word"><a href="http://www.latin-dictionary.net/definition/28846/orator-oratoris">orator, oratoris</a> n</li>
+          <li id="word-669" class="word"><a href="http://www.latin-dictionary.net/definition/28847/oratorie">oratorie</a> adv</li>
+          <li id="word-670" class="word"><a href="http://www.latin-dictionary.net/definition/28848/oratorius-oratoria-oratorium">oratorius, oratoria, oratorium</a> adj</li>
+          <li id="word-671" class="word"><a href="http://www.latin-dictionary.net/definition/28849/oratrix-oratricis">oratrix, oratricis</a> n</li>
+          <li id="word-672" class="word"><a href="http://www.latin-dictionary.net/definition/28850/oratus-oratus">oratus, oratus</a> n</li>
+          <li id="word-673" class="word"><a href="http://www.latin-dictionary.net/definition/28851/orbator-orbatoris">orbator, orbatoris</a> n</li>
+          <li id="word-674" class="word"><a href="http://www.latin-dictionary.net/definition/28852/orbicularis-orbicularis-orbiculare">orbicularis, orbicularis, orbiculare</a> adj</li>
+          <li id="word-675" class="word"><a href="http://www.latin-dictionary.net/definition/28853/orbiculatus-orbiculata-orbiculatum">orbiculatus, orbiculata, orbiculatum</a> adj</li>
+          <li id="word-676" class="word"><a href="http://www.latin-dictionary.net/definition/28854/orbiculus-orbiculi">orbiculus, orbiculi</a> n</li>
+          <li id="word-677" class="word"><a href="http://www.latin-dictionary.net/definition/28855/orbis-orbis">orbis, orbis</a> n</li>
+          <li id="word-678" class="word"><a href="http://www.latin-dictionary.net/definition/28856/orbita-orbitae">orbita, orbitae</a> n</li>
+          <li id="word-679" class="word"><a href="http://www.latin-dictionary.net/definition/28857/orbitas-orbitatis">orbitas, orbitatis</a> n</li>
+          <li id="word-680" class="word"><a href="http://www.latin-dictionary.net/definition/28858/orbitosus-orbitosa-orbitosum">orbitosus, orbitosa, orbitosum</a> adj</li>
+          <li id="word-681" class="word"><a href="http://www.latin-dictionary.net/definition/28859/orbo-orbare-orbavi-orbatus">orbo, orbare, orbavi, orbatus</a> v</li>
+          <li id="word-682" class="word"><a href="http://www.latin-dictionary.net/definition/28860/orbus-orba-orbum">orbus, orba, orbum</a> adj</li>
+          <li id="word-683" class="word"><a href="http://www.latin-dictionary.net/definition/28861/orca-orcae">orca, orcae</a> n</li>
+          <li id="word-684" class="word"><a href="http://www.latin-dictionary.net/definition/28862/orchas-orchados-is">orchas, orchados/is</a> n</li>
+          <li id="word-685" class="word"><a href="http://www.latin-dictionary.net/definition/28863/orchestra-orchestrae">orchestra, orchestrae</a> n</li>
+          <li id="word-686" class="word"><a href="http://www.latin-dictionary.net/definition/28864/orchit-orchitis">orchit, orchitis</a> n</li>
+          <li id="word-687" class="word"><a href="http://www.latin-dictionary.net/definition/28865/orcivus-orciva-orcivum">orcivus, orciva, orcivum</a> adj</li>
+          <li id="word-688" class="word"><a href="http://www.latin-dictionary.net/definition/28866/Orcus-Orci">Orcus, Orci</a> n</li>
+          <li id="word-689" class="word"><a href="http://www.latin-dictionary.net/definition/28867/orcus-orci">orcus, orci</a> n</li>
+          <li id="word-690" class="word"><a href="http://www.latin-dictionary.net/definition/28868/ordeaceus-ordeacea-ordeaceum">ordeaceus, ordeacea, ordeaceum</a> adj</li>
+          <li id="word-691" class="word"><a href="http://www.latin-dictionary.net/definition/28869/ordeacius-ordeacia-ordeacium">ordeacius, ordeacia, ordeacium</a> adj</li>
+          <li id="word-692" class="word"><a href="http://www.latin-dictionary.net/definition/28870/ordearius-ordearia-ordearium">ordearius, ordearia, ordearium</a> adj</li>
+          <li id="word-693" class="word"><a href="http://www.latin-dictionary.net/definition/28871/ordeum-ordei">ordeum, ordei</a> n</li>
+          <li id="word-694" class="word"><a href="http://www.latin-dictionary.net/definition/28872/ordiaceus-ordiacea-ordiaceum">ordiaceus, ordiacea, ordiaceum</a> adj</li>
+          <li id="word-695" class="word"><a href="http://www.latin-dictionary.net/definition/28873/ordiacius-ordiacia-ordiacium">ordiacius, ordiacia, ordiacium</a> adj</li>
+          <li id="word-696" class="word"><a href="http://www.latin-dictionary.net/definition/28874/ordiarius-ordiaria-ordiarium">ordiarius, ordiaria, ordiarium</a> adj</li>
+          <li id="word-697" class="word"><a href="http://www.latin-dictionary.net/definition/28875/ordinabiliter">ordinabiliter</a> adv</li>
+          <li id="word-698" class="word"><a href="http://www.latin-dictionary.net/definition/28876/ordinamentum-ordinamenti">ordinamentum, ordinamenti</a> n</li>
+          <li id="word-699" class="word"><a href="http://www.latin-dictionary.net/definition/28877/ordinarius-ordinaria-ordinarium">ordinarius, ordinaria, ordinarium</a> adj</li>
+          <li id="word-700" class="word"><a href="http://www.latin-dictionary.net/definition/28878/ordinate-ordinatius-ordinatissime">ordinate, ordinatius, ordinatissime</a> adv</li>
+          <li id="word-701" class="word"><a href="http://www.latin-dictionary.net/definition/28879/ordinatim">ordinatim</a> adv</li>
+          <li id="word-702" class="word"><a href="http://www.latin-dictionary.net/definition/28880/ordinator-ordinatoris">ordinator, ordinatoris</a> n</li>
+          <li id="word-703" class="word"><a href="http://www.latin-dictionary.net/definition/28881/ordinatralis-ordinatralis-ordinatrale">ordinatralis, ordinatralis, ordinatrale</a> adj</li>
+          <li id="word-704" class="word"><a href="http://www.latin-dictionary.net/definition/28882/ordinatraliter">ordinatraliter</a> adv</li>
+          <li id="word-705" class="word"><a href="http://www.latin-dictionary.net/definition/28883/ordinatrum-ordinatri">ordinatrum, ordinatri</a> n</li>
+          <li id="word-706" class="word"><a href="http://www.latin-dictionary.net/definition/28884/ordinatus-ordinata-ordinatum">ordinatus, ordinata, ordinatum</a> adj</li>
+          <li id="word-707" class="word"><a href="http://www.latin-dictionary.net/definition/28885/ordinatus-ordinati">ordinatus, ordinati</a> n</li>
+          <li id="word-708" class="word"><a href="http://www.latin-dictionary.net/definition/28886/ordino-ordinare-ordinavi-ordinatus">ordino, ordinare, ordinavi, ordinatus</a> v</li>
+          <li id="word-709" class="word"><a href="http://www.latin-dictionary.net/definition/28887/ordior-ordiri-orsus">ordior, ordiri, orsus</a> v</li>
+          <li id="word-710" class="word"><a href="http://www.latin-dictionary.net/definition/28888/orditus-ordita-orditum">orditus, ordita, orditum</a> adj</li>
+          <li id="word-711" class="word"><a href="http://www.latin-dictionary.net/definition/28889/ordo-ordinis">ordo, ordinis</a> n</li>
+          <li id="word-712" class="word"><a href="http://www.latin-dictionary.net/definition/28890/orestes-orestae">orestes, orestae</a> n</li>
+          <li id="word-713" class="word"><a href="http://www.latin-dictionary.net/definition/28891/Orestes-Orestis">Orestes, Orestis</a> n</li>
+          <li id="word-714" class="word"><a href="http://www.latin-dictionary.net/definition/28892/orexis-orexis">orexis, orexis</a> n</li>
+          <li id="word-715" class="word"><a href="http://www.latin-dictionary.net/definition/28893/orfanus-orfani">orfanus, orfani</a> n</li>
+          <li id="word-716" class="word"><a href="http://www.latin-dictionary.net/definition/28894/organalis-organalis-organale">organalis, organalis, organale</a> adj</li>
+          <li id="word-717" class="word"><a href="http://www.latin-dictionary.net/definition/28895/organarius-organarii">organarius, organarii</a> n</li>
+          <li id="word-718" class="word"><a href="http://www.latin-dictionary.net/definition/28896/organicos-organice-organicon">organicos, organice, organicon</a> adj</li>
+          <li id="word-719" class="word"><a href="http://www.latin-dictionary.net/definition/28897/organicus-organica-organicum">organicus, organica, organicum</a> adj</li>
+          <li id="word-720" class="word"><a href="http://www.latin-dictionary.net/definition/28898/organicus-organica-organicum">organicus, organica, organicum</a> adj</li>
+          <li id="word-721" class="word"><a href="http://www.latin-dictionary.net/definition/28899/organicus-organici">organicus, organici</a> n</li>
+          <li id="word-722" class="word"><a href="http://www.latin-dictionary.net/definition/28900/organismus-organismi">organismus, organismi</a> n</li>
+          <li id="word-723" class="word"><a href="http://www.latin-dictionary.net/definition/28901/organista-organistae">organista, organistae</a> n</li>
+          <li id="word-724" class="word"><a href="http://www.latin-dictionary.net/definition/28902/organizatio-organizationis">organizatio, organizationis</a> n</li>
+          <li id="word-725" class="word"><a href="http://www.latin-dictionary.net/definition/28903/organizo-organizare-organizavi-organizatus">organizo, organizare, organizavi, organizatus</a> v</li>
+          <li id="word-726" class="word"><a href="http://www.latin-dictionary.net/definition/28904/organum-organi">organum, organi</a> n</li>
+          <li id="word-727" class="word"><a href="http://www.latin-dictionary.net/definition/28905/Orgetorix-Orgetorigis">Orgetorix, Orgetorigis</a> n</li>
+          <li id="word-728" class="word"><a href="http://www.latin-dictionary.net/definition/28906/orgium-orgi-i">orgium, orgi(i)</a> n</li>
+          <li id="word-729" class="word"><a href="http://www.latin-dictionary.net/definition/28907/oricalcinus-oricalcina-oricalcinum">oricalcinus, oricalcina, oricalcinum</a> adj</li>
+          <li id="word-730" class="word"><a href="http://www.latin-dictionary.net/definition/28908/oricalcum-oricalci">oricalcum, oricalci</a> n</li>
+          <li id="word-731" class="word"><a href="http://www.latin-dictionary.net/definition/28909/orichalcinus-orichalcina-orichalcinum">orichalcinus, orichalcina, orichalcinum</a> adj</li>
+          <li id="word-732" class="word"><a href="http://www.latin-dictionary.net/definition/28910/orichalcum-orichalci">orichalcum, orichalci</a> n</li>
+          <li id="word-733" class="word"><a href="http://www.latin-dictionary.net/definition/28911/oricilla-oricillae">oricilla, oricillae</a> n</li>
+          <li id="word-734" class="word"><a href="http://www.latin-dictionary.net/definition/28912/oricula-oriculae">oricula, oriculae</a> n</li>
+          <li id="word-735" class="word"><a href="http://www.latin-dictionary.net/definition/28913/oricularius-oricularia-oricularium">oricularius, oricularia, oricularium</a> adj</li>
+          <li id="word-736" class="word"><a href="http://www.latin-dictionary.net/definition/28914/oricularius-oricularii">oricularius, oricularii</a> n</li>
+          <li id="word-737" class="word"><a href="http://www.latin-dictionary.net/definition/28915/oriens-gen-orientis">oriens, (gen.), orientis</a> adj</li>
+          <li id="word-738" class="word"><a href="http://www.latin-dictionary.net/definition/28916/oriens-orientis">oriens, orientis</a> n</li>
+          <li id="word-739" class="word"><a href="http://www.latin-dictionary.net/definition/28917/Orientalis-Orientalis">Orientalis, Orientalis</a> n</li>
+          <li id="word-740" class="word"><a href="http://www.latin-dictionary.net/definition/28918/orientalis-orientalis-orientale">orientalis, orientalis, orientale</a> adj</li>
+          <li id="word-741" class="word"><a href="http://www.latin-dictionary.net/definition/28919/orificium-orificii">orificium, orificii</a> n</li>
+          <li id="word-742" class="word"><a href="http://www.latin-dictionary.net/definition/28920/origa-origae">origa, origae</a> n</li>
+          <li id="word-743" class="word"><a href="http://www.latin-dictionary.net/definition/28921/origanum-origani">origanum, origani</a> n</li>
+          <li id="word-744" class="word"><a href="http://www.latin-dictionary.net/definition/28922/originalis-originalis-originale">originalis, originalis, originale</a> adj</li>
+          <li id="word-745" class="word"><a href="http://www.latin-dictionary.net/definition/28923/origo-originis">origo, originis</a> n</li>
+          <li id="word-746" class="word"><a href="http://www.latin-dictionary.net/definition/28924/orior-ori-oritus">orior, ori, oritus</a> v</li>
+          <li id="word-747" class="word"><a href="http://www.latin-dictionary.net/definition/28925/orior-ori-oritus">orior, ori, oritus</a> v</li>
+          <li id="word-748" class="word"><a href="http://www.latin-dictionary.net/definition/28926/orior-oriri-ortus">orior, oriri, ortus</a> v</li>
+          <li id="word-749" class="word"><a href="http://www.latin-dictionary.net/definition/28927/orior-oriri-ortus">orior, oriri, ortus</a> v</li>
+          <li id="word-750" class="word"><a href="http://www.latin-dictionary.net/definition/28928/oriundus-oriunda-oriundum">oriundus, oriunda, oriundum</a> adj</li>
+          <li id="word-751" class="word"><a href="http://www.latin-dictionary.net/definition/28929/ornamentum-ornamenti">ornamentum, ornamenti</a> n</li>
+          <li id="word-752" class="word"><a href="http://www.latin-dictionary.net/definition/28930/ornate">ornate</a> adv</li>
+          <li id="word-753" class="word"><a href="http://www.latin-dictionary.net/definition/28931/ornatrix-ornatricis">ornatrix, ornatricis</a> n</li>
+          <li id="word-754" class="word"><a href="http://www.latin-dictionary.net/definition/28932/ornatus-ornata">ornatus, ornata</a> adj</li>
+          <li id="word-755" class="word"><a href="http://www.latin-dictionary.net/definition/28933/ornithoboscion-ornithoboscii">ornithoboscion, ornithoboscii</a> n</li>
+          <li id="word-756" class="word"><a href="http://www.latin-dictionary.net/definition/28934/ornithon-ornithonos-is">ornithon, ornithonos/is</a> n</li>
+          <li id="word-757" class="word"><a href="http://www.latin-dictionary.net/definition/28935/ornithotrophion-ornithotrophii">ornithotrophion, ornithotrophii</a> n</li>
+          <li id="word-758" class="word"><a href="http://www.latin-dictionary.net/definition/28936/orno-ornare-ornavi-ornatus">orno, ornare, ornavi, ornatus</a> v</li>
+          <li id="word-759" class="word"><a href="http://www.latin-dictionary.net/definition/28937/ornus-orni">ornus, orni</a> n</li>
+          <li id="word-760" class="word"><a href="http://www.latin-dictionary.net/definition/28938/oro-orare-oravi-oratus">oro, orare, oravi, oratus</a> v</li>
+          <li id="word-761" class="word"><a href="http://www.latin-dictionary.net/definition/28939/oro-orere">oro, orere, -, -</a> v</li>
+          <li id="word-762" class="word"><a href="http://www.latin-dictionary.net/definition/28940/orphana-orphanae">orphana, orphanae</a> n</li>
+          <li id="word-763" class="word"><a href="http://www.latin-dictionary.net/definition/28941/orphanotrophium-orphanotrophii">orphanotrophium, orphanotrophii</a> n</li>
+          <li id="word-764" class="word"><a href="http://www.latin-dictionary.net/definition/28942/orphanus-orphani">orphanus, orphani</a> n</li>
+          <li id="word-765" class="word"><a href="http://www.latin-dictionary.net/definition/28943/orsum-orsi">orsum, orsi</a> n</li>
+          <li id="word-766" class="word"><a href="http://www.latin-dictionary.net/definition/28944/orsus-orsus">orsus, orsus</a> n</li>
+          <li id="word-767" class="word"><a href="http://www.latin-dictionary.net/definition/28945/orthodoxe">orthodoxe</a> adv</li>
+          <li id="word-768" class="word"><a href="http://www.latin-dictionary.net/definition/28946/orthodoxus-orthodoxa-orthodoxum">orthodoxus, orthodoxa, orthodoxum</a> adj</li>
+          <li id="word-769" class="word"><a href="http://www.latin-dictionary.net/definition/28947/orthodoxus-orthodoxi">orthodoxus, orthodoxi</a> n</li>
+          <li id="word-770" class="word"><a href="http://www.latin-dictionary.net/definition/28948/orthogonaliter">orthogonaliter</a> adv</li>
+          <li id="word-771" class="word"><a href="http://www.latin-dictionary.net/definition/28949/orthographia-orthographiae">orthographia, orthographiae</a> n</li>
+          <li id="word-772" class="word"><a href="http://www.latin-dictionary.net/definition/28950/orthopaeda-orthopaedae">orthopaeda, orthopaedae</a> n</li>
+          <li id="word-773" class="word"><a href="http://www.latin-dictionary.net/definition/28951/orthopaedia-orthopaediae">orthopaedia, orthopaediae</a> n</li>
+          <li id="word-774" class="word"><a href="http://www.latin-dictionary.net/definition/28952/orthopaedicus-orthopaedica-orthopaedicum">orthopaedicus, orthopaedica, orthopaedicum</a> adj</li>
+          <li id="word-775" class="word"><a href="http://www.latin-dictionary.net/definition/28953/orthopnoea-orthopnoeae">orthopnoea, orthopnoeae</a> n</li>
+          <li id="word-776" class="word"><a href="http://www.latin-dictionary.net/definition/28954/orthopnoicus-orthopnoica-orthopnoicum">orthopnoicus, orthopnoica, orthopnoicum</a> adj</li>
+          <li id="word-777" class="word"><a href="http://www.latin-dictionary.net/definition/28955/orto-ortare-ortavi-ortatus">orto, ortare, ortavi, ortatus</a> v</li>
+          <li id="word-778" class="word"><a href="http://www.latin-dictionary.net/definition/28956/ortor-ortari-ortatus">ortor, ortari, ortatus</a> v</li>
+          <li id="word-779" class="word"><a href="http://www.latin-dictionary.net/definition/28957/ortus-orta-ortum">ortus, orta, ortum</a> adj</li>
+          <li id="word-780" class="word"><a href="http://www.latin-dictionary.net/definition/28958/ortus-ortus">ortus, ortus</a> n</li>
+          <li id="word-781" class="word"><a href="http://www.latin-dictionary.net/definition/28959/ortus-ortus">ortus, ortus</a> n</li>
+          <li id="word-782" class="word"><a href="http://www.latin-dictionary.net/definition/28960/ortygometra-ortygometrae">ortygometra, ortygometrae</a> n</li>
+          <li id="word-783" class="word"><a href="http://www.latin-dictionary.net/definition/28961/ortygometras-ortygometrae">ortygometras, ortygometrae</a> n</li>
+          <li id="word-784" class="word"><a href="http://www.latin-dictionary.net/definition/28962/ortyx-ortygis">ortyx, ortygis</a> n</li>
+          <li id="word-785" class="word"><a href="http://www.latin-dictionary.net/definition/28963/ortyx-ortygis">ortyx, ortygis</a> n</li>
+          <li id="word-786" class="word"><a href="http://www.latin-dictionary.net/definition/28964/oryx-orygis">oryx, orygis</a> n</li>
+          <li id="word-787" class="word"><a href="http://www.latin-dictionary.net/definition/28965/oryza-oryzae">oryza, oryzae</a> n</li>
+          <li id="word-788" class="word"><a href="http://www.latin-dictionary.net/definition/28966/os-oris">os, oris</a> n</li>
+          <li id="word-789" class="word"><a href="http://www.latin-dictionary.net/definition/28967/os-ossis">os, ossis</a> n</li>
+          <li id="word-790" class="word"><a href="http://www.latin-dictionary.net/definition/28968/os-ossuis">os, ossuis</a> n</li>
+          <li id="word-791" class="word"><a href="http://www.latin-dictionary.net/definition/28969/Osanna">Osanna</a> interj</li>
+          <li id="word-792" class="word"><a href="http://www.latin-dictionary.net/definition/28970/oscen-oscinis">oscen, oscinis</a> n</li>
+          <li id="word-793" class="word"><a href="http://www.latin-dictionary.net/definition/28971/oscillatorius-oscillatoria-oscillatorium">oscillatorius, oscillatoria, oscillatorium</a> adj</li>
+          <li id="word-794" class="word"><a href="http://www.latin-dictionary.net/definition/28972/oscillatrum-oscillatri">oscillatrum, oscillatri</a> n</li>
+          <li id="word-795" class="word"><a href="http://www.latin-dictionary.net/definition/28973/oscillum-oscilli">oscillum, oscilli</a> n</li>
+          <li id="word-796" class="word"><a href="http://www.latin-dictionary.net/definition/28974/oscillum-oscilli">oscillum, oscilli</a> n</li>
+          <li id="word-797" class="word"><a href="http://www.latin-dictionary.net/definition/28975/oscitans-gen-oscitantis">oscitans, (gen.), oscitantis</a> adj</li>
+          <li id="word-798" class="word"><a href="http://www.latin-dictionary.net/definition/28976/oscitatio-oscitationis">oscitatio, oscitationis</a> n</li>
+          <li id="word-799" class="word"><a href="http://www.latin-dictionary.net/definition/28977/oscito-oscitare">oscito, oscitare, -, -</a> v</li>
+          <li id="word-800" class="word"><a href="http://www.latin-dictionary.net/definition/28978/osculatio-osculationis">osculatio, osculationis</a> n</li>
+          <li id="word-801" class="word"><a href="http://www.latin-dictionary.net/definition/28979/osculor-osculari-osculatus">osculor, osculari, osculatus</a> v</li>
+          <li id="word-802" class="word"><a href="http://www.latin-dictionary.net/definition/28980/osculum-osculi">osculum, osculi</a> n</li>
+          <li id="word-803" class="word"><a href="http://www.latin-dictionary.net/definition/28981/Oscus-Osca-Oscum">Oscus, Osca, Oscum</a> adj</li>
+          <li id="word-804" class="word"><a href="http://www.latin-dictionary.net/definition/28982/ossarium-ossarii">ossarium, ossarii</a> n</li>
+          <li id="word-805" class="word"><a href="http://www.latin-dictionary.net/definition/28983/osseus-ossea-osseum">osseus, ossea, osseum</a> adj</li>
+          <li id="word-806" class="word"><a href="http://www.latin-dictionary.net/definition/28984/ossiculatim">ossiculatim</a> adv</li>
+          <li id="word-807" class="word"><a href="http://www.latin-dictionary.net/definition/28985/ossiculum-ossiculi">ossiculum, ossiculi</a> n</li>
+          <li id="word-808" class="word"><a href="http://www.latin-dictionary.net/definition/28986/ossifraga-ossifragae">ossifraga, ossifragae</a> n</li>
+          <li id="word-809" class="word"><a href="http://www.latin-dictionary.net/definition/28987/ossifraga-ossifragae">ossifraga, ossifragae</a> n</li>
+          <li id="word-810" class="word"><a href="http://www.latin-dictionary.net/definition/28988/ossuarium-ossuarii">ossuarium, ossuarii</a> n</li>
+          <li id="word-811" class="word"><a href="http://www.latin-dictionary.net/definition/28989/ossuarius-ossuaria-ossuarium">ossuarius, ossuaria, ossuarium</a> adj</li>
+          <li id="word-812" class="word"><a href="http://www.latin-dictionary.net/definition/28990/ossuculum-ossuculi">ossuculum, ossuculi</a> n</li>
+          <li id="word-813" class="word"><a href="http://www.latin-dictionary.net/definition/28991/ossum-ossi">ossum, ossi</a> n</li>
+          <li id="word-814" class="word"><a href="http://www.latin-dictionary.net/definition/28992/ostendeo-ostendere-ostendi">ostendeo, ostendere, ostendi, -</a> v</li>
+          <li id="word-815" class="word"><a href="http://www.latin-dictionary.net/definition/28993/ostendo-ostendere-ostendi-ostensus">ostendo, ostendere, ostendi, ostensus</a> v</li>
+          <li id="word-816" class="word"><a href="http://www.latin-dictionary.net/definition/28994/ostendo-ostendere-ostendi-ostentus">ostendo, ostendere, ostendi, ostentus</a> v</li>
+          <li id="word-817" class="word"><a href="http://www.latin-dictionary.net/definition/28995/ostensio-ostensionis">ostensio, ostensionis</a> n</li>
+          <li id="word-818" class="word"><a href="http://www.latin-dictionary.net/definition/28996/ostentatio-ostentationis">ostentatio, ostentationis</a> n</li>
+          <li id="word-819" class="word"><a href="http://www.latin-dictionary.net/definition/28997/ostentator-ostentatoris">ostentator, ostentatoris</a> n</li>
+          <li id="word-820" class="word"><a href="http://www.latin-dictionary.net/definition/28998/ostento-ostentare-ostentavi-ostentatus">ostento, ostentare, ostentavi, ostentatus</a> v</li>
+          <li id="word-821" class="word"><a href="http://www.latin-dictionary.net/definition/28999/ostentui">ostentui</a> adv</li>
+          <li id="word-822" class="word"><a href="http://www.latin-dictionary.net/definition/29000/ostentum-ostenti">ostentum, ostenti</a> n</li>
+          <li id="word-823" class="word"><a href="http://www.latin-dictionary.net/definition/29001/ostentus-ostentus">ostentus, ostentus</a> n</li>
+          <li id="word-824" class="word"><a href="http://www.latin-dictionary.net/definition/29002/ostiarium-ostiarii">ostiarium, ostiarii</a> n</li>
+          <li id="word-825" class="word"><a href="http://www.latin-dictionary.net/definition/29003/ostiarius-ostiari-i">ostiarius, ostiari(i)</a> n</li>
+          <li id="word-826" class="word"><a href="http://www.latin-dictionary.net/definition/29004/ostiarius-ostiaria-ostiarium">ostiarius, ostiaria, ostiarium</a> adj</li>
+          <li id="word-827" class="word"><a href="http://www.latin-dictionary.net/definition/29005/ostiarius-ostiarii">ostiarius, ostiarii</a> adj</li>
+          <li id="word-828" class="word"><a href="http://www.latin-dictionary.net/definition/29006/ostiolum-ostioli">ostiolum, ostioli</a> n</li>
+          <li id="word-829" class="word"><a href="http://www.latin-dictionary.net/definition/29007/ostium-osti-i">ostium, osti(i)</a> n</li>
+          <li id="word-830" class="word"><a href="http://www.latin-dictionary.net/definition/29008/ostracismus-ostracismi">ostracismus, ostracismi</a> n</li>
+          <li id="word-831" class="word"><a href="http://www.latin-dictionary.net/definition/29009/ostrea-ostreae">ostrea, ostreae</a> n</li>
+          <li id="word-832" class="word"><a href="http://www.latin-dictionary.net/definition/29010/ostreosus-ostreosa-ostreosum">ostreosus, ostreosa, ostreosum</a> adj</li>
+          <li id="word-833" class="word"><a href="http://www.latin-dictionary.net/definition/29011/ostreum-ostrei">ostreum, ostrei</a> n</li>
+          <li id="word-834" class="word"><a href="http://www.latin-dictionary.net/definition/29012/ostria-ostriae">ostria, ostriae</a> n</li>
+          <li id="word-835" class="word"><a href="http://www.latin-dictionary.net/definition/29013/ostrifer-ostrifera-ostriferum">ostrifer, ostrifera, ostriferum</a> adj</li>
+          <li id="word-836" class="word"><a href="http://www.latin-dictionary.net/definition/29014/ostrinus-ostrina-ostrinum">ostrinus, ostrina, ostrinum</a> adj</li>
+          <li id="word-837" class="word"><a href="http://www.latin-dictionary.net/definition/29015/ostrum-ostri">ostrum, ostri</a> n</li>
+          <li id="word-838" class="word"><a href="http://www.latin-dictionary.net/definition/29016/Otho-Othonis">Otho, Othonis</a> n</li>
+          <li id="word-839" class="word"><a href="http://www.latin-dictionary.net/definition/29017/otiolum-otioli">otiolum, otioli</a> n</li>
+          <li id="word-840" class="word"><a href="http://www.latin-dictionary.net/definition/29018/otior-otiari-otiatus">otior, otiari, otiatus</a> v</li>
+          <li id="word-841" class="word"><a href="http://www.latin-dictionary.net/definition/29019/otiosus-otiosa">otiosus, otiosa</a> adj</li>
+          <li id="word-842" class="word"><a href="http://www.latin-dictionary.net/definition/29020/otiosus-otiosi">otiosus, otiosi</a> n</li>
+          <li id="word-843" class="word"><a href="http://www.latin-dictionary.net/definition/29021/otis-otidis">otis, otidis</a> n</li>
+          <li id="word-844" class="word"><a href="http://www.latin-dictionary.net/definition/29022/otitis-otitidis">otitis, otitidis</a> n</li>
+          <li id="word-845" class="word"><a href="http://www.latin-dictionary.net/definition/29023/otium-oti-i">otium, oti(i)</a> n</li>
+          <li id="word-846" class="word"><a href="http://www.latin-dictionary.net/definition/29024/otus-oti">otus, oti</a> n</li>
+          <li id="word-847" class="word"><a href="http://www.latin-dictionary.net/definition/29025/ovanter">ovanter</a> adv</li>
+          <li id="word-848" class="word"><a href="http://www.latin-dictionary.net/definition/29026/ovarium-ovarii">ovarium, ovarii</a> n</li>
+          <li id="word-849" class="word"><a href="http://www.latin-dictionary.net/definition/29027/ovatio-ovationis">ovatio, ovationis</a> n</li>
+          <li id="word-850" class="word"><a href="http://www.latin-dictionary.net/definition/29028/ovicula-oviculae">ovicula, oviculae</a> n</li>
+          <li id="word-851" class="word"><a href="http://www.latin-dictionary.net/definition/29029/ovile-ovilis">ovile, ovilis</a> n</li>
+          <li id="word-852" class="word"><a href="http://www.latin-dictionary.net/definition/29030/ovillus-ovilla-ovillum">ovillus, ovilla, ovillum</a> adj</li>
+          <li id="word-853" class="word"><a href="http://www.latin-dictionary.net/definition/29031/ovis-ovis">ovis, ovis</a> n</li>
+          <li id="word-854" class="word"><a href="http://www.latin-dictionary.net/definition/29032/ovo-ovare-ovavi-ovatus">ovo, ovare, ovavi, ovatus</a> v</li>
+          <li id="word-855" class="word"><a href="http://www.latin-dictionary.net/definition/29033/ovulatio-ovulationis">ovulatio, ovulationis</a> n</li>
+          <li id="word-856" class="word"><a href="http://www.latin-dictionary.net/definition/29034/ovulum-ovuli">ovulum, ovuli</a> n</li>
+          <li id="word-857" class="word"><a href="http://www.latin-dictionary.net/definition/29035/ovum-ovi">ovum, ovi</a> n</li>
+          <li id="word-858" class="word"><a href="http://www.latin-dictionary.net/definition/29036/Oxonia-Oxoniae">Oxonia, Oxoniae</a> n</li>
+          <li id="word-859" class="word"><a href="http://www.latin-dictionary.net/definition/29037/oxydatio-oxydationis">oxydatio, oxydationis</a> n</li>
+          <li id="word-860" class="word"><a href="http://www.latin-dictionary.net/definition/29038/oxydo-oxydare-oxydavi-oxydatus">oxydo, oxydare, oxydavi, oxydatus</a> v</li>
+          <li id="word-861" class="word"><a href="http://www.latin-dictionary.net/definition/29039/oxygarum-oxygari">oxygarum, oxygari</a> n</li>
+          <li id="word-862" class="word"><a href="http://www.latin-dictionary.net/definition/29040/oxygenium-oxygenii">oxygenium, oxygenii</a> n</li>
+          <li id="word-863" class="word"><a href="http://www.latin-dictionary.net/definition/29041/oxyporus-oxypora-oxyporum">oxyporus, oxypora, oxyporum</a> adj</li>
+          <li id="word-864" class="word"><a href="http://www.latin-dictionary.net/definition/29042/ozonium-ozonii">ozonium, ozonii</a> n</li>

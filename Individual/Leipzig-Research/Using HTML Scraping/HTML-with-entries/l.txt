@@ -1,0 +1,1012 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/25074/L-abb">L., abb.</a> n</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/25075/labarum-labari">labarum, labari</a> n</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/25076/labasco-labascere">labasco, labascere, -, -</a> v</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/25077/labda-undeclined">labda, undeclined</a> n</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/25078/labdacismus-labdacismi">labdacismus, labdacismi</a> n</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/25079/labecula-labeculae">labecula, labeculae</a> n</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/25080/labefacio-labefacere-labefeci-labefactus">labefacio, labefacere, labefeci, labefactus</a> v</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/25081/labefacto-labefactare-labefactavi-labefactatus">labefacto, labefactare, labefactavi, labefactatus</a> v</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/25082/labefio-labeferi-labefactus">labefio, labeferi, labefactus</a> v</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/25083/labellum-labelli">labellum, labelli</a> n</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/25084/labellum-labelli">labellum, labelli</a> n</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/25085/Labeo-Labeonis">Labeo, Labeonis</a> n</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/25086/labes-labis">labes, labis</a> n</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/25087/labia-labiae">labia, labiae</a> n</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/25088/labiosus-labiosa-labiosum">labiosus, labiosa, labiosum</a> adj</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/25089/labium-labi-i">labium, labi(i)</a> n</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/25090/labo-labare-labavi-labatus">labo, labare, labavi, labatus</a> v</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/25091/labor-labi-lapsus">labor, labi, lapsus</a> v</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/25092/labor-laboris">labor, laboris</a> n</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/25093/labor-laboris">labor, laboris</a> n</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/25094/laborator-laboratoris">laborator, laboratoris</a> n</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/25095/laboratorium-laboratorii">laboratorium, laboratorii</a> n</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/25096/laborifer-laborifera-laboriferum">laborifer, laborifera, laboriferum</a> adj</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/25097/laboriose">laboriose</a> adv</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/25098/laboriosus-laboriosa-laboriosum">laboriosus, laboriosa, laboriosum</a> adj</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/25099/laboro-laborare-laboravi-laboratus">laboro, laborare, laboravi, laboratus</a> v</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/25100/labos-laboris">labos, laboris</a> n</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/25101/labos-laboris">labos, laboris</a> n</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/25102/labrum-labri">labrum, labri</a> n</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/25103/labrum-labri">labrum, labri</a> n</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/25104/labrusca-labruscae">labrusca, labruscae</a> n</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/25105/labruscum-labrusci">labruscum, labrusci</a> n</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/25106/labyrintheus-labyrinthea-labyrintheum">labyrintheus, labyrinthea, labyrintheum</a> adj</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/25107/labyrinthus-labyrinthi">labyrinthus, labyrinthi</a> n</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/25108/lac-lactis">lac, lactis</a> n</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/25109/lacer-lacera-lacerum">lacer, lacera, lacerum</a> adj</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/25110/laceratio-lacerationis">laceratio, lacerationis</a> n</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/25111/laceratrix-laceratricis">laceratrix, laceratricis</a> n</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/25112/lacerna-lacernae">lacerna, lacernae</a> n</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/25113/lacero-lacerare-laceravi-laceratus">lacero, lacerare, laceravi, laceratus</a> v</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/25114/lacerta-lacertae">lacerta, lacertae</a> n</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/25115/lacertosus-lacertosa-lacertosum">lacertosus, lacertosa, lacertosum</a> adj</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/25116/lacertus-lacerti">lacertus, lacerti</a> n</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/25117/lacesso-lacessere-lacessivi-lacessitus">lacesso, lacessere, lacessivi, lacessitus</a> v</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/25118/lachrima-lachrimae">lachrima, lachrimae</a> n</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/25119/lachrimula-lachrimulae">lachrimula, lachrimulae</a> n</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/25120/lachruma-lachrumae">lachruma, lachrumae</a> n</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/25121/lachryma-lachrymae">lachryma, lachrymae</a> n</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/25122/lacinia-laciniae">lacinia, laciniae</a> n</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/25123/lacinia-laciniae">lacinia, laciniae</a> n</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/25124/laciniatim">laciniatim</a> adv</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/25125/laciniosus-laciniosa-laciniosum">laciniosus, laciniosa, laciniosum</a> adj</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/25126/lacrima-lacrimae">lacrima, lacrimae</a> n</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/25127/lacrimabilis-lacrimabilis-lacrimabile">lacrimabilis, lacrimabilis, lacrimabile</a> adj</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/25128/lacrimabundus-lacrimabunda-lacrimabundum">lacrimabundus, lacrimabunda, lacrimabundum</a> adj</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/25129/lacrimalis-lacrimalis-lacrimale">lacrimalis, lacrimalis, lacrimale</a> adj</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/25130/lacrimifer-lacrimifera-lacrimiferum">lacrimifer, lacrimifera, lacrimiferum</a> adj</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/25131/lacrimo-lacrimare-lacrimavi-lacrimatus">lacrimo, lacrimare, lacrimavi, lacrimatus</a> v</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/25132/lacrimor-lacrimari-lacrimatus">lacrimor, lacrimari, lacrimatus</a> v</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/25133/lacrimosus-lacrimosa-lacrimosum">lacrimosus, lacrimosa, lacrimosum</a> adj</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/25134/lacrimula-lacrimulae">lacrimula, lacrimulae</a> n</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/25135/lacruma-lacrumae">lacruma, lacrumae</a> n</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/25136/lacryma-lacrymae">lacryma, lacrymae</a> n</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/25137/lact-lactis">lact, lactis</a> n</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/25138/lactans-gen-lactantis">lactans, (gen.), lactantis</a> adj</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/25139/Lactantius-Lactanti">Lactantius, Lactanti</a> n</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/25140/lactarium-lactarii">lactarium, lactarii</a> n</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/25141/lactatio-lactationis">lactatio, lactationis</a> n</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/25142/lacte-lactis">lacte, lactis</a> n</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/25143/lactens-gen-lactentis">lactens, (gen.), lactentis</a> adj</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/25144/lactens-lactentis">lactens, lactentis</a> n</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/25145/lactesco-lactescere">lactesco, lactescere, -, -</a> v</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/25146/lacteus-lactea-lacteum">lacteus, lactea, lacteum</a> adj</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/25147/lacticinium-lacticinii">lacticinium, lacticinii</a> n</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/25148/lacticus-lactica-lacticum">lacticus, lactica, lacticum</a> adj</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/25149/lacto-lactare-lactavi-lactatus">lacto, lactare, lactavi, lactatus</a> v</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/25150/lactuca-lactucae">lactuca, lactucae</a> n</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/25151/laculatus-laculata-laculatum">laculatus, laculata, laculatum</a> adj</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/25152/lacuna-lacunae">lacuna, lacunae</a> n</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/25153/lacunar-lacunaris">lacunar, lacunaris</a> n</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/25154/lacuno-lacunare-lacunavi-lacunatus">lacuno, lacunare, lacunavi, lacunatus</a> v</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/25155/lacunosus-lacunosa-lacunosum">lacunosus, lacunosa, lacunosum</a> adj</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/25156/lacus-laci">lacus, laci</a> n</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/25157/lacus-lacus">lacus, lacus</a> n</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/25158/ladanum-ladani">ladanum, ladani</a> n</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/25159/laedo-laedere-laesi-laesus">laedo, laedere, laesi, laesus</a> v</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/25160/laena-laenae">laena, laenae</a> n</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/25161/laesio-laesionis">laesio, laesionis</a> n</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/25162/laetabilis-laetabilis-laetabile">laetabilis, laetabilis, laetabile</a> adj</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/25163/laetabundus-laetabunda-laetabundum">laetabundus, laetabunda, laetabundum</a> adj</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/25164/laetans-gen-laetantis">laetans, (gen.), laetantis</a> adj</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/25165/laetatio-laetationis">laetatio, laetationis</a> n</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/25166/laete-laetius-laetissime">laete, laetius, laetissime</a> adv</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/25167/laeter-laetra-laetrum">laeter, laetra, laetrum</a> adj</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/25168/laetifico-laetificare-laetificavi-laetificatus">laetifico, laetificare, laetificavi, laetificatus</a> v</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/25169/laetificus-laetifica-laetificum">laetificus, laetifica, laetificum</a> adj</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/25170/laetitia-laetitiae">laetitia, laetitiae</a> n</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/25171/laeto-laetare-laetavi-laetatus">laeto, laetare, laetavi, laetatus</a> v</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/25172/laetor-laetari-laetatus">laetor, laetari, laetatus</a> v</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/25173/laetrosum">laetrosum</a> adv</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/25174/laetus-laeta">laetus, laeta</a> adj</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/25175/laetus-laeta">laetus, laeta</a> adj</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/25176/laeva-laevae">laeva, laevae</a> n</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/25177/laevorsum">laevorsum</a> adv</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/25178/laevorsus">laevorsus</a> adv</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/25179/laevus-laeva-laevum">laevus, laeva, laevum</a> adj</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/25180/laganum-lagani">laganum, lagani</a> n</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/25181/lagena-lagenae">lagena, lagenae</a> n</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/25182/lageos-lagei">lageos, lagei</a> n</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/25183/lagoena-lagoenae">lagoena, lagoenae</a> n</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/25184/lagois-lagoidis">lagois, lagoidis</a> n</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/25185/lagona-lagonae">lagona, lagonae</a> n</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/25186/laguena-laguenae">laguena, laguenae</a> n</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/25187/laguenos-lagueni">laguenos, lagueni</a> n</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/25188/laguncula-lagunculae">laguncula, lagunculae</a> n</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/25189/laicalis-laicalis">laicalis, laicalis</a> n</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/25190/laicalis-laicalis-laicale">laicalis, laicalis, laicale</a> adj</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/25191/laicatus-laicatus">laicatus, laicatus</a> n</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/25192/laiciso-laicisare-laicisavi-laicisatus">laiciso, laicisare, laicisavi, laicisatus</a> v</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/25193/laicus-laica-laicum">laicus, laica, laicum</a> adj</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/25194/laicus-laici">laicus, laici</a> n</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/25195/lama-lamae">lama, lamae</a> n</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/25196/lama-lamae">lama, lamae</a> n</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/25197/lambo-lambere-lambi">lambo, lambere, lambi, -</a> v</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/25198/lambo-lambere-lambui-lambitus">lambo, lambere, lambui, lambitus</a> v</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/25199/lamed-undeclined">lamed, undeclined</a> n</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/25200/lamella-lamellae">lamella, lamellae</a> n</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/25201/lamenta-lamentae">lamenta, lamentae</a> n</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/25202/lamentabilis-lamentabilis-lamentabile">lamentabilis, lamentabilis, lamentabile</a> adj</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/25203/lamentarius-lamentaria-lamentarium">lamentarius, lamentaria, lamentarium</a> adj</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/25204/lamentatio-lamentationis">lamentatio, lamentationis</a> n</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/25205/lamento-lamentare-lamentavi-lamentatus">lamento, lamentare, lamentavi, lamentatus</a> v</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/25206/lamentor-lamentari-lamentatus">lamentor, lamentari, lamentatus</a> v</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/25207/lamentum-lamenti">lamentum, lamenti</a> n</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/25208/lameth-undeclined">lameth, undeclined</a> n</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/25209/lamia-lamiae">lamia, lamiae</a> n</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/25210/lamia-lamiae">lamia, lamiae</a> n</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/25211/lamina-laminae">lamina, laminae</a> n</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/25212/lamma">lamma</a> adv</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/25213/lammina-lamminae">lammina, lamminae</a> n</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/25214/lamna-lamnae">lamna, lamnae</a> n</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/25215/lampada-lampadae">lampada, lampadae</a> n</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/25216/lampadarium-lampadarii">lampadarium, lampadarii</a> n</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/25217/lampadarius-lampadarii">lampadarius, lampadarii</a> n</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/25218/lampas-lampadis">lampas, lampadis</a> n</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/25219/lampas-lampados-is">lampas, lampados/is</a> n</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/25220/lana-lanae">lana, lanae</a> n</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/25221/lanarius-lanarii">lanarius, lanarii</a> n</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/25222/lanatus-lanata">lanatus, lanata</a> adj</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/25223/lancea-lanceae">lancea, lanceae</a> n</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/25224/lancinatio-lancinationis">lancinatio, lancinationis</a> n</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/25225/lancino-lancinare-lancinavi-lancinatus">lancino, lancinare, lancinavi, lancinatus</a> v</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/25226/lanciola-lanciolae">lanciola, lanciolae</a> n</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/25227/landica-landicae">landica, landicae</a> n</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/25228/laneus-lanea-laneum">laneus, lanea, laneum</a> adj</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/25229/languefacio-languefacere-languefeci-languefactus">languefacio, languefacere, languefeci, languefactus</a> v</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/25230/langueo-languere">langueo, languere, -, -</a> v</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/25231/languesco-languescere-langui">languesco, languescere, langui, -</a> v</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/25232/languide-languidius-languidissime">languide, languidius, languidissime</a> adv</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/25233/languidulus-languidula-languidulum">languidulus, languidula, languidulum</a> adj</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/25234/languidus-languida">languidus, languida</a> adj</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/25235/languor-languoris">languor, languoris</a> n</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/25236/laniena-lanienae">laniena, lanienae</a> n</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/25237/lanificus-lanifica-lanificum">lanificus, lanifica, lanificum</a> adj</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/25238/laniger-lanigera-lanigerum">laniger, lanigera, lanigerum</a> adj</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/25239/laniger-lanigeri">laniger, lanigeri</a> n</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/25240/lanio-laniare-laniavi-laniatus">lanio, laniare, laniavi, laniatus</a> v</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/25241/lanista-lanistae">lanista, lanistae</a> n</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/25242/lanitium-lanitii">lanitium, lanitii</a> n</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/25243/lanius-lanii">lanius, lanii</a> n</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/25244/lanna-lannae">lanna, lannae</a> n</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/25245/lanosus-lanosa-lanosum">lanosus, lanosa, lanosum</a> adj</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/25246/lanterna-lanternae">lanterna, lanternae</a> n</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/25247/lanternarius-lanternarii">lanternarius, lanternarii</a> n</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/25248/lantgravius-lantgravii">lantgravius, lantgravii</a> n</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/25249/lanugo-lanuginis">lanugo, lanuginis</a> n</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/25250/lanx-lancis">lanx, lancis</a> n</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/25251/laophoron-laophori">laophoron, laophori</a> n</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/25252/lapathium-lapathii">lapathium, lapathii</a> n</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/25253/lapathum-lapathi">lapathum, lapathi</a> n</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/25254/lapathus-lapathi">lapathus, lapathi</a> n</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/25255/lapicida-lapicidae">lapicida, lapicidae</a> n</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/25256/lapidaris-lapidaris-lapidare">lapidaris, lapidaris, lapidare</a> adj</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/25257/lapidarius-lapidaria-lapidarium">lapidarius, lapidaria, lapidarium</a> adj</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/25258/lapidarius-lapidarii">lapidarius, lapidarii</a> n</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/25259/lapidesco-lapidescere">lapidesco, lapidescere, -, -</a> v</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/25260/lapideus-lapidea-lapideum">lapideus, lapidea, lapideum</a> adj</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/25261/lapidicina-lapidicinae">lapidicina, lapidicinae</a> n</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/25262/lapido-lapidare-lapidavi-lapidatus">lapido, lapidare, lapidavi, lapidatus</a> v</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/25263/lapidosus-lapidosa-lapidosum">lapidosus, lapidosa, lapidosum</a> adj</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/25264/lapillus-lapilli">lapillus, lapilli</a> n</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/25265/lapis-lapidis">lapis, lapidis</a> n</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/25266/lapis-lapis">lapis, lapis</a> n</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/25267/lappa-lappae">lappa, lappae</a> n</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/25268/lapsana-lapsanae">lapsana, lapsanae</a> n</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/25269/lapsio-lapsionis">lapsio, lapsionis</a> n</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/25270/lapso-lapsare-lapsavi-lapsatus">lapso, lapsare, lapsavi, lapsatus</a> v</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/25271/lapsus-lapsus">lapsus, lapsus</a> n</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/25272/laquear-laquearis">laquear, laquearis</a> n</li>
+          <li id="word-199" class="word"><a href="http://www.latin-dictionary.net/definition/25273/laqueare-laquearis">laqueare, laquearis</a> n</li>
+          <li id="word-200" class="word"><a href="http://www.latin-dictionary.net/definition/25274/laqueatus-laqueata-laqueatum">laqueatus, laqueata, laqueatum</a> adj</li>
+          <li id="word-201" class="word"><a href="http://www.latin-dictionary.net/definition/25275/laqueum-laquei">laqueum, laquei</a> n</li>
+          <li id="word-202" class="word"><a href="http://www.latin-dictionary.net/definition/25276/laqueus-laquei">laqueus, laquei</a> n</li>
+          <li id="word-203" class="word"><a href="http://www.latin-dictionary.net/definition/25277/Lar-Laris">Lar, Laris</a> n</li>
+          <li id="word-204" class="word"><a href="http://www.latin-dictionary.net/definition/25278/lardum-lardi">lardum, lardi</a> n</li>
+          <li id="word-205" class="word"><a href="http://www.latin-dictionary.net/definition/25279/large">large</a> adv</li>
+          <li id="word-206" class="word"><a href="http://www.latin-dictionary.net/definition/25280/largificus-largifica-largificum">largificus, largifica, largificum</a> adj</li>
+          <li id="word-207" class="word"><a href="http://www.latin-dictionary.net/definition/25281/largifluus-largiflua-largifluum">largifluus, largiflua, largifluum</a> adj</li>
+          <li id="word-208" class="word"><a href="http://www.latin-dictionary.net/definition/25282/largiloquus-largiloqua-largiloquum">largiloquus, largiloqua, largiloquum</a> adj</li>
+          <li id="word-209" class="word"><a href="http://www.latin-dictionary.net/definition/25283/largio-largire-largivi-largitus">largio, largire, largivi, largitus</a> v</li>
+          <li id="word-210" class="word"><a href="http://www.latin-dictionary.net/definition/25284/largior-largiri-largitus">largior, largiri, largitus</a> v</li>
+          <li id="word-211" class="word"><a href="http://www.latin-dictionary.net/definition/25285/largitas-largitatis">largitas, largitatis</a> n</li>
+          <li id="word-212" class="word"><a href="http://www.latin-dictionary.net/definition/25286/largiter">largiter</a> adv</li>
+          <li id="word-213" class="word"><a href="http://www.latin-dictionary.net/definition/25287/largitio-largitionis">largitio, largitionis</a> n</li>
+          <li id="word-214" class="word"><a href="http://www.latin-dictionary.net/definition/25288/largitionalis-largitionalis">largitionalis, largitionalis</a> n</li>
+          <li id="word-215" class="word"><a href="http://www.latin-dictionary.net/definition/25289/largitionalis-largitionalis-largitionale">largitionalis, largitionalis, largitionale</a> adj</li>
+          <li id="word-216" class="word"><a href="http://www.latin-dictionary.net/definition/25290/largitor-largitoris">largitor, largitoris</a> n</li>
+          <li id="word-217" class="word"><a href="http://www.latin-dictionary.net/definition/25291/largo-largare-largavi-largatus">largo, largare, largavi, largatus</a> v</li>
+          <li id="word-218" class="word"><a href="http://www.latin-dictionary.net/definition/25292/largus-larga-largum">largus, larga, largum</a> adj</li>
+          <li id="word-219" class="word"><a href="http://www.latin-dictionary.net/definition/25293/laridum-laridi">laridum, laridi</a> n</li>
+          <li id="word-220" class="word"><a href="http://www.latin-dictionary.net/definition/25294/larix-laricis">larix, laricis</a> n</li>
+          <li id="word-221" class="word"><a href="http://www.latin-dictionary.net/definition/25295/laros-lari">laros, lari</a> n</li>
+          <li id="word-222" class="word"><a href="http://www.latin-dictionary.net/definition/25296/larua-laruae">larua, laruae</a> n</li>
+          <li id="word-223" class="word"><a href="http://www.latin-dictionary.net/definition/25297/larualis-larualis-laruale">larualis, larualis, laruale</a> adj</li>
+          <li id="word-224" class="word"><a href="http://www.latin-dictionary.net/definition/25298/larus-lari">larus, lari</a> adj</li>
+          <li id="word-225" class="word"><a href="http://www.latin-dictionary.net/definition/25299/larva-larvae">larva, larvae</a> n</li>
+          <li id="word-226" class="word"><a href="http://www.latin-dictionary.net/definition/25300/larvalis-larvalis-larvale">larvalis, larvalis, larvale</a> adj</li>
+          <li id="word-227" class="word"><a href="http://www.latin-dictionary.net/definition/25301/larvo-larvare-laruatus">larvo, larvare, -, laruatus</a> v</li>
+          <li id="word-228" class="word"><a href="http://www.latin-dictionary.net/definition/25302/lasania-lasaniae">lasania, lasaniae</a> n</li>
+          <li id="word-229" class="word"><a href="http://www.latin-dictionary.net/definition/25303/lasanum-lasani">lasanum, lasani</a> n</li>
+          <li id="word-230" class="word"><a href="http://www.latin-dictionary.net/definition/25304/lasarpicifer-lasarpicifra-lasarpicifrum">lasarpicifer, lasarpicifra, lasarpicifrum</a> adj</li>
+          <li id="word-231" class="word"><a href="http://www.latin-dictionary.net/definition/25305/lascivia-lasciviae">lascivia, lasciviae</a> n</li>
+          <li id="word-232" class="word"><a href="http://www.latin-dictionary.net/definition/25306/lascivio-lascivire-lascivi-lascivitus">lascivio, lascivire, lascivi, lascivitus</a> v</li>
+          <li id="word-233" class="word"><a href="http://www.latin-dictionary.net/definition/25307/lascivus-lasciva-lascivum">lascivus, lasciva, lascivum</a> adj</li>
+          <li id="word-234" class="word"><a href="http://www.latin-dictionary.net/definition/25308/laser-laseris">laser, laseris</a> n</li>
+          <li id="word-235" class="word"><a href="http://www.latin-dictionary.net/definition/25309/laserpicium-laserpicii">laserpicium, laserpicii</a> n</li>
+          <li id="word-236" class="word"><a href="http://www.latin-dictionary.net/definition/25310/lassesco-lassescare-lassescavi-lassescatus">lassesco, lassescare, lassescavi, lassescatus</a> v</li>
+          <li id="word-237" class="word"><a href="http://www.latin-dictionary.net/definition/25311/lassitudo-lassitudinis">lassitudo, lassitudinis</a> n</li>
+          <li id="word-238" class="word"><a href="http://www.latin-dictionary.net/definition/25312/lasso-lassare-lassavi-lassatus">lasso, lassare, lassavi, lassatus</a> v</li>
+          <li id="word-239" class="word"><a href="http://www.latin-dictionary.net/definition/25313/lassulus-lassula-lassulum">lassulus, lassula, lassulum</a> adj</li>
+          <li id="word-240" class="word"><a href="http://www.latin-dictionary.net/definition/25314/lassus-lassa-lassum">lassus, lassa, lassum</a> adj</li>
+          <li id="word-241" class="word"><a href="http://www.latin-dictionary.net/definition/25315/late">late</a> adv</li>
+          <li id="word-242" class="word"><a href="http://www.latin-dictionary.net/definition/25316/latebra-latebrae">latebra, latebrae</a> n</li>
+          <li id="word-243" class="word"><a href="http://www.latin-dictionary.net/definition/25317/latebricola-latebricolae">latebricola, latebricolae</a> n</li>
+          <li id="word-244" class="word"><a href="http://www.latin-dictionary.net/definition/25318/latebros-latebrosis">latebros, latebrosis</a> adj</li>
+          <li id="word-245" class="word"><a href="http://www.latin-dictionary.net/definition/25319/latebrosus-latebrosa-latebrosum">latebrosus, latebrosa, latebrosum</a> adj</li>
+          <li id="word-246" class="word"><a href="http://www.latin-dictionary.net/definition/25320/latens-latentis">latens, latentis</a> adj</li>
+          <li id="word-247" class="word"><a href="http://www.latin-dictionary.net/definition/25321/latenter-latentius-latentissime">latenter, latentius, latentissime</a> adv</li>
+          <li id="word-248" class="word"><a href="http://www.latin-dictionary.net/definition/25322/lateo-latere-latui">lateo, latere, latui, -</a> v</li>
+          <li id="word-249" class="word"><a href="http://www.latin-dictionary.net/definition/25323/later-lateris">later, lateris</a> n</li>
+          <li id="word-250" class="word"><a href="http://www.latin-dictionary.net/definition/25324/lateralis-lateralis-laterale">lateralis, lateralis, laterale</a> adj</li>
+          <li id="word-251" class="word"><a href="http://www.latin-dictionary.net/definition/25325/lateramen-lateraminis">lateramen, lateraminis</a> n</li>
+          <li id="word-252" class="word"><a href="http://www.latin-dictionary.net/definition/25326/laterculus-laterculi">laterculus, laterculi</a> n</li>
+          <li id="word-253" class="word"><a href="http://www.latin-dictionary.net/definition/25327/latericium-latericii">latericium, latericii</a> n</li>
+          <li id="word-254" class="word"><a href="http://www.latin-dictionary.net/definition/25328/latericius-latericia-latericium">latericius, latericia, latericium</a> adj</li>
+          <li id="word-255" class="word"><a href="http://www.latin-dictionary.net/definition/25329/latericulus-latericuli">latericulus, latericuli</a> n</li>
+          <li id="word-256" class="word"><a href="http://www.latin-dictionary.net/definition/25330/laterna-laternae">laterna, laternae</a> n</li>
+          <li id="word-257" class="word"><a href="http://www.latin-dictionary.net/definition/25331/laterus-latera-laterum">laterus, latera, laterum</a> adj</li>
+          <li id="word-258" class="word"><a href="http://www.latin-dictionary.net/definition/25332/latesco-latescere-latui">latesco, latescere, latui, -</a> v</li>
+          <li id="word-259" class="word"><a href="http://www.latin-dictionary.net/definition/25333/latesco-latescere-latui">latesco, latescere, latui, -</a> v</li>
+          <li id="word-260" class="word"><a href="http://www.latin-dictionary.net/definition/25334/latex-laticis">latex, laticis</a> n</li>
+          <li id="word-261" class="word"><a href="http://www.latin-dictionary.net/definition/25335/latibulum-latibuli">latibulum, latibuli</a> n</li>
+          <li id="word-262" class="word"><a href="http://www.latin-dictionary.net/definition/25336/laticlavius-laticlavia-laticlavium">laticlavius, laticlavia, laticlavium</a> adj</li>
+          <li id="word-263" class="word"><a href="http://www.latin-dictionary.net/definition/25337/laticlavius-laticlavii">laticlavius, laticlavii</a> n</li>
+          <li id="word-264" class="word"><a href="http://www.latin-dictionary.net/definition/25338/latifolius-latifolia-latifolium">latifolius, latifolia, latifolium</a> adj</li>
+          <li id="word-265" class="word"><a href="http://www.latin-dictionary.net/definition/25339/latifundium-latifundi-i">latifundium, latifundi(i)</a> n</li>
+          <li id="word-266" class="word"><a href="http://www.latin-dictionary.net/definition/25340/Latina-Latinae">Latina, Latinae</a> n</li>
+          <li id="word-267" class="word"><a href="http://www.latin-dictionary.net/definition/25341/Latine">Latine</a> adv</li>
+          <li id="word-268" class="word"><a href="http://www.latin-dictionary.net/definition/25342/latinista-latinistae">latinista, latinistae</a> n</li>
+          <li id="word-269" class="word"><a href="http://www.latin-dictionary.net/definition/25343/Latinitas-Latinitatis">Latinitas, Latinitatis</a> n</li>
+          <li id="word-270" class="word"><a href="http://www.latin-dictionary.net/definition/25344/latinitas-latinitatis">latinitas, latinitatis</a> n</li>
+          <li id="word-271" class="word"><a href="http://www.latin-dictionary.net/definition/25345/latinizo-latinizare-latinizavi-latinizatus">latinizo, latinizare, latinizavi, latinizatus</a> v</li>
+          <li id="word-272" class="word"><a href="http://www.latin-dictionary.net/definition/25346/latino-latinare-latinavi-latinatus">latino, latinare, latinavi, latinatus</a> v</li>
+          <li id="word-273" class="word"><a href="http://www.latin-dictionary.net/definition/25347/Latinus-Latina-Latinum">Latinus, Latina, Latinum</a> adj</li>
+          <li id="word-274" class="word"><a href="http://www.latin-dictionary.net/definition/25348/latio-lationis">latio, lationis</a> n</li>
+          <li id="word-275" class="word"><a href="http://www.latin-dictionary.net/definition/25349/latio-lationis">latio, lationis</a> n</li>
+          <li id="word-276" class="word"><a href="http://www.latin-dictionary.net/definition/25350/latito-latitare-latitavi-latitatus">latito, latitare, latitavi, latitatus</a> v</li>
+          <li id="word-277" class="word"><a href="http://www.latin-dictionary.net/definition/25351/latitudo-latitudinis">latitudo, latitudinis</a> n</li>
+          <li id="word-278" class="word"><a href="http://www.latin-dictionary.net/definition/25352/latitudo-latitudinis">latitudo, latitudinis</a> n</li>
+          <li id="word-279" class="word"><a href="http://www.latin-dictionary.net/definition/25353/Latius-Latia-Latium">Latius, Latia, Latium</a> adj</li>
+          <li id="word-280" class="word"><a href="http://www.latin-dictionary.net/definition/25354/latomus-latomi">latomus, latomi</a> n</li>
+          <li id="word-281" class="word"><a href="http://www.latin-dictionary.net/definition/25355/lator-latoris">lator, latoris</a> n</li>
+          <li id="word-282" class="word"><a href="http://www.latin-dictionary.net/definition/25356/latrator-latratoris">latrator, latratoris</a> n</li>
+          <li id="word-283" class="word"><a href="http://www.latin-dictionary.net/definition/25357/latratus-latratus">latratus, latratus</a> n</li>
+          <li id="word-284" class="word"><a href="http://www.latin-dictionary.net/definition/25358/latraus-latraus">latraus, latraus</a> n</li>
+          <li id="word-285" class="word"><a href="http://www.latin-dictionary.net/definition/25359/latreuticus-latreutica-latreuticum">latreuticus, latreutica, latreuticum</a> adj</li>
+          <li id="word-286" class="word"><a href="http://www.latin-dictionary.net/definition/25360/latrina-latrinae">latrina, latrinae</a> n</li>
+          <li id="word-287" class="word"><a href="http://www.latin-dictionary.net/definition/25361/latrinum-latrini">latrinum, latrini</a> n</li>
+          <li id="word-288" class="word"><a href="http://www.latin-dictionary.net/definition/25362/latro-latrare-latravi-latratus">latro, latrare, latravi, latratus</a> v</li>
+          <li id="word-289" class="word"><a href="http://www.latin-dictionary.net/definition/25363/latro-latronis">latro, latronis</a> n</li>
+          <li id="word-290" class="word"><a href="http://www.latin-dictionary.net/definition/25364/latrocinium-latrocini-i">latrocinium, latrocini(i)</a> n</li>
+          <li id="word-291" class="word"><a href="http://www.latin-dictionary.net/definition/25365/latrocinor-latrocinari-latrocinatus">latrocinor, latrocinari, latrocinatus</a> v</li>
+          <li id="word-292" class="word"><a href="http://www.latin-dictionary.net/definition/25366/latrunculus-latrunculi">latrunculus, latrunculi</a> n</li>
+          <li id="word-293" class="word"><a href="http://www.latin-dictionary.net/definition/25367/latus-lata">latus, lata</a> adj</li>
+          <li id="word-294" class="word"><a href="http://www.latin-dictionary.net/definition/25368/latus-lateris">latus, lateris</a> n</li>
+          <li id="word-295" class="word"><a href="http://www.latin-dictionary.net/definition/25369/latusculum-latusculi">latusculum, latusculi</a> n</li>
+          <li id="word-296" class="word"><a href="http://www.latin-dictionary.net/definition/25370/laudabilis-laudabilis-laudabile">laudabilis, laudabilis, laudabile</a> adj</li>
+          <li id="word-297" class="word"><a href="http://www.latin-dictionary.net/definition/25371/laudabilitas-laudabilitatis">laudabilitas, laudabilitatis</a> n</li>
+          <li id="word-298" class="word"><a href="http://www.latin-dictionary.net/definition/25372/laudatio-laudationis">laudatio, laudationis</a> n</li>
+          <li id="word-299" class="word"><a href="http://www.latin-dictionary.net/definition/25373/laudator-laudatoris">laudator, laudatoris</a> n</li>
+          <li id="word-300" class="word"><a href="http://www.latin-dictionary.net/definition/25374/laudo-laudare-laudavi-laudatus">laudo, laudare, laudavi, laudatus</a> v</li>
+          <li id="word-301" class="word"><a href="http://www.latin-dictionary.net/definition/25375/laura-laurae">laura, laurae</a> n</li>
+          <li id="word-302" class="word"><a href="http://www.latin-dictionary.net/definition/25376/laurea-laureae">laurea, laureae</a> n</li>
+          <li id="word-303" class="word"><a href="http://www.latin-dictionary.net/definition/25377/laureata-laureatae">laureata, laureatae</a> n</li>
+          <li id="word-304" class="word"><a href="http://www.latin-dictionary.net/definition/25378/laureatio-laureationis">laureatio, laureationis</a> n</li>
+          <li id="word-305" class="word"><a href="http://www.latin-dictionary.net/definition/25379/laureator-laureatoris">laureator, laureatoris</a> n</li>
+          <li id="word-306" class="word"><a href="http://www.latin-dictionary.net/definition/25380/laureatus-laureata-laureatum">laureatus, laureata, laureatum</a> adj</li>
+          <li id="word-307" class="word"><a href="http://www.latin-dictionary.net/definition/25381/laurentius-laurentia-laurentium">laurentius, laurentia, laurentium</a> adj</li>
+          <li id="word-308" class="word"><a href="http://www.latin-dictionary.net/definition/25382/laureola-laureolae">laureola, laureolae</a> n</li>
+          <li id="word-309" class="word"><a href="http://www.latin-dictionary.net/definition/25383/lauretum-laureti">lauretum, laureti</a> n</li>
+          <li id="word-310" class="word"><a href="http://www.latin-dictionary.net/definition/25384/laureus-laurea-laureum">laureus, laurea, laureum</a> adj</li>
+          <li id="word-311" class="word"><a href="http://www.latin-dictionary.net/definition/25385/lauricomus-lauricoma-lauricomum">lauricomus, lauricoma, lauricomum</a> adj</li>
+          <li id="word-312" class="word"><a href="http://www.latin-dictionary.net/definition/25386/laurifer-laurifera-lauriferum">laurifer, laurifera, lauriferum</a> adj</li>
+          <li id="word-313" class="word"><a href="http://www.latin-dictionary.net/definition/25387/lauriger-laurigera-laurigerum">lauriger, laurigera, laurigerum</a> adj</li>
+          <li id="word-314" class="word"><a href="http://www.latin-dictionary.net/definition/25388/laurinus-laurina-laurinum">laurinus, laurina, laurinum</a> adj</li>
+          <li id="word-315" class="word"><a href="http://www.latin-dictionary.net/definition/25389/laurus-lauri">laurus, lauri</a> n</li>
+          <li id="word-316" class="word"><a href="http://www.latin-dictionary.net/definition/25390/laurus-laurus">laurus, laurus</a> n</li>
+          <li id="word-317" class="word"><a href="http://www.latin-dictionary.net/definition/25391/laus-laudis">laus, laudis</a> n</li>
+          <li id="word-318" class="word"><a href="http://www.latin-dictionary.net/definition/25392/laute-lautius-lautissime">laute, lautius, lautissime</a> adv</li>
+          <li id="word-319" class="word"><a href="http://www.latin-dictionary.net/definition/25393/lautitia-lautitiae">lautitia, lautitiae</a> n</li>
+          <li id="word-320" class="word"><a href="http://www.latin-dictionary.net/definition/25394/lautium-lautii">lautium, lautii</a> n</li>
+          <li id="word-321" class="word"><a href="http://www.latin-dictionary.net/definition/25395/lautumia-lautumiae">lautumia, lautumiae</a> n</li>
+          <li id="word-322" class="word"><a href="http://www.latin-dictionary.net/definition/25396/lautus-lauta">lautus, lauta</a> adj</li>
+          <li id="word-323" class="word"><a href="http://www.latin-dictionary.net/definition/25397/lava-lavae">lava, lavae</a> n</li>
+          <li id="word-324" class="word"><a href="http://www.latin-dictionary.net/definition/25398/lavabilis-lavabilis-lavabile">lavabilis, lavabilis, lavabile</a> adj</li>
+          <li id="word-325" class="word"><a href="http://www.latin-dictionary.net/definition/25399/Lavabo-undeclined">Lavabo, undeclined</a> n</li>
+          <li id="word-326" class="word"><a href="http://www.latin-dictionary.net/definition/25400/lavabrum-lavabri">lavabrum, lavabri</a> n</li>
+          <li id="word-327" class="word"><a href="http://www.latin-dictionary.net/definition/25401/lavacrum-lavacri">lavacrum, lavacri</a> n</li>
+          <li id="word-328" class="word"><a href="http://www.latin-dictionary.net/definition/25402/lavandula-lavandulae">lavandula, lavandulae</a> n</li>
+          <li id="word-329" class="word"><a href="http://www.latin-dictionary.net/definition/25403/lavatio-lavationis">lavatio, lavationis</a> n</li>
+          <li id="word-330" class="word"><a href="http://www.latin-dictionary.net/definition/25404/lavatorium-lavatorii">lavatorium, lavatorii</a> n</li>
+          <li id="word-331" class="word"><a href="http://www.latin-dictionary.net/definition/25405/lavatrina-lavatrinae">lavatrina, lavatrinae</a> n</li>
+          <li id="word-332" class="word"><a href="http://www.latin-dictionary.net/definition/25406/lavendulus-lavendula-lavendulum">lavendulus, lavendula, lavendulum</a> adj</li>
+          <li id="word-333" class="word"><a href="http://www.latin-dictionary.net/definition/25407/lavo-lavare-lavi-lautus">lavo, lavare, lavi, lautus</a> v</li>
+          <li id="word-334" class="word"><a href="http://www.latin-dictionary.net/definition/25408/lavo-lavare-lavi-lavatus">lavo, lavare, lavi, lavatus</a> v</li>
+          <li id="word-335" class="word"><a href="http://www.latin-dictionary.net/definition/25409/lavo-lavare-lavi-lotus">lavo, lavare, lavi, lotus</a> v</li>
+          <li id="word-336" class="word"><a href="http://www.latin-dictionary.net/definition/25410/laxamentum-laxamenti">laxamentum, laxamenti</a> n</li>
+          <li id="word-337" class="word"><a href="http://www.latin-dictionary.net/definition/25411/laxativum-laxativi">laxativum, laxativi</a> n</li>
+          <li id="word-338" class="word"><a href="http://www.latin-dictionary.net/definition/25412/laxatus-laxata">laxatus, laxata</a> adj</li>
+          <li id="word-339" class="word"><a href="http://www.latin-dictionary.net/definition/25413/laxe-laxius-laxissime">laxe, laxius, laxissime</a> adv</li>
+          <li id="word-340" class="word"><a href="http://www.latin-dictionary.net/definition/25414/laxitas-laxitatis">laxitas, laxitatis</a> n</li>
+          <li id="word-341" class="word"><a href="http://www.latin-dictionary.net/definition/25415/laxo-laxare-laxavi-laxatus">laxo, laxare, laxavi, laxatus</a> v</li>
+          <li id="word-342" class="word"><a href="http://www.latin-dictionary.net/definition/25416/laxus-laxa">laxus, laxa</a> adj</li>
+          <li id="word-343" class="word"><a href="http://www.latin-dictionary.net/definition/25417/laxus-laxa">laxus, laxa</a> adj</li>
+          <li id="word-344" class="word"><a href="http://www.latin-dictionary.net/definition/25418/lazulinus-lazulina-lazulinum">lazulinus, lazulina, lazulinum</a> adj</li>
+          <li id="word-345" class="word"><a href="http://www.latin-dictionary.net/definition/25419/lea-leae">lea, leae</a> n</li>
+          <li id="word-346" class="word"><a href="http://www.latin-dictionary.net/definition/25420/leaena-leaenae">leaena, leaenae</a> n</li>
+          <li id="word-347" class="word"><a href="http://www.latin-dictionary.net/definition/25421/lebes-lebetis">lebes, lebetis</a> n</li>
+          <li id="word-348" class="word"><a href="http://www.latin-dictionary.net/definition/25422/Lebnitica-Lebniticae">Lebnitica, Lebniticae</a> n</li>
+          <li id="word-349" class="word"><a href="http://www.latin-dictionary.net/definition/25423/lectica-lecticae">lectica, lecticae</a> n</li>
+          <li id="word-350" class="word"><a href="http://www.latin-dictionary.net/definition/25424/lecticarius-lecticari-i">lecticarius, lecticari(i)</a> n</li>
+          <li id="word-351" class="word"><a href="http://www.latin-dictionary.net/definition/25425/lecticula-lecticulae">lecticula, lecticulae</a> n</li>
+          <li id="word-352" class="word"><a href="http://www.latin-dictionary.net/definition/25426/lectio-lectionis">lectio, lectionis</a> n</li>
+          <li id="word-353" class="word"><a href="http://www.latin-dictionary.net/definition/25427/Lectionarium-Lectionarii">Lectionarium, Lectionarii</a> n</li>
+          <li id="word-354" class="word"><a href="http://www.latin-dictionary.net/definition/25428/lectisterniator-lectisterniatoris">lectisterniator, lectisterniatoris</a> n</li>
+          <li id="word-355" class="word"><a href="http://www.latin-dictionary.net/definition/25429/lectisternium-lectisterni-i">lectisternium, lectisterni(i)</a> n</li>
+          <li id="word-356" class="word"><a href="http://www.latin-dictionary.net/definition/25430/lectito-lectitare-lectitavi-lectitatus">lectito, lectitare, lectitavi, lectitatus</a> v</li>
+          <li id="word-357" class="word"><a href="http://www.latin-dictionary.net/definition/25431/lectiuncula-lectiunculae">lectiuncula, lectiunculae</a> n</li>
+          <li id="word-358" class="word"><a href="http://www.latin-dictionary.net/definition/25432/lector-lectoris">lector, lectoris</a> n</li>
+          <li id="word-359" class="word"><a href="http://www.latin-dictionary.net/definition/25433/lectrix-lectricis">lectrix, lectricis</a> n</li>
+          <li id="word-360" class="word"><a href="http://www.latin-dictionary.net/definition/25434/lectulus-lectuli">lectulus, lectuli</a> n</li>
+          <li id="word-361" class="word"><a href="http://www.latin-dictionary.net/definition/25435/lectus-lecta">lectus, lecta</a> adj</li>
+          <li id="word-362" class="word"><a href="http://www.latin-dictionary.net/definition/25436/lectus-lecti">lectus, lecti</a> n</li>
+          <li id="word-363" class="word"><a href="http://www.latin-dictionary.net/definition/25437/lectus-lecti">lectus, lecti</a> n</li>
+          <li id="word-364" class="word"><a href="http://www.latin-dictionary.net/definition/25438/lecythos-lecythi">lecythos, lecythi</a> n</li>
+          <li id="word-365" class="word"><a href="http://www.latin-dictionary.net/definition/25439/lecythus-lecythi">lecythus, lecythi</a> n</li>
+          <li id="word-366" class="word"><a href="http://www.latin-dictionary.net/definition/25440/lecythus-lecythi">lecythus, lecythi</a> n</li>
+          <li id="word-367" class="word"><a href="http://www.latin-dictionary.net/definition/25441/leg-abb">leg., abb.</a> n</li>
+          <li id="word-368" class="word"><a href="http://www.latin-dictionary.net/definition/25442/legalis-legalis-legale">legalis, legalis, legale</a> adj</li>
+          <li id="word-369" class="word"><a href="http://www.latin-dictionary.net/definition/25443/legalitas-legalitatis">legalitas, legalitatis</a> n</li>
+          <li id="word-370" class="word"><a href="http://www.latin-dictionary.net/definition/25444/legatarius-legatarii">legatarius, legatarii</a> n</li>
+          <li id="word-371" class="word"><a href="http://www.latin-dictionary.net/definition/25445/legatio-legationis">legatio, legationis</a> n</li>
+          <li id="word-372" class="word"><a href="http://www.latin-dictionary.net/definition/25446/legator-legatoris">legator, legatoris</a> n</li>
+          <li id="word-373" class="word"><a href="http://www.latin-dictionary.net/definition/25447/legatum-legati">legatum, legati</a> n</li>
+          <li id="word-374" class="word"><a href="http://www.latin-dictionary.net/definition/25448/legatus-legati">legatus, legati</a> n</li>
+          <li id="word-375" class="word"><a href="http://www.latin-dictionary.net/definition/25449/legifer-legifera-legiferum">legifer, legifera, legiferum</a> adj</li>
+          <li id="word-376" class="word"><a href="http://www.latin-dictionary.net/definition/25450/legio-legionis">legio, legionis</a> n</li>
+          <li id="word-377" class="word"><a href="http://www.latin-dictionary.net/definition/25451/legionarius-legionaria-legionarium">legionarius, legionaria, legionarium</a> adj</li>
+          <li id="word-378" class="word"><a href="http://www.latin-dictionary.net/definition/25452/legirupa-legirupae">legirupa, legirupae</a> n</li>
+          <li id="word-379" class="word"><a href="http://www.latin-dictionary.net/definition/25453/legirupio-legirupionis">legirupio, legirupionis</a> n</li>
+          <li id="word-380" class="word"><a href="http://www.latin-dictionary.net/definition/25454/legisdoctor-legisdoctoris">legisdoctor, legisdoctoris</a> n</li>
+          <li id="word-381" class="word"><a href="http://www.latin-dictionary.net/definition/25455/legislatio-legislationis">legislatio, legislationis</a> n</li>
+          <li id="word-382" class="word"><a href="http://www.latin-dictionary.net/definition/25456/legislativus-legislativa-legislativum">legislativus, legislativa, legislativum</a> adj</li>
+          <li id="word-383" class="word"><a href="http://www.latin-dictionary.net/definition/25457/legislator-legislatoris">legislator, legislatoris</a> n</li>
+          <li id="word-384" class="word"><a href="http://www.latin-dictionary.net/definition/25458/legisperitus-legisperiti">legisperitus, legisperiti</a> n</li>
+          <li id="word-385" class="word"><a href="http://www.latin-dictionary.net/definition/25459/legitimatio-legitimationis">legitimatio, legitimationis</a> n</li>
+          <li id="word-386" class="word"><a href="http://www.latin-dictionary.net/definition/25460/legitimitas-legitimitatis">legitimitas, legitimitatis</a> n</li>
+          <li id="word-387" class="word"><a href="http://www.latin-dictionary.net/definition/25461/legitimo-legitimare-legitimavi-legitimatus">legitimo, legitimare, legitimavi, legitimatus</a> v</li>
+          <li id="word-388" class="word"><a href="http://www.latin-dictionary.net/definition/25462/legitimus-legitima-legitimum">legitimus, legitima, legitimum</a> adj</li>
+          <li id="word-389" class="word"><a href="http://www.latin-dictionary.net/definition/25463/legiuncula-legiunculae">legiuncula, legiunculae</a> n</li>
+          <li id="word-390" class="word"><a href="http://www.latin-dictionary.net/definition/25464/lego-legare-legavi-legatus">lego, legare, legavi, legatus</a> v</li>
+          <li id="word-391" class="word"><a href="http://www.latin-dictionary.net/definition/25465/lego-legere-legi-lectus">lego, legere, legi, lectus</a> v</li>
+          <li id="word-392" class="word"><a href="http://www.latin-dictionary.net/definition/25466/leguleius-leguleii">leguleius, leguleii</a> n</li>
+          <li id="word-393" class="word"><a href="http://www.latin-dictionary.net/definition/25467/legumen-leguminis">legumen, leguminis</a> n</li>
+          <li id="word-394" class="word"><a href="http://www.latin-dictionary.net/definition/25468/legumlator-legumlatoris">legumlator, legumlatoris</a> n</li>
+          <li id="word-395" class="word"><a href="http://www.latin-dictionary.net/definition/25469/lema">lema</a> adv</li>
+          <li id="word-396" class="word"><a href="http://www.latin-dictionary.net/definition/25470/lema">lema</a> interj</li>
+          <li id="word-397" class="word"><a href="http://www.latin-dictionary.net/definition/25471/Lemannus-Lemanni">Lemannus, Lemanni</a> n</li>
+          <li id="word-398" class="word"><a href="http://www.latin-dictionary.net/definition/25472/lembus-lembi">lembus, lembi</a> n</li>
+          <li id="word-399" class="word"><a href="http://www.latin-dictionary.net/definition/25473/lemma">lemma</a> adv</li>
+          <li id="word-400" class="word"><a href="http://www.latin-dictionary.net/definition/25474/lemma-lemmatis">lemma, lemmatis</a> n</li>
+          <li id="word-401" class="word"><a href="http://www.latin-dictionary.net/definition/25475/lemniscatus-lemniscata-lemniscatum">lemniscatus, lemniscata, lemniscatum</a> adj</li>
+          <li id="word-402" class="word"><a href="http://www.latin-dictionary.net/definition/25476/lemniscus-lemnisci">lemniscus, lemnisci</a> n</li>
+          <li id="word-403" class="word"><a href="http://www.latin-dictionary.net/definition/25477/lemniscus-lemnisci">lemniscus, lemnisci</a> n</li>
+          <li id="word-404" class="word"><a href="http://www.latin-dictionary.net/definition/25478/lemur-lemuris">lemur, lemuris</a> n</li>
+          <li id="word-405" class="word"><a href="http://www.latin-dictionary.net/definition/25479/lena-lenae">lena, lenae</a> n</li>
+          <li id="word-406" class="word"><a href="http://www.latin-dictionary.net/definition/25480/lenimen-leniminis">lenimen, leniminis</a> n</li>
+          <li id="word-407" class="word"><a href="http://www.latin-dictionary.net/definition/25481/lenimentum-lenimenti">lenimentum, lenimenti</a> n</li>
+          <li id="word-408" class="word"><a href="http://www.latin-dictionary.net/definition/25482/lenio-lenire-lenivi-ii-lenitus">lenio, lenire, lenivi(ii), lenitus</a> v</li>
+          <li id="word-409" class="word"><a href="http://www.latin-dictionary.net/definition/25483/lenio-lenire-lenivi-ii-lenitus">lenio, lenire, lenivi(ii), lenitus</a> v</li>
+          <li id="word-410" class="word"><a href="http://www.latin-dictionary.net/definition/25484/lenio-lenire-lenivi-lenitus">lenio, lenire, lenivi, lenitus</a> v</li>
+          <li id="word-411" class="word"><a href="http://www.latin-dictionary.net/definition/25485/lenio-lenire-lenivi-lenitus">lenio, lenire, lenivi, lenitus</a> v</li>
+          <li id="word-412" class="word"><a href="http://www.latin-dictionary.net/definition/25486/lenis-lene-lenior">lenis, lene, lenior</a> adj</li>
+          <li id="word-413" class="word"><a href="http://www.latin-dictionary.net/definition/25487/lenitas-lenitatis">lenitas, lenitatis</a> n</li>
+          <li id="word-414" class="word"><a href="http://www.latin-dictionary.net/definition/25488/leniter-lenius-lenissime">leniter, lenius, lenissime</a> adv</li>
+          <li id="word-415" class="word"><a href="http://www.latin-dictionary.net/definition/25489/lenitudo-lenitudinis">lenitudo, lenitudinis</a> n</li>
+          <li id="word-416" class="word"><a href="http://www.latin-dictionary.net/definition/25490/leno-lenonis">leno, lenonis</a> n</li>
+          <li id="word-417" class="word"><a href="http://www.latin-dictionary.net/definition/25491/lenocinium-lenocini-i">lenocinium, lenocini(i)</a> n</li>
+          <li id="word-418" class="word"><a href="http://www.latin-dictionary.net/definition/25492/lenocinor-lenocinari-lenocinatus">lenocinor, lenocinari, lenocinatus</a> v</li>
+          <li id="word-419" class="word"><a href="http://www.latin-dictionary.net/definition/25493/lens-lentis">lens, lentis</a> n</li>
+          <li id="word-420" class="word"><a href="http://www.latin-dictionary.net/definition/25494/lente">lente</a> adv</li>
+          <li id="word-421" class="word"><a href="http://www.latin-dictionary.net/definition/25495/lentesco-lentescere">lentesco, lentescere, -, -</a> v</li>
+          <li id="word-422" class="word"><a href="http://www.latin-dictionary.net/definition/25496/lenticula-lenticulae">lenticula, lenticulae</a> n</li>
+          <li id="word-423" class="word"><a href="http://www.latin-dictionary.net/definition/25497/lentigo-lentiginis">lentigo, lentiginis</a> n</li>
+          <li id="word-424" class="word"><a href="http://www.latin-dictionary.net/definition/25498/lentiscifer-lentiscifra-lentiscifrum">lentiscifer, lentiscifra, lentiscifrum</a> adj</li>
+          <li id="word-425" class="word"><a href="http://www.latin-dictionary.net/definition/25499/lentiscum-lentisci">lentiscum, lentisci</a> n</li>
+          <li id="word-426" class="word"><a href="http://www.latin-dictionary.net/definition/25500/lentiscus-lentisci">lentiscus, lentisci</a> n</li>
+          <li id="word-427" class="word"><a href="http://www.latin-dictionary.net/definition/25501/lentitudo-lentitudinis">lentitudo, lentitudinis</a> n</li>
+          <li id="word-428" class="word"><a href="http://www.latin-dictionary.net/definition/25502/lento-lentare-lentavi-lentatus">lento, lentare, lentavi, lentatus</a> v</li>
+          <li id="word-429" class="word"><a href="http://www.latin-dictionary.net/definition/25503/lentor-lentoris">lentor, lentoris</a> n</li>
+          <li id="word-430" class="word"><a href="http://www.latin-dictionary.net/definition/25504/lentulus-lentula-lentulum">lentulus, lentula, lentulum</a> adj</li>
+          <li id="word-431" class="word"><a href="http://www.latin-dictionary.net/definition/25505/lentus-lenta">lentus, lenta</a> adj</li>
+          <li id="word-432" class="word"><a href="http://www.latin-dictionary.net/definition/25506/lenunculus-lenunculi">lenunculus, lenunculi</a> n</li>
+          <li id="word-433" class="word"><a href="http://www.latin-dictionary.net/definition/25507/Leo-Leonis">Leo, Leonis</a> n</li>
+          <li id="word-434" class="word"><a href="http://www.latin-dictionary.net/definition/25508/leo-leonis">leo, leonis</a> n</li>
+          <li id="word-435" class="word"><a href="http://www.latin-dictionary.net/definition/25509/Leodium-Leodi-i">Leodium, Leodi(i)</a> n</li>
+          <li id="word-436" class="word"><a href="http://www.latin-dictionary.net/definition/25510/leoninus-leonina-leoninum">leoninus, leonina, leoninum</a> adj</li>
+          <li id="word-437" class="word"><a href="http://www.latin-dictionary.net/definition/25511/leopardalis-leopardalis">leopardalis, leopardalis</a> n</li>
+          <li id="word-438" class="word"><a href="http://www.latin-dictionary.net/definition/25512/leopardus-leopardi">leopardus, leopardi</a> n</li>
+          <li id="word-439" class="word"><a href="http://www.latin-dictionary.net/definition/25513/lepas-lepados-is">lepas, lepados/is</a> n</li>
+          <li id="word-440" class="word"><a href="http://www.latin-dictionary.net/definition/25514/lepide">lepide</a> adv</li>
+          <li id="word-441" class="word"><a href="http://www.latin-dictionary.net/definition/25515/lepidus-lepida">lepidus, lepida</a> adj</li>
+          <li id="word-442" class="word"><a href="http://www.latin-dictionary.net/definition/25516/lepor-leporis">lepor, leporis</a> n</li>
+          <li id="word-443" class="word"><a href="http://www.latin-dictionary.net/definition/25517/leporarium-leporarii">leporarium, leporarii</a> n</li>
+          <li id="word-444" class="word"><a href="http://www.latin-dictionary.net/definition/25518/leporarius-leporaria-leporarium">leporarius, leporaria, leporarium</a> adj</li>
+          <li id="word-445" class="word"><a href="http://www.latin-dictionary.net/definition/25519/leporinus-leporina-leporinum">leporinus, leporina, leporinum</a> adj</li>
+          <li id="word-446" class="word"><a href="http://www.latin-dictionary.net/definition/25520/lepos-leporis">lepos, leporis</a> n</li>
+          <li id="word-447" class="word"><a href="http://www.latin-dictionary.net/definition/25521/lepra-leprae">lepra, leprae</a> n</li>
+          <li id="word-448" class="word"><a href="http://www.latin-dictionary.net/definition/25522/leprosus-leprosa-leprosum">leprosus, leprosa, leprosum</a> adj</li>
+          <li id="word-449" class="word"><a href="http://www.latin-dictionary.net/definition/25523/leprosus-leprosi">leprosus, leprosi</a> n</li>
+          <li id="word-450" class="word"><a href="http://www.latin-dictionary.net/definition/25524/lepus-leporis">lepus, leporis</a> n</li>
+          <li id="word-451" class="word"><a href="http://www.latin-dictionary.net/definition/25525/lepusculus-lepusculi">lepusculus, lepusculi</a> n</li>
+          <li id="word-452" class="word"><a href="http://www.latin-dictionary.net/definition/25526/lesbianismus-lesbianismi">lesbianismus, lesbianismi</a> n</li>
+          <li id="word-453" class="word"><a href="http://www.latin-dictionary.net/definition/25527/Lesbias-Lesbiados-is">Lesbias, Lesbiados/is</a> n</li>
+          <li id="word-454" class="word"><a href="http://www.latin-dictionary.net/definition/25528/Lesbis-Lesbidos-is">Lesbis, Lesbidos/is</a> n</li>
+          <li id="word-455" class="word"><a href="http://www.latin-dictionary.net/definition/25529/Lesbium-Lesbi-i">Lesbium, Lesbi(i)</a> n</li>
+          <li id="word-456" class="word"><a href="http://www.latin-dictionary.net/definition/25530/Lesbius-Lesbia-Lesbium">Lesbius, Lesbia, Lesbium</a> adj</li>
+          <li id="word-457" class="word"><a href="http://www.latin-dictionary.net/definition/25531/lesbius-lesbia-lesbium">lesbius, lesbia, lesbium</a> adj</li>
+          <li id="word-458" class="word"><a href="http://www.latin-dictionary.net/definition/25532/Lesbos-Lesbi">Lesbos, Lesbi</a> n</li>
+          <li id="word-459" class="word"><a href="http://www.latin-dictionary.net/definition/25533/Lesbous-Lesboa-Lesboum">Lesbous, Lesboa, Lesboum</a> adj</li>
+          <li id="word-460" class="word"><a href="http://www.latin-dictionary.net/definition/25534/Lesbus-Lesbi">Lesbus, Lesbi</a> n</li>
+          <li id="word-461" class="word"><a href="http://www.latin-dictionary.net/definition/25535/lessus-lessi">lessus, lessi</a> n</li>
+          <li id="word-462" class="word"><a href="http://www.latin-dictionary.net/definition/25536/letalis-letalis-letale">letalis, letalis, letale</a> adj</li>
+          <li id="word-463" class="word"><a href="http://www.latin-dictionary.net/definition/25537/letania-letaniae">letania, letaniae</a> n</li>
+          <li id="word-464" class="word"><a href="http://www.latin-dictionary.net/definition/25538/Lethaeus-Lethaea-Lethaeum">Lethaeus, Lethaea, Lethaeum</a> adj</li>
+          <li id="word-465" class="word"><a href="http://www.latin-dictionary.net/definition/25539/lethargicus-lethargici">lethargicus, lethargici</a> n</li>
+          <li id="word-466" class="word"><a href="http://www.latin-dictionary.net/definition/25540/lethargus-lethargi">lethargus, lethargi</a> n</li>
+          <li id="word-467" class="word"><a href="http://www.latin-dictionary.net/definition/25541/lethum-lethi">lethum, lethi</a> n</li>
+          <li id="word-468" class="word"><a href="http://www.latin-dictionary.net/definition/25542/letifer-letifera-letiferum">letifer, letifera, letiferum</a> adj</li>
+          <li id="word-469" class="word"><a href="http://www.latin-dictionary.net/definition/25543/leto-letare-letavi-letatus">leto, letare, letavi, letatus</a> v</li>
+          <li id="word-470" class="word"><a href="http://www.latin-dictionary.net/definition/25544/letum-leti">letum, leti</a> n</li>
+          <li id="word-471" class="word"><a href="http://www.latin-dictionary.net/definition/25545/leucacantha-leucacanthae">leucacantha, leucacanthae</a> n</li>
+          <li id="word-472" class="word"><a href="http://www.latin-dictionary.net/definition/25546/leucacanthos-leucacanthi">leucacanthos, leucacanthi</a> n</li>
+          <li id="word-473" class="word"><a href="http://www.latin-dictionary.net/definition/25547/leucaemia-leucaemiae">leucaemia, leucaemiae</a> n</li>
+          <li id="word-474" class="word"><a href="http://www.latin-dictionary.net/definition/25548/leucaspis-gen-leucaspidis">leucaspis, (gen.), leucaspidis</a> adj</li>
+          <li id="word-475" class="word"><a href="http://www.latin-dictionary.net/definition/25549/leunculus-leunculi">leunculus, leunculi</a> n</li>
+          <li id="word-476" class="word"><a href="http://www.latin-dictionary.net/definition/25550/levamen-levaminis">levamen, levaminis</a> n</li>
+          <li id="word-477" class="word"><a href="http://www.latin-dictionary.net/definition/25551/levamentum-levamenti">levamentum, levamenti</a> n</li>
+          <li id="word-478" class="word"><a href="http://www.latin-dictionary.net/definition/25552/levatio-levationis">levatio, levationis</a> n</li>
+          <li id="word-479" class="word"><a href="http://www.latin-dictionary.net/definition/25553/leviathan-undeclined">leviathan, undeclined</a> n</li>
+          <li id="word-480" class="word"><a href="http://www.latin-dictionary.net/definition/25554/leviculus-levicula-leviculum">leviculus, levicula, leviculum</a> adj</li>
+          <li id="word-481" class="word"><a href="http://www.latin-dictionary.net/definition/25555/levidensis-levidensis-levidense">levidensis, levidensis, levidense</a> adj</li>
+          <li id="word-482" class="word"><a href="http://www.latin-dictionary.net/definition/25556/levifico-levificare-levificavi-levificatus">levifico, levificare, levificavi, levificatus</a> v</li>
+          <li id="word-483" class="word"><a href="http://www.latin-dictionary.net/definition/25557/levigatus-levigata-levigatum">levigatus, levigata, levigatum</a> adj</li>
+          <li id="word-484" class="word"><a href="http://www.latin-dictionary.net/definition/25558/levigo-levigare-levigavi-levigatus">levigo, levigare, levigavi, levigatus</a> v</li>
+          <li id="word-485" class="word"><a href="http://www.latin-dictionary.net/definition/25559/levigo-levigare-levigavi-levigatus">levigo, levigare, levigavi, levigatus</a> v</li>
+          <li id="word-486" class="word"><a href="http://www.latin-dictionary.net/definition/25560/levis-leve-levior">levis, leve, levior</a> adj</li>
+          <li id="word-487" class="word"><a href="http://www.latin-dictionary.net/definition/25561/levis-leve-levior">levis, leve, levior</a> adj</li>
+          <li id="word-488" class="word"><a href="http://www.latin-dictionary.net/definition/25562/levisomnus-levisomna-levisomnum">levisomnus, levisomna, levisomnum</a> adj</li>
+          <li id="word-489" class="word"><a href="http://www.latin-dictionary.net/definition/25563/Levita-Levitae">Levita, Levitae</a> n</li>
+          <li id="word-490" class="word"><a href="http://www.latin-dictionary.net/definition/25564/levitas-levitatis">levitas, levitatis</a> n</li>
+          <li id="word-491" class="word"><a href="http://www.latin-dictionary.net/definition/25565/leviter-levius-levissime">leviter, levius, levissime</a> adv</li>
+          <li id="word-492" class="word"><a href="http://www.latin-dictionary.net/definition/25566/Leviticus-Levitica-Leviticum">Leviticus, Levitica, Leviticum</a> adj</li>
+          <li id="word-493" class="word"><a href="http://www.latin-dictionary.net/definition/25567/levo-levare-levavi-levatus">levo, levare, levavi, levatus</a> v</li>
+          <li id="word-494" class="word"><a href="http://www.latin-dictionary.net/definition/25568/levo-levare-levavi-levatus">levo, levare, levavi, levatus</a> v</li>
+          <li id="word-495" class="word"><a href="http://www.latin-dictionary.net/definition/25569/levo-levare-levavi-levatus">levo, levare, levavi, levatus</a> v</li>
+          <li id="word-496" class="word"><a href="http://www.latin-dictionary.net/definition/25570/levo-levare-levavi-levatus">levo, levare, levavi, levatus</a> v</li>
+          <li id="word-497" class="word"><a href="http://www.latin-dictionary.net/definition/25571/levor-levoris">levor, levoris</a> n</li>
+          <li id="word-498" class="word"><a href="http://www.latin-dictionary.net/definition/25572/lex-legis">lex, legis</a> n</li>
+          <li id="word-499" class="word"><a href="http://www.latin-dictionary.net/definition/25573/lex-lexeos-is">lex, lexeos/is</a> n</li>
+          <li id="word-500" class="word"><a href="http://www.latin-dictionary.net/definition/25574/lexicalis-lexicalis-lexicale">lexicalis, lexicalis, lexicale</a> adj</li>
+          <li id="word-501" class="word"><a href="http://www.latin-dictionary.net/definition/25575/lexicographia-lexicographiae">lexicographia, lexicographiae</a> n</li>
+          <li id="word-502" class="word"><a href="http://www.latin-dictionary.net/definition/25576/lexicographicus-lexicographica-lexicographicum">lexicographicus, lexicographica, lexicographicum</a> adj</li>
+          <li id="word-503" class="word"><a href="http://www.latin-dictionary.net/definition/25577/lexicographus-lexicographi">lexicographus, lexicographi</a> n</li>
+          <li id="word-504" class="word"><a href="http://www.latin-dictionary.net/definition/25578/lexicon-lexici">lexicon, lexici</a> n</li>
+          <li id="word-505" class="word"><a href="http://www.latin-dictionary.net/definition/25579/liana-lianae">liana, lianae</a> n</li>
+          <li id="word-506" class="word"><a href="http://www.latin-dictionary.net/definition/25580/libamen-libaminis">libamen, libaminis</a> n</li>
+          <li id="word-507" class="word"><a href="http://www.latin-dictionary.net/definition/25581/libamentum-libamenti">libamentum, libamenti</a> n</li>
+          <li id="word-508" class="word"><a href="http://www.latin-dictionary.net/definition/25582/libamenum-libameni">libamenum, libameni</a> n</li>
+          <li id="word-509" class="word"><a href="http://www.latin-dictionary.net/definition/25583/libanotis-libanotidis">libanotis, libanotidis</a> n</li>
+          <li id="word-510" class="word"><a href="http://www.latin-dictionary.net/definition/25584/libatio-libationis">libatio, libationis</a> n</li>
+          <li id="word-511" class="word"><a href="http://www.latin-dictionary.net/definition/25585/libella-libellae">libella, libellae</a> n</li>
+          <li id="word-512" class="word"><a href="http://www.latin-dictionary.net/definition/25586/libellus-libelli">libellus, libelli</a> n</li>
+          <li id="word-513" class="word"><a href="http://www.latin-dictionary.net/definition/25587/libens-libentis">libens, libentis</a> adj</li>
+          <li id="word-514" class="word"><a href="http://www.latin-dictionary.net/definition/25588/libenter-libentius-libentissime">libenter, libentius, libentissime</a> adv</li>
+          <li id="word-515" class="word"><a href="http://www.latin-dictionary.net/definition/25589/liber-libera">liber, libera</a> adj</li>
+          <li id="word-516" class="word"><a href="http://www.latin-dictionary.net/definition/25590/liber-libera">liber, libera</a> adj</li>
+          <li id="word-517" class="word"><a href="http://www.latin-dictionary.net/definition/25591/liber-liberi">liber, liberi</a> adj</li>
+          <li id="word-518" class="word"><a href="http://www.latin-dictionary.net/definition/25592/liber-libri">liber, libri</a> n</li>
+          <li id="word-519" class="word"><a href="http://www.latin-dictionary.net/definition/25593/liberalis-liberalis-liberale">liberalis, liberalis, liberale</a> adj</li>
+          <li id="word-520" class="word"><a href="http://www.latin-dictionary.net/definition/25594/liberalismus-liberalismi">liberalismus, liberalismi</a> n</li>
+          <li id="word-521" class="word"><a href="http://www.latin-dictionary.net/definition/25595/liberalitas-liberalitatis">liberalitas, liberalitatis</a> n</li>
+          <li id="word-522" class="word"><a href="http://www.latin-dictionary.net/definition/25596/liberaliter">liberaliter</a> adv</li>
+          <li id="word-523" class="word"><a href="http://www.latin-dictionary.net/definition/25597/liberatio-liberationis">liberatio, liberationis</a> n</li>
+          <li id="word-524" class="word"><a href="http://www.latin-dictionary.net/definition/25598/liberator-liberatoris">liberator, liberatoris</a> n</li>
+          <li id="word-525" class="word"><a href="http://www.latin-dictionary.net/definition/25599/libere">libere</a> adv</li>
+          <li id="word-526" class="word"><a href="http://www.latin-dictionary.net/definition/25600/libero-liberare-liberavi-liberatus">libero, liberare, liberavi, liberatus</a> v</li>
+          <li id="word-527" class="word"><a href="http://www.latin-dictionary.net/definition/25601/liberta-libertae">liberta, libertae</a> n</li>
+          <li id="word-528" class="word"><a href="http://www.latin-dictionary.net/definition/25602/libertas-libertatis">libertas, libertatis</a> n</li>
+          <li id="word-529" class="word"><a href="http://www.latin-dictionary.net/definition/25603/libertina-libertinae">libertina, libertinae</a> n</li>
+          <li id="word-530" class="word"><a href="http://www.latin-dictionary.net/definition/25604/libertinus-libertina-libertinum">libertinus, libertina, libertinum</a> adj</li>
+          <li id="word-531" class="word"><a href="http://www.latin-dictionary.net/definition/25605/libertinus-libertini">libertinus, libertini</a> n</li>
+          <li id="word-532" class="word"><a href="http://www.latin-dictionary.net/definition/25606/liberto-libertare-libertavi-libertatus">liberto, libertare, libertavi, libertatus</a> v</li>
+          <li id="word-533" class="word"><a href="http://www.latin-dictionary.net/definition/25607/libertus-liberti">libertus, liberti</a> n</li>
+          <li id="word-534" class="word"><a href="http://www.latin-dictionary.net/definition/25608/libet-libere-libuit-libitus">libet, libere, libuit, libitus</a> v</li>
+          <li id="word-535" class="word"><a href="http://www.latin-dictionary.net/definition/25609/libidinor-libidinari-libidinatus">libidinor, libidinari, libidinatus</a> v</li>
+          <li id="word-536" class="word"><a href="http://www.latin-dictionary.net/definition/25610/libidinosus-libidinosa-libidinosum">libidinosus, libidinosa, libidinosum</a> adj</li>
+          <li id="word-537" class="word"><a href="http://www.latin-dictionary.net/definition/25611/libido-libidinis">libido, libidinis</a> n</li>
+          <li id="word-538" class="word"><a href="http://www.latin-dictionary.net/definition/25612/Libitina-Libitinae">Libitina, Libitinae</a> n</li>
+          <li id="word-539" class="word"><a href="http://www.latin-dictionary.net/definition/25613/libitinarius-libitinari-i">libitinarius, libitinari(i)</a> n</li>
+          <li id="word-540" class="word"><a href="http://www.latin-dictionary.net/definition/25614/libo-libare-libavi-libatus">libo, libare, libavi, libatus</a> v</li>
+          <li id="word-541" class="word"><a href="http://www.latin-dictionary.net/definition/25615/Libo-Libonis">Libo, Libonis</a> n</li>
+          <li id="word-542" class="word"><a href="http://www.latin-dictionary.net/definition/25616/libra-librae">libra, librae</a> n</li>
+          <li id="word-543" class="word"><a href="http://www.latin-dictionary.net/definition/25617/libramen-libraminis">libramen, libraminis</a> n</li>
+          <li id="word-544" class="word"><a href="http://www.latin-dictionary.net/definition/25618/libramentum-libramenti">libramentum, libramenti</a> n</li>
+          <li id="word-545" class="word"><a href="http://www.latin-dictionary.net/definition/25619/libraria-librariae">libraria, librariae</a> n</li>
+          <li id="word-546" class="word"><a href="http://www.latin-dictionary.net/definition/25620/librariolus-librarioli">librariolus, librarioli</a> n</li>
+          <li id="word-547" class="word"><a href="http://www.latin-dictionary.net/definition/25621/librarium-librari-i">librarium, librari(i)</a> n</li>
+          <li id="word-548" class="word"><a href="http://www.latin-dictionary.net/definition/25622/librarium-librarii">librarium, librarii</a> n</li>
+          <li id="word-549" class="word"><a href="http://www.latin-dictionary.net/definition/25623/librarius-librari-i">librarius, librari(i)</a> n</li>
+          <li id="word-550" class="word"><a href="http://www.latin-dictionary.net/definition/25624/librarius-libraria-librarium">librarius, libraria, librarium</a> adj</li>
+          <li id="word-551" class="word"><a href="http://www.latin-dictionary.net/definition/25625/librarius-librarii">librarius, librarii</a> n</li>
+          <li id="word-552" class="word"><a href="http://www.latin-dictionary.net/definition/25626/libratio-librationis">libratio, librationis</a> n</li>
+          <li id="word-553" class="word"><a href="http://www.latin-dictionary.net/definition/25627/libricola-libricolae">libricola, libricolae</a> n</li>
+          <li id="word-554" class="word"><a href="http://www.latin-dictionary.net/definition/25628/librilis-librilis-librile">librilis, librilis, librile</a> adj</li>
+          <li id="word-555" class="word"><a href="http://www.latin-dictionary.net/definition/25629/libripens-libripentis">libripens, libripentis</a> n</li>
+          <li id="word-556" class="word"><a href="http://www.latin-dictionary.net/definition/25630/libritor-libritoris">libritor, libritoris</a> n</li>
+          <li id="word-557" class="word"><a href="http://www.latin-dictionary.net/definition/25631/libro-librare-libravi-libratus">libro, librare, libravi, libratus</a> v</li>
+          <li id="word-558" class="word"><a href="http://www.latin-dictionary.net/definition/25632/libum-libi">libum, libi</a> n</li>
+          <li id="word-559" class="word"><a href="http://www.latin-dictionary.net/definition/25633/liburna-liburnae">liburna, liburnae</a> n</li>
+          <li id="word-560" class="word"><a href="http://www.latin-dictionary.net/definition/25634/liburnica-liburnicae">liburnica, liburnicae</a> n</li>
+          <li id="word-561" class="word"><a href="http://www.latin-dictionary.net/definition/25635/Liburnicus-Liburnica-Liburnicum">Liburnicus, Liburnica, Liburnicum</a> adj</li>
+          <li id="word-562" class="word"><a href="http://www.latin-dictionary.net/definition/25636/Liburnus-Liburni">Liburnus, Liburni</a> n</li>
+          <li id="word-563" class="word"><a href="http://www.latin-dictionary.net/definition/25637/Libya-Libyae">Libya, Libyae</a> n</li>
+          <li id="word-564" class="word"><a href="http://www.latin-dictionary.net/definition/25638/Libycus-Libyca-Libycum">Libycus, Libyca, Libycum</a> adj</li>
+          <li id="word-565" class="word"><a href="http://www.latin-dictionary.net/definition/25639/Libye-Libyes">Libye, Libyes</a> n</li>
+          <li id="word-566" class="word"><a href="http://www.latin-dictionary.net/definition/25640/licens-licentis">licens, licentis</a> adj</li>
+          <li id="word-567" class="word"><a href="http://www.latin-dictionary.net/definition/25641/licenter">licenter</a> adv</li>
+          <li id="word-568" class="word"><a href="http://www.latin-dictionary.net/definition/25642/licentia-licentiae">licentia, licentiae</a> n</li>
+          <li id="word-569" class="word"><a href="http://www.latin-dictionary.net/definition/25643/licentio-licentiare-licentiavi-licentiatus">licentio, licentiare, licentiavi, licentiatus</a> v</li>
+          <li id="word-570" class="word"><a href="http://www.latin-dictionary.net/definition/25644/licentiosus-licentiosa-licentiosum">licentiosus, licentiosa, licentiosum</a> adj</li>
+          <li id="word-571" class="word"><a href="http://www.latin-dictionary.net/definition/25645/liceo-licere-licui">liceo, licere, licui, -</a> v</li>
+          <li id="word-572" class="word"><a href="http://www.latin-dictionary.net/definition/25646/liceor-liceri-licitus">liceor, liceri, licitus</a> v</li>
+          <li id="word-573" class="word"><a href="http://www.latin-dictionary.net/definition/25647/licet">licet</a> conj</li>
+          <li id="word-574" class="word"><a href="http://www.latin-dictionary.net/definition/25648/licet-licere-licuit-licitus">licet, licere, licuit, licitus</a> v</li>
+          <li id="word-575" class="word"><a href="http://www.latin-dictionary.net/definition/25649/lichanos-lichani">lichanos, lichani</a> n</li>
+          <li id="word-576" class="word"><a href="http://www.latin-dictionary.net/definition/25650/lichen-lichenis">lichen, lichenis</a> n</li>
+          <li id="word-577" class="word"><a href="http://www.latin-dictionary.net/definition/25651/liciatorium-liciatorii">liciatorium, liciatorii</a> n</li>
+          <li id="word-578" class="word"><a href="http://www.latin-dictionary.net/definition/25652/Licinius-Licinia-Licinium">Licinius, Licinia, Licinium</a> adj</li>
+          <li id="word-579" class="word"><a href="http://www.latin-dictionary.net/definition/25653/licitatio-licitationis">licitatio, licitationis</a> n</li>
+          <li id="word-580" class="word"><a href="http://www.latin-dictionary.net/definition/25654/licitus-licita-licitum">licitus, licita, licitum</a> adj</li>
+          <li id="word-581" class="word"><a href="http://www.latin-dictionary.net/definition/25655/licium-lici-i">licium, lici(i)</a> n</li>
+          <li id="word-582" class="word"><a href="http://www.latin-dictionary.net/definition/25656/lictor-lictoris">lictor, lictoris</a> n</li>
+          <li id="word-583" class="word"><a href="http://www.latin-dictionary.net/definition/25657/lien-lienis">lien, lienis</a> n</li>
+          <li id="word-584" class="word"><a href="http://www.latin-dictionary.net/definition/25658/lienis-lienis">lienis, lienis</a> n</li>
+          <li id="word-585" class="word"><a href="http://www.latin-dictionary.net/definition/25659/lienosus-lienosa-lienosum">lienosus, lienosa, lienosum</a> adj</li>
+          <li id="word-586" class="word"><a href="http://www.latin-dictionary.net/definition/25660/lienosus-lienosi">lienosus, lienosi</a> n</li>
+          <li id="word-587" class="word"><a href="http://www.latin-dictionary.net/definition/25661/liga-ligae">liga, ligae</a> n</li>
+          <li id="word-588" class="word"><a href="http://www.latin-dictionary.net/definition/25662/ligamen-ligaminis">ligamen, ligaminis</a> n</li>
+          <li id="word-589" class="word"><a href="http://www.latin-dictionary.net/definition/25663/ligamentum-ligamenti">ligamentum, ligamenti</a> n</li>
+          <li id="word-590" class="word"><a href="http://www.latin-dictionary.net/definition/25664/ligator-ligatoris">ligator, ligatoris</a> n</li>
+          <li id="word-591" class="word"><a href="http://www.latin-dictionary.net/definition/25665/ligatura-ligaturae">ligatura, ligaturae</a> n</li>
+          <li id="word-592" class="word"><a href="http://www.latin-dictionary.net/definition/25666/Liger-Ligeris">Liger, Ligeris</a> n</li>
+          <li id="word-593" class="word"><a href="http://www.latin-dictionary.net/definition/25667/ligia-ligiae">ligia, ligiae</a> n</li>
+          <li id="word-594" class="word"><a href="http://www.latin-dictionary.net/definition/25668/lignarius-lignari-i">lignarius, lignari(i)</a> n</li>
+          <li id="word-595" class="word"><a href="http://www.latin-dictionary.net/definition/25669/lignatio-lignationis">lignatio, lignationis</a> n</li>
+          <li id="word-596" class="word"><a href="http://www.latin-dictionary.net/definition/25670/lignator-lignatoris">lignator, lignatoris</a> n</li>
+          <li id="word-597" class="word"><a href="http://www.latin-dictionary.net/definition/25671/ligneolus-ligneola-ligneolum">ligneolus, ligneola, ligneolum</a> adj</li>
+          <li id="word-598" class="word"><a href="http://www.latin-dictionary.net/definition/25672/ligneus-lignea-ligneum">ligneus, lignea, ligneum</a> adj</li>
+          <li id="word-599" class="word"><a href="http://www.latin-dictionary.net/definition/25673/lignor-lignari-lignatus">lignor, lignari, lignatus</a> v</li>
+          <li id="word-600" class="word"><a href="http://www.latin-dictionary.net/definition/25674/lignosus-lignosa-lignosum">lignosus, lignosa, lignosum</a> adj</li>
+          <li id="word-601" class="word"><a href="http://www.latin-dictionary.net/definition/25675/lignum-ligni">lignum, ligni</a> n</li>
+          <li id="word-602" class="word"><a href="http://www.latin-dictionary.net/definition/25676/lignum-ligni">lignum, ligni</a> n</li>
+          <li id="word-603" class="word"><a href="http://www.latin-dictionary.net/definition/25677/lignum-ligni">lignum, ligni</a> n</li>
+          <li id="word-604" class="word"><a href="http://www.latin-dictionary.net/definition/25678/ligo-ligare-ligavi-ligatus">ligo, ligare, ligavi, ligatus</a> v</li>
+          <li id="word-605" class="word"><a href="http://www.latin-dictionary.net/definition/25679/ligo-ligonis">ligo, ligonis</a> n</li>
+          <li id="word-606" class="word"><a href="http://www.latin-dictionary.net/definition/25680/ligula-ligulae">ligula, ligulae</a> n</li>
+          <li id="word-607" class="word"><a href="http://www.latin-dictionary.net/definition/25681/ligurio-ligurire-ligurivi-liguritus">ligurio, ligurire, ligurivi, liguritus</a> v</li>
+          <li id="word-608" class="word"><a href="http://www.latin-dictionary.net/definition/25682/ligurius-ligurii">ligurius, ligurii</a> n</li>
+          <li id="word-609" class="word"><a href="http://www.latin-dictionary.net/definition/25683/ligurrio-ligurrire-ligurrivi-ligurritus">ligurrio, ligurrire, ligurrivi, ligurritus</a> v</li>
+          <li id="word-610" class="word"><a href="http://www.latin-dictionary.net/definition/25684/ligustrum-ligustri">ligustrum, ligustri</a> n</li>
+          <li id="word-611" class="word"><a href="http://www.latin-dictionary.net/definition/25685/ligyrius-ligyrii">ligyrius, ligyrii</a> n</li>
+          <li id="word-612" class="word"><a href="http://www.latin-dictionary.net/definition/25686/lilacinus-lilacina-lilacinum">lilacinus, lilacina, lilacinum</a> adj</li>
+          <li id="word-613" class="word"><a href="http://www.latin-dictionary.net/definition/25687/lilium-lili-i">lilium, lili(i)</a> n</li>
+          <li id="word-614" class="word"><a href="http://www.latin-dictionary.net/definition/25688/lima-limae">lima, limae</a> n</li>
+          <li id="word-615" class="word"><a href="http://www.latin-dictionary.net/definition/25689/limatulus-limatula-limatulum">limatulus, limatula, limatulum</a> adj</li>
+          <li id="word-616" class="word"><a href="http://www.latin-dictionary.net/definition/25690/limatura-limaturae">limatura, limaturae</a> n</li>
+          <li id="word-617" class="word"><a href="http://www.latin-dictionary.net/definition/25691/limatus-limata">limatus, limata</a> adj</li>
+          <li id="word-618" class="word"><a href="http://www.latin-dictionary.net/definition/25692/limax-limacis">limax, limacis</a> n</li>
+          <li id="word-619" class="word"><a href="http://www.latin-dictionary.net/definition/25693/limbus-limbi">limbus, limbi</a> n</li>
+          <li id="word-620" class="word"><a href="http://www.latin-dictionary.net/definition/25694/limen-liminis">limen, liminis</a> n</li>
+          <li id="word-621" class="word"><a href="http://www.latin-dictionary.net/definition/25695/limes-limitis">limes, limitis</a> n</li>
+          <li id="word-622" class="word"><a href="http://www.latin-dictionary.net/definition/25696/limino-liminare-liminavi-liminatus">limino, liminare, liminavi, liminatus</a> v</li>
+          <li id="word-623" class="word"><a href="http://www.latin-dictionary.net/definition/25697/limitaneus-limitanea-limitaneum">limitaneus, limitanea, limitaneum</a> adj</li>
+          <li id="word-624" class="word"><a href="http://www.latin-dictionary.net/definition/25698/limitaris-limitaris-limitare">limitaris, limitaris, limitare</a> adj</li>
+          <li id="word-625" class="word"><a href="http://www.latin-dictionary.net/definition/25699/limitatio-limitationis">limitatio, limitationis</a> n</li>
+          <li id="word-626" class="word"><a href="http://www.latin-dictionary.net/definition/25700/limito-limitare-limitavi-limitatus">limito, limitare, limitavi, limitatus</a> v</li>
+          <li id="word-627" class="word"><a href="http://www.latin-dictionary.net/definition/25701/limitotrophus-limitotropha-limitotrophum">limitotrophus, limitotropha, limitotrophum</a> adj</li>
+          <li id="word-628" class="word"><a href="http://www.latin-dictionary.net/definition/25702/limitrophis-limitrophis-limitrophe">limitrophis, limitrophis, limitrophe</a> adj</li>
+          <li id="word-629" class="word"><a href="http://www.latin-dictionary.net/definition/25703/limitrophus-limitropha-limitrophum">limitrophus, limitropha, limitrophum</a> adj</li>
+          <li id="word-630" class="word"><a href="http://www.latin-dictionary.net/definition/25704/limma-limmatis">limma, limmatis</a> n</li>
+          <li id="word-631" class="word"><a href="http://www.latin-dictionary.net/definition/25705/limo-limare-limavi-limatus">limo, limare, limavi, limatus</a> v</li>
+          <li id="word-632" class="word"><a href="http://www.latin-dictionary.net/definition/25706/limonata-limonatae">limonata, limonatae</a> n</li>
+          <li id="word-633" class="word"><a href="http://www.latin-dictionary.net/definition/25707/limosus-limosa-limosum">limosus, limosa, limosum</a> adj</li>
+          <li id="word-634" class="word"><a href="http://www.latin-dictionary.net/definition/25708/limpidus-limpida">limpidus, limpida</a> adj</li>
+          <li id="word-635" class="word"><a href="http://www.latin-dictionary.net/definition/25709/limus-lima-limum">limus, lima, limum</a> adj</li>
+          <li id="word-636" class="word"><a href="http://www.latin-dictionary.net/definition/25710/limus-limi">limus, limi</a> n</li>
+          <li id="word-637" class="word"><a href="http://www.latin-dictionary.net/definition/25711/limus-limi">limus, limi</a> n</li>
+          <li id="word-638" class="word"><a href="http://www.latin-dictionary.net/definition/25712/limusina-limusinae">limusina, limusinae</a> n</li>
+          <li id="word-639" class="word"><a href="http://www.latin-dictionary.net/definition/25713/linamentum-linamenti">linamentum, linamenti</a> n</li>
+          <li id="word-640" class="word"><a href="http://www.latin-dictionary.net/definition/25714/linea-lineae">linea, lineae</a> n</li>
+          <li id="word-641" class="word"><a href="http://www.latin-dictionary.net/definition/25715/lineamentum-lineamenti">lineamentum, lineamenti</a> n</li>
+          <li id="word-642" class="word"><a href="http://www.latin-dictionary.net/definition/25716/lineatus-lineata-lineatum">lineatus, lineata, lineatum</a> adj</li>
+          <li id="word-643" class="word"><a href="http://www.latin-dictionary.net/definition/25717/lineo-linere-linui-linitus">lineo, linere, linui, linitus</a> v</li>
+          <li id="word-644" class="word"><a href="http://www.latin-dictionary.net/definition/25718/lineus-linea-lineum">lineus, linea, lineum</a> adj</li>
+          <li id="word-645" class="word"><a href="http://www.latin-dictionary.net/definition/25719/lingo-lingere-linxi-linctus">lingo, lingere, linxi, linctus</a> v</li>
+          <li id="word-646" class="word"><a href="http://www.latin-dictionary.net/definition/25720/Lingon-Lingonis">Lingon, Lingonis</a> n</li>
+          <li id="word-647" class="word"><a href="http://www.latin-dictionary.net/definition/25721/lingua-linguae">lingua, linguae</a> n</li>
+          <li id="word-648" class="word"><a href="http://www.latin-dictionary.net/definition/25722/linguista-linguistae">linguista, linguistae</a> n</li>
+          <li id="word-649" class="word"><a href="http://www.latin-dictionary.net/definition/25723/linguistica-linguisticae">linguistica, linguisticae</a> n</li>
+          <li id="word-650" class="word"><a href="http://www.latin-dictionary.net/definition/25724/linguisticus-linguistica-linguisticum">linguisticus, linguistica, linguisticum</a> adj</li>
+          <li id="word-651" class="word"><a href="http://www.latin-dictionary.net/definition/25725/lingula-lingulae">lingula, lingulae</a> n</li>
+          <li id="word-652" class="word"><a href="http://www.latin-dictionary.net/definition/25726/lingulaca-lingulacae">lingulaca, lingulacae</a> n</li>
+          <li id="word-653" class="word"><a href="http://www.latin-dictionary.net/definition/25727/linguosus-linguosa-linguosum">linguosus, linguosa, linguosum</a> adj</li>
+          <li id="word-654" class="word"><a href="http://www.latin-dictionary.net/definition/25728/liniamentum-liniamenti">liniamentum, liniamenti</a> n</li>
+          <li id="word-655" class="word"><a href="http://www.latin-dictionary.net/definition/25729/liniger-linigera-linigerum">liniger, linigera, linigerum</a> adj</li>
+          <li id="word-656" class="word"><a href="http://www.latin-dictionary.net/definition/25730/linio-linire-linivi-linitus">linio, linire, linivi, linitus</a> v</li>
+          <li id="word-657" class="word"><a href="http://www.latin-dictionary.net/definition/25731/lino-linere-levi-litus">lino, linere, levi, litus</a> v</li>
+          <li id="word-658" class="word"><a href="http://www.latin-dictionary.net/definition/25732/linostimus-linostima-linostimum">linostimus, linostima, linostimum</a> adj</li>
+          <li id="word-659" class="word"><a href="http://www.latin-dictionary.net/definition/25733/linquo-linquere-liqui-lictus">linquo, linquere, liqui, lictus</a> v</li>
+          <li id="word-660" class="word"><a href="http://www.latin-dictionary.net/definition/25734/linteamen-linteaminis">linteamen, linteaminis</a> n</li>
+          <li id="word-661" class="word"><a href="http://www.latin-dictionary.net/definition/25735/linteatus-linteata-linteatum">linteatus, linteata, linteatum</a> adj</li>
+          <li id="word-662" class="word"><a href="http://www.latin-dictionary.net/definition/25736/linteo-linteonis">linteo, linteonis</a> n</li>
+          <li id="word-663" class="word"><a href="http://www.latin-dictionary.net/definition/25737/linteolum-linteoli">linteolum, linteoli</a> n</li>
+          <li id="word-664" class="word"><a href="http://www.latin-dictionary.net/definition/25738/linter-lintris">linter, lintris</a> n</li>
+          <li id="word-665" class="word"><a href="http://www.latin-dictionary.net/definition/25739/linteum-lintei">linteum, lintei</a> n</li>
+          <li id="word-666" class="word"><a href="http://www.latin-dictionary.net/definition/25740/linteus-lintea-linteum">linteus, lintea, linteum</a> adj</li>
+          <li id="word-667" class="word"><a href="http://www.latin-dictionary.net/definition/25741/lintriculus-lintriculi">lintriculus, lintriculi</a> n</li>
+          <li id="word-668" class="word"><a href="http://www.latin-dictionary.net/definition/25742/linum-lini">linum, lini</a> n</li>
+          <li id="word-669" class="word"><a href="http://www.latin-dictionary.net/definition/25743/lipara-liparae">lipara, liparae</a> n</li>
+          <li id="word-670" class="word"><a href="http://www.latin-dictionary.net/definition/25744/lippio-lippire">lippio, lippire, -, -</a> v</li>
+          <li id="word-671" class="word"><a href="http://www.latin-dictionary.net/definition/25745/lippus-lippa-lippum">lippus, lippa, lippum</a> adj</li>
+          <li id="word-672" class="word"><a href="http://www.latin-dictionary.net/definition/25746/lipsanotheca-lipsanothecae">lipsanotheca, lipsanothecae</a> n</li>
+          <li id="word-673" class="word"><a href="http://www.latin-dictionary.net/definition/25747/liquamen-liquaminis">liquamen, liquaminis</a> n</li>
+          <li id="word-674" class="word"><a href="http://www.latin-dictionary.net/definition/25748/liquamentum-liquamenti">liquamentum, liquamenti</a> n</li>
+          <li id="word-675" class="word"><a href="http://www.latin-dictionary.net/definition/25749/liquatio-liquationis">liquatio, liquationis</a> n</li>
+          <li id="word-676" class="word"><a href="http://www.latin-dictionary.net/definition/25750/liquefacio-liquefacere-liquefeci-liquefactus">liquefacio, liquefacere, liquefeci, liquefactus</a> v</li>
+          <li id="word-677" class="word"><a href="http://www.latin-dictionary.net/definition/25751/liquefactio-liquefactionis">liquefactio, liquefactionis</a> n</li>
+          <li id="word-678" class="word"><a href="http://www.latin-dictionary.net/definition/25752/liquefio-liqueferi-liquefactus">liquefio, liqueferi, liquefactus</a> v</li>
+          <li id="word-679" class="word"><a href="http://www.latin-dictionary.net/definition/25753/liqueo-liquere-licui">liqueo, liquere, licui, -</a> v</li>
+          <li id="word-680" class="word"><a href="http://www.latin-dictionary.net/definition/25754/liqueo-liquere-liqui">liqueo, liquere, liqui, -</a> v</li>
+          <li id="word-681" class="word"><a href="http://www.latin-dictionary.net/definition/25755/liquesco-liquescere">liquesco, liquescere, -, -</a> v</li>
+          <li id="word-682" class="word"><a href="http://www.latin-dictionary.net/definition/25756/liquet-liquere">liquet, liquere, -, -</a> v</li>
+          <li id="word-683" class="word"><a href="http://www.latin-dictionary.net/definition/25757/liquidus-liquida">liquidus, liquida</a> adj</li>
+          <li id="word-684" class="word"><a href="http://www.latin-dictionary.net/definition/25758/liquo-liquare-liquavi-liquatus">liquo, liquare, liquavi, liquatus</a> v</li>
+          <li id="word-685" class="word"><a href="http://www.latin-dictionary.net/definition/25759/liquor-liqui">liquor, liqui, -</a> v</li>
+          <li id="word-686" class="word"><a href="http://www.latin-dictionary.net/definition/25760/liquor-liquoris">liquor, liquoris</a> n</li>
+          <li id="word-687" class="word"><a href="http://www.latin-dictionary.net/definition/25761/lis-litis">lis, litis</a> n</li>
+          <li id="word-688" class="word"><a href="http://www.latin-dictionary.net/definition/25762/litania-litaniae">litania, litaniae</a> n</li>
+          <li id="word-689" class="word"><a href="http://www.latin-dictionary.net/definition/25763/litatio-litationis">litatio, litationis</a> n</li>
+          <li id="word-690" class="word"><a href="http://www.latin-dictionary.net/definition/25764/Litaviccus-Litavicci">Litaviccus, Litavicci</a> n</li>
+          <li id="word-691" class="word"><a href="http://www.latin-dictionary.net/definition/25765/litera-literae">litera, literae</a> n</li>
+          <li id="word-692" class="word"><a href="http://www.latin-dictionary.net/definition/25766/literula-literulae">literula, literulae</a> n</li>
+          <li id="word-693" class="word"><a href="http://www.latin-dictionary.net/definition/25767/literula-literulae">literula, literulae</a> n</li>
+          <li id="word-694" class="word"><a href="http://www.latin-dictionary.net/definition/25768/literula-literulae">literula, literulae</a> n</li>
+          <li id="word-695" class="word"><a href="http://www.latin-dictionary.net/definition/25769/literum-literi">literum, literi</a> n</li>
+          <li id="word-696" class="word"><a href="http://www.latin-dictionary.net/definition/25770/lithocolla-lithocollae">lithocolla, lithocollae</a> n</li>
+          <li id="word-697" class="word"><a href="http://www.latin-dictionary.net/definition/25771/lithographia-lithographiae">lithographia, lithographiae</a> n</li>
+          <li id="word-698" class="word"><a href="http://www.latin-dictionary.net/definition/25772/lithostrotum-lithostroti">lithostrotum, lithostroti</a> n</li>
+          <li id="word-699" class="word"><a href="http://www.latin-dictionary.net/definition/25773/lithostrotus-lithostrota-lithostrotum">lithostrotus, lithostrota, lithostrotum</a> adj</li>
+          <li id="word-700" class="word"><a href="http://www.latin-dictionary.net/definition/25774/litigator-litigatoris">litigator, litigatoris</a> n</li>
+          <li id="word-701" class="word"><a href="http://www.latin-dictionary.net/definition/25775/litigiosus-litigiosa-litigiosum">litigiosus, litigiosa, litigiosum</a> adj</li>
+          <li id="word-702" class="word"><a href="http://www.latin-dictionary.net/definition/25776/litigo-litigare-litigavi-litigatus">litigo, litigare, litigavi, litigatus</a> v</li>
+          <li id="word-703" class="word"><a href="http://www.latin-dictionary.net/definition/25777/lito-litare-litavi-litatus">lito, litare, litavi, litatus</a> v</li>
+          <li id="word-704" class="word"><a href="http://www.latin-dictionary.net/definition/25778/litoralis-litoralis-litorale">litoralis, litoralis, litorale</a> adj</li>
+          <li id="word-705" class="word"><a href="http://www.latin-dictionary.net/definition/25779/litoreus-litorea-litoreum">litoreus, litorea, litoreum</a> adj</li>
+          <li id="word-706" class="word"><a href="http://www.latin-dictionary.net/definition/25780/litra-litrae">litra, litrae</a> n</li>
+          <li id="word-707" class="word"><a href="http://www.latin-dictionary.net/definition/25781/litrum-litri">litrum, litri</a> n</li>
+          <li id="word-708" class="word"><a href="http://www.latin-dictionary.net/definition/25782/littera-litterae">littera, litterae</a> n</li>
+          <li id="word-709" class="word"><a href="http://www.latin-dictionary.net/definition/25783/litteralis-litteralis-litterale">litteralis, litteralis, litterale</a> adj</li>
+          <li id="word-710" class="word"><a href="http://www.latin-dictionary.net/definition/25784/litterarius-litteraria-litterarium">litterarius, litteraria, litterarium</a> adj</li>
+          <li id="word-711" class="word"><a href="http://www.latin-dictionary.net/definition/25785/litterate-litteratius-litteratissime">litterate, litteratius, litteratissime</a> adv</li>
+          <li id="word-712" class="word"><a href="http://www.latin-dictionary.net/definition/25786/litterate-litteratius-litteratissime">litterate, litteratius, litteratissime</a> adv</li>
+          <li id="word-713" class="word"><a href="http://www.latin-dictionary.net/definition/25787/litteratio-litterationis">litteratio, litterationis</a> n</li>
+          <li id="word-714" class="word"><a href="http://www.latin-dictionary.net/definition/25788/litterator-litteratoris">litterator, litteratoris</a> n</li>
+          <li id="word-715" class="word"><a href="http://www.latin-dictionary.net/definition/25789/litteratorius-litteratoria-litteratorium">litteratorius, litteratoria, litteratorium</a> adj</li>
+          <li id="word-716" class="word"><a href="http://www.latin-dictionary.net/definition/25790/litteratura-litteraturae">litteratura, litteraturae</a> n</li>
+          <li id="word-717" class="word"><a href="http://www.latin-dictionary.net/definition/25791/litteratura-litteraturae">litteratura, litteraturae</a> n</li>
+          <li id="word-718" class="word"><a href="http://www.latin-dictionary.net/definition/25792/litteratus-litterata-litteratum">litteratus, litterata, litteratum</a> adj</li>
+          <li id="word-719" class="word"><a href="http://www.latin-dictionary.net/definition/25793/litteratus-litterata-litteratum">litteratus, litterata, litteratum</a> adj</li>
+          <li id="word-720" class="word"><a href="http://www.latin-dictionary.net/definition/25794/litterosus-litterosa-litterosum">litterosus, litterosa, litterosum</a> adj</li>
+          <li id="word-721" class="word"><a href="http://www.latin-dictionary.net/definition/25795/litterula-litterulae">litterula, litterulae</a> n</li>
+          <li id="word-722" class="word"><a href="http://www.latin-dictionary.net/definition/25796/litterula-litterulae">litterula, litterulae</a> n</li>
+          <li id="word-723" class="word"><a href="http://www.latin-dictionary.net/definition/25797/litterula-litterulae">litterula, litterulae</a> n</li>
+          <li id="word-724" class="word"><a href="http://www.latin-dictionary.net/definition/25798/littus-littoris">littus, littoris</a> n</li>
+          <li id="word-725" class="word"><a href="http://www.latin-dictionary.net/definition/25799/litura-liturae">litura, liturae</a> n</li>
+          <li id="word-726" class="word"><a href="http://www.latin-dictionary.net/definition/25800/liturarium-liturarii">liturarium, liturarii</a> n</li>
+          <li id="word-727" class="word"><a href="http://www.latin-dictionary.net/definition/25801/liturgia-liturgiae">liturgia, liturgiae</a> n</li>
+          <li id="word-728" class="word"><a href="http://www.latin-dictionary.net/definition/25802/liturgicus-liturgica-liturgicum">liturgicus, liturgica, liturgicum</a> adj</li>
+          <li id="word-729" class="word"><a href="http://www.latin-dictionary.net/definition/25803/litus-litoris">litus, litoris</a> n</li>
+          <li id="word-730" class="word"><a href="http://www.latin-dictionary.net/definition/25804/lituus-litui">lituus, litui</a> n</li>
+          <li id="word-731" class="word"><a href="http://www.latin-dictionary.net/definition/25805/livens-gen-liventis">livens, (gen.), liventis</a> adj</li>
+          <li id="word-732" class="word"><a href="http://www.latin-dictionary.net/definition/25806/liveo-livere">liveo, livere, -, -</a> v</li>
+          <li id="word-733" class="word"><a href="http://www.latin-dictionary.net/definition/25807/livesco-livescere-livui">livesco, livescere, livui, -</a> v</li>
+          <li id="word-734" class="word"><a href="http://www.latin-dictionary.net/definition/25808/lividulus-lividula-lividulum">lividulus, lividula, lividulum</a> adj</li>
+          <li id="word-735" class="word"><a href="http://www.latin-dictionary.net/definition/25809/lividus-livida-lividum">lividus, livida, lividum</a> adj</li>
+          <li id="word-736" class="word"><a href="http://www.latin-dictionary.net/definition/25810/livor-livoris">livor, livoris</a> n</li>
+          <li id="word-737" class="word"><a href="http://www.latin-dictionary.net/definition/25811/lixa-lixae">lixa, lixae</a> n</li>
+          <li id="word-738" class="word"><a href="http://www.latin-dictionary.net/definition/25812/lixivus-lixiva-lixivum">lixivus, lixiva, lixivum</a> adj</li>
+          <li id="word-739" class="word"><a href="http://www.latin-dictionary.net/definition/25813/lo">lo</a> interj</li>
+          <li id="word-740" class="word"><a href="http://www.latin-dictionary.net/definition/25814/loba-lobae">loba, lobae</a> n</li>
+          <li id="word-741" class="word"><a href="http://www.latin-dictionary.net/definition/25815/lobia-lobiae">lobia, lobiae</a> n</li>
+          <li id="word-742" class="word"><a href="http://www.latin-dictionary.net/definition/25816/lobia-lobiae">lobia, lobiae</a> n</li>
+          <li id="word-743" class="word"><a href="http://www.latin-dictionary.net/definition/25817/lobus-lobi">lobus, lobi</a> n</li>
+          <li id="word-744" class="word"><a href="http://www.latin-dictionary.net/definition/25818/localis-localis-locale">localis, localis, locale</a> adj</li>
+          <li id="word-745" class="word"><a href="http://www.latin-dictionary.net/definition/25819/localiter">localiter</a> adv</li>
+          <li id="word-746" class="word"><a href="http://www.latin-dictionary.net/definition/25820/locarium-locarii">locarium, locarii</a> n</li>
+          <li id="word-747" class="word"><a href="http://www.latin-dictionary.net/definition/25821/locatio-locationis">locatio, locationis</a> n</li>
+          <li id="word-748" class="word"><a href="http://www.latin-dictionary.net/definition/25822/locator-locatoris">locator, locatoris</a> n</li>
+          <li id="word-749" class="word"><a href="http://www.latin-dictionary.net/definition/25823/locatorius-locatoria-locatorium">locatorius, locatoria, locatorium</a> adj</li>
+          <li id="word-750" class="word"><a href="http://www.latin-dictionary.net/definition/25824/locellus-locelli">locellus, locelli</a> n</li>
+          <li id="word-751" class="word"><a href="http://www.latin-dictionary.net/definition/25825/loco">loco</a> adv</li>
+          <li id="word-752" class="word"><a href="http://www.latin-dictionary.net/definition/25826/loco-locare-additional-forms">loco, locare, additional, forms</a> v</li>
+          <li id="word-753" class="word"><a href="http://www.latin-dictionary.net/definition/25827/loco-locare-locavi-locatus">loco, locare, locavi, locatus</a> v</li>
+          <li id="word-754" class="word"><a href="http://www.latin-dictionary.net/definition/25828/loculamentum-loculamenti">loculamentum, loculamenti</a> n</li>
+          <li id="word-755" class="word"><a href="http://www.latin-dictionary.net/definition/25829/loculatus-loculata-loculatum">loculatus, loculata, loculatum</a> adj</li>
+          <li id="word-756" class="word"><a href="http://www.latin-dictionary.net/definition/25830/loculosus-loculosa-loculosum">loculosus, loculosa, loculosum</a> adj</li>
+          <li id="word-757" class="word"><a href="http://www.latin-dictionary.net/definition/25831/loculus-loculi">loculus, loculi</a> adj</li>
+          <li id="word-758" class="word"><a href="http://www.latin-dictionary.net/definition/25832/loculus-loculi">loculus, loculi</a> n</li>
+          <li id="word-759" class="word"><a href="http://www.latin-dictionary.net/definition/25833/locum-loci">locum, loci</a> n</li>
+          <li id="word-760" class="word"><a href="http://www.latin-dictionary.net/definition/25834/locum-loci">locum, loci</a> n</li>
+          <li id="word-761" class="word"><a href="http://www.latin-dictionary.net/definition/25835/locum-loci">locum, loci</a> n</li>
+          <li id="word-762" class="word"><a href="http://www.latin-dictionary.net/definition/25836/locumtenens-locumtenentis">locumtenens, locumtenentis</a> n</li>
+          <li id="word-763" class="word"><a href="http://www.latin-dictionary.net/definition/25837/locuples-locupletis">locuples, locupletis</a> adj</li>
+          <li id="word-764" class="word"><a href="http://www.latin-dictionary.net/definition/25838/locupleto-locupletare-locupletavi-locupletatus">locupleto, locupletare, locupletavi, locupletatus</a> v</li>
+          <li id="word-765" class="word"><a href="http://www.latin-dictionary.net/definition/25839/locus-loci">locus, loci</a> n</li>
+          <li id="word-766" class="word"><a href="http://www.latin-dictionary.net/definition/25840/locus-loci">locus, loci</a> n</li>
+          <li id="word-767" class="word"><a href="http://www.latin-dictionary.net/definition/25841/locus-loci">locus, loci</a> n</li>
+          <li id="word-768" class="word"><a href="http://www.latin-dictionary.net/definition/25842/locusta-locustae">locusta, locustae</a> n</li>
+          <li id="word-769" class="word"><a href="http://www.latin-dictionary.net/definition/25843/locutio-locutionis">locutio, locutionis</a> n</li>
+          <li id="word-770" class="word"><a href="http://www.latin-dictionary.net/definition/25844/lodix-lodicis">lodix, lodicis</a> n</li>
+          <li id="word-771" class="word"><a href="http://www.latin-dictionary.net/definition/25845/logarithmus-logarithmi">logarithmus, logarithmi</a> n</li>
+          <li id="word-772" class="word"><a href="http://www.latin-dictionary.net/definition/25846/logicaliter">logicaliter</a> adv</li>
+          <li id="word-773" class="word"><a href="http://www.latin-dictionary.net/definition/25847/logicum-logici">logicum, logici</a> n</li>
+          <li id="word-774" class="word"><a href="http://www.latin-dictionary.net/definition/25848/logicus-logica-logicum">logicus, logica, logicum</a> adj</li>
+          <li id="word-775" class="word"><a href="http://www.latin-dictionary.net/definition/25849/loginquitas-loginquitatis">loginquitas, loginquitatis</a> n</li>
+          <li id="word-776" class="word"><a href="http://www.latin-dictionary.net/definition/25850/logion-logii">logion, logii</a> n</li>
+          <li id="word-777" class="word"><a href="http://www.latin-dictionary.net/definition/25851/logium-logii">logium, logii</a> n</li>
+          <li id="word-778" class="word"><a href="http://www.latin-dictionary.net/definition/25852/logos-logi">logos, logi</a> n</li>
+          <li id="word-779" class="word"><a href="http://www.latin-dictionary.net/definition/25853/logus-logi">logus, logi</a> n</li>
+          <li id="word-780" class="word"><a href="http://www.latin-dictionary.net/definition/25854/loliarius-loliaria-loliarium">loliarius, loliaria, loliarium</a> adj</li>
+          <li id="word-781" class="word"><a href="http://www.latin-dictionary.net/definition/25855/lolium-loli-i">lolium, loli(i)</a> n</li>
+          <li id="word-782" class="word"><a href="http://www.latin-dictionary.net/definition/25856/lolligo-lolliginis">lolligo, lolliginis</a> n</li>
+          <li id="word-783" class="word"><a href="http://www.latin-dictionary.net/definition/25857/lomentum-lomenti">lomentum, lomenti</a> n</li>
+          <li id="word-784" class="word"><a href="http://www.latin-dictionary.net/definition/25858/lomentum-lomenti">lomentum, lomenti</a> n</li>
+          <li id="word-785" class="word"><a href="http://www.latin-dictionary.net/definition/25859/Londinium-Londinii">Londinium, Londinii</a> n</li>
+          <li id="word-786" class="word"><a href="http://www.latin-dictionary.net/definition/25860/Londinum-Londini">Londinum, Londini</a> n</li>
+          <li id="word-787" class="word"><a href="http://www.latin-dictionary.net/definition/25861/Londonium-Londoni-i">Londonium, Londoni(i)</a> n</li>
+          <li id="word-788" class="word"><a href="http://www.latin-dictionary.net/definition/25862/longaevitas-longaevitatis">longaevitas, longaevitatis</a> n</li>
+          <li id="word-789" class="word"><a href="http://www.latin-dictionary.net/definition/25863/longaevus-longaeva-longaevum">longaevus, longaeva, longaevum</a> adj</li>
+          <li id="word-790" class="word"><a href="http://www.latin-dictionary.net/definition/25864/longaminus-longamina-longaminum">longaminus, longamina, longaminum</a> adj</li>
+          <li id="word-791" class="word"><a href="http://www.latin-dictionary.net/definition/25865/longanimis-longanimis-longanime">longanimis, longanimis, longanime</a> adj</li>
+          <li id="word-792" class="word"><a href="http://www.latin-dictionary.net/definition/25866/longanimitas-longanimitatis">longanimitas, longanimitatis</a> n</li>
+          <li id="word-793" class="word"><a href="http://www.latin-dictionary.net/definition/25867/longanimiter">longanimiter</a> adv</li>
+          <li id="word-794" class="word"><a href="http://www.latin-dictionary.net/definition/25868/longe-longius-longissime">longe, longius, longissime</a> adv</li>
+          <li id="word-795" class="word"><a href="http://www.latin-dictionary.net/definition/25869/longinque-longinquius-longinquissime">longinque, longinquius, longinquissime</a> adv</li>
+          <li id="word-796" class="word"><a href="http://www.latin-dictionary.net/definition/25870/longinquitas-longinquitatis">longinquitas, longinquitatis</a> n</li>
+          <li id="word-797" class="word"><a href="http://www.latin-dictionary.net/definition/25871/longinquo">longinquo</a> adv</li>
+          <li id="word-798" class="word"><a href="http://www.latin-dictionary.net/definition/25872/longinquo-longinquare-longinquavi-longinquatus">longinquo, longinquare, longinquavi, longinquatus</a> v</li>
+          <li id="word-799" class="word"><a href="http://www.latin-dictionary.net/definition/25873/longinquom">longinquom</a> adv</li>
+          <li id="word-800" class="word"><a href="http://www.latin-dictionary.net/definition/25874/longinquus-longinqua">longinquus, longinqua</a> adj</li>
+          <li id="word-801" class="word"><a href="http://www.latin-dictionary.net/definition/25875/longitudo-longitudinis">longitudo, longitudinis</a> n</li>
+          <li id="word-802" class="word"><a href="http://www.latin-dictionary.net/definition/25876/longitudo-longitudinis">longitudo, longitudinis</a> n</li>
+          <li id="word-803" class="word"><a href="http://www.latin-dictionary.net/definition/25877/longiturnitas-longiturnitatis">longiturnitas, longiturnitatis</a> n</li>
+          <li id="word-804" class="word"><a href="http://www.latin-dictionary.net/definition/25878/longiturnus-longiturna-longiturnum">longiturnus, longiturna, longiturnum</a> adj</li>
+          <li id="word-805" class="word"><a href="http://www.latin-dictionary.net/definition/25879/longule">longule</a> adv</li>
+          <li id="word-806" class="word"><a href="http://www.latin-dictionary.net/definition/25880/longulus-longula-longulum">longulus, longula, longulum</a> adj</li>
+          <li id="word-807" class="word"><a href="http://www.latin-dictionary.net/definition/25881/longurium-longuri-i">longurium, longuri(i)</a> n</li>
+          <li id="word-808" class="word"><a href="http://www.latin-dictionary.net/definition/25882/longurius-longuri-i">longurius, longuri(i)</a> n</li>
+          <li id="word-809" class="word"><a href="http://www.latin-dictionary.net/definition/25883/longus-longa">longus, longa</a> adj</li>
+          <li id="word-810" class="word"><a href="http://www.latin-dictionary.net/definition/25884/lophos-lophi">lophos, lophi</a> n</li>
+          <li id="word-811" class="word"><a href="http://www.latin-dictionary.net/definition/25885/loquacitas-loquacitatis">loquacitas, loquacitatis</a> n</li>
+          <li id="word-812" class="word"><a href="http://www.latin-dictionary.net/definition/25886/loquaculus-loquacula-loquaculum">loquaculus, loquacula, loquaculum</a> adj</li>
+          <li id="word-813" class="word"><a href="http://www.latin-dictionary.net/definition/25887/loquax-gen-loquacis">loquax, (gen.), loquacis</a> adj</li>
+          <li id="word-814" class="word"><a href="http://www.latin-dictionary.net/definition/25888/loquela-loquelae">loquela, loquelae</a> n</li>
+          <li id="word-815" class="word"><a href="http://www.latin-dictionary.net/definition/25889/loquella-loquellae">loquella, loquellae</a> n</li>
+          <li id="word-816" class="word"><a href="http://www.latin-dictionary.net/definition/25890/loquor-loqui-locutus">loquor, loqui, locutus</a> v</li>
+          <li id="word-817" class="word"><a href="http://www.latin-dictionary.net/definition/25891/loramentum-loramenti">loramentum, loramenti</a> n</li>
+          <li id="word-818" class="word"><a href="http://www.latin-dictionary.net/definition/25892/lorarius-lorari-i">lorarius, lorari(i)</a> n</li>
+          <li id="word-819" class="word"><a href="http://www.latin-dictionary.net/definition/25893/loratus-lorata-loratum">loratus, lorata, loratum</a> adj</li>
+          <li id="word-820" class="word"><a href="http://www.latin-dictionary.net/definition/25894/lorea-loreae">lorea, loreae</a> n</li>
+          <li id="word-821" class="word"><a href="http://www.latin-dictionary.net/definition/25895/loreola-loreolae">loreola, loreolae</a> n</li>
+          <li id="word-822" class="word"><a href="http://www.latin-dictionary.net/definition/25896/loretum-loreti">loretum, loreti</a> n</li>
+          <li id="word-823" class="word"><a href="http://www.latin-dictionary.net/definition/25897/loreus-lorea-loreum">loreus, lorea, loreum</a> adj</li>
+          <li id="word-824" class="word"><a href="http://www.latin-dictionary.net/definition/25898/lorica-loricae">lorica, loricae</a> n</li>
+          <li id="word-825" class="word"><a href="http://www.latin-dictionary.net/definition/25899/loricatus-loricata-loricatum">loricatus, loricata, loricatum</a> adj</li>
+          <li id="word-826" class="word"><a href="http://www.latin-dictionary.net/definition/25900/loripes-gen-loripedis">loripes, (gen.), loripedis</a> adj</li>
+          <li id="word-827" class="word"><a href="http://www.latin-dictionary.net/definition/25901/lorum-lori">lorum, lori</a> n</li>
+          <li id="word-828" class="word"><a href="http://www.latin-dictionary.net/definition/25902/lorus-lori">lorus, lori</a> n</li>
+          <li id="word-829" class="word"><a href="http://www.latin-dictionary.net/definition/25903/lotium-loti-i">lotium, loti(i)</a> n</li>
+          <li id="word-830" class="word"><a href="http://www.latin-dictionary.net/definition/25904/lotor-lotoris">lotor, lotoris</a> n</li>
+          <li id="word-831" class="word"><a href="http://www.latin-dictionary.net/definition/25905/lotos-loti">lotos, loti</a> n</li>
+          <li id="word-832" class="word"><a href="http://www.latin-dictionary.net/definition/25906/lotus-lota">lotus, lota</a> adj</li>
+          <li id="word-833" class="word"><a href="http://www.latin-dictionary.net/definition/25907/lotus-loti">lotus, loti</a> n</li>
+          <li id="word-834" class="word"><a href="http://www.latin-dictionary.net/definition/25908/lous-loi">lous, loi</a> n</li>
+          <li id="word-835" class="word"><a href="http://www.latin-dictionary.net/definition/25909/LS-abb">LS., abb.</a> n</li>
+          <li id="word-836" class="word"><a href="http://www.latin-dictionary.net/definition/25910/lubens-lubentis">lubens, lubentis</a> adj</li>
+          <li id="word-837" class="word"><a href="http://www.latin-dictionary.net/definition/25911/lubenter-lubentius-lubentissime">lubenter, lubentius, lubentissime</a> adv</li>
+          <li id="word-838" class="word"><a href="http://www.latin-dictionary.net/definition/25912/lubet-lubere-lubuit-lubitus">lubet, lubere, lubuit, lubitus</a> v</li>
+          <li id="word-839" class="word"><a href="http://www.latin-dictionary.net/definition/25913/lubidinor-lubidinari-lubidinatus">lubidinor, lubidinari, lubidinatus</a> v</li>
+          <li id="word-840" class="word"><a href="http://www.latin-dictionary.net/definition/25914/lubido-lubidinis">lubido, lubidinis</a> n</li>
+          <li id="word-841" class="word"><a href="http://www.latin-dictionary.net/definition/25915/lubrico-lubricare-lubricavi-lubricatus">lubrico, lubricare, lubricavi, lubricatus</a> v</li>
+          <li id="word-842" class="word"><a href="http://www.latin-dictionary.net/definition/25916/lubricor-lubricari-lubricatus">lubricor, lubricari, lubricatus</a> v</li>
+          <li id="word-843" class="word"><a href="http://www.latin-dictionary.net/definition/25917/lubricosus-lubricosa-lubricosum">lubricosus, lubricosa, lubricosum</a> adj</li>
+          <li id="word-844" class="word"><a href="http://www.latin-dictionary.net/definition/25918/lubricus-lubrica-lubricum">lubricus, lubrica, lubricum</a> adj</li>
+          <li id="word-845" class="word"><a href="http://www.latin-dictionary.net/definition/25919/lucar-lucaris">lucar, lucaris</a> n</li>
+          <li id="word-846" class="word"><a href="http://www.latin-dictionary.net/definition/25920/Lucas-Lucae">Lucas, Lucae</a> n</li>
+          <li id="word-847" class="word"><a href="http://www.latin-dictionary.net/definition/25921/lucellum-lucelli">lucellum, lucelli</a> n</li>
+          <li id="word-848" class="word"><a href="http://www.latin-dictionary.net/definition/25922/luceo-lucere-luxi">luceo, lucere, luxi, -</a> v</li>
+          <li id="word-849" class="word"><a href="http://www.latin-dictionary.net/definition/25923/luceo-lucere-luxi">luceo, lucere, luxi, -</a> v</li>
+          <li id="word-850" class="word"><a href="http://www.latin-dictionary.net/definition/25924/luceo-lucere-luxi">luceo, lucere, luxi, -</a> v</li>
+          <li id="word-851" class="word"><a href="http://www.latin-dictionary.net/definition/25925/lucerna-lucernae">lucerna, lucernae</a> n</li>
+          <li id="word-852" class="word"><a href="http://www.latin-dictionary.net/definition/25926/lucesco-lucescere-luxi">lucesco, lucescere, luxi, -</a> v</li>
+          <li id="word-853" class="word"><a href="http://www.latin-dictionary.net/definition/25927/lucesct-lucescere-luxit">lucesct, lucescere, luxit, -</a> v</li>
+          <li id="word-854" class="word"><a href="http://www.latin-dictionary.net/definition/25928/lucido-lucidare-lucidavi-lucidatus">lucido, lucidare, lucidavi, lucidatus</a> v</li>
+          <li id="word-855" class="word"><a href="http://www.latin-dictionary.net/definition/25929/lucidus-lucida-lucidum">lucidus, lucida, lucidum</a> adj</li>
+          <li id="word-856" class="word"><a href="http://www.latin-dictionary.net/definition/25930/lucifer-lucifera-luciferum">lucifer, lucifera, luciferum</a> adj</li>
+          <li id="word-857" class="word"><a href="http://www.latin-dictionary.net/definition/25931/Lucifer-Luciferi">Lucifer, Luciferi</a> n</li>
+          <li id="word-858" class="word"><a href="http://www.latin-dictionary.net/definition/25932/lucifer-luciferi">lucifer, luciferi</a> n</li>
+          <li id="word-859" class="word"><a href="http://www.latin-dictionary.net/definition/25933/lucifluus-luciflua-lucifluum">lucifluus, luciflua, lucifluum</a> adj</li>
+          <li id="word-860" class="word"><a href="http://www.latin-dictionary.net/definition/25934/lucifugus-lucifuga-lucifugum">lucifugus, lucifuga, lucifugum</a> adj</li>
+          <li id="word-861" class="word"><a href="http://www.latin-dictionary.net/definition/25935/Lucina-Lucinae">Lucina, Lucinae</a> n</li>
+          <li id="word-862" class="word"><a href="http://www.latin-dictionary.net/definition/25936/lucinaria-lucinariae">lucinaria, lucinariae</a> n</li>
+          <li id="word-863" class="word"><a href="http://www.latin-dictionary.net/definition/25937/lucisco-luciscere-luxi">lucisco, luciscere, luxi, -</a> v</li>
+          <li id="word-864" class="word"><a href="http://www.latin-dictionary.net/definition/25938/lucisct-luciscere-luxit">lucisct, luciscere, luxit, -</a> v</li>
+          <li id="word-865" class="word"><a href="http://www.latin-dictionary.net/definition/25939/Lucius-Luci">Lucius, Luci</a> n</li>
+          <li id="word-866" class="word"><a href="http://www.latin-dictionary.net/definition/25940/lucius-lucii">lucius, lucii</a> n</li>
+          <li id="word-867" class="word"><a href="http://www.latin-dictionary.net/definition/25941/lucrativus-lucrativa-lucrativum">lucrativus, lucrativa, lucrativum</a> adj</li>
+          <li id="word-868" class="word"><a href="http://www.latin-dictionary.net/definition/25942/lucrifacio-lucrifacere">lucrifacio, lucrifacere, -, -</a> v</li>
+          <li id="word-869" class="word"><a href="http://www.latin-dictionary.net/definition/25943/lucrifio-lucrifere-lucrifactus">lucrifio, lucrifere, -, lucrifactus</a> v</li>
+          <li id="word-870" class="word"><a href="http://www.latin-dictionary.net/definition/25944/lucrifuga-lucrifugae">lucrifuga, lucrifugae</a> n</li>
+          <li id="word-871" class="word"><a href="http://www.latin-dictionary.net/definition/25945/lucror-lucrari-lucratus">lucror, lucrari, lucratus</a> v</li>
+          <li id="word-872" class="word"><a href="http://www.latin-dictionary.net/definition/25946/lucrosus-lucrosa-lucrosum">lucrosus, lucrosa, lucrosum</a> adj</li>
+          <li id="word-873" class="word"><a href="http://www.latin-dictionary.net/definition/25947/lucrum-lucri">lucrum, lucri</a> n</li>
+          <li id="word-874" class="word"><a href="http://www.latin-dictionary.net/definition/25948/luctamen-luctaminis">luctamen, luctaminis</a> n</li>
+          <li id="word-875" class="word"><a href="http://www.latin-dictionary.net/definition/25949/luctator-luctatoris">luctator, luctatoris</a> n</li>
+          <li id="word-876" class="word"><a href="http://www.latin-dictionary.net/definition/25950/luctificus-luctifica-luctificum">luctificus, luctifica, luctificum</a> adj</li>
+          <li id="word-877" class="word"><a href="http://www.latin-dictionary.net/definition/25951/luctisonus-luctisona-luctisonum">luctisonus, luctisona, luctisonum</a> adj</li>
+          <li id="word-878" class="word"><a href="http://www.latin-dictionary.net/definition/25952/luctor-luctari-luctatus">luctor, luctari, luctatus</a> v</li>
+          <li id="word-879" class="word"><a href="http://www.latin-dictionary.net/definition/25953/luctuosus-luctuosa-luctuosum">luctuosus, luctuosa, luctuosum</a> adj</li>
+          <li id="word-880" class="word"><a href="http://www.latin-dictionary.net/definition/25954/luctus-luctus">luctus, luctus</a> n</li>
+          <li id="word-881" class="word"><a href="http://www.latin-dictionary.net/definition/25955/lucubra-lucubrae">lucubra, lucubrae</a> n</li>
+          <li id="word-882" class="word"><a href="http://www.latin-dictionary.net/definition/25956/lucubratio-lucubrationis">lucubratio, lucubrationis</a> n</li>
+          <li id="word-883" class="word"><a href="http://www.latin-dictionary.net/definition/25957/lucubro-lucubrare-lucubravi-lucubratus">lucubro, lucubrare, lucubravi, lucubratus</a> v</li>
+          <li id="word-884" class="word"><a href="http://www.latin-dictionary.net/definition/25958/luculentus-luculenta-luculentum">luculentus, luculenta, luculentum</a> adj</li>
+          <li id="word-885" class="word"><a href="http://www.latin-dictionary.net/definition/25959/luculenus-luculena-luculenum">luculenus, luculena, luculenum</a> adj</li>
+          <li id="word-886" class="word"><a href="http://www.latin-dictionary.net/definition/25960/lucumo-lucumonis">lucumo, lucumonis</a> n</li>
+          <li id="word-887" class="word"><a href="http://www.latin-dictionary.net/definition/25961/lucus-luci">lucus, luci</a> n</li>
+          <li id="word-888" class="word"><a href="http://www.latin-dictionary.net/definition/25962/lucusta-lucustae">lucusta, lucustae</a> n</li>
+          <li id="word-889" class="word"><a href="http://www.latin-dictionary.net/definition/25963/ludia-ludiae">ludia, ludiae</a> n</li>
+          <li id="word-890" class="word"><a href="http://www.latin-dictionary.net/definition/25964/ludibriosus-ludibriosa-ludibriosum">ludibriosus, ludibriosa, ludibriosum</a> adj</li>
+          <li id="word-891" class="word"><a href="http://www.latin-dictionary.net/definition/25965/ludibrium-ludibri-i">ludibrium, ludibri(i)</a> n</li>
+          <li id="word-892" class="word"><a href="http://www.latin-dictionary.net/definition/25966/ludibundus-ludibunda-ludibundum">ludibundus, ludibunda, ludibundum</a> adj</li>
+          <li id="word-893" class="word"><a href="http://www.latin-dictionary.net/definition/25967/ludicer-ludicera-ludicerum">ludicer, ludicera, ludicerum</a> adj</li>
+          <li id="word-894" class="word"><a href="http://www.latin-dictionary.net/definition/25968/ludicrum-ludicri">ludicrum, ludicri</a> n</li>
+          <li id="word-895" class="word"><a href="http://www.latin-dictionary.net/definition/25969/ludicrus-ludicra-ludicrum">ludicrus, ludicra, ludicrum</a> adj</li>
+          <li id="word-896" class="word"><a href="http://www.latin-dictionary.net/definition/25970/ludificatio-ludificationis">ludificatio, ludificationis</a> n</li>
+          <li id="word-897" class="word"><a href="http://www.latin-dictionary.net/definition/25971/ludificator-ludificatoris">ludificator, ludificatoris</a> n</li>
+          <li id="word-898" class="word"><a href="http://www.latin-dictionary.net/definition/25972/ludifico-ludificare-ludificavi-ludificatus">ludifico, ludificare, ludificavi, ludificatus</a> v</li>
+          <li id="word-899" class="word"><a href="http://www.latin-dictionary.net/definition/25973/ludificor-ludificari-ludificatus">ludificor, ludificari, ludificatus</a> v</li>
+          <li id="word-900" class="word"><a href="http://www.latin-dictionary.net/definition/25974/ludimagister-ludimagistri">ludimagister, ludimagistri</a> n</li>
+          <li id="word-901" class="word"><a href="http://www.latin-dictionary.net/definition/25975/ludio-ludionis">ludio, ludionis</a> n</li>
+          <li id="word-902" class="word"><a href="http://www.latin-dictionary.net/definition/25976/ludius-ludi-i">ludius, ludi(i)</a> n</li>
+          <li id="word-903" class="word"><a href="http://www.latin-dictionary.net/definition/25977/ludo-ludere-lusi-lusus">ludo, ludere, lusi, lusus</a> v</li>
+          <li id="word-904" class="word"><a href="http://www.latin-dictionary.net/definition/25978/ludus-ludi">ludus, ludi</a> n</li>
+          <li id="word-905" class="word"><a href="http://www.latin-dictionary.net/definition/25979/luella-luellae">luella, luellae</a> n</li>
+          <li id="word-906" class="word"><a href="http://www.latin-dictionary.net/definition/25980/lues-luis">lues, luis</a> n</li>
+          <li id="word-907" class="word"><a href="http://www.latin-dictionary.net/definition/25981/Lugdunum-Lugduni">Lugdunum, Lugduni</a> n</li>
+          <li id="word-908" class="word"><a href="http://www.latin-dictionary.net/definition/25982/lugeo-lugere-luxi-luctus">lugeo, lugere, luxi, luctus</a> v</li>
+          <li id="word-909" class="word"><a href="http://www.latin-dictionary.net/definition/25983/lugubre-lugubris">lugubre, lugubris</a> n</li>
+          <li id="word-910" class="word"><a href="http://www.latin-dictionary.net/definition/25984/lugubris-lugubris-lugubre">lugubris, lugubris, lugubre</a> adj</li>
+          <li id="word-911" class="word"><a href="http://www.latin-dictionary.net/definition/25985/lumbare-lumbaris">lumbare, lumbaris</a> n</li>
+          <li id="word-912" class="word"><a href="http://www.latin-dictionary.net/definition/25986/lumbarium-lumbarii">lumbarium, lumbarii</a> n</li>
+          <li id="word-913" class="word"><a href="http://www.latin-dictionary.net/definition/25987/lumbus-lumbi">lumbus, lumbi</a> n</li>
+          <li id="word-914" class="word"><a href="http://www.latin-dictionary.net/definition/25988/lumen-luminis">lumen, luminis</a> n</li>
+          <li id="word-915" class="word"><a href="http://www.latin-dictionary.net/definition/25989/luminare-luminaris">luminare, luminaris</a> n</li>
+          <li id="word-916" class="word"><a href="http://www.latin-dictionary.net/definition/25990/luminare-luminaris">luminare, luminaris</a> n</li>
+          <li id="word-917" class="word"><a href="http://www.latin-dictionary.net/definition/25991/lumino-luminare-luminavi-luminatus">lumino, luminare, luminavi, luminatus</a> v</li>
+          <li id="word-918" class="word"><a href="http://www.latin-dictionary.net/definition/25992/luminosus-luminosa-luminosum">luminosus, luminosa, luminosum</a> adj</li>
+          <li id="word-919" class="word"><a href="http://www.latin-dictionary.net/definition/25993/luna-lunae">luna, lunae</a> n</li>
+          <li id="word-920" class="word"><a href="http://www.latin-dictionary.net/definition/25994/lunaris-lunaris-lunare">lunaris, lunaris, lunare</a> adj</li>
+          <li id="word-921" class="word"><a href="http://www.latin-dictionary.net/definition/25995/lunatus-lunata-lunatum">lunatus, lunata, lunatum</a> adj</li>
+          <li id="word-922" class="word"><a href="http://www.latin-dictionary.net/definition/25996/luno-lunare-lunavi-lunatus">luno, lunare, lunavi, lunatus</a> v</li>
+          <li id="word-923" class="word"><a href="http://www.latin-dictionary.net/definition/25997/lunter-luntris">lunter, luntris</a> n</li>
+          <li id="word-924" class="word"><a href="http://www.latin-dictionary.net/definition/25998/luo-luere">luo, luere, -, -</a> v</li>
+          <li id="word-925" class="word"><a href="http://www.latin-dictionary.net/definition/25999/luo-luere-lui-lutus">luo, luere, lui, lutus</a> v</li>
+          <li id="word-926" class="word"><a href="http://www.latin-dictionary.net/definition/26000/luo-luere-lui-lutus">luo, luere, lui, lutus</a> v</li>
+          <li id="word-927" class="word"><a href="http://www.latin-dictionary.net/definition/26001/luo-luere-lui-lutus">luo, luere, lui, lutus</a> v</li>
+          <li id="word-928" class="word"><a href="http://www.latin-dictionary.net/definition/26002/lupa-lupae">lupa, lupae</a> n</li>
+          <li id="word-929" class="word"><a href="http://www.latin-dictionary.net/definition/26003/lupanar-lupanaris">lupanar, lupanaris</a> n</li>
+          <li id="word-930" class="word"><a href="http://www.latin-dictionary.net/definition/26004/lupatria-lupatriae">lupatria, lupatriae</a> n</li>
+          <li id="word-931" class="word"><a href="http://www.latin-dictionary.net/definition/26005/lupatum-lupati">lupatum, lupati</a> n</li>
+          <li id="word-932" class="word"><a href="http://www.latin-dictionary.net/definition/26006/lupatus-lupata-lupatum">lupatus, lupata, lupatum</a> adj</li>
+          <li id="word-933" class="word"><a href="http://www.latin-dictionary.net/definition/26007/Lupercal-Lupercalis">Lupercal, Lupercalis</a> n</li>
+          <li id="word-934" class="word"><a href="http://www.latin-dictionary.net/definition/26008/Lupercus-Luperci">Lupercus, Luperci</a> n</li>
+          <li id="word-935" class="word"><a href="http://www.latin-dictionary.net/definition/26009/lupinum-lupini">lupinum, lupini</a> n</li>
+          <li id="word-936" class="word"><a href="http://www.latin-dictionary.net/definition/26010/lupinus-lupina-lupinum">lupinus, lupina, lupinum</a> adj</li>
+          <li id="word-937" class="word"><a href="http://www.latin-dictionary.net/definition/26011/lupinus-lupini">lupinus, lupini</a> n</li>
+          <li id="word-938" class="word"><a href="http://www.latin-dictionary.net/definition/26012/lupio-lupire-lupivi-lupitus">lupio, lupire, lupivi, lupitus</a> v</li>
+          <li id="word-939" class="word"><a href="http://www.latin-dictionary.net/definition/26013/lupulus-lupuli">lupulus, lupuli</a> n</li>
+          <li id="word-940" class="word"><a href="http://www.latin-dictionary.net/definition/26014/lupus-lupi">lupus, lupi</a> n</li>
+          <li id="word-941" class="word"><a href="http://www.latin-dictionary.net/definition/26015/lurchinabundus-lurchinabunda-lurchinabundum">lurchinabundus, lurchinabunda, lurchinabundum</a> adj</li>
+          <li id="word-942" class="word"><a href="http://www.latin-dictionary.net/definition/26016/lurcho-lurchare-lurchavi-lurchatus">lurcho, lurchare, lurchavi, lurchatus</a> v</li>
+          <li id="word-943" class="word"><a href="http://www.latin-dictionary.net/definition/26017/lurcho-lurchonis">lurcho, lurchonis</a> n</li>
+          <li id="word-944" class="word"><a href="http://www.latin-dictionary.net/definition/26018/lurchor-lurchari-lurchatus">lurchor, lurchari, lurchatus</a> v</li>
+          <li id="word-945" class="word"><a href="http://www.latin-dictionary.net/definition/26019/lurcinabundus-lurcinabunda-lurcinabundum">lurcinabundus, lurcinabunda, lurcinabundum</a> adj</li>
+          <li id="word-946" class="word"><a href="http://www.latin-dictionary.net/definition/26020/lurco-lurcare-lurcavi-lurcatus">lurco, lurcare, lurcavi, lurcatus</a> v</li>
+          <li id="word-947" class="word"><a href="http://www.latin-dictionary.net/definition/26021/lurco-lurconis">lurco, lurconis</a> n</li>
+          <li id="word-948" class="word"><a href="http://www.latin-dictionary.net/definition/26022/lurcor-lurcari-lurcatus">lurcor, lurcari, lurcatus</a> v</li>
+          <li id="word-949" class="word"><a href="http://www.latin-dictionary.net/definition/26023/luridus-lurida-luridum">luridus, lurida, luridum</a> adj</li>
+          <li id="word-950" class="word"><a href="http://www.latin-dictionary.net/definition/26024/luror-luroris">luror, luroris</a> n</li>
+          <li id="word-951" class="word"><a href="http://www.latin-dictionary.net/definition/26025/luscinia-lusciniae">luscinia, lusciniae</a> n</li>
+          <li id="word-952" class="word"><a href="http://www.latin-dictionary.net/definition/26026/lusciosus-lusciosa-lusciosum">lusciosus, lusciosa, lusciosum</a> adj</li>
+          <li id="word-953" class="word"><a href="http://www.latin-dictionary.net/definition/26027/luscitiosus-luscitiosa-luscitiosum">luscitiosus, luscitiosa, luscitiosum</a> adj</li>
+          <li id="word-954" class="word"><a href="http://www.latin-dictionary.net/definition/26028/luscus-lusca-luscum">luscus, lusca, luscum</a> adj</li>
+          <li id="word-955" class="word"><a href="http://www.latin-dictionary.net/definition/26029/lusio-lusionis">lusio, lusionis</a> n</li>
+          <li id="word-956" class="word"><a href="http://www.latin-dictionary.net/definition/26030/lusito-lusitare-lusitavi-lusitatus">lusito, lusitare, lusitavi, lusitatus</a> v</li>
+          <li id="word-957" class="word"><a href="http://www.latin-dictionary.net/definition/26031/lusor-lusoris">lusor, lusoris</a> n</li>
+          <li id="word-958" class="word"><a href="http://www.latin-dictionary.net/definition/26032/lusorius-lusoria-lusorium">lusorius, lusoria, lusorium</a> adj</li>
+          <li id="word-959" class="word"><a href="http://www.latin-dictionary.net/definition/26033/lustralis-lustralis-lustrale">lustralis, lustralis, lustrale</a> adj</li>
+          <li id="word-960" class="word"><a href="http://www.latin-dictionary.net/definition/26034/lustro-lustrare-lustravi-lustratus">lustro, lustrare, lustravi, lustratus</a> v</li>
+          <li id="word-961" class="word"><a href="http://www.latin-dictionary.net/definition/26035/lustro-lustrare-lustravi-lustratus">lustro, lustrare, lustravi, lustratus</a> v</li>
+          <li id="word-962" class="word"><a href="http://www.latin-dictionary.net/definition/26036/lustro-lustronis">lustro, lustronis</a> n</li>
+          <li id="word-963" class="word"><a href="http://www.latin-dictionary.net/definition/26037/lustror-lustrari-lustratus">lustror, lustrari, lustratus</a> v</li>
+          <li id="word-964" class="word"><a href="http://www.latin-dictionary.net/definition/26038/lustrum-lustri">lustrum, lustri</a> n</li>
+          <li id="word-965" class="word"><a href="http://www.latin-dictionary.net/definition/26039/lustrum-lustri">lustrum, lustri</a> n</li>
+          <li id="word-966" class="word"><a href="http://www.latin-dictionary.net/definition/26040/lustrum-lustri">lustrum, lustri</a> n</li>
+          <li id="word-967" class="word"><a href="http://www.latin-dictionary.net/definition/26041/luteolus-luteola-luteolum">luteolus, luteola, luteolum</a> adj</li>
+          <li id="word-968" class="word"><a href="http://www.latin-dictionary.net/definition/26042/luter-luteris">luter, luteris</a> n</li>
+          <li id="word-969" class="word"><a href="http://www.latin-dictionary.net/definition/26043/lutesco-lutescere">lutesco, lutescere, -, -</a> v</li>
+          <li id="word-970" class="word"><a href="http://www.latin-dictionary.net/definition/26044/Lutetia-Lutetiae">Lutetia, Lutetiae</a> n</li>
+          <li id="word-971" class="word"><a href="http://www.latin-dictionary.net/definition/26045/luteus-lutea-luteum">luteus, lutea, luteum</a> adj</li>
+          <li id="word-972" class="word"><a href="http://www.latin-dictionary.net/definition/26046/Lutheranismus-Lutheranismi">Lutheranismus, Lutheranismi</a> n</li>
+          <li id="word-973" class="word"><a href="http://www.latin-dictionary.net/definition/26047/Lutheranus-Lutherana-Lutheranum">Lutheranus, Lutherana, Lutheranum</a> adj</li>
+          <li id="word-974" class="word"><a href="http://www.latin-dictionary.net/definition/26048/luticipulum-luticipuli">luticipulum, luticipuli</a> n</li>
+          <li id="word-975" class="word"><a href="http://www.latin-dictionary.net/definition/26049/lutito-lutitare-lutitavi-lutitatus">lutito, lutitare, lutitavi, lutitatus</a> v</li>
+          <li id="word-976" class="word"><a href="http://www.latin-dictionary.net/definition/26050/lutosus-lutosa-lutosum">lutosus, lutosa, lutosum</a> adj</li>
+          <li id="word-977" class="word"><a href="http://www.latin-dictionary.net/definition/26051/lutulentus-lutulenta-lutulentum">lutulentus, lutulenta, lutulentum</a> adj</li>
+          <li id="word-978" class="word"><a href="http://www.latin-dictionary.net/definition/26052/lutum-luti">lutum, luti</a> n</li>
+          <li id="word-979" class="word"><a href="http://www.latin-dictionary.net/definition/26053/lutum-luti">lutum, luti</a> n</li>
+          <li id="word-980" class="word"><a href="http://www.latin-dictionary.net/definition/26054/lutus-luti">lutus, luti</a> n</li>
+          <li id="word-981" class="word"><a href="http://www.latin-dictionary.net/definition/26055/lux-lucis">lux, lucis</a> n</li>
+          <li id="word-982" class="word"><a href="http://www.latin-dictionary.net/definition/26056/luxatio-luxationis">luxatio, luxationis</a> n</li>
+          <li id="word-983" class="word"><a href="http://www.latin-dictionary.net/definition/26057/luxatura-luxaturae">luxatura, luxaturae</a> n</li>
+          <li id="word-984" class="word"><a href="http://www.latin-dictionary.net/definition/26058/luxo-luxare-luxavi-luxatus">luxo, luxare, luxavi, luxatus</a> v</li>
+          <li id="word-985" class="word"><a href="http://www.latin-dictionary.net/definition/26059/luxuria-luxuriae">luxuria, luxuriae</a> n</li>
+          <li id="word-986" class="word"><a href="http://www.latin-dictionary.net/definition/26060/luxuries-luxuriei">luxuries, luxuriei</a> n</li>
+          <li id="word-987" class="word"><a href="http://www.latin-dictionary.net/definition/26061/luxurio-luxuriare-luxuriavi-luxuriatus">luxurio, luxuriare, luxuriavi, luxuriatus</a> v</li>
+          <li id="word-988" class="word"><a href="http://www.latin-dictionary.net/definition/26062/luxurior-luxuriari-luxuriatus">luxurior, luxuriari, luxuriatus</a> v</li>
+          <li id="word-989" class="word"><a href="http://www.latin-dictionary.net/definition/26063/luxuriosus-luxuriosa-luxuriosum">luxuriosus, luxuriosa, luxuriosum</a> adj</li>
+          <li id="word-990" class="word"><a href="http://www.latin-dictionary.net/definition/26064/luxus-luxus">luxus, luxus</a> n</li>
+          <li id="word-991" class="word"><a href="http://www.latin-dictionary.net/definition/26065/Lycaonia-Lycaoniae">Lycaonia, Lycaoniae</a> n</li>
+          <li id="word-992" class="word"><a href="http://www.latin-dictionary.net/definition/26066/lycaonice">lycaonice</a> adv</li>
+          <li id="word-993" class="word"><a href="http://www.latin-dictionary.net/definition/26067/Lycaonius-Lycaonia-Lycaonium">Lycaonius, Lycaonia, Lycaonium</a> adj</li>
+          <li id="word-994" class="word"><a href="http://www.latin-dictionary.net/definition/26068/lyceum-lycei">lyceum, lycei</a> n</li>
+          <li id="word-995" class="word"><a href="http://www.latin-dictionary.net/definition/26069/lychanos-lychani">lychanos, lychani</a> n</li>
+          <li id="word-996" class="word"><a href="http://www.latin-dictionary.net/definition/26070/lychnuchus-lychnuchi">lychnuchus, lychnuchi</a> n</li>
+          <li id="word-997" class="word"><a href="http://www.latin-dictionary.net/definition/26071/lychnus-lychni">lychnus, lychni</a> n</li>
+          <li id="word-998" class="word"><a href="http://www.latin-dictionary.net/definition/26072/lycopersicum-lycopersici">lycopersicum, lycopersici</a> n</li>
+          <li id="word-999" class="word"><a href="http://www.latin-dictionary.net/definition/26073/lympha-lymphae">lympha, lymphae</a> n</li>
+          <li id="word-1000" class="word"><a href="http://www.latin-dictionary.net/definition/26074/lymphans-gen-lymphantis">lymphans, (gen.), lymphantis</a> adj</li>
+          <li id="word-1001" class="word"><a href="http://www.latin-dictionary.net/definition/26075/lymphaticus-lymphatica-lymphaticum">lymphaticus, lymphatica, lymphaticum</a> adj</li>
+          <li id="word-1002" class="word"><a href="http://www.latin-dictionary.net/definition/26076/lymphatus-lymphata-lymphatum">lymphatus, lymphata, lymphatum</a> adj</li>
+          <li id="word-1003" class="word"><a href="http://www.latin-dictionary.net/definition/26077/lymphatus-lymphatus">lymphatus, lymphatus</a> n</li>
+          <li id="word-1004" class="word"><a href="http://www.latin-dictionary.net/definition/26078/lympho-lymphare-lymphavi-lymphatus">lympho, lymphare, lymphavi, lymphatus</a> v</li>
+          <li id="word-1005" class="word"><a href="http://www.latin-dictionary.net/definition/26079/lyncurion-lyncurii">lyncurion, lyncurii</a> n</li>
+          <li id="word-1006" class="word"><a href="http://www.latin-dictionary.net/definition/26080/lyncurium-lyncurii">lyncurium, lyncurii</a> n</li>
+          <li id="word-1007" class="word"><a href="http://www.latin-dictionary.net/definition/26081/lyncurius-lyncurii">lyncurius, lyncurii</a> n</li>
+          <li id="word-1008" class="word"><a href="http://www.latin-dictionary.net/definition/26082/lynx-lyncis">lynx, lyncis</a> n</li>
+          <li id="word-1009" class="word"><a href="http://www.latin-dictionary.net/definition/26083/lyra-lyrae">lyra, lyrae</a> n</li>
+          <li id="word-1010" class="word"><a href="http://www.latin-dictionary.net/definition/26084/lyricus-lyrica-lyricum">lyricus, lyrica, lyricum</a> adj</li>
+          <li id="word-1011" class="word"><a href="http://www.latin-dictionary.net/definition/26085/lytrum-lytri">lytrum, lytri</a> n</li>

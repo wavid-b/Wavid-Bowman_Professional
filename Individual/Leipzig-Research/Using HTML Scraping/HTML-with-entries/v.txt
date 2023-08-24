@@ -1,0 +1,871 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/38270/va">va</a> interj</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/38271/vacatio-vacationis">vacatio, vacationis</a> n</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/38272/vacca-vaccae">vacca, vaccae</a> n</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/38273/vaccinatio-vaccinationis">vaccinatio, vaccinationis</a> n</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/38274/vaccinium-vaccini-i">vaccinium, vaccini(i)</a> n</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/38275/vaccinium-vaccinii">vaccinium, vaccinii</a> n</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/38276/vaccinum-vaccini">vaccinum, vaccini</a> n</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/38277/vaccinus-vaccina-vaccinum">vaccinus, vaccina, vaccinum</a> adj</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/38278/vaccula-vacculae">vaccula, vacculae</a> n</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/38279/vacefio-vaceferi-vacefactus">vacefio, vaceferi, vacefactus</a> v</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/38280/vacerra-vacerrae">vacerra, vacerrae</a> n</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/38281/vacerrosus-vacerrosa-vacerrosum">vacerrosus, vacerrosa, vacerrosum</a> adj</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/38282/vacillo-vacillare-vacillavi-vacillatus">vacillo, vacillare, vacillavi, vacillatus</a> v</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/38283/vacive">vacive</a> adv</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/38284/vacivus-vaciva-vacivum">vacivus, vaciva, vacivum</a> adj</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/38285/vaco-vacare-vacavi-vacatus">vaco, vacare, vacavi, vacatus</a> v</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/38286/vacuefacio-vacuefacere-vacuefeci-vacuefactus">vacuefacio, vacuefacere, vacuefeci, vacuefactus</a> v</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/38287/vacuitas-vacuitatis">vacuitas, vacuitatis</a> n</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/38288/vacuo-vacuare-vacuavi-vacuatus">vacuo, vacuare, vacuavi, vacuatus</a> v</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/38289/vacuus-vacua-vacuum">vacuus, vacua, vacuum</a> adj</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/38290/vadimonium-vadimoni-i">vadimonium, vadimoni(i)</a> n</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/38291/vadio-vadiare-vadiatus">vadio, vadiare, -, vadiatus</a> v</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/38292/vadio-vadiare-vadiavi-vadiatus">vadio, vadiare, vadiavi, vadiatus</a> v</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/38293/vado-vadare">vado, vadare, -, -</a> v</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/38294/vado-vadere-vasi">vado, vadere, vasi, -</a> v</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/38295/vador-vadari-vadatus">vador, vadari, vadatus</a> v</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/38296/vadosus-vadosa-vadosum">vadosus, vadosa, vadosum</a> adj</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/38297/vadum-vadi">vadum, vadi</a> n</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/38298/vae">vae</a> interj</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/38299/vaenum-vaeni">vaenum, vaeni</a> n</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/38300/vafer-vafra-vafrum">vafer, vafra, vafrum</a> adj</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/38301/vaflum-vafli">vaflum, vafli</a> n</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/38302/vaframentum-vaframenti">vaframentum, vaframenti</a> n</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/38303/vagabundus-vagabunda-vagabundum">vagabundus, vagabunda, vagabundum</a> adj</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/38304/vage">vage</a> adv</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/38305/vagina-vaginae">vagina, vaginae</a> n</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/38306/vagio-vagire-vagivi">vagio, vagire, vagivi, -</a> v</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/38307/vagitus-vagitus">vagitus, vagitus</a> n</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/38308/vagor-vagari-vagatus">vagor, vagari, vagatus</a> v</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/38309/vagus-vaga-vagum">vagus, vaga, vagum</a> adj</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/38310/vah">vah</a> interj</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/38311/vaha">vaha</a> interj</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/38312/valde-valdius-valdissime">valde, valdius, valdissime</a> adv</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/38313/valedico-valedicere-valedixi-valedictus">valedico, valedicere, valedixi, valedictus</a> v</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/38314/valefacio-valefacere-valefeci-valefactus">valefacio, valefacere, valefeci, valefactus</a> v</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/38315/Valens-Valentis">Valens, Valentis</a> v</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/38316/valens-valentis">valens, valentis</a> adj</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/38317/valenter-valentius-valentissime">valenter, valentius, valentissime</a> adv</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/38318/Valentinianus-Valentiniani">Valentinianus, Valentiniani</a> adv</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/38319/valentulus-valentula-valentulum">valentulus, valentula, valentulum</a> adj</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/38320/valeo-valere-valui-valitus">valeo, valere, valui, valitus</a> v</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/38321/valeriana-valerianae">valeriana, valerianae</a> v</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/38322/valerianella-valerianellae">valerianella, valerianellae</a> n</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/38323/Valerianus-Valeriani">Valerianus, Valeriani</a> n</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/38324/Valerius-Valeri">Valerius, Valeri</a> n</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/38325/Valerius-Valeria-Valerium">Valerius, Valeria, Valerium</a> adj</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/38326/valesco-valescere">valesco, valescere, -, -</a> v</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/38327/valet-valere">valet, valere, -, -</a> v</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/38328/valetudinarium-valetudinari-i">valetudinarium, valetudinari(i)</a> n</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/38329/valetudinarium-valetudinarii">valetudinarium, valetudinarii</a> n</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/38330/valetudo-valetudinis">valetudo, valetudinis</a> n</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/38331/valgus-valga-valgum">valgus, valga, valgum</a> adj</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/38332/validus-valida-validum">validus, valida, validum</a> adj</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/38333/valitudo-valitudinis">valitudo, valitudinis</a> n</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/38334/vallaris-vallaris">vallaris, vallaris</a> n</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/38335/vallaris-vallaris-vallare">vallaris, vallaris, vallare</a> adj</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/38336/valles-vallis">valles, vallis</a> n</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/38337/vallis-vallis">vallis, vallis</a> n</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/38338/vallo-vallare-vallavi-vallatus">vallo, vallare, vallavi, vallatus</a> v</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/38339/vallum-valli">vallum, valli</a> n</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/38340/vallus-valli">vallus, valli</a> n</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/38341/valor-valoris">valor, valoris</a> n</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/38342/valor-valoris">valor, valoris</a> n</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/38343/valorosus-valorosa-valorosum">valorosus, valorosa, valorosum</a> adj</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/38344/valva-valvae">valva, valvae</a> n</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/38345/vanesco-vanescere">vanesco, vanescere, -, -</a> v</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/38346/vanidicus-vanidica-vanidicum">vanidicus, vanidica, vanidicum</a> adj</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/38347/vanidicus-vanidici">vanidicus, vanidici</a> n</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/38348/vanilla-vanillae">vanilla, vanillae</a> n</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/38349/vanilleus-vanillea-vanilleum">vanilleus, vanillea, vanilleum</a> adj</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/38350/vaniloquentia-vaniloquentiae">vaniloquentia, vaniloquentiae</a> n</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/38351/vaniloquor-vaniloqui-vanilocutus">vaniloquor, vaniloqui, vanilocutus</a> v</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/38352/vaniloquus-vaniloqua-vaniloquum">vaniloquus, vaniloqua, vaniloquum</a> adj</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/38353/vanitas-vanitatis">vanitas, vanitatis</a> n</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/38354/vannus-vanni">vannus, vanni</a> n</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/38355/vanus-vana-vanum">vanus, vana, vanum</a> adj</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/38356/vapide">vapide</a> adv</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/38357/vapidus-vapida-vapidum">vapidus, vapida, vapidum</a> adj</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/38358/vapor-vaporis">vapor, vaporis</a> n</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/38359/vapor-vaporis">vapor, vaporis</a> n</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/38360/vaporarium-vaporari-i">vaporarium, vaporari(i)</a> n</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/38361/vaporarius-vaporaria-vaporarium">vaporarius, vaporaria, vaporarium</a> adj</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/38362/vaporo-vaporare-vaporavi-vaporatus">vaporo, vaporare, vaporavi, vaporatus</a> v</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/38363/vappa-vappae">vappa, vappae</a> n</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/38364/vappa-vappae">vappa, vappae</a> n</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/38365/vapulatio-vapulationis">vapulatio, vapulationis</a> n</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/38366/vapulator-vapulatoris">vapulator, vapulatoris</a> n</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/38367/vapulo-vapulare-vapulavi-vapulatus">vapulo, vapulare, vapulavi, vapulatus</a> v</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/38368/vapulus-vapula-vapulum">vapulus, vapula, vapulum</a> adj</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/38369/variabilis-variabilis-variabile">variabilis, variabilis, variabile</a> adj</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/38370/variantia-variantiae">variantia, variantiae</a> n</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/38371/varianus-variana-varianum">varianus, variana, varianum</a> adj</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/38372/variatio-variationis">variatio, variationis</a> n</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/38373/varico-varicare-varicavi-varicatus">varico, varicare, varicavi, varicatus</a> v</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/38374/varicosus-varicosa-varicosum">varicosus, varicosa, varicosum</a> adj</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/38375/varicus-varica-varicum">varicus, varica, varicum</a> adj</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/38376/varietas-varietatis">varietas, varietatis</a> n</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/38377/vario-variare-variavi-variatus">vario, variare, variavi, variatus</a> v</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/38378/varius-varia-varium">varius, varia, varium</a> adj</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/38379/varix-varicis">varix, varicis</a> n</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/38380/varus-vara-varum">varus, vara, varum</a> adj</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/38381/vas-vadis">vas, vadis</a> n</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/38382/vas-vasis">vas, vasis</a> n</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/38383/vasarium-vasarii">vasarium, vasarii</a> n</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/38384/vascularius-vascularii">vascularius, vascularii</a> n</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/38385/vasculum-vasculi">vasculum, vasculi</a> n</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/38386/vassallus-vassalli">vassallus, vassalli</a> n</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/38387/vastatio-vastationis">vastatio, vastationis</a> n</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/38388/vastator-vastatoris">vastator, vastatoris</a> n</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/38389/vastificus-vastifica-vastificum">vastificus, vastifica, vastificum</a> adj</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/38390/vastitas-vastitatis">vastitas, vastitatis</a> n</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/38391/vastities-vastitiei">vastities, vastitiei</a> n</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/38392/vasto-vastare-vastavi-vastatus">vasto, vastare, vastavi, vastatus</a> v</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/38393/vastus-vasta">vastus, vasta</a> adj</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/38394/vasum-vasi">vasum, vasi</a> n</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/38395/vasus-vasi">vasus, vasi</a> n</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/38396/vates-vatis">vates, vatis</a> n</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/38397/vaticinatio-vaticinationis">vaticinatio, vaticinationis</a> n</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/38398/vaticinator-vaticinatoris">vaticinator, vaticinatoris</a> n</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/38399/vaticinium-vaticini-i">vaticinium, vaticini(i)</a> n</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/38400/vaticinium-vaticinii">vaticinium, vaticinii</a> n</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/38401/vaticinius-vaticinia-vaticinium">vaticinius, vaticinia, vaticinium</a> adj</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/38402/vaticinor-vaticinari-vaticinatus">vaticinor, vaticinari, vaticinatus</a> v</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/38403/vaticinus-vaticina-vaticinum">vaticinus, vaticina, vaticinum</a> adj</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/38404/vatillum-vatilli">vatillum, vatilli</a> n</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/38405/vatis-vatis">vatis, vatis</a> n</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/38406/vatius-vatia-vatium">vatius, vatia, vatium</a> adj</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/38407/vattium-vattii">vattium, vattii</a> n</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/38408/vav-undeclined">vav, undeclined</a> n</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/38409/vavasor-vavasoris">vavasor, vavasoris</a> n</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/38410/vecordia-vecordiae">vecordia, vecordiae</a> n</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/38411/vecors-gen-vecordis">vecors, (gen.), vecordis</a> adj</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/38412/vectigal-vectigalis">vectigal, vectigalis</a> n</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/38413/vectigalis-vectigalis-vectigale">vectigalis, vectigalis, vectigale</a> adj</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/38414/vectio-vectionis">vectio, vectionis</a> n</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/38415/vectis-vectis">vectis, vectis</a> n</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/38416/vecto-vectare-vectavi-vectatus">vecto, vectare, vectavi, vectatus</a> v</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/38417/vector-vectoris">vector, vectoris</a> n</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/38418/vectorius-vectoria-vectorium">vectorius, vectoria, vectorium</a> adj</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/38419/vectura-vecturae">vectura, vecturae</a> n</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/38420/vegeo-vegere">vegeo, vegere, -, -</a> v</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/38421/vegetabilis-vegetabilis-vegetabile">vegetabilis, vegetabilis, vegetabile</a> adj</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/38422/vegetabiliter">vegetabiliter</a> adv</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/38423/vegetale-vegetalis">vegetale, vegetalis</a> n</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/38424/vegetalis-vegetalis-vegetale">vegetalis, vegetalis, vegetale</a> adj</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/38425/vegetarianus-vegetariana-vegetarianum">vegetarianus, vegetariana, vegetarianum</a> adj</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/38426/vegetatio-vegetationis">vegetatio, vegetationis</a> n</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/38427/vegetativus-vegetativa-vegetativum">vegetativus, vegetativa, vegetativum</a> adj</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/38428/vegeto-vegetare-vegetavi-vegetatus">vegeto, vegetare, vegetavi, vegetatus</a> v</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/38429/vegetus-vegeta">vegetus, vegeta</a> adj</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/38430/vegrandis-vegrandis-vegrande">vegrandis, vegrandis, vegrande</a> adj</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/38431/vehemens-vehementis">vehemens, vehementis</a> adj</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/38432/vehementer-vehementius-vehementissime">vehementer, vehementius, vehementissime</a> adv</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/38433/vehiculum-vehiculi">vehiculum, vehiculi</a> n</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/38434/veho-vehere-vexi-vectus">veho, vehere, vexi, vectus</a> v</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/38435/vel">vel</a> adv</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/38436/vel">vel</a> conj</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/38437/velamen-velaminis">velamen, velaminis</a> n</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/38438/velamentum-velamenti">velamentum, velamenti</a> n</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/38439/velarium-velari-i">velarium, velari(i)</a> n</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/38440/veles-velitis">veles, velitis</a> n</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/38441/velifer-velifera-veliferum">velifer, velifera, veliferum</a> adj</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/38442/velificatio-velificationis">velificatio, velificationis</a> n</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/38443/velificator-velificatoris">velificator, velificatoris</a> n</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/38444/velifico-velificare-velificavi-velificatus">velifico, velificare, velificavi, velificatus</a> v</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/38445/velificor-velificari-velificatus">velificor, velificari, velificatus</a> v</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/38446/velitaris-velitaris-velitare">velitaris, velitaris, velitare</a> adj</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/38447/velitatio-velitationis">velitatio, velitationis</a> n</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/38448/velitor-velitari-velitatus">velitor, velitari, velitatus</a> v</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/38449/velivolans-gen-velivolantis">velivolans, (gen.), velivolantis</a> adj</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/38450/velivolum-velivoli">velivolum, velivoli</a> n</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/38451/velivolus-velivola-velivolum">velivolus, velivola, velivolum</a> adj</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/38452/vellaea-vellaeae">vellaea, vellaeae</a> adj</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/38453/vellea-velleae">vellea, velleae</a> adj</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/38454/velleianus-velleiana-velleianum">velleianus, velleiana, velleianum</a> adj</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/38455/vellicatim">vellicatim</a> adv</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/38456/vellico-vellicare-vellicavi-vellicatus">vellico, vellicare, vellicavi, vellicatus</a> v</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/38457/vello-vellere-velli-vulsus">vello, vellere, velli, vulsus</a> v</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/38458/vello-vellere-volsi-volsus">vello, vellere, volsi, volsus</a> v</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/38459/vello-vellere-vulsi-vulsus">vello, vellere, vulsi, vulsus</a> v</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/38460/vellus-velleris">vellus, velleris</a> n</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/38461/velo-velare-velavi-velatus">velo, velare, velavi, velatus</a> v</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/38462/velocitas-velocitatis">velocitas, velocitatis</a> n</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/38463/velociter-velocius-velocissime">velociter, velocius, velocissime</a> adv</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/38464/velox-velocis">velox, velocis</a> adj</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/38465/velum-veli">velum, veli</a> n</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/38466/velut">velut</a> adv</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/38467/veluti">veluti</a> adv</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/38468/vemens-gen-vementis">vemens, (gen.), vementis</a> adj</li>
+          <li id="word-199" class="word"><a href="http://www.latin-dictionary.net/definition/38469/vena-venae">vena, venae</a> n</li>
+          <li id="word-200" class="word"><a href="http://www.latin-dictionary.net/definition/38470/venabulum-venabuli">venabulum, venabuli</a> n</li>
+          <li id="word-201" class="word"><a href="http://www.latin-dictionary.net/definition/38471/venalicius-venalici-i">venalicius, venalici(i)</a> n</li>
+          <li id="word-202" class="word"><a href="http://www.latin-dictionary.net/definition/38472/venalicius-venalicia-venalicium">venalicius, venalicia, venalicium</a> adj</li>
+          <li id="word-203" class="word"><a href="http://www.latin-dictionary.net/definition/38473/venalis-venalis-venale">venalis, venalis, venale</a> adj</li>
+          <li id="word-204" class="word"><a href="http://www.latin-dictionary.net/definition/38474/venalitas-venalitatis">venalitas, venalitatis</a> n</li>
+          <li id="word-205" class="word"><a href="http://www.latin-dictionary.net/definition/38475/venaticus-venatica-venaticum">venaticus, venatica, venaticum</a> adj</li>
+          <li id="word-206" class="word"><a href="http://www.latin-dictionary.net/definition/38476/venatio-venationis">venatio, venationis</a> n</li>
+          <li id="word-207" class="word"><a href="http://www.latin-dictionary.net/definition/38477/venator-venatoris">venator, venatoris</a> n</li>
+          <li id="word-208" class="word"><a href="http://www.latin-dictionary.net/definition/38478/venatorius-venatoria-venatorium">venatorius, venatoria, venatorium</a> adj</li>
+          <li id="word-209" class="word"><a href="http://www.latin-dictionary.net/definition/38479/venatrix-venatricis">venatrix, venatricis</a> n</li>
+          <li id="word-210" class="word"><a href="http://www.latin-dictionary.net/definition/38480/venatus-venatus">venatus, venatus</a> n</li>
+          <li id="word-211" class="word"><a href="http://www.latin-dictionary.net/definition/38481/vendibilis-vendibilis-vendibile">vendibilis, vendibilis, vendibile</a> adj</li>
+          <li id="word-212" class="word"><a href="http://www.latin-dictionary.net/definition/38482/vendico-vendicare-vendicavi-vendicatus">vendico, vendicare, vendicavi, vendicatus</a> v</li>
+          <li id="word-213" class="word"><a href="http://www.latin-dictionary.net/definition/38483/venditatio-venditationis">venditatio, venditationis</a> n</li>
+          <li id="word-214" class="word"><a href="http://www.latin-dictionary.net/definition/38484/venditio-venditionis">venditio, venditionis</a> n</li>
+          <li id="word-215" class="word"><a href="http://www.latin-dictionary.net/definition/38485/vendito-venditare-venditavi-venditatus">vendito, venditare, venditavi, venditatus</a> v</li>
+          <li id="word-216" class="word"><a href="http://www.latin-dictionary.net/definition/38486/venditor-venditoris">venditor, venditoris</a> n</li>
+          <li id="word-217" class="word"><a href="http://www.latin-dictionary.net/definition/38487/venditrix-venditricis">venditrix, venditricis</a> n</li>
+          <li id="word-218" class="word"><a href="http://www.latin-dictionary.net/definition/38488/vendo-vendere-vendidi-venditus">vendo, vendere, vendidi, venditus</a> v</li>
+          <li id="word-219" class="word"><a href="http://www.latin-dictionary.net/definition/38489/venefica-veneficae">venefica, veneficae</a> n</li>
+          <li id="word-220" class="word"><a href="http://www.latin-dictionary.net/definition/38490/veneficium-venefici-i">veneficium, venefici(i)</a> n</li>
+          <li id="word-221" class="word"><a href="http://www.latin-dictionary.net/definition/38491/veneficus-venefica-veneficum">veneficus, venefica, veneficum</a> adj</li>
+          <li id="word-222" class="word"><a href="http://www.latin-dictionary.net/definition/38492/veneficus-venefici">veneficus, venefici</a> n</li>
+          <li id="word-223" class="word"><a href="http://www.latin-dictionary.net/definition/38493/venenatus-venenata-venenatum">venenatus, venenata, venenatum</a> adj</li>
+          <li id="word-224" class="word"><a href="http://www.latin-dictionary.net/definition/38494/venenifer-venenifera-veneniferum">venenifer, venenifera, veneniferum</a> adj</li>
+          <li id="word-225" class="word"><a href="http://www.latin-dictionary.net/definition/38495/veneno-venenare-venenavi-venenatus">veneno, venenare, venenavi, venenatus</a> v</li>
+          <li id="word-226" class="word"><a href="http://www.latin-dictionary.net/definition/38496/venenum-veneni">venenum, veneni</a> n</li>
+          <li id="word-227" class="word"><a href="http://www.latin-dictionary.net/definition/38497/veneo-venire-venivi-ii-venitus">veneo, venire, venivi(ii), venitus</a> v</li>
+          <li id="word-228" class="word"><a href="http://www.latin-dictionary.net/definition/38498/venerabilis-venerabilis-venerabile">venerabilis, venerabilis, venerabile</a> adj</li>
+          <li id="word-229" class="word"><a href="http://www.latin-dictionary.net/definition/38499/venerabundus-venerabunda-venerabundum">venerabundus, venerabunda, venerabundum</a> adj</li>
+          <li id="word-230" class="word"><a href="http://www.latin-dictionary.net/definition/38500/veneranter">veneranter</a> adv</li>
+          <li id="word-231" class="word"><a href="http://www.latin-dictionary.net/definition/38501/veneratio-venerationis">veneratio, venerationis</a> n</li>
+          <li id="word-232" class="word"><a href="http://www.latin-dictionary.net/definition/38502/venerator-veneratoris">venerator, veneratoris</a> n</li>
+          <li id="word-233" class="word"><a href="http://www.latin-dictionary.net/definition/38503/Veneri-gen-Veneriis">Veneri, (gen.), Veneriis</a> adj</li>
+          <li id="word-234" class="word"><a href="http://www.latin-dictionary.net/definition/38504/venero-venerare-veneravi-veneratus">venero, venerare, veneravi, veneratus</a> v</li>
+          <li id="word-235" class="word"><a href="http://www.latin-dictionary.net/definition/38505/veneror-venerari-veneratus">veneror, venerari, veneratus</a> v</li>
+          <li id="word-236" class="word"><a href="http://www.latin-dictionary.net/definition/38506/Venetia-Venetiae">Venetia, Venetiae</a> v</li>
+          <li id="word-237" class="word"><a href="http://www.latin-dictionary.net/definition/38507/venetum-veneti">venetum, veneti</a> n</li>
+          <li id="word-238" class="word"><a href="http://www.latin-dictionary.net/definition/38508/venetus-veneta-venetum">venetus, veneta, venetum</a> adj</li>
+          <li id="word-239" class="word"><a href="http://www.latin-dictionary.net/definition/38509/venetus-veneti">venetus, veneti</a> n</li>
+          <li id="word-240" class="word"><a href="http://www.latin-dictionary.net/definition/38510/Venetus-Veneti">Venetus, Veneti</a> n</li>
+          <li id="word-241" class="word"><a href="http://www.latin-dictionary.net/definition/38511/venia-veniae">venia, veniae</a> n</li>
+          <li id="word-242" class="word"><a href="http://www.latin-dictionary.net/definition/38512/venio-venire-veni-ventus">venio, venire, veni, ventus</a> v</li>
+          <li id="word-243" class="word"><a href="http://www.latin-dictionary.net/definition/38513/vennucula-vennuculae">vennucula, vennuculae</a> n</li>
+          <li id="word-244" class="word"><a href="http://www.latin-dictionary.net/definition/38514/venor-venari-venatus">venor, venari, venatus</a> v</li>
+          <li id="word-245" class="word"><a href="http://www.latin-dictionary.net/definition/38515/venosus-venosa-venosum">venosus, venosa, venosum</a> adj</li>
+          <li id="word-246" class="word"><a href="http://www.latin-dictionary.net/definition/38516/ventagium-ventagii">ventagium, ventagii</a> n</li>
+          <li id="word-247" class="word"><a href="http://www.latin-dictionary.net/definition/38517/venter-ventris">venter, ventris</a> n</li>
+          <li id="word-248" class="word"><a href="http://www.latin-dictionary.net/definition/38518/ventilabrum-ventilabri">ventilabrum, ventilabri</a> n</li>
+          <li id="word-249" class="word"><a href="http://www.latin-dictionary.net/definition/38519/ventilagium-ventilagii">ventilagium, ventilagii</a> n</li>
+          <li id="word-250" class="word"><a href="http://www.latin-dictionary.net/definition/38520/ventilatrum-ventilatri">ventilatrum, ventilatri</a> n</li>
+          <li id="word-251" class="word"><a href="http://www.latin-dictionary.net/definition/38521/ventilo-ventilare-ventilavi-ventilatus">ventilo, ventilare, ventilavi, ventilatus</a> v</li>
+          <li id="word-252" class="word"><a href="http://www.latin-dictionary.net/definition/38522/ventimolina-ventimolinae">ventimolina, ventimolinae</a> n</li>
+          <li id="word-253" class="word"><a href="http://www.latin-dictionary.net/definition/38523/ventito-ventitare-ventitavi-ventitatus">ventito, ventitare, ventitavi, ventitatus</a> v</li>
+          <li id="word-254" class="word"><a href="http://www.latin-dictionary.net/definition/38524/ventosus-ventosa-ventosum">ventosus, ventosa, ventosum</a> adj</li>
+          <li id="word-255" class="word"><a href="http://www.latin-dictionary.net/definition/38525/ventriculus-ventriculi">ventriculus, ventriculi</a> n</li>
+          <li id="word-256" class="word"><a href="http://www.latin-dictionary.net/definition/38526/ventriosus-ventriosa-ventriosum">ventriosus, ventriosa, ventriosum</a> adj</li>
+          <li id="word-257" class="word"><a href="http://www.latin-dictionary.net/definition/38527/ventulus-ventuli">ventulus, ventuli</a> n</li>
+          <li id="word-258" class="word"><a href="http://www.latin-dictionary.net/definition/38528/ventus-venti">ventus, venti</a> n</li>
+          <li id="word-259" class="word"><a href="http://www.latin-dictionary.net/definition/38529/venucula-venuculae">venucula, venuculae</a> n</li>
+          <li id="word-260" class="word"><a href="http://www.latin-dictionary.net/definition/38530/venum-veni">venum, veni</a> n</li>
+          <li id="word-261" class="word"><a href="http://www.latin-dictionary.net/definition/38531/venumdo-venumdare-venumdedi-venumdatus">venumdo, venumdare, venumdedi, venumdatus</a> v</li>
+          <li id="word-262" class="word"><a href="http://www.latin-dictionary.net/definition/38532/venundo-venundare-venundedi-venundatus">venundo, venundare, venundedi, venundatus</a> v</li>
+          <li id="word-263" class="word"><a href="http://www.latin-dictionary.net/definition/38534/Venus-Veneris">Venus, Veneris</a> n</li>
+          <li id="word-264" class="word"><a href="http://www.latin-dictionary.net/definition/38535/venus-venus">venus, venus</a> n</li>
+          <li id="word-265" class="word"><a href="http://www.latin-dictionary.net/definition/38536/venustas-venustatis">venustas, venustatis</a> n</li>
+          <li id="word-266" class="word"><a href="http://www.latin-dictionary.net/definition/38537/venuste-venustius-venustissime">venuste, venustius, venustissime</a> adv</li>
+          <li id="word-267" class="word"><a href="http://www.latin-dictionary.net/definition/38538/venusto-venustare-venustavi-venustatus">venusto, venustare, venustavi, venustatus</a> v</li>
+          <li id="word-268" class="word"><a href="http://www.latin-dictionary.net/definition/38539/venustulus-venustula-venustulum">venustulus, venustula, venustulum</a> adj</li>
+          <li id="word-269" class="word"><a href="http://www.latin-dictionary.net/definition/38540/venustus-venusta-venustum">venustus, venusta, venustum</a> adj</li>
+          <li id="word-270" class="word"><a href="http://www.latin-dictionary.net/definition/38541/vepallidus-vepallida-vepallidum">vepallidus, vepallida, vepallidum</a> adj</li>
+          <li id="word-271" class="word"><a href="http://www.latin-dictionary.net/definition/38542/veprecula-vepreculae">veprecula, vepreculae</a> n</li>
+          <li id="word-272" class="word"><a href="http://www.latin-dictionary.net/definition/38543/vepris-vepris">vepris, vepris</a> n</li>
+          <li id="word-273" class="word"><a href="http://www.latin-dictionary.net/definition/38544/ver-veris">ver, veris</a> n</li>
+          <li id="word-274" class="word"><a href="http://www.latin-dictionary.net/definition/38545/veraciter">veraciter</a> adv</li>
+          <li id="word-275" class="word"><a href="http://www.latin-dictionary.net/definition/38546/veratrum-veratri">veratrum, veratri</a> n</li>
+          <li id="word-276" class="word"><a href="http://www.latin-dictionary.net/definition/38547/verax-veracis">verax, veracis</a> adj</li>
+          <li id="word-277" class="word"><a href="http://www.latin-dictionary.net/definition/38548/verbatim">verbatim</a> adv</li>
+          <li id="word-278" class="word"><a href="http://www.latin-dictionary.net/definition/38549/verbena-verbenae">verbena, verbenae</a> n</li>
+          <li id="word-279" class="word"><a href="http://www.latin-dictionary.net/definition/38550/verbeneca-verbenecae">verbeneca, verbenecae</a> n</li>
+          <li id="word-280" class="word"><a href="http://www.latin-dictionary.net/definition/38551/verber-verberis">verber, verberis</a> n</li>
+          <li id="word-281" class="word"><a href="http://www.latin-dictionary.net/definition/38552/verberabilis-verberabilis-verberabile">verberabilis, verberabilis, verberabile</a> adj</li>
+          <li id="word-282" class="word"><a href="http://www.latin-dictionary.net/definition/38553/verberatus-verberatus">verberatus, verberatus</a> adj</li>
+          <li id="word-283" class="word"><a href="http://www.latin-dictionary.net/definition/38554/verbero-verberare-verberavi-verberatus">verbero, verberare, verberavi, verberatus</a> v</li>
+          <li id="word-284" class="word"><a href="http://www.latin-dictionary.net/definition/38555/verbero-verberonis">verbero, verberonis</a> n</li>
+          <li id="word-285" class="word"><a href="http://www.latin-dictionary.net/definition/38556/verbosus-verbosa-verbosum">verbosus, verbosa, verbosum</a> adj</li>
+          <li id="word-286" class="word"><a href="http://www.latin-dictionary.net/definition/38557/verbum-verbi">verbum, verbi</a> n</li>
+          <li id="word-287" class="word"><a href="http://www.latin-dictionary.net/definition/38558/Vercingetorix-Vercingetorigis">Vercingetorix, Vercingetorigis</a> n</li>
+          <li id="word-288" class="word"><a href="http://www.latin-dictionary.net/definition/38559/vere-verius-verissime">vere, verius, verissime</a> adv</li>
+          <li id="word-289" class="word"><a href="http://www.latin-dictionary.net/definition/38560/verecundia-verecundiae">verecundia, verecundiae</a> n</li>
+          <li id="word-290" class="word"><a href="http://www.latin-dictionary.net/definition/38561/verecundor-verecundari-verecundatus">verecundor, verecundari, verecundatus</a> v</li>
+          <li id="word-291" class="word"><a href="http://www.latin-dictionary.net/definition/38562/verecundus-verecunda">verecundus, verecunda</a> adj</li>
+          <li id="word-292" class="word"><a href="http://www.latin-dictionary.net/definition/38563/veredictum-veredicti">veredictum, veredicti</a> n</li>
+          <li id="word-293" class="word"><a href="http://www.latin-dictionary.net/definition/38564/veredus-veredi">veredus, veredi</a> n</li>
+          <li id="word-294" class="word"><a href="http://www.latin-dictionary.net/definition/38565/verendum-verendi">verendum, verendi</a> n</li>
+          <li id="word-295" class="word"><a href="http://www.latin-dictionary.net/definition/38566/verendus-verenda-verendum">verendus, verenda, verendum</a> adj</li>
+          <li id="word-296" class="word"><a href="http://www.latin-dictionary.net/definition/38567/vereor-vereri-veritus">vereor, vereri, veritus</a> v</li>
+          <li id="word-297" class="word"><a href="http://www.latin-dictionary.net/definition/38568/veretilla-veretillae">veretilla, veretillae</a> n</li>
+          <li id="word-298" class="word"><a href="http://www.latin-dictionary.net/definition/38569/veretrum-veretri">veretrum, veretri</a> n</li>
+          <li id="word-299" class="word"><a href="http://www.latin-dictionary.net/definition/38570/verfico-verficare-verficavi-verficatus">verfico, verficare, verficavi, verficatus</a> v</li>
+          <li id="word-300" class="word"><a href="http://www.latin-dictionary.net/definition/38571/Vergilia-Vergiliae">Vergilia, Vergiliae</a> n</li>
+          <li id="word-301" class="word"><a href="http://www.latin-dictionary.net/definition/38572/Vergilius-Vergili">Vergilius, Vergili</a> n</li>
+          <li id="word-302" class="word"><a href="http://www.latin-dictionary.net/definition/38573/Vergilius-Vergilia-Vergilium">Vergilius, Vergilia, Vergilium</a> adj</li>
+          <li id="word-303" class="word"><a href="http://www.latin-dictionary.net/definition/38574/vergo-vergere">vergo, vergere, -, -</a> v</li>
+          <li id="word-304" class="word"><a href="http://www.latin-dictionary.net/definition/38575/vergobretus-vergobreti">vergobretus, vergobreti</a> n</li>
+          <li id="word-305" class="word"><a href="http://www.latin-dictionary.net/definition/38576/vericulum-vericuli">vericulum, vericuli</a> n</li>
+          <li id="word-306" class="word"><a href="http://www.latin-dictionary.net/definition/38577/veridicus-veridica-veridicum">veridicus, veridica, veridicum</a> adj</li>
+          <li id="word-307" class="word"><a href="http://www.latin-dictionary.net/definition/38578/verifico-verificare-verificavi-verificatus">verifico, verificare, verificavi, verificatus</a> v</li>
+          <li id="word-308" class="word"><a href="http://www.latin-dictionary.net/definition/38579/veriloquium-veriloquii">veriloquium, veriloquii</a> n</li>
+          <li id="word-309" class="word"><a href="http://www.latin-dictionary.net/definition/38580/verisimilis-verisimilis-verisimile">verisimilis, verisimilis, verisimile</a> adj</li>
+          <li id="word-310" class="word"><a href="http://www.latin-dictionary.net/definition/38581/verisimilitudo-verisimilitudinis">verisimilitudo, verisimilitudinis</a> n</li>
+          <li id="word-311" class="word"><a href="http://www.latin-dictionary.net/definition/38582/veritas-veritatis">veritas, veritatis</a> n</li>
+          <li id="word-312" class="word"><a href="http://www.latin-dictionary.net/definition/38583/veritas-veritatis">veritas, veritatis</a> n</li>
+          <li id="word-313" class="word"><a href="http://www.latin-dictionary.net/definition/38584/veritate">veritate</a> adv</li>
+          <li id="word-314" class="word"><a href="http://www.latin-dictionary.net/definition/38585/vermiculus-vermiculi">vermiculus, vermiculi</a> n</li>
+          <li id="word-315" class="word"><a href="http://www.latin-dictionary.net/definition/38586/verminatio-verminationis">verminatio, verminationis</a> n</li>
+          <li id="word-316" class="word"><a href="http://www.latin-dictionary.net/definition/38587/vermino-verminare-verminavi-verminatus">vermino, verminare, verminavi, verminatus</a> v</li>
+          <li id="word-317" class="word"><a href="http://www.latin-dictionary.net/definition/38588/vermis-vermis">vermis, vermis</a> n</li>
+          <li id="word-318" class="word"><a href="http://www.latin-dictionary.net/definition/38589/verna-vernae">verna, vernae</a> n</li>
+          <li id="word-319" class="word"><a href="http://www.latin-dictionary.net/definition/38590/vernaculus-vernacula-vernaculum">vernaculus, vernacula, vernaculum</a> adj</li>
+          <li id="word-320" class="word"><a href="http://www.latin-dictionary.net/definition/38591/vernilis-vernilis-vernile">vernilis, vernilis, vernile</a> adj</li>
+          <li id="word-321" class="word"><a href="http://www.latin-dictionary.net/definition/38592/verniliter">verniliter</a> adv</li>
+          <li id="word-322" class="word"><a href="http://www.latin-dictionary.net/definition/38593/vernix-vernicis">vernix, vernicis</a> n</li>
+          <li id="word-323" class="word"><a href="http://www.latin-dictionary.net/definition/38594/verno-vernare-vernavi-vernatus">verno, vernare, vernavi, vernatus</a> v</li>
+          <li id="word-324" class="word"><a href="http://www.latin-dictionary.net/definition/38595/vernula-vernulae">vernula, vernulae</a> n</li>
+          <li id="word-325" class="word"><a href="http://www.latin-dictionary.net/definition/38596/vernus-verna-vernum">vernus, verna, vernum</a> adj</li>
+          <li id="word-326" class="word"><a href="http://www.latin-dictionary.net/definition/38597/vero">vero</a> adv</li>
+          <li id="word-327" class="word"><a href="http://www.latin-dictionary.net/definition/38598/verpa-verpae">verpa, verpae</a> n</li>
+          <li id="word-328" class="word"><a href="http://www.latin-dictionary.net/definition/38599/verpus-verpa-verpum">verpus, verpa, verpum</a> adj</li>
+          <li id="word-329" class="word"><a href="http://www.latin-dictionary.net/definition/38600/verres-verris">verres, verris</a> n</li>
+          <li id="word-330" class="word"><a href="http://www.latin-dictionary.net/definition/38601/Verres-Verris">Verres, Verris</a> n</li>
+          <li id="word-331" class="word"><a href="http://www.latin-dictionary.net/definition/38602/verrinus-verrina-verrinum">verrinus, verrina, verrinum</a> adj</li>
+          <li id="word-332" class="word"><a href="http://www.latin-dictionary.net/definition/38603/verris-verris">verris, verris</a> n</li>
+          <li id="word-333" class="word"><a href="http://www.latin-dictionary.net/definition/38604/verro-verrere-verri-versus">verro, verrere, verri, versus</a> v</li>
+          <li id="word-334" class="word"><a href="http://www.latin-dictionary.net/definition/38605/verruca-verrucae">verruca, verrucae</a> n</li>
+          <li id="word-335" class="word"><a href="http://www.latin-dictionary.net/definition/38606/verrucosus-verrucosa-verrucosum">verrucosus, verrucosa, verrucosum</a> adj</li>
+          <li id="word-336" class="word"><a href="http://www.latin-dictionary.net/definition/38607/verrunco-verruncere">verrunco, verruncere, -, -</a> v</li>
+          <li id="word-337" class="word"><a href="http://www.latin-dictionary.net/definition/38608/verrutum-verruti">verrutum, verruti</a> n</li>
+          <li id="word-338" class="word"><a href="http://www.latin-dictionary.net/definition/38609/versabundus-versabunda-versabundum">versabundus, versabunda, versabundum</a> adj</li>
+          <li id="word-339" class="word"><a href="http://www.latin-dictionary.net/definition/38610/versara-versarae">versara, versarae</a> n</li>
+          <li id="word-340" class="word"><a href="http://www.latin-dictionary.net/definition/38611/versatilis-versatilis-versatile">versatilis, versatilis, versatile</a> adj</li>
+          <li id="word-341" class="word"><a href="http://www.latin-dictionary.net/definition/38612/versatio-versationis">versatio, versationis</a> n</li>
+          <li id="word-342" class="word"><a href="http://www.latin-dictionary.net/definition/38613/versicolor-gen-versicoloris">versicolor, (gen.), versicoloris</a> adj</li>
+          <li id="word-343" class="word"><a href="http://www.latin-dictionary.net/definition/38614/versiculus-versiculi">versiculus, versiculi</a> n</li>
+          <li id="word-344" class="word"><a href="http://www.latin-dictionary.net/definition/38615/versificatio-versificationis">versificatio, versificationis</a> n</li>
+          <li id="word-345" class="word"><a href="http://www.latin-dictionary.net/definition/38616/versificator-versificatoris">versificator, versificatoris</a> n</li>
+          <li id="word-346" class="word"><a href="http://www.latin-dictionary.net/definition/38617/versifico-versificare-versificavi-versificatus">versifico, versificare, versificavi, versificatus</a> v</li>
+          <li id="word-347" class="word"><a href="http://www.latin-dictionary.net/definition/38618/versilis-versilis-versile">versilis, versilis, versile</a> adj</li>
+          <li id="word-348" class="word"><a href="http://www.latin-dictionary.net/definition/38619/versio-versionis">versio, versionis</a> n</li>
+          <li id="word-349" class="word"><a href="http://www.latin-dictionary.net/definition/38620/versipellis-versipellis">versipellis, versipellis</a> n</li>
+          <li id="word-350" class="word"><a href="http://www.latin-dictionary.net/definition/38621/verso-versare-versavi-versatus">verso, versare, versavi, versatus</a> v</li>
+          <li id="word-351" class="word"><a href="http://www.latin-dictionary.net/definition/38622/versor-versari-versatus">versor, versari, versatus</a> v</li>
+          <li id="word-352" class="word"><a href="http://www.latin-dictionary.net/definition/38623/versum">versum</a> adv</li>
+          <li id="word-353" class="word"><a href="http://www.latin-dictionary.net/definition/38624/versum">versum</a> prep</li>
+          <li id="word-354" class="word"><a href="http://www.latin-dictionary.net/definition/38625/versus">versus</a> adv</li>
+          <li id="word-355" class="word"><a href="http://www.latin-dictionary.net/definition/38626/versus">versus</a> prep</li>
+          <li id="word-356" class="word"><a href="http://www.latin-dictionary.net/definition/38627/versus-versus">versus, versus</a> n</li>
+          <li id="word-357" class="word"><a href="http://www.latin-dictionary.net/definition/38628/versutia-versutiae">versutia, versutiae</a> n</li>
+          <li id="word-358" class="word"><a href="http://www.latin-dictionary.net/definition/38629/versutiloquus-versutiloqua-versutiloquum">versutiloquus, versutiloqua, versutiloquum</a> adj</li>
+          <li id="word-359" class="word"><a href="http://www.latin-dictionary.net/definition/38630/versutus-versuta-versutum">versutus, versuta, versutum</a> adj</li>
+          <li id="word-360" class="word"><a href="http://www.latin-dictionary.net/definition/38631/vertebra-vertebrae">vertebra, vertebrae</a> n</li>
+          <li id="word-361" class="word"><a href="http://www.latin-dictionary.net/definition/38632/vertex-verticis">vertex, verticis</a> n</li>
+          <li id="word-362" class="word"><a href="http://www.latin-dictionary.net/definition/38633/vertibilis-vertibilis-vertibile">vertibilis, vertibilis, vertibile</a> adj</li>
+          <li id="word-363" class="word"><a href="http://www.latin-dictionary.net/definition/38634/vertibilitas-vertibilitatis">vertibilitas, vertibilitatis</a> n</li>
+          <li id="word-364" class="word"><a href="http://www.latin-dictionary.net/definition/38635/verticitas-verticitatis">verticitas, verticitatis</a> n</li>
+          <li id="word-365" class="word"><a href="http://www.latin-dictionary.net/definition/38636/verticosus-verticosa-verticosum">verticosus, verticosa, verticosum</a> adj</li>
+          <li id="word-366" class="word"><a href="http://www.latin-dictionary.net/definition/38637/vertigo-vertiginis">vertigo, vertiginis</a> n</li>
+          <li id="word-367" class="word"><a href="http://www.latin-dictionary.net/definition/38638/verto-vertere-verti-versus">verto, vertere, verti, versus</a> v</li>
+          <li id="word-368" class="word"><a href="http://www.latin-dictionary.net/definition/38639/veru-verus">veru, verus</a> n</li>
+          <li id="word-369" class="word"><a href="http://www.latin-dictionary.net/definition/38640/verum">verum</a> adv</li>
+          <li id="word-370" class="word"><a href="http://www.latin-dictionary.net/definition/38641/verum-veri">verum, veri</a> n</li>
+          <li id="word-371" class="word"><a href="http://www.latin-dictionary.net/definition/38642/verumtamen">verumtamen</a> conj</li>
+          <li id="word-372" class="word"><a href="http://www.latin-dictionary.net/definition/38643/verus-vera">verus, vera</a> adj</li>
+          <li id="word-373" class="word"><a href="http://www.latin-dictionary.net/definition/38644/Verus-Veri">Verus, Veri</a> adj</li>
+          <li id="word-374" class="word"><a href="http://www.latin-dictionary.net/definition/38645/verutum-veruti">verutum, veruti</a> n</li>
+          <li id="word-375" class="word"><a href="http://www.latin-dictionary.net/definition/38646/verutus-veruta-verutum">verutus, veruta, verutum</a> adj</li>
+          <li id="word-376" class="word"><a href="http://www.latin-dictionary.net/definition/38647/vervex-vervecis">vervex, vervecis</a> n</li>
+          <li id="word-377" class="word"><a href="http://www.latin-dictionary.net/definition/38648/vervex-vervis">vervex, vervis</a> n</li>
+          <li id="word-378" class="word"><a href="http://www.latin-dictionary.net/definition/38649/vesania-vesaniae">vesania, vesaniae</a> n</li>
+          <li id="word-379" class="word"><a href="http://www.latin-dictionary.net/definition/38650/vesaniens-gen-vesanientis">vesaniens, (gen.), vesanientis</a> adj</li>
+          <li id="word-380" class="word"><a href="http://www.latin-dictionary.net/definition/38651/vesanus-vesana-vesanum">vesanus, vesana, vesanum</a> adj</li>
+          <li id="word-381" class="word"><a href="http://www.latin-dictionary.net/definition/38652/vescor-vesci">vescor, vesci, -</a> v</li>
+          <li id="word-382" class="word"><a href="http://www.latin-dictionary.net/definition/38653/vescus-vesca-vescum">vescus, vesca, vescum</a> adj</li>
+          <li id="word-383" class="word"><a href="http://www.latin-dictionary.net/definition/38654/vesica-vesicae">vesica, vesicae</a> n</li>
+          <li id="word-384" class="word"><a href="http://www.latin-dictionary.net/definition/38655/vesicuia-vesicuiae">vesicuia, vesicuiae</a> n</li>
+          <li id="word-385" class="word"><a href="http://www.latin-dictionary.net/definition/38656/vesicula-vesiculae">vesicula, vesiculae</a> n</li>
+          <li id="word-386" class="word"><a href="http://www.latin-dictionary.net/definition/38657/vespa-vespae">vespa, vespae</a> n</li>
+          <li id="word-387" class="word"><a href="http://www.latin-dictionary.net/definition/38658/Vespasianus-Vespasiani">Vespasianus, Vespasiani</a> n</li>
+          <li id="word-388" class="word"><a href="http://www.latin-dictionary.net/definition/38659/vesper-vesperi">vesper, vesperi</a> n</li>
+          <li id="word-389" class="word"><a href="http://www.latin-dictionary.net/definition/38660/vesper-vesperis">vesper, vesperis</a> n</li>
+          <li id="word-390" class="word"><a href="http://www.latin-dictionary.net/definition/38661/vespera-vesperae">vespera, vesperae</a> n</li>
+          <li id="word-391" class="word"><a href="http://www.latin-dictionary.net/definition/38662/vesperasco-vesperascere">vesperasco, vesperascere, -, -</a> v</li>
+          <li id="word-392" class="word"><a href="http://www.latin-dictionary.net/definition/38663/vesperasct-vesperascere">vesperasct, vesperascere, -, -</a> v</li>
+          <li id="word-393" class="word"><a href="http://www.latin-dictionary.net/definition/38664/vesperi">vesperi</a> adv</li>
+          <li id="word-394" class="word"><a href="http://www.latin-dictionary.net/definition/38665/vespertilio-vespertilionis">vespertilio, vespertilionis</a> n</li>
+          <li id="word-395" class="word"><a href="http://www.latin-dictionary.net/definition/38666/vespertinus-vespertina-vespertinum">vespertinus, vespertina, vespertinum</a> adj</li>
+          <li id="word-396" class="word"><a href="http://www.latin-dictionary.net/definition/38667/vespillo-vespillonis">vespillo, vespillonis</a> n</li>
+          <li id="word-397" class="word"><a href="http://www.latin-dictionary.net/definition/38668/Vesta-Vestae">Vesta, Vestae</a> n</li>
+          <li id="word-398" class="word"><a href="http://www.latin-dictionary.net/definition/38669/Vestalis-Vestalis">Vestalis, Vestalis</a> n</li>
+          <li id="word-399" class="word"><a href="http://www.latin-dictionary.net/definition/38670/Vestalis-Vestalis-Vestale">Vestalis, Vestalis, Vestale</a> adj</li>
+          <li id="word-400" class="word"><a href="http://www.latin-dictionary.net/definition/38671/vester-vestra-vestrum">vester, vestra, vestrum</a> adj</li>
+          <li id="word-401" class="word"><a href="http://www.latin-dictionary.net/definition/38672/vestiarium-vestiari-i">vestiarium, vestiari(i)</a> n</li>
+          <li id="word-402" class="word"><a href="http://www.latin-dictionary.net/definition/38673/vestiarium-vestiarii">vestiarium, vestiarii</a> n</li>
+          <li id="word-403" class="word"><a href="http://www.latin-dictionary.net/definition/38674/vestiarius-vestiari-i">vestiarius, vestiari(i)</a> n</li>
+          <li id="word-404" class="word"><a href="http://www.latin-dictionary.net/definition/38675/vestiarius-vestiari-i">vestiarius, vestiari(i)</a> n</li>
+          <li id="word-405" class="word"><a href="http://www.latin-dictionary.net/definition/38676/vestibulum-vestibuli">vestibulum, vestibuli</a> n</li>
+          <li id="word-406" class="word"><a href="http://www.latin-dictionary.net/definition/38677/vestigium-vestigi-i">vestigium, vestigi(i)</a> n</li>
+          <li id="word-407" class="word"><a href="http://www.latin-dictionary.net/definition/38678/vestigo-vestigare-vestigavi-vestigatus">vestigo, vestigare, vestigavi, vestigatus</a> v</li>
+          <li id="word-408" class="word"><a href="http://www.latin-dictionary.net/definition/38679/vestimentum-vestimenti">vestimentum, vestimenti</a> n</li>
+          <li id="word-409" class="word"><a href="http://www.latin-dictionary.net/definition/38680/vestio-vestire-vestivi-vestitus">vestio, vestire, vestivi, vestitus</a> v</li>
+          <li id="word-410" class="word"><a href="http://www.latin-dictionary.net/definition/38681/vestiplica-vestiplicae">vestiplica, vestiplicae</a> n</li>
+          <li id="word-411" class="word"><a href="http://www.latin-dictionary.net/definition/38682/vestis-vestis">vestis, vestis</a> n</li>
+          <li id="word-412" class="word"><a href="http://www.latin-dictionary.net/definition/38683/vestispica-vestispicae">vestispica, vestispicae</a> n</li>
+          <li id="word-413" class="word"><a href="http://www.latin-dictionary.net/definition/38684/vestitus-vestitus">vestitus, vestitus</a> n</li>
+          <li id="word-414" class="word"><a href="http://www.latin-dictionary.net/definition/38685/veter-vetera-veterum">veter, vetera, veterum</a> adj</li>
+          <li id="word-415" class="word"><a href="http://www.latin-dictionary.net/definition/38686/veteranus-veterana-veteranum">veteranus, veterana, veteranum</a> adj</li>
+          <li id="word-416" class="word"><a href="http://www.latin-dictionary.net/definition/38687/veterasco-veterascere">veterasco, veterascere, -, -</a> v</li>
+          <li id="word-417" class="word"><a href="http://www.latin-dictionary.net/definition/38688/veterator-veteratoris">veterator, veteratoris</a> n</li>
+          <li id="word-418" class="word"><a href="http://www.latin-dictionary.net/definition/38689/veteratorie">veteratorie</a> adv</li>
+          <li id="word-419" class="word"><a href="http://www.latin-dictionary.net/definition/38690/veteratorius-veteratoria-veteratorium">veteratorius, veteratoria, veteratorium</a> adj</li>
+          <li id="word-420" class="word"><a href="http://www.latin-dictionary.net/definition/38691/veteresco-veterescere">veteresco, veterescere, -, -</a> v</li>
+          <li id="word-421" class="word"><a href="http://www.latin-dictionary.net/definition/38692/veterinarius-veterinarii">veterinarius, veterinarii</a> n</li>
+          <li id="word-422" class="word"><a href="http://www.latin-dictionary.net/definition/38693/veterinus-veterina-veterinum">veterinus, veterina, veterinum</a> adj</li>
+          <li id="word-423" class="word"><a href="http://www.latin-dictionary.net/definition/38694/veternosus-veternosa-veternosum">veternosus, veternosa, veternosum</a> adj</li>
+          <li id="word-424" class="word"><a href="http://www.latin-dictionary.net/definition/38695/veternus-veterni">veternus, veterni</a> n</li>
+          <li id="word-425" class="word"><a href="http://www.latin-dictionary.net/definition/38696/vetero-veterare-veteravi-veteratus">vetero, veterare, veteravi, veteratus</a> v</li>
+          <li id="word-426" class="word"><a href="http://www.latin-dictionary.net/definition/38697/veto-vetare-vetavi-vetatus">veto, vetare, vetavi, vetatus</a> v</li>
+          <li id="word-427" class="word"><a href="http://www.latin-dictionary.net/definition/38698/veto-vetare-vetui-vetitus">veto, vetare, vetui, vetitus</a> v</li>
+          <li id="word-428" class="word"><a href="http://www.latin-dictionary.net/definition/38699/vetulus-vetula-vetulum">vetulus, vetula, vetulum</a> adj</li>
+          <li id="word-429" class="word"><a href="http://www.latin-dictionary.net/definition/38700/vetus-veteris">vetus, veteris</a> n</li>
+          <li id="word-430" class="word"><a href="http://www.latin-dictionary.net/definition/38701/vetus-veteris">vetus, veteris</a> n</li>
+          <li id="word-431" class="word"><a href="http://www.latin-dictionary.net/definition/38702/vetus-veteris">vetus, veteris</a> adj</li>
+          <li id="word-432" class="word"><a href="http://www.latin-dictionary.net/definition/38703/vetust-vetustis">vetust, vetustis</a> adj</li>
+          <li id="word-433" class="word"><a href="http://www.latin-dictionary.net/definition/38704/vetustas-vetustatis">vetustas, vetustatis</a> n</li>
+          <li id="word-434" class="word"><a href="http://www.latin-dictionary.net/definition/38705/vetuste">vetuste</a> adv</li>
+          <li id="word-435" class="word"><a href="http://www.latin-dictionary.net/definition/38706/vetustus-vetusta-vetustum">vetustus, vetusta, vetustum</a> adj</li>
+          <li id="word-436" class="word"><a href="http://www.latin-dictionary.net/definition/38707/vexamen-vexaminis">vexamen, vexaminis</a> n</li>
+          <li id="word-437" class="word"><a href="http://www.latin-dictionary.net/definition/38708/vexatio-vexationis">vexatio, vexationis</a> n</li>
+          <li id="word-438" class="word"><a href="http://www.latin-dictionary.net/definition/38709/vexillarius-vexillari-i">vexillarius, vexillari(i)</a> n</li>
+          <li id="word-439" class="word"><a href="http://www.latin-dictionary.net/definition/38710/vexillarius-vexillari-i">vexillarius, vexillari(i)</a> n</li>
+          <li id="word-440" class="word"><a href="http://www.latin-dictionary.net/definition/38711/vexillatio-vexillationis">vexillatio, vexillationis</a> n</li>
+          <li id="word-441" class="word"><a href="http://www.latin-dictionary.net/definition/38712/vexilliatio-vexilliationis">vexilliatio, vexilliationis</a> n</li>
+          <li id="word-442" class="word"><a href="http://www.latin-dictionary.net/definition/38713/vexillium-vexillii">vexillium, vexillii</a> n</li>
+          <li id="word-443" class="word"><a href="http://www.latin-dictionary.net/definition/38714/vexillum-vexilli">vexillum, vexilli</a> n</li>
+          <li id="word-444" class="word"><a href="http://www.latin-dictionary.net/definition/38715/vexo-vexare-vexavi-vexatus">vexo, vexare, vexavi, vexatus</a> v</li>
+          <li id="word-445" class="word"><a href="http://www.latin-dictionary.net/definition/38716/via-viae">via, viae</a> n</li>
+          <li id="word-446" class="word"><a href="http://www.latin-dictionary.net/definition/38717/viaeductus-viaeductus">viaeductus, viaeductus</a> n</li>
+          <li id="word-447" class="word"><a href="http://www.latin-dictionary.net/definition/38718/viaticum-viatici">viaticum, viatici</a> n</li>
+          <li id="word-448" class="word"><a href="http://www.latin-dictionary.net/definition/38719/viaticus-viatica-viaticum">viaticus, viatica, viaticum</a> adj</li>
+          <li id="word-449" class="word"><a href="http://www.latin-dictionary.net/definition/38720/viator-viatoris">viator, viatoris</a> n</li>
+          <li id="word-450" class="word"><a href="http://www.latin-dictionary.net/definition/38721/viatorius-viatoria-viatorium">viatorius, viatoria, viatorium</a> adj</li>
+          <li id="word-451" class="word"><a href="http://www.latin-dictionary.net/definition/38722/vibramen-vibraminis">vibramen, vibraminis</a> n</li>
+          <li id="word-452" class="word"><a href="http://www.latin-dictionary.net/definition/38723/vibro-vibrare-vibravi-vibratus">vibro, vibrare, vibravi, vibratus</a> v</li>
+          <li id="word-453" class="word"><a href="http://www.latin-dictionary.net/definition/38724/viburnum-viburni">viburnum, viburni</a> n</li>
+          <li id="word-454" class="word"><a href="http://www.latin-dictionary.net/definition/38725/vicanus-vicana-vicanum">vicanus, vicana, vicanum</a> adj</li>
+          <li id="word-455" class="word"><a href="http://www.latin-dictionary.net/definition/38726/vicanus-vicani">vicanus, vicani</a> n</li>
+          <li id="word-456" class="word"><a href="http://www.latin-dictionary.net/definition/38727/vicaria-vicariae">vicaria, vicariae</a> n</li>
+          <li id="word-457" class="word"><a href="http://www.latin-dictionary.net/definition/38728/vicariatus-vicariatus">vicariatus, vicariatus</a> n</li>
+          <li id="word-458" class="word"><a href="http://www.latin-dictionary.net/definition/38729/vicarius-vicari-i">vicarius, vicari(i)</a> n</li>
+          <li id="word-459" class="word"><a href="http://www.latin-dictionary.net/definition/38730/vicarius-vicaria-vicarium">vicarius, vicaria, vicarium</a> adj</li>
+          <li id="word-460" class="word"><a href="http://www.latin-dictionary.net/definition/38731/vicarius-vicarii">vicarius, vicarii</a> n</li>
+          <li id="word-461" class="word"><a href="http://www.latin-dictionary.net/definition/38732/vicarius-vicarii">vicarius, vicarii</a> n</li>
+          <li id="word-462" class="word"><a href="http://www.latin-dictionary.net/definition/38733/vicatim">vicatim</a> adv</li>
+          <li id="word-463" class="word"><a href="http://www.latin-dictionary.net/definition/38734/vicecomes-vicecomitis">vicecomes, vicecomitis</a> n</li>
+          <li id="word-464" class="word"><a href="http://www.latin-dictionary.net/definition/38735/vicedominus-vicedomini">vicedominus, vicedomini</a> n</li>
+          <li id="word-465" class="word"><a href="http://www.latin-dictionary.net/definition/38736/vicennal-vicennalis">vicennal, vicennalis</a> n</li>
+          <li id="word-466" class="word"><a href="http://www.latin-dictionary.net/definition/38737/vicensim">vicensim</a> n</li>
+          <li id="word-467" class="word"><a href="http://www.latin-dictionary.net/definition/38738/vicensum">vicensum</a> n</li>
+          <li id="word-468" class="word"><a href="http://www.latin-dictionary.net/definition/38739/vicenus-vicena-vicenum">vicenus, vicena, vicenum</a> adj</li>
+          <li id="word-469" class="word"><a href="http://www.latin-dictionary.net/definition/38740/vicepraepositus-vicepraepositi">vicepraepositus, vicepraepositi</a> n</li>
+          <li id="word-470" class="word"><a href="http://www.latin-dictionary.net/definition/38741/vicesima-vicesimae">vicesima, vicesimae</a> n</li>
+          <li id="word-471" class="word"><a href="http://www.latin-dictionary.net/definition/38742/vicesimanus-vicesimani">vicesimanus, vicesimani</a> n</li>
+          <li id="word-472" class="word"><a href="http://www.latin-dictionary.net/definition/38743/vicesimarius-vicesimaria-vicesimarium">vicesimarius, vicesimaria, vicesimarium</a> adj</li>
+          <li id="word-473" class="word"><a href="http://www.latin-dictionary.net/definition/38744/vicia-viciae">vicia, viciae</a> n</li>
+          <li id="word-474" class="word"><a href="http://www.latin-dictionary.net/definition/38745/vicies">vicies</a> adv</li>
+          <li id="word-475" class="word"><a href="http://www.latin-dictionary.net/definition/38746/vicinalis-vicinalis-vicinale">vicinalis, vicinalis, vicinale</a> adj</li>
+          <li id="word-476" class="word"><a href="http://www.latin-dictionary.net/definition/38747/vicinia-viciniae">vicinia, viciniae</a> n</li>
+          <li id="word-477" class="word"><a href="http://www.latin-dictionary.net/definition/38748/vicinitas-vicinitatis">vicinitas, vicinitatis</a> n</li>
+          <li id="word-478" class="word"><a href="http://www.latin-dictionary.net/definition/38749/vicinum-vicini">vicinum, vicini</a> n</li>
+          <li id="word-479" class="word"><a href="http://www.latin-dictionary.net/definition/38750/vicinus-vicina-vicinum">vicinus, vicina, vicinum</a> adj</li>
+          <li id="word-480" class="word"><a href="http://www.latin-dictionary.net/definition/38751/vicinus-vicini">vicinus, vicini</a> n</li>
+          <li id="word-481" class="word"><a href="http://www.latin-dictionary.net/definition/38752/vicis-vicis">vicis, vicis</a> n</li>
+          <li id="word-482" class="word"><a href="http://www.latin-dictionary.net/definition/38753/vicissatim">vicissatim</a> adv</li>
+          <li id="word-483" class="word"><a href="http://www.latin-dictionary.net/definition/38754/vicissim">vicissim</a> adv</li>
+          <li id="word-484" class="word"><a href="http://www.latin-dictionary.net/definition/38755/vicissitudo-vicissitudinis">vicissitudo, vicissitudinis</a> n</li>
+          <li id="word-485" class="word"><a href="http://www.latin-dictionary.net/definition/38756/victima-victimae">victima, victimae</a> n</li>
+          <li id="word-486" class="word"><a href="http://www.latin-dictionary.net/definition/38757/victimarius-victimarii">victimarius, victimarii</a> n</li>
+          <li id="word-487" class="word"><a href="http://www.latin-dictionary.net/definition/38758/victimo-victimare-victimavi-victimatus">victimo, victimare, victimavi, victimatus</a> v</li>
+          <li id="word-488" class="word"><a href="http://www.latin-dictionary.net/definition/38759/victor-gen-victoris">victor, (gen.), victoris</a> adj</li>
+          <li id="word-489" class="word"><a href="http://www.latin-dictionary.net/definition/38760/victor-victoris">victor, victoris</a> n</li>
+          <li id="word-490" class="word"><a href="http://www.latin-dictionary.net/definition/38761/victoria-victoriae">victoria, victoriae</a> n</li>
+          <li id="word-491" class="word"><a href="http://www.latin-dictionary.net/definition/38762/victoriatus-victoriati">victoriatus, victoriati</a> n</li>
+          <li id="word-492" class="word"><a href="http://www.latin-dictionary.net/definition/38763/victoriola-victoriolae">victoriola, victoriolae</a> n</li>
+          <li id="word-493" class="word"><a href="http://www.latin-dictionary.net/definition/38764/victoriosus-victoriosa-victoriosum">victoriosus, victoriosa, victoriosum</a> adj</li>
+          <li id="word-494" class="word"><a href="http://www.latin-dictionary.net/definition/38765/victrix-gen-victricis">victrix, (gen.), victricis</a> adj</li>
+          <li id="word-495" class="word"><a href="http://www.latin-dictionary.net/definition/38766/victrix-victricis">victrix, victricis</a> n</li>
+          <li id="word-496" class="word"><a href="http://www.latin-dictionary.net/definition/38767/victuale-victualis">victuale, victualis</a> n</li>
+          <li id="word-497" class="word"><a href="http://www.latin-dictionary.net/definition/38768/victualis-victualis-victuale">victualis, victualis, victuale</a> adj</li>
+          <li id="word-498" class="word"><a href="http://www.latin-dictionary.net/definition/38769/victuma-victumae">victuma, victumae</a> n</li>
+          <li id="word-499" class="word"><a href="http://www.latin-dictionary.net/definition/38770/victus-victus">victus, victus</a> n</li>
+          <li id="word-500" class="word"><a href="http://www.latin-dictionary.net/definition/38771/viculus-viculi">viculus, viculi</a> n</li>
+          <li id="word-501" class="word"><a href="http://www.latin-dictionary.net/definition/38772/vicus-vici">vicus, vici</a> n</li>
+          <li id="word-502" class="word"><a href="http://www.latin-dictionary.net/definition/38773/videlicet">videlicet</a> adv</li>
+          <li id="word-503" class="word"><a href="http://www.latin-dictionary.net/definition/38774/viden">viden</a> v</li>
+          <li id="word-504" class="word"><a href="http://www.latin-dictionary.net/definition/38775/video-videre-vidi-visus">video, videre, vidi, visus</a> v</li>
+          <li id="word-505" class="word"><a href="http://www.latin-dictionary.net/definition/38776/viduatus-viduata-viduatum">viduatus, viduata, viduatum</a> adj</li>
+          <li id="word-506" class="word"><a href="http://www.latin-dictionary.net/definition/38777/viduitas-viduitatis">viduitas, viduitatis</a> n</li>
+          <li id="word-507" class="word"><a href="http://www.latin-dictionary.net/definition/38778/vidulus-viduli">vidulus, viduli</a> n</li>
+          <li id="word-508" class="word"><a href="http://www.latin-dictionary.net/definition/38779/viduo-viduare-viduavi-viduatus">viduo, viduare, viduavi, viduatus</a> v</li>
+          <li id="word-509" class="word"><a href="http://www.latin-dictionary.net/definition/38780/viduus-vidua-viduum">viduus, vidua, viduum</a> adj</li>
+          <li id="word-510" class="word"><a href="http://www.latin-dictionary.net/definition/38781/vieo-viere-vietus">vieo, viere, -, vietus</a> v</li>
+          <li id="word-511" class="word"><a href="http://www.latin-dictionary.net/definition/38782/vietus-vieta-vietum">vietus, vieta, vietum</a> adj</li>
+          <li id="word-512" class="word"><a href="http://www.latin-dictionary.net/definition/38783/vigens-vigentis">vigens, vigentis</a> adj</li>
+          <li id="word-513" class="word"><a href="http://www.latin-dictionary.net/definition/38784/vigensim">vigensim</a> adj</li>
+          <li id="word-514" class="word"><a href="http://www.latin-dictionary.net/definition/38785/vigensum">vigensum</a> adj</li>
+          <li id="word-515" class="word"><a href="http://www.latin-dictionary.net/definition/38786/vigenter-vigentius-vigentissime">vigenter, vigentius, vigentissime</a> adv</li>
+          <li id="word-516" class="word"><a href="http://www.latin-dictionary.net/definition/38787/vigentia-vigentiae">vigentia, vigentiae</a> n</li>
+          <li id="word-517" class="word"><a href="http://www.latin-dictionary.net/definition/38788/vigeo-vigere">vigeo, vigere, -, -</a> v</li>
+          <li id="word-518" class="word"><a href="http://www.latin-dictionary.net/definition/38789/vigerius-vigerii">vigerius, vigerii</a> n</li>
+          <li id="word-519" class="word"><a href="http://www.latin-dictionary.net/definition/38790/vigesco-vigescere-vigui">vigesco, vigescere, vigui, -</a> v</li>
+          <li id="word-520" class="word"><a href="http://www.latin-dictionary.net/definition/38791/vigies">vigies</a> adv</li>
+          <li id="word-521" class="word"><a href="http://www.latin-dictionary.net/definition/38792/vigil-gen-vigilis">vigil, (gen.), vigilis</a> adj</li>
+          <li id="word-522" class="word"><a href="http://www.latin-dictionary.net/definition/38793/vigil-vigilis">vigil, vigilis</a> n</li>
+          <li id="word-523" class="word"><a href="http://www.latin-dictionary.net/definition/38794/vigilabilis-vigilabilis-vigilabile">vigilabilis, vigilabilis, vigilabile</a> adj</li>
+          <li id="word-524" class="word"><a href="http://www.latin-dictionary.net/definition/38795/vigilans-vigilantis">vigilans, vigilantis</a> adj</li>
+          <li id="word-525" class="word"><a href="http://www.latin-dictionary.net/definition/38796/vigilanter-vigilantius-vigilantissime">vigilanter, vigilantius, vigilantissime</a> adv</li>
+          <li id="word-526" class="word"><a href="http://www.latin-dictionary.net/definition/38797/vigilantia-vigilantiae">vigilantia, vigilantiae</a> n</li>
+          <li id="word-527" class="word"><a href="http://www.latin-dictionary.net/definition/38798/vigilax-gen-vigilacis">vigilax, (gen.), vigilacis</a> adj</li>
+          <li id="word-528" class="word"><a href="http://www.latin-dictionary.net/definition/38799/vigilia-vigiliae">vigilia, vigiliae</a> n</li>
+          <li id="word-529" class="word"><a href="http://www.latin-dictionary.net/definition/38800/vigilo-vigilare-vigilavi-vigilatus">vigilo, vigilare, vigilavi, vigilatus</a> v</li>
+          <li id="word-530" class="word"><a href="http://www.latin-dictionary.net/definition/38801/viginti-vicesimus">viginti, vicesimus</a> v</li>
+          <li id="word-531" class="word"><a href="http://www.latin-dictionary.net/definition/38802/vigintisexvir-vigintisexviri">vigintisexvir, vigintisexviri</a> n</li>
+          <li id="word-532" class="word"><a href="http://www.latin-dictionary.net/definition/38803/vigintivir-vigintiviri">vigintivir, vigintiviri</a> n</li>
+          <li id="word-533" class="word"><a href="http://www.latin-dictionary.net/definition/38804/vigintiviratus-vigintivirati">vigintiviratus, vigintivirati</a> n</li>
+          <li id="word-534" class="word"><a href="http://www.latin-dictionary.net/definition/38805/vigor-vigoris">vigor, vigoris</a> n</li>
+          <li id="word-535" class="word"><a href="http://www.latin-dictionary.net/definition/38806/vigoratio-vigorationis">vigoratio, vigorationis</a> n</li>
+          <li id="word-536" class="word"><a href="http://www.latin-dictionary.net/definition/38807/vigoratus-vigorata-vigoratum">vigoratus, vigorata, vigoratum</a> adj</li>
+          <li id="word-537" class="word"><a href="http://www.latin-dictionary.net/definition/38808/vigoro-vigorare-vigoravi-vigoratus">vigoro, vigorare, vigoravi, vigoratus</a> v</li>
+          <li id="word-538" class="word"><a href="http://www.latin-dictionary.net/definition/38809/vigorosus-vigorosa-vigorosum">vigorosus, vigorosa, vigorosum</a> adj</li>
+          <li id="word-539" class="word"><a href="http://www.latin-dictionary.net/definition/38810/vilesco-vilescere-vilui">vilesco, vilescere, vilui, -</a> v</li>
+          <li id="word-540" class="word"><a href="http://www.latin-dictionary.net/definition/38811/vilica-vilicae">vilica, vilicae</a> n</li>
+          <li id="word-541" class="word"><a href="http://www.latin-dictionary.net/definition/38812/vilicatio-vilicationis">vilicatio, vilicationis</a> n</li>
+          <li id="word-542" class="word"><a href="http://www.latin-dictionary.net/definition/38813/vilico-vilicare-vilicavi-vilicatus">vilico, vilicare, vilicavi, vilicatus</a> v</li>
+          <li id="word-543" class="word"><a href="http://www.latin-dictionary.net/definition/38814/vilicus-vilici">vilicus, vilici</a> n</li>
+          <li id="word-544" class="word"><a href="http://www.latin-dictionary.net/definition/38815/vilipendo-vilipendere">vilipendo, vilipendere, -, -</a> v</li>
+          <li id="word-545" class="word"><a href="http://www.latin-dictionary.net/definition/38816/vilipensio-vilipensionis">vilipensio, vilipensionis</a> n</li>
+          <li id="word-546" class="word"><a href="http://www.latin-dictionary.net/definition/38817/vilis-vilis-vile">vilis, vilis, vile</a> adj</li>
+          <li id="word-547" class="word"><a href="http://www.latin-dictionary.net/definition/38818/vilitas-vilitatis">vilitas, vilitatis</a> n</li>
+          <li id="word-548" class="word"><a href="http://www.latin-dictionary.net/definition/38819/villa-villae">villa, villae</a> n</li>
+          <li id="word-549" class="word"><a href="http://www.latin-dictionary.net/definition/38820/villana-villanae">villana, villanae</a> n</li>
+          <li id="word-550" class="word"><a href="http://www.latin-dictionary.net/definition/38821/villanus-villani">villanus, villani</a> n</li>
+          <li id="word-551" class="word"><a href="http://www.latin-dictionary.net/definition/38822/villata-villatae">villata, villatae</a> n</li>
+          <li id="word-552" class="word"><a href="http://www.latin-dictionary.net/definition/38823/villaticus-villatica-villaticum">villaticus, villatica, villaticum</a> adj</li>
+          <li id="word-553" class="word"><a href="http://www.latin-dictionary.net/definition/38824/villenagium-villenagii">villenagium, villenagii</a> n</li>
+          <li id="word-554" class="word"><a href="http://www.latin-dictionary.net/definition/38825/villica-villicae">villica, villicae</a> n</li>
+          <li id="word-555" class="word"><a href="http://www.latin-dictionary.net/definition/38826/villicatio-villicationis">villicatio, villicationis</a> n</li>
+          <li id="word-556" class="word"><a href="http://www.latin-dictionary.net/definition/38827/villico-villicare-villicavi-villicatus">villico, villicare, villicavi, villicatus</a> v</li>
+          <li id="word-557" class="word"><a href="http://www.latin-dictionary.net/definition/38828/villicus-villici">villicus, villici</a> n</li>
+          <li id="word-558" class="word"><a href="http://www.latin-dictionary.net/definition/38829/villosus-villosa-villosum">villosus, villosa, villosum</a> adj</li>
+          <li id="word-559" class="word"><a href="http://www.latin-dictionary.net/definition/38830/villula-villulae">villula, villulae</a> n</li>
+          <li id="word-560" class="word"><a href="http://www.latin-dictionary.net/definition/38831/villus-villi">villus, villi</a> n</li>
+          <li id="word-561" class="word"><a href="http://www.latin-dictionary.net/definition/38832/vimen-viminis">vimen, viminis</a> n</li>
+          <li id="word-562" class="word"><a href="http://www.latin-dictionary.net/definition/38833/vimineus-viminea-vimineum">vimineus, viminea, vimineum</a> adj</li>
+          <li id="word-563" class="word"><a href="http://www.latin-dictionary.net/definition/38834/vinaceus-vinacea-vinaceum">vinaceus, vinacea, vinaceum</a> adj</li>
+          <li id="word-564" class="word"><a href="http://www.latin-dictionary.net/definition/38835/Vinal-Vinalis">Vinal, Vinalis</a> n</li>
+          <li id="word-565" class="word"><a href="http://www.latin-dictionary.net/definition/38836/vinarium-vinari-i">vinarium, vinari(i)</a> n</li>
+          <li id="word-566" class="word"><a href="http://www.latin-dictionary.net/definition/38837/vinarius-vinari-i">vinarius, vinari(i)</a> n</li>
+          <li id="word-567" class="word"><a href="http://www.latin-dictionary.net/definition/38838/Vincentius-Vincenti">Vincentius, Vincenti</a> n</li>
+          <li id="word-568" class="word"><a href="http://www.latin-dictionary.net/definition/38839/vincio-vincire-vinxi-vinctus">vincio, vincire, vinxi, vinctus</a> v</li>
+          <li id="word-569" class="word"><a href="http://www.latin-dictionary.net/definition/38840/vinclum-vincli">vinclum, vincli</a> n</li>
+          <li id="word-570" class="word"><a href="http://www.latin-dictionary.net/definition/38841/vinco-vincere-vici-victus">vinco, vincere, vici, victus</a> v</li>
+          <li id="word-571" class="word"><a href="http://www.latin-dictionary.net/definition/38842/vinculum-vinculi">vinculum, vinculi</a> n</li>
+          <li id="word-572" class="word"><a href="http://www.latin-dictionary.net/definition/38843/vindemia-vindemiae">vindemia, vindemiae</a> n</li>
+          <li id="word-573" class="word"><a href="http://www.latin-dictionary.net/definition/38844/vindemiator-vindemiatoris">vindemiator, vindemiatoris</a> n</li>
+          <li id="word-574" class="word"><a href="http://www.latin-dictionary.net/definition/38845/vindemiatorius-vindemiatoria-vindemiatorium">vindemiatorius, vindemiatoria, vindemiatorium</a> adj</li>
+          <li id="word-575" class="word"><a href="http://www.latin-dictionary.net/definition/38846/vindemio-vindemiare-vindemiavi-vindemiatus">vindemio, vindemiare, vindemiavi, vindemiatus</a> v</li>
+          <li id="word-576" class="word"><a href="http://www.latin-dictionary.net/definition/38847/vindemiola-vindemiolae">vindemiola, vindemiolae</a> n</li>
+          <li id="word-577" class="word"><a href="http://www.latin-dictionary.net/definition/38848/vindex-vindicis">vindex, vindicis</a> n</li>
+          <li id="word-578" class="word"><a href="http://www.latin-dictionary.net/definition/38849/vindicatio-vindicationis">vindicatio, vindicationis</a> n</li>
+          <li id="word-579" class="word"><a href="http://www.latin-dictionary.net/definition/38850/vindicia-vindiciae">vindicia, vindiciae</a> n</li>
+          <li id="word-580" class="word"><a href="http://www.latin-dictionary.net/definition/38851/vindico-vindicare-vindicavi-vindicatus">vindico, vindicare, vindicavi, vindicatus</a> v</li>
+          <li id="word-581" class="word"><a href="http://www.latin-dictionary.net/definition/38852/vindicta-vindictae">vindicta, vindictae</a> n</li>
+          <li id="word-582" class="word"><a href="http://www.latin-dictionary.net/definition/38853/vinea-vineae">vinea, vineae</a> n</li>
+          <li id="word-583" class="word"><a href="http://www.latin-dictionary.net/definition/38854/vinetum-vineti">vinetum, vineti</a> n</li>
+          <li id="word-584" class="word"><a href="http://www.latin-dictionary.net/definition/38855/vineus-vinea-vineum">vineus, vinea, vineum</a> adj</li>
+          <li id="word-585" class="word"><a href="http://www.latin-dictionary.net/definition/38856/vinia-viniae">vinia, viniae</a> n</li>
+          <li id="word-586" class="word"><a href="http://www.latin-dictionary.net/definition/38857/vinitor-vinitoris">vinitor, vinitoris</a> n</li>
+          <li id="word-587" class="word"><a href="http://www.latin-dictionary.net/definition/38858/vinolentia-vinolentiae">vinolentia, vinolentiae</a> n</li>
+          <li id="word-588" class="word"><a href="http://www.latin-dictionary.net/definition/38859/vinolentus-vinolenta-vinolentum">vinolentus, vinolenta, vinolentum</a> adj</li>
+          <li id="word-589" class="word"><a href="http://www.latin-dictionary.net/definition/38860/vinosus-vinosa-vinosum">vinosus, vinosa, vinosum</a> adj</li>
+          <li id="word-590" class="word"><a href="http://www.latin-dictionary.net/definition/38861/vinulentus-vinulenta-vinulentum">vinulentus, vinulenta, vinulentum</a> adj</li>
+          <li id="word-591" class="word"><a href="http://www.latin-dictionary.net/definition/38862/vinum-vini">vinum, vini</a> n</li>
+          <li id="word-592" class="word"><a href="http://www.latin-dictionary.net/definition/38863/viocurus-viocuri">viocurus, viocuri</a> n</li>
+          <li id="word-593" class="word"><a href="http://www.latin-dictionary.net/definition/38864/viola-violae">viola, violae</a> n</li>
+          <li id="word-594" class="word"><a href="http://www.latin-dictionary.net/definition/38865/viola-violae">viola, violae</a> n</li>
+          <li id="word-595" class="word"><a href="http://www.latin-dictionary.net/definition/38866/violabilis-violabilis-violabile">violabilis, violabilis, violabile</a> adj</li>
+          <li id="word-596" class="word"><a href="http://www.latin-dictionary.net/definition/38867/violaceus-violacea-violaceum">violaceus, violacea, violaceum</a> adj</li>
+          <li id="word-597" class="word"><a href="http://www.latin-dictionary.net/definition/38868/violacium-violacii">violacium, violacii</a> n</li>
+          <li id="word-598" class="word"><a href="http://www.latin-dictionary.net/definition/38869/violarium-violari-i">violarium, violari(i)</a> n</li>
+          <li id="word-599" class="word"><a href="http://www.latin-dictionary.net/definition/38870/violatio-violationis">violatio, violationis</a> n</li>
+          <li id="word-600" class="word"><a href="http://www.latin-dictionary.net/definition/38871/violator-violatoris">violator, violatoris</a> n</li>
+          <li id="word-601" class="word"><a href="http://www.latin-dictionary.net/definition/38872/violens-gen-violentis">violens, (gen.), violentis</a> adj</li>
+          <li id="word-602" class="word"><a href="http://www.latin-dictionary.net/definition/38873/violenter-violentius-violentissime">violenter, violentius, violentissime</a> adv</li>
+          <li id="word-603" class="word"><a href="http://www.latin-dictionary.net/definition/38874/violentia-violentiae">violentia, violentiae</a> n</li>
+          <li id="word-604" class="word"><a href="http://www.latin-dictionary.net/definition/38875/violentus-violenta-violentum">violentus, violenta, violentum</a> adj</li>
+          <li id="word-605" class="word"><a href="http://www.latin-dictionary.net/definition/38876/violina-violinae">violina, violinae</a> n</li>
+          <li id="word-606" class="word"><a href="http://www.latin-dictionary.net/definition/38877/violinista-violinistae">violinista, violinistae</a> n</li>
+          <li id="word-607" class="word"><a href="http://www.latin-dictionary.net/definition/38878/violo-violare-violavi-violatus">violo, violare, violavi, violatus</a> v</li>
+          <li id="word-608" class="word"><a href="http://www.latin-dictionary.net/definition/38879/violoncellum-violoncelli">violoncellum, violoncelli</a> n</li>
+          <li id="word-609" class="word"><a href="http://www.latin-dictionary.net/definition/38880/vipera-viperae">vipera, viperae</a> n</li>
+          <li id="word-610" class="word"><a href="http://www.latin-dictionary.net/definition/38881/vipereus-viperea-vipereum">vipereus, viperea, vipereum</a> adj</li>
+          <li id="word-611" class="word"><a href="http://www.latin-dictionary.net/definition/38882/viperinus-viperina-viperinum">viperinus, viperina, viperinum</a> adj</li>
+          <li id="word-612" class="word"><a href="http://www.latin-dictionary.net/definition/38883/vir-viri">vir, viri</a> n</li>
+          <li id="word-613" class="word"><a href="http://www.latin-dictionary.net/definition/38884/virago-viraginis">virago, viraginis</a> n</li>
+          <li id="word-614" class="word"><a href="http://www.latin-dictionary.net/definition/38885/virdiarium-virdiarii">virdiarium, virdiarii</a> n</li>
+          <li id="word-615" class="word"><a href="http://www.latin-dictionary.net/definition/38886/virectum-virecti">virectum, virecti</a> n</li>
+          <li id="word-616" class="word"><a href="http://www.latin-dictionary.net/definition/38887/virens-gen-virentis">virens, (gen.), virentis</a> adj</li>
+          <li id="word-617" class="word"><a href="http://www.latin-dictionary.net/definition/38888/virens-virentiis">virens, virentiis</a> n</li>
+          <li id="word-618" class="word"><a href="http://www.latin-dictionary.net/definition/38889/vireo-virere-virui">vireo, virere, virui, -</a> v</li>
+          <li id="word-619" class="word"><a href="http://www.latin-dictionary.net/definition/38890/viresco-virescere">viresco, virescere, -, -</a> v</li>
+          <li id="word-620" class="word"><a href="http://www.latin-dictionary.net/definition/38891/virga-virgae">virga, virgae</a> n</li>
+          <li id="word-621" class="word"><a href="http://www.latin-dictionary.net/definition/38892/virgatus-virgata-virgatum">virgatus, virgata, virgatum</a> adj</li>
+          <li id="word-622" class="word"><a href="http://www.latin-dictionary.net/definition/38893/virgetum-virgeti">virgetum, virgeti</a> n</li>
+          <li id="word-623" class="word"><a href="http://www.latin-dictionary.net/definition/38894/virgeus-virgea-virgeum">virgeus, virgea, virgeum</a> adj</li>
+          <li id="word-624" class="word"><a href="http://www.latin-dictionary.net/definition/38895/virginal-virginalis">virginal, virginalis</a> n</li>
+          <li id="word-625" class="word"><a href="http://www.latin-dictionary.net/definition/38896/virginalis-virginalis-virginale">virginalis, virginalis, virginale</a> adj</li>
+          <li id="word-626" class="word"><a href="http://www.latin-dictionary.net/definition/38897/virginarius-virginaria-virginarium">virginarius, virginaria, virginarium</a> adj</li>
+          <li id="word-627" class="word"><a href="http://www.latin-dictionary.net/definition/38898/virginea-virgineae">virginea, virgineae</a> n</li>
+          <li id="word-628" class="word"><a href="http://www.latin-dictionary.net/definition/38899/virginea-virgineae">virginea, virgineae</a> n</li>
+          <li id="word-629" class="word"><a href="http://www.latin-dictionary.net/definition/38900/virgineus-virginea-virgineum">virgineus, virginea, virgineum</a> adj</li>
+          <li id="word-630" class="word"><a href="http://www.latin-dictionary.net/definition/38901/virgineus-virginea-virgineum">virgineus, virginea, virgineum</a> adj</li>
+          <li id="word-631" class="word"><a href="http://www.latin-dictionary.net/definition/38902/virginia-virginiae">virginia, virginiae</a> n</li>
+          <li id="word-632" class="word"><a href="http://www.latin-dictionary.net/definition/38903/virginia-virginiae">virginia, virginiae</a> n</li>
+          <li id="word-633" class="word"><a href="http://www.latin-dictionary.net/definition/38904/virginitas-virginitatis">virginitas, virginitatis</a> n</li>
+          <li id="word-634" class="word"><a href="http://www.latin-dictionary.net/definition/38905/virginius-virginia-virginium">virginius, virginia, virginium</a> adj</li>
+          <li id="word-635" class="word"><a href="http://www.latin-dictionary.net/definition/38906/virginius-virginia-virginium">virginius, virginia, virginium</a> adj</li>
+          <li id="word-636" class="word"><a href="http://www.latin-dictionary.net/definition/38907/virgo-virginis">virgo, virginis</a> n</li>
+          <li id="word-637" class="word"><a href="http://www.latin-dictionary.net/definition/38908/virgula-virgulae">virgula, virgulae</a> n</li>
+          <li id="word-638" class="word"><a href="http://www.latin-dictionary.net/definition/38909/virgultum-virgulti">virgultum, virgulti</a> n</li>
+          <li id="word-639" class="word"><a href="http://www.latin-dictionary.net/definition/38910/virguncula-virgunculae">virguncula, virgunculae</a> n</li>
+          <li id="word-640" class="word"><a href="http://www.latin-dictionary.net/definition/38911/viridarium-viridarii">viridarium, viridarii</a> n</li>
+          <li id="word-641" class="word"><a href="http://www.latin-dictionary.net/definition/38912/viridiarium-viridiarii">viridiarium, viridiarii</a> n</li>
+          <li id="word-642" class="word"><a href="http://www.latin-dictionary.net/definition/38913/viridis-viridis-viride">viridis, viridis, viride</a> adj</li>
+          <li id="word-643" class="word"><a href="http://www.latin-dictionary.net/definition/38914/viriditas-viriditatis">viriditas, viriditatis</a> n</li>
+          <li id="word-644" class="word"><a href="http://www.latin-dictionary.net/definition/38915/virido-viridare-viridavi-viridatus">virido, viridare, viridavi, viridatus</a> v</li>
+          <li id="word-645" class="word"><a href="http://www.latin-dictionary.net/definition/38916/viridor-viridari-viridatus">viridor, viridari, viridatus</a> v</li>
+          <li id="word-646" class="word"><a href="http://www.latin-dictionary.net/definition/38917/virilis-virilis-virile">virilis, virilis, virile</a> adj</li>
+          <li id="word-647" class="word"><a href="http://www.latin-dictionary.net/definition/38918/viriliter-virilius-virilissime">viriliter, virilius, virilissime</a> adv</li>
+          <li id="word-648" class="word"><a href="http://www.latin-dictionary.net/definition/38919/viripotens-gen-viripotentis">viripotens, (gen.), viripotentis</a> adj</li>
+          <li id="word-649" class="word"><a href="http://www.latin-dictionary.net/definition/38920/viritim">viritim</a> adv</li>
+          <li id="word-650" class="word"><a href="http://www.latin-dictionary.net/definition/38921/viritualis-viritualis-virituale">viritualis, viritualis, virituale</a> adj</li>
+          <li id="word-651" class="word"><a href="http://www.latin-dictionary.net/definition/38922/viror-viroris">viror, viroris</a> n</li>
+          <li id="word-652" class="word"><a href="http://www.latin-dictionary.net/definition/38923/virosus-virosa-virosum">virosus, virosa, virosum</a> adj</li>
+          <li id="word-653" class="word"><a href="http://www.latin-dictionary.net/definition/38924/virtualis-virtualis">virtualis, virtualis</a> n</li>
+          <li id="word-654" class="word"><a href="http://www.latin-dictionary.net/definition/38925/virtualis-virtualis-virtuale">virtualis, virtualis, virtuale</a> adj</li>
+          <li id="word-655" class="word"><a href="http://www.latin-dictionary.net/definition/38926/virtualitas-virtualitatis">virtualitas, virtualitatis</a> n</li>
+          <li id="word-656" class="word"><a href="http://www.latin-dictionary.net/definition/38927/virtualiter">virtualiter</a> adv</li>
+          <li id="word-657" class="word"><a href="http://www.latin-dictionary.net/definition/38928/virtualosus-virtualosa-virtualosum">virtualosus, virtualosa, virtualosum</a> adj</li>
+          <li id="word-658" class="word"><a href="http://www.latin-dictionary.net/definition/38929/virtuose">virtuose</a> adv</li>
+          <li id="word-659" class="word"><a href="http://www.latin-dictionary.net/definition/38930/virtus-virtutis">virtus, virtutis</a> n</li>
+          <li id="word-660" class="word"><a href="http://www.latin-dictionary.net/definition/38931/virtus-virtutis">virtus, virtutis</a> n</li>
+          <li id="word-661" class="word"><a href="http://www.latin-dictionary.net/definition/38932/virulentus-virulenta-virulentum">virulentus, virulenta, virulentum</a> adj</li>
+          <li id="word-662" class="word"><a href="http://www.latin-dictionary.net/definition/38933/virum-viri">virum, viri</a> n</li>
+          <li id="word-663" class="word"><a href="http://www.latin-dictionary.net/definition/38934/virus-viri">virus, viri</a> n</li>
+          <li id="word-664" class="word"><a href="http://www.latin-dictionary.net/definition/38935/vis">vis</a> v</li>
+          <li id="word-665" class="word"><a href="http://www.latin-dictionary.net/definition/38936/vis-viris">vis, viris</a> n</li>
+          <li id="word-666" class="word"><a href="http://www.latin-dictionary.net/definition/38937/vis-vis">vis, vis</a> n</li>
+          <li id="word-667" class="word"><a href="http://www.latin-dictionary.net/definition/38938/visa-visae">visa, visae</a> n</li>
+          <li id="word-668" class="word"><a href="http://www.latin-dictionary.net/definition/38939/viscatus-viscata-viscatum">viscatus, viscata, viscatum</a> adj</li>
+          <li id="word-669" class="word"><a href="http://www.latin-dictionary.net/definition/38940/viscer-visceris">viscer, visceris</a> n</li>
+          <li id="word-670" class="word"><a href="http://www.latin-dictionary.net/definition/38941/visceratio-viscerationis">visceratio, viscerationis</a> n</li>
+          <li id="word-671" class="word"><a href="http://www.latin-dictionary.net/definition/38942/vischium-vischii">vischium, vischii</a> n</li>
+          <li id="word-672" class="word"><a href="http://www.latin-dictionary.net/definition/38943/visco-viscare-viscavi-viscatus">visco, viscare, viscavi, viscatus</a> v</li>
+          <li id="word-673" class="word"><a href="http://www.latin-dictionary.net/definition/38944/viscum-visci">viscum, visci</a> n</li>
+          <li id="word-674" class="word"><a href="http://www.latin-dictionary.net/definition/38945/viscus-visceris">viscus, visceris</a> n</li>
+          <li id="word-675" class="word"><a href="http://www.latin-dictionary.net/definition/38946/viscus-visci">viscus, visci</a> n</li>
+          <li id="word-676" class="word"><a href="http://www.latin-dictionary.net/definition/38947/visibilis-visibilis-visibile">visibilis, visibilis, visibile</a> adj</li>
+          <li id="word-677" class="word"><a href="http://www.latin-dictionary.net/definition/38948/visibiliter">visibiliter</a> adv</li>
+          <li id="word-678" class="word"><a href="http://www.latin-dictionary.net/definition/38949/visificus-visifica-visificum">visificus, visifica, visificum</a> adj</li>
+          <li id="word-679" class="word"><a href="http://www.latin-dictionary.net/definition/38950/visio-visionis">visio, visionis</a> n</li>
+          <li id="word-680" class="word"><a href="http://www.latin-dictionary.net/definition/38951/visitatio-visitationis">visitatio, visitationis</a> n</li>
+          <li id="word-681" class="word"><a href="http://www.latin-dictionary.net/definition/38952/visitatio-visitationis">visitatio, visitationis</a> n</li>
+          <li id="word-682" class="word"><a href="http://www.latin-dictionary.net/definition/38953/visitator-visitatoris">visitator, visitatoris</a> n</li>
+          <li id="word-683" class="word"><a href="http://www.latin-dictionary.net/definition/38954/visitatorius-visitatoria-visitatorium">visitatorius, visitatoria, visitatorium</a> adj</li>
+          <li id="word-684" class="word"><a href="http://www.latin-dictionary.net/definition/38955/visito-visitare-visitavi-visitatus">visito, visitare, visitavi, visitatus</a> v</li>
+          <li id="word-685" class="word"><a href="http://www.latin-dictionary.net/definition/38956/visnetum-visneti">visnetum, visneti</a> n</li>
+          <li id="word-686" class="word"><a href="http://www.latin-dictionary.net/definition/38957/viso-visere-visi-visus">viso, visere, visi, visus</a> v</li>
+          <li id="word-687" class="word"><a href="http://www.latin-dictionary.net/definition/38958/visocaseta-visocasetae">visocaseta, visocasetae</a> n</li>
+          <li id="word-688" class="word"><a href="http://www.latin-dictionary.net/definition/38959/vison-visontis">vison, visontis</a> n</li>
+          <li id="word-689" class="word"><a href="http://www.latin-dictionary.net/definition/38960/visorius-visoria-visorium">visorius, visoria, visorium</a> adj</li>
+          <li id="word-690" class="word"><a href="http://www.latin-dictionary.net/definition/38961/vispellio-vispellionis">vispellio, vispellionis</a> n</li>
+          <li id="word-691" class="word"><a href="http://www.latin-dictionary.net/definition/38962/vispilio-vispilionis">vispilio, vispilionis</a> n</li>
+          <li id="word-692" class="word"><a href="http://www.latin-dictionary.net/definition/38963/vispillo-vispillonis">vispillo, vispillonis</a> n</li>
+          <li id="word-693" class="word"><a href="http://www.latin-dictionary.net/definition/38964/visum-visi">visum, visi</a> n</li>
+          <li id="word-694" class="word"><a href="http://www.latin-dictionary.net/definition/38965/visus-visus">visus, visus</a> n</li>
+          <li id="word-695" class="word"><a href="http://www.latin-dictionary.net/definition/38966/vita-vitae">vita, vitae</a> n</li>
+          <li id="word-696" class="word"><a href="http://www.latin-dictionary.net/definition/38967/vitabilis-vitabilis-vitabile">vitabilis, vitabilis, vitabile</a> adj</li>
+          <li id="word-697" class="word"><a href="http://www.latin-dictionary.net/definition/38968/vitabundus-vitabunda-vitabundum">vitabundus, vitabunda, vitabundum</a> adj</li>
+          <li id="word-698" class="word"><a href="http://www.latin-dictionary.net/definition/38969/vital-vitalis">vital, vitalis</a> n</li>
+          <li id="word-699" class="word"><a href="http://www.latin-dictionary.net/definition/38970/vitalis-vitalis-vitale">vitalis, vitalis, vitale</a> adj</li>
+          <li id="word-700" class="word"><a href="http://www.latin-dictionary.net/definition/38971/vitaliter">vitaliter</a> adv</li>
+          <li id="word-701" class="word"><a href="http://www.latin-dictionary.net/definition/38972/vitaminum-vitamini">vitaminum, vitamini</a> n</li>
+          <li id="word-702" class="word"><a href="http://www.latin-dictionary.net/definition/38973/vitatio-vitationis">vitatio, vitationis</a> n</li>
+          <li id="word-703" class="word"><a href="http://www.latin-dictionary.net/definition/38974/Vitellius-Vitelli">Vitellius, Vitelli</a> n</li>
+          <li id="word-704" class="word"><a href="http://www.latin-dictionary.net/definition/38975/vitellum-vitelli">vitellum, vitelli</a> n</li>
+          <li id="word-705" class="word"><a href="http://www.latin-dictionary.net/definition/38976/vitellus-vitelli">vitellus, vitelli</a> n</li>
+          <li id="word-706" class="word"><a href="http://www.latin-dictionary.net/definition/38977/vitellus-vitelli">vitellus, vitelli</a> n</li>
+          <li id="word-707" class="word"><a href="http://www.latin-dictionary.net/definition/38978/viteus-vitea-viteum">viteus, vitea, viteum</a> adj</li>
+          <li id="word-708" class="word"><a href="http://www.latin-dictionary.net/definition/38979/vitex-viticis">vitex, viticis</a> n</li>
+          <li id="word-709" class="word"><a href="http://www.latin-dictionary.net/definition/38980/viticula-viticulae">viticula, viticulae</a> n</li>
+          <li id="word-710" class="word"><a href="http://www.latin-dictionary.net/definition/38981/vitifer-vitifera-vitiferum">vitifer, vitifera, vitiferum</a> adj</li>
+          <li id="word-711" class="word"><a href="http://www.latin-dictionary.net/definition/38982/vitigenus-vitigena-vitigenum">vitigenus, vitigena, vitigenum</a> adj</li>
+          <li id="word-712" class="word"><a href="http://www.latin-dictionary.net/definition/38983/vitil-vitilis">vitil, vitilis</a> n</li>
+          <li id="word-713" class="word"><a href="http://www.latin-dictionary.net/definition/38984/vitilena-vitilenae">vitilena, vitilenae</a> n</li>
+          <li id="word-714" class="word"><a href="http://www.latin-dictionary.net/definition/38985/vitilis-vitilis-vitile">vitilis, vitilis, vitile</a> adj</li>
+          <li id="word-715" class="word"><a href="http://www.latin-dictionary.net/definition/38986/vitilitigo-vitilitigare-vitilitigavi-vitilitigatus">vitilitigo, vitilitigare, vitilitigavi, vitilitigatus</a> v</li>
+          <li id="word-716" class="word"><a href="http://www.latin-dictionary.net/definition/38987/vitilla-vitillae">vitilla, vitillae</a> n</li>
+          <li id="word-717" class="word"><a href="http://www.latin-dictionary.net/definition/38988/vitio-vitiare-vitiavi-vitiatus">vitio, vitiare, vitiavi, vitiatus</a> v</li>
+          <li id="word-718" class="word"><a href="http://www.latin-dictionary.net/definition/38989/vitiosus-vitiosa-vitiosum">vitiosus, vitiosa, vitiosum</a> adj</li>
+          <li id="word-719" class="word"><a href="http://www.latin-dictionary.net/definition/38990/vitis-vitis">vitis, vitis</a> n</li>
+          <li id="word-720" class="word"><a href="http://www.latin-dictionary.net/definition/38991/vitisator-vitisatoris">vitisator, vitisatoris</a> n</li>
+          <li id="word-721" class="word"><a href="http://www.latin-dictionary.net/definition/38992/vitium-viti-i">vitium, viti(i)</a> n</li>
+          <li id="word-722" class="word"><a href="http://www.latin-dictionary.net/definition/38993/vito-vitare-vitavi-vitatus">vito, vitare, vitavi, vitatus</a> v</li>
+          <li id="word-723" class="word"><a href="http://www.latin-dictionary.net/definition/38994/vitreo-vitreare-vitreavi-vitreatus">vitreo, vitreare, vitreavi, vitreatus</a> v</li>
+          <li id="word-724" class="word"><a href="http://www.latin-dictionary.net/definition/38995/vitreus-vitrea-vitreum">vitreus, vitrea, vitreum</a> adj</li>
+          <li id="word-725" class="word"><a href="http://www.latin-dictionary.net/definition/38996/vitricus-vitrici">vitricus, vitrici</a> n</li>
+          <li id="word-726" class="word"><a href="http://www.latin-dictionary.net/definition/38997/vitriolum-vitrioli">vitriolum, vitrioli</a> n</li>
+          <li id="word-727" class="word"><a href="http://www.latin-dictionary.net/definition/38998/vitriterstrum-vitriterstri">vitriterstrum, vitriterstri</a> n</li>
+          <li id="word-728" class="word"><a href="http://www.latin-dictionary.net/definition/38999/vitrum-vitri">vitrum, vitri</a> n</li>
+          <li id="word-729" class="word"><a href="http://www.latin-dictionary.net/definition/39000/vitta-vittae">vitta, vittae</a> n</li>
+          <li id="word-730" class="word"><a href="http://www.latin-dictionary.net/definition/39001/vittatus-vittata-vittatum">vittatus, vittata, vittatum</a> adj</li>
+          <li id="word-731" class="word"><a href="http://www.latin-dictionary.net/definition/39002/vitula-vitulae">vitula, vitulae</a> n</li>
+          <li id="word-732" class="word"><a href="http://www.latin-dictionary.net/definition/39003/vitulamen-vitulaminis">vitulamen, vitulaminis</a> n</li>
+          <li id="word-733" class="word"><a href="http://www.latin-dictionary.net/definition/39004/vitulina-vitulinae">vitulina, vitulinae</a> n</li>
+          <li id="word-734" class="word"><a href="http://www.latin-dictionary.net/definition/39005/vitulinus-vitulina-vitulinum">vitulinus, vitulina, vitulinum</a> adj</li>
+          <li id="word-735" class="word"><a href="http://www.latin-dictionary.net/definition/39006/vitulus-vituli">vitulus, vituli</a> n</li>
+          <li id="word-736" class="word"><a href="http://www.latin-dictionary.net/definition/39007/vituperabilis-vituperabilis-vituperabile">vituperabilis, vituperabilis, vituperabile</a> adj</li>
+          <li id="word-737" class="word"><a href="http://www.latin-dictionary.net/definition/39008/vituperabiliter">vituperabiliter</a> adv</li>
+          <li id="word-738" class="word"><a href="http://www.latin-dictionary.net/definition/39009/vituperatio-vituperationis">vituperatio, vituperationis</a> n</li>
+          <li id="word-739" class="word"><a href="http://www.latin-dictionary.net/definition/39010/vitupero-vituperare-vituperavi-vituperatus">vitupero, vituperare, vituperavi, vituperatus</a> v</li>
+          <li id="word-740" class="word"><a href="http://www.latin-dictionary.net/definition/39011/vitus-vitus">vitus, vitus</a> n</li>
+          <li id="word-741" class="word"><a href="http://www.latin-dictionary.net/definition/39012/vivarium-vivari-i">vivarium, vivari(i)</a> n</li>
+          <li id="word-742" class="word"><a href="http://www.latin-dictionary.net/definition/39013/vivatus-vivata-vivatum">vivatus, vivata, vivatum</a> adj</li>
+          <li id="word-743" class="word"><a href="http://www.latin-dictionary.net/definition/39014/vivax-vivacis">vivax, vivacis</a> adj</li>
+          <li id="word-744" class="word"><a href="http://www.latin-dictionary.net/definition/39015/viverra-viverrae">viverra, viverrae</a> n</li>
+          <li id="word-745" class="word"><a href="http://www.latin-dictionary.net/definition/39016/vivesco-vivescere-vixi">vivesco, vivescere, vixi, -</a> v</li>
+          <li id="word-746" class="word"><a href="http://www.latin-dictionary.net/definition/39017/vividus-vivida-vividum">vividus, vivida, vividum</a> adj</li>
+          <li id="word-747" class="word"><a href="http://www.latin-dictionary.net/definition/39018/vivifico-vivificare-vivificavi-vivificatus">vivifico, vivificare, vivificavi, vivificatus</a> v</li>
+          <li id="word-748" class="word"><a href="http://www.latin-dictionary.net/definition/39019/vivificus-vivifica-vivificum">vivificus, vivifica, vivificum</a> adj</li>
+          <li id="word-749" class="word"><a href="http://www.latin-dictionary.net/definition/39020/viviradix-viviradicis">viviradix, viviradicis</a> n</li>
+          <li id="word-750" class="word"><a href="http://www.latin-dictionary.net/definition/39021/vivisco-viviscere">vivisco, viviscere, -, -</a> v</li>
+          <li id="word-751" class="word"><a href="http://www.latin-dictionary.net/definition/39022/vivo-vivere-vixi-victus">vivo, vivere, vixi, victus</a> v</li>
+          <li id="word-752" class="word"><a href="http://www.latin-dictionary.net/definition/39023/vivus-viva-vivum">vivus, viva, vivum</a> adj</li>
+          <li id="word-753" class="word"><a href="http://www.latin-dictionary.net/definition/39024/vix">vix</a> adv</li>
+          <li id="word-754" class="word"><a href="http://www.latin-dictionary.net/definition/39025/vixdum">vixdum</a> adv</li>
+          <li id="word-755" class="word"><a href="http://www.latin-dictionary.net/definition/39026/vocabularium-vocabularii">vocabularium, vocabularii</a> n</li>
+          <li id="word-756" class="word"><a href="http://www.latin-dictionary.net/definition/39027/vocabulum-vocabuli">vocabulum, vocabuli</a> n</li>
+          <li id="word-757" class="word"><a href="http://www.latin-dictionary.net/definition/39028/vocalis-vocalis-vocale">vocalis, vocalis, vocale</a> adj</li>
+          <li id="word-758" class="word"><a href="http://www.latin-dictionary.net/definition/39029/vocamen-vocaminis">vocamen, vocaminis</a> n</li>
+          <li id="word-759" class="word"><a href="http://www.latin-dictionary.net/definition/39030/vocatio-vocationis">vocatio, vocationis</a> n</li>
+          <li id="word-760" class="word"><a href="http://www.latin-dictionary.net/definition/39031/vocativus-vocativa-vocativum">vocativus, vocativa, vocativum</a> adj</li>
+          <li id="word-761" class="word"><a href="http://www.latin-dictionary.net/definition/39032/vocativus-vocativi">vocativus, vocativi</a> n</li>
+          <li id="word-762" class="word"><a href="http://www.latin-dictionary.net/definition/39033/vocatus-vocatus">vocatus, vocatus</a> n</li>
+          <li id="word-763" class="word"><a href="http://www.latin-dictionary.net/definition/39034/vociferatio-vociferationis">vociferatio, vociferationis</a> n</li>
+          <li id="word-764" class="word"><a href="http://www.latin-dictionary.net/definition/39035/vociferor-vociferari-vociferatus">vociferor, vociferari, vociferatus</a> v</li>
+          <li id="word-765" class="word"><a href="http://www.latin-dictionary.net/definition/39036/vocito-vocitare-vocitavi-vocitatus">vocito, vocitare, vocitavi, vocitatus</a> v</li>
+          <li id="word-766" class="word"><a href="http://www.latin-dictionary.net/definition/39037/vocivus-vociva-vocivum">vocivus, vociva, vocivum</a> adj</li>
+          <li id="word-767" class="word"><a href="http://www.latin-dictionary.net/definition/39038/voco-vocare-vocavi-vocatus">voco, vocare, vocavi, vocatus</a> v</li>
+          <li id="word-768" class="word"><a href="http://www.latin-dictionary.net/definition/39039/vocula-voculae">vocula, voculae</a> n</li>
+          <li id="word-769" class="word"><a href="http://www.latin-dictionary.net/definition/39040/volaemum-volaemi">volaemum, volaemi</a> n</li>
+          <li id="word-770" class="word"><a href="http://www.latin-dictionary.net/definition/39041/volans-gen-volantis">volans, (gen.), volantis</a> adj</li>
+          <li id="word-771" class="word"><a href="http://www.latin-dictionary.net/definition/39042/volans-volantis">volans, volantis</a> n</li>
+          <li id="word-772" class="word"><a href="http://www.latin-dictionary.net/definition/39043/volaticus-volatica-volaticum">volaticus, volatica, volaticum</a> adj</li>
+          <li id="word-773" class="word"><a href="http://www.latin-dictionary.net/definition/39044/volatilis-volatilis-volatile">volatilis, volatilis, volatile</a> adj</li>
+          <li id="word-774" class="word"><a href="http://www.latin-dictionary.net/definition/39045/volatilitas-volatilitatis">volatilitas, volatilitatis</a> n</li>
+          <li id="word-775" class="word"><a href="http://www.latin-dictionary.net/definition/39046/volatio-volationis">volatio, volationis</a> n</li>
+          <li id="word-776" class="word"><a href="http://www.latin-dictionary.net/definition/39047/volatus-volatus">volatus, volatus</a> n</li>
+          <li id="word-777" class="word"><a href="http://www.latin-dictionary.net/definition/39048/Volcanus-Volcani">Volcanus, Volcani</a> n</li>
+          <li id="word-778" class="word"><a href="http://www.latin-dictionary.net/definition/39049/volens-gen-volentis">volens, (gen.), volentis</a> adj</li>
+          <li id="word-779" class="word"><a href="http://www.latin-dictionary.net/definition/39050/volgo">volgo</a> adv</li>
+          <li id="word-780" class="word"><a href="http://www.latin-dictionary.net/definition/39051/volgo-volgare-volgavi-volgatus">volgo, volgare, volgavi, volgatus</a> v</li>
+          <li id="word-781" class="word"><a href="http://www.latin-dictionary.net/definition/39052/volgus-volgi">volgus, volgi</a> n</li>
+          <li id="word-782" class="word"><a href="http://www.latin-dictionary.net/definition/39053/volitio-volitionis">volitio, volitionis</a> n</li>
+          <li id="word-783" class="word"><a href="http://www.latin-dictionary.net/definition/39054/volito-volitare-volitavi-volitatus">volito, volitare, volitavi, volitatus</a> v</li>
+          <li id="word-784" class="word"><a href="http://www.latin-dictionary.net/definition/39055/volitus-volita-volitum">volitus, volita, volitum</a> adj</li>
+          <li id="word-785" class="word"><a href="http://www.latin-dictionary.net/definition/39056/volnero-volnerare-volneravi-volneratus">volnero, volnerare, volneravi, volneratus</a> v</li>
+          <li id="word-786" class="word"><a href="http://www.latin-dictionary.net/definition/39057/volnificus-volnifica-volnificum">volnificus, volnifica, volnificum</a> adj</li>
+          <li id="word-787" class="word"><a href="http://www.latin-dictionary.net/definition/39058/volnus-volneris">volnus, volneris</a> n</li>
+          <li id="word-788" class="word"><a href="http://www.latin-dictionary.net/definition/39059/volo-velle-volui">volo, velle, volui, -</a> v</li>
+          <li id="word-789" class="word"><a href="http://www.latin-dictionary.net/definition/39060/volo-volare-volavi-volatus">volo, volare, volavi, volatus</a> v</li>
+          <li id="word-790" class="word"><a href="http://www.latin-dictionary.net/definition/39061/volo-volonis">volo, volonis</a> n</li>
+          <li id="word-791" class="word"><a href="http://www.latin-dictionary.net/definition/39062/volpes-volpis">volpes, volpis</a> n</li>
+          <li id="word-792" class="word"><a href="http://www.latin-dictionary.net/definition/39063/volsella-volsellae">volsella, volsellae</a> n</li>
+          <li id="word-793" class="word"><a href="http://www.latin-dictionary.net/definition/39064/voltium-voltii">voltium, voltii</a> n</li>
+          <li id="word-794" class="word"><a href="http://www.latin-dictionary.net/definition/39065/voltur-volturis">voltur, volturis</a> n</li>
+          <li id="word-795" class="word"><a href="http://www.latin-dictionary.net/definition/39066/volturius-volturi-i">volturius, volturi(i)</a> n</li>
+          <li id="word-796" class="word"><a href="http://www.latin-dictionary.net/definition/39067/voltus-voltus">voltus, voltus</a> n</li>
+          <li id="word-797" class="word"><a href="http://www.latin-dictionary.net/definition/39068/volubilis-volubilis-volubile">volubilis, volubilis, volubile</a> adj</li>
+          <li id="word-798" class="word"><a href="http://www.latin-dictionary.net/definition/39069/volubilitas-volubilitatis">volubilitas, volubilitatis</a> n</li>
+          <li id="word-799" class="word"><a href="http://www.latin-dictionary.net/definition/39070/volucer-voluceris-volucere">volucer, voluceris, volucere</a> adj</li>
+          <li id="word-800" class="word"><a href="http://www.latin-dictionary.net/definition/39071/volucer-volucris-volucre">volucer, volucris, volucre</a> adj</li>
+          <li id="word-801" class="word"><a href="http://www.latin-dictionary.net/definition/39072/volucris-volucris">volucris, volucris</a> n</li>
+          <li id="word-802" class="word"><a href="http://www.latin-dictionary.net/definition/39073/volumen-voluminis">volumen, voluminis</a> n</li>
+          <li id="word-803" class="word"><a href="http://www.latin-dictionary.net/definition/39074/voluntarie">voluntarie</a> adv</li>
+          <li id="word-804" class="word"><a href="http://www.latin-dictionary.net/definition/39075/voluntarius-voluntari-i">voluntarius, voluntari(i)</a> n</li>
+          <li id="word-805" class="word"><a href="http://www.latin-dictionary.net/definition/39076/voluntarius-voluntaria-voluntarium">voluntarius, voluntaria, voluntarium</a> adj</li>
+          <li id="word-806" class="word"><a href="http://www.latin-dictionary.net/definition/39077/voluntas-voluntatis">voluntas, voluntatis</a> n</li>
+          <li id="word-807" class="word"><a href="http://www.latin-dictionary.net/definition/39078/volup">volup</a> adv</li>
+          <li id="word-808" class="word"><a href="http://www.latin-dictionary.net/definition/39079/volupe">volupe</a> adv</li>
+          <li id="word-809" class="word"><a href="http://www.latin-dictionary.net/definition/39080/voluptabilis-voluptabilis-voluptabile">voluptabilis, voluptabilis, voluptabile</a> adj</li>
+          <li id="word-810" class="word"><a href="http://www.latin-dictionary.net/definition/39081/voluptarius-voluptaria-voluptarium">voluptarius, voluptaria, voluptarium</a> adj</li>
+          <li id="word-811" class="word"><a href="http://www.latin-dictionary.net/definition/39082/voluptas-voluptatis">voluptas, voluptatis</a> n</li>
+          <li id="word-812" class="word"><a href="http://www.latin-dictionary.net/definition/39083/voluptuosus-voluptuosa-voluptuosum">voluptuosus, voluptuosa, voluptuosum</a> adj</li>
+          <li id="word-813" class="word"><a href="http://www.latin-dictionary.net/definition/39084/volutabrum-volutabri">volutabrum, volutabri</a> n</li>
+          <li id="word-814" class="word"><a href="http://www.latin-dictionary.net/definition/39085/volutabundus-volutabunda-volutabundum">volutabundus, volutabunda, volutabundum</a> adj</li>
+          <li id="word-815" class="word"><a href="http://www.latin-dictionary.net/definition/39086/voluto-volutare-volutavi-volutatus">voluto, volutare, volutavi, volutatus</a> v</li>
+          <li id="word-816" class="word"><a href="http://www.latin-dictionary.net/definition/39087/volva-volvae">volva, volvae</a> n</li>
+          <li id="word-817" class="word"><a href="http://www.latin-dictionary.net/definition/39088/volvo-volvere-volvi-volutus">volvo, volvere, volvi, volutus</a> v</li>
+          <li id="word-818" class="word"><a href="http://www.latin-dictionary.net/definition/39089/volvo-volvere-volvi-volutus">volvo, volvere, volvi, volutus</a> v</li>
+          <li id="word-819" class="word"><a href="http://www.latin-dictionary.net/definition/39090/volvo-volvere-volvi-volutus">volvo, volvere, volvi, volutus</a> v</li>
+          <li id="word-820" class="word"><a href="http://www.latin-dictionary.net/definition/39091/vomer-vomeris">vomer, vomeris</a> n</li>
+          <li id="word-821" class="word"><a href="http://www.latin-dictionary.net/definition/39092/vomica-vomicae">vomica, vomicae</a> n</li>
+          <li id="word-822" class="word"><a href="http://www.latin-dictionary.net/definition/39093/vomitio-vomitionis">vomitio, vomitionis</a> n</li>
+          <li id="word-823" class="word"><a href="http://www.latin-dictionary.net/definition/39094/vomito-vomitare-vomitavi-vomitatus">vomito, vomitare, vomitavi, vomitatus</a> v</li>
+          <li id="word-824" class="word"><a href="http://www.latin-dictionary.net/definition/39095/vomitor-vomitoris">vomitor, vomitoris</a> n</li>
+          <li id="word-825" class="word"><a href="http://www.latin-dictionary.net/definition/39096/vomitorius-vomitoria-vomitorium">vomitorius, vomitoria, vomitorium</a> adj</li>
+          <li id="word-826" class="word"><a href="http://www.latin-dictionary.net/definition/39097/vomitus-vomitus">vomitus, vomitus</a> n</li>
+          <li id="word-827" class="word"><a href="http://www.latin-dictionary.net/definition/39098/vomo-vomere-vomui-vomitus">vomo, vomere, vomui, vomitus</a> v</li>
+          <li id="word-828" class="word"><a href="http://www.latin-dictionary.net/definition/39099/voracitas-voracitatis">voracitas, voracitatis</a> n</li>
+          <li id="word-829" class="word"><a href="http://www.latin-dictionary.net/definition/39100/voraginosus-voraginosa-voraginosum">voraginosus, voraginosa, voraginosum</a> adj</li>
+          <li id="word-830" class="word"><a href="http://www.latin-dictionary.net/definition/39101/vorago-voraginis">vorago, voraginis</a> n</li>
+          <li id="word-831" class="word"><a href="http://www.latin-dictionary.net/definition/39102/vorax-voracis">vorax, voracis</a> n</li>
+          <li id="word-832" class="word"><a href="http://www.latin-dictionary.net/definition/39103/voro-vorare-voravi-voratus">voro, vorare, voravi, voratus</a> v</li>
+          <li id="word-833" class="word"><a href="http://www.latin-dictionary.net/definition/39104/vorsipellis-vorsipellis">vorsipellis, vorsipellis</a> v</li>
+          <li id="word-834" class="word"><a href="http://www.latin-dictionary.net/definition/39105/vorsum">vorsum</a> adv</li>
+          <li id="word-835" class="word"><a href="http://www.latin-dictionary.net/definition/39106/vorsum">vorsum</a> prep</li>
+          <li id="word-836" class="word"><a href="http://www.latin-dictionary.net/definition/39107/vorsus">vorsus</a> adv</li>
+          <li id="word-837" class="word"><a href="http://www.latin-dictionary.net/definition/39108/vorsus">vorsus</a> prep</li>
+          <li id="word-838" class="word"><a href="http://www.latin-dictionary.net/definition/39109/vortex-vorticis">vortex, vorticis</a> n</li>
+          <li id="word-839" class="word"><a href="http://www.latin-dictionary.net/definition/39110/vos-vetrum-vetri">vos, vetrum/vetri</a> n</li>
+          <li id="word-840" class="word"><a href="http://www.latin-dictionary.net/definition/39111/vos-votrum-votri">vos, votrum/votri</a> n</li>
+          <li id="word-841" class="word"><a href="http://www.latin-dictionary.net/definition/39112/voster-vostra-vostrum">voster, vostra, vostrum</a> adj</li>
+          <li id="word-842" class="word"><a href="http://www.latin-dictionary.net/definition/39113/votivus-votiva-votivum">votivus, votiva, votivum</a> adj</li>
+          <li id="word-843" class="word"><a href="http://www.latin-dictionary.net/definition/39114/voto-votare-votui-votitus">voto, votare, votui, votitus</a> v</li>
+          <li id="word-844" class="word"><a href="http://www.latin-dictionary.net/definition/39115/votum-voti">votum, voti</a> n</li>
+          <li id="word-845" class="word"><a href="http://www.latin-dictionary.net/definition/39116/voveo-vovere-vovi-votus">voveo, vovere, vovi, votus</a> v</li>
+          <li id="word-846" class="word"><a href="http://www.latin-dictionary.net/definition/39117/vox-vocis">vox, vocis</a> n</li>
+          <li id="word-847" class="word"><a href="http://www.latin-dictionary.net/definition/39118/vulcanus-vulcani">vulcanus, vulcani</a> n</li>
+          <li id="word-848" class="word"><a href="http://www.latin-dictionary.net/definition/39119/Vulcanus-Vulcani">Vulcanus, Vulcani</a> n</li>
+          <li id="word-849" class="word"><a href="http://www.latin-dictionary.net/definition/39120/vulgaris-vulgaris-vulgare">vulgaris, vulgaris, vulgare</a> adj</li>
+          <li id="word-850" class="word"><a href="http://www.latin-dictionary.net/definition/39121/vulgator-vulgatoris">vulgator, vulgatoris</a> n</li>
+          <li id="word-851" class="word"><a href="http://www.latin-dictionary.net/definition/39122/vulgatus-vulgata-vulgatum">vulgatus, vulgata, vulgatum</a> adj</li>
+          <li id="word-852" class="word"><a href="http://www.latin-dictionary.net/definition/39123/vulgivagus-vulgivaga-vulgivagum">vulgivagus, vulgivaga, vulgivagum</a> adj</li>
+          <li id="word-853" class="word"><a href="http://www.latin-dictionary.net/definition/39124/vulgo">vulgo</a> adv</li>
+          <li id="word-854" class="word"><a href="http://www.latin-dictionary.net/definition/39125/vulgo-vulgare-vulgavi-vulgatus">vulgo, vulgare, vulgavi, vulgatus</a> v</li>
+          <li id="word-855" class="word"><a href="http://www.latin-dictionary.net/definition/39126/vulgus-vulgi">vulgus, vulgi</a> n</li>
+          <li id="word-856" class="word"><a href="http://www.latin-dictionary.net/definition/39127/vulnero-vulnerare-vulneravi-vulneratus">vulnero, vulnerare, vulneravi, vulneratus</a> v</li>
+          <li id="word-857" class="word"><a href="http://www.latin-dictionary.net/definition/39128/vulnificus-vulnifica-vulnificum">vulnificus, vulnifica, vulnificum</a> adj</li>
+          <li id="word-858" class="word"><a href="http://www.latin-dictionary.net/definition/39129/vulnus-vulneris">vulnus, vulneris</a> n</li>
+          <li id="word-859" class="word"><a href="http://www.latin-dictionary.net/definition/39130/vulo">vulo, -, -, -</a> v</li>
+          <li id="word-860" class="word"><a href="http://www.latin-dictionary.net/definition/39131/vulpecula-vulpeculae">vulpecula, vulpeculae</a> n</li>
+          <li id="word-861" class="word"><a href="http://www.latin-dictionary.net/definition/39132/vulpes-vulpis">vulpes, vulpis</a> n</li>
+          <li id="word-862" class="word"><a href="http://www.latin-dictionary.net/definition/39133/vult">vult</a> v</li>
+          <li id="word-863" class="word"><a href="http://www.latin-dictionary.net/definition/39134/vulticulus-vulticuli">vulticulus, vulticuli</a> n</li>
+          <li id="word-864" class="word"><a href="http://www.latin-dictionary.net/definition/39135/vultis">vultis</a> v</li>
+          <li id="word-865" class="word"><a href="http://www.latin-dictionary.net/definition/39136/vultuosus-vultuosa-vultuosum">vultuosus, vultuosa, vultuosum</a> adj</li>
+          <li id="word-866" class="word"><a href="http://www.latin-dictionary.net/definition/39137/vultur-vulturis">vultur, vulturis</a> n</li>
+          <li id="word-867" class="word"><a href="http://www.latin-dictionary.net/definition/39138/vulturius-vulturi-i">vulturius, vulturi(i)</a> n</li>
+          <li id="word-868" class="word"><a href="http://www.latin-dictionary.net/definition/39139/vulturnus-vulturna-vulturnum">vulturnus, vulturna, vulturnum</a> adj</li>
+          <li id="word-869" class="word"><a href="http://www.latin-dictionary.net/definition/39140/vultus-vultus">vultus, vultus</a> n</li>
+          <li id="word-870" class="word"><a href="http://www.latin-dictionary.net/definition/39141/vulva-vulvae">vulva, vulvae</a> n</li>

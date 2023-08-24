@@ -1,0 +1,613 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/27565/N-abb">N., abb.</a> n</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/27566/nable-nablis">nable, nablis</a> n</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/27567/nablium-nablii">nablium, nablii</a> n</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/27568/nablum-nabli">nablum, nabli</a> n</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/27569/nadir-undeclined">nadir, undeclined</a> n</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/27570/nae">nae</a> adv</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/27571/naevus-naevi">naevus, naevi</a> n</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/27572/Naias-Naiados-is">Naias, Naiados/is</a> n</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/27573/Nais-Naidos-is">Nais, Naidos/is</a> n</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/27574/nam">nam</a> conj</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/27575/namque">namque</a> conj</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/27576/nanciscor-nancisci-nactus">nanciscor, nancisci, nactus</a> v</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/27577/nanciscor-nancisci-nanctus">nanciscor, nancisci, nanctus</a> v</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/27578/nanus-nani">nanus, nani</a> n</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/27579/naphtha-naphthae">naphtha, naphthae</a> n</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/27580/naptha-napthae">naptha, napthae</a> n</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/27581/narcissinus-narcissina-narcissinum">narcissinus, narcissina, narcissinum</a> adj</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/27582/narcissismus-narcissismi">narcissismus, narcissismi</a> n</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/27583/narcissus-narcissi">narcissus, narcissi</a> n</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/27584/narcomania-narcomaniae">narcomania, narcomaniae</a> n</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/27585/narcoticus-narcotica-narcoticum">narcoticus, narcotica, narcoticum</a> adj</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/27586/nardifer-nardifera-nardiferum">nardifer, nardifera, nardiferum</a> adj</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/27587/nardinum-nardini">nardinum, nardini</a> n</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/27588/nardinus-nardina-nardinum">nardinus, nardina, nardinum</a> adj</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/27589/nardum-nardi">nardum, nardi</a> n</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/27590/nardus-nardi">nardus, nardi</a> n</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/27591/naris-naris">naris, naris</a> n</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/27592/narrabilis-narrabilis-narrabile">narrabilis, narrabilis, narrabile</a> adj</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/27593/narratio-narrationis">narratio, narrationis</a> n</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/27594/narratiuncula-narratiunculae">narratiuncula, narratiunculae</a> n</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/27595/narratus-narratus">narratus, narratus</a> n</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/27596/narro-narrare-narravi-narratus">narro, narrare, narravi, narratus</a> v</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/27597/narta-nartae">narta, nartae</a> n</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/27598/nartatio-nartationis">nartatio, nartationis</a> n</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/27599/nartator-nartatoris">nartator, nartatoris</a> n</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/27600/nartatorius-nartatoria-nartatorium">nartatorius, nartatoria, nartatorium</a> adj</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/27601/narthecium-narthecii">narthecium, narthecii</a> n</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/27602/narto-nartare-nartavi-nartatus">narto, nartare, nartavi, nartatus</a> v</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/27603/nasalizatio-nasalizationis">nasalizatio, nasalizationis</a> n</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/27604/nasciturus-nascitura-nasciturum">nasciturus, nascitura, nasciturum</a> adj</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/27605/nascor-nasci-natus">nascor, nasci, natus</a> v</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/27606/nascor-nasci-natus">nascor, nasci, natus</a> v</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/27607/nassa-nassae">nassa, nassae</a> n</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/27608/nassiterna-nassiternae">nassiterna, nassiternae</a> n</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/27609/nasturcium-nasturcii">nasturcium, nasturcii</a> n</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/27610/nasus-nasi">nasus, nasi</a> n</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/27611/nasutus-nasuta-nasutum">nasutus, nasuta, nasutum</a> adj</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/27612/nata-natae">nata, natae</a> n</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/27613/natalicium-natalicii">natalicium, natalicii</a> n</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/27614/natalicius-natalicia-natalicium">natalicius, natalicia, natalicium</a> adj</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/27615/natalis-natalis">natalis, natalis</a> n</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/27616/natalis-natalis">natalis, natalis</a> n</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/27617/natalis-natalis-natale">natalis, natalis, natale</a> adj</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/27618/natatilis-natatilis">natatilis, natatilis</a> n</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/27619/natatilis-natatilis-natatile">natatilis, natatilis, natatile</a> adj</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/27620/natator-natatoris">natator, natatoris</a> n</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/27621/natatus-natatus">natatus, natatus</a> n</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/27622/natio-nationis">natio, nationis</a> n</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/27623/nationalis-nationalis-nationale">nationalis, nationalis, nationale</a> adj</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/27624/nationalismus-nationalismi">nationalismus, nationalismi</a> n</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/27625/nationalitas-nationalitatis">nationalitas, nationalitatis</a> n</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/27626/natis-natis">natis, natis</a> n</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/27627/nativitas-nativitatis">nativitas, nativitatis</a> n</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/27628/nativus-nativa-nativum">nativus, nativa, nativum</a> adj</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/27629/nato-natare-natavi-natatus">nato, natare, natavi, natatus</a> v</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/27630/natrix-natricis">natrix, natricis</a> n</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/27631/natura-naturae">natura, naturae</a> n</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/27632/naturalis-naturalis">naturalis, naturalis</a> n</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/27633/naturalis-naturalis-naturale">naturalis, naturalis, naturale</a> adj</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/27634/naturalis-naturalis-naturale">naturalis, naturalis, naturale</a> adj</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/27635/naturaliter">naturaliter</a> adv</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/27636/naturalizatio-naturalizationis">naturalizatio, naturalizationis</a> n</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/27637/naturans-gen-naturantis">naturans, (gen.), naturantis</a> adj</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/27638/naturo-naturare-naturavi-naturatus">naturo, naturare, naturavi, naturatus</a> v</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/27639/natus-nata-natum">natus, nata, natum</a> adj</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/27640/natus-nati">natus, nati</a> n</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/27641/natus-natus">natus, natus</a> n</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/27642/nauarchia-nauarchiae">nauarchia, nauarchiae</a> n</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/27643/nauarchus-nauarchi">nauarchus, nauarchi</a> n</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/27644/naucleria-naucleriae">naucleria, naucleriae</a> n</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/27645/nauclericus-nauclerica-nauclericum">nauclericus, nauclerica, nauclericum</a> adj</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/27646/nauclerius-naucleria-nauclerium">nauclerius, naucleria, nauclerium</a> adj</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/27647/nauclerius-nauclerii">nauclerius, nauclerii</a> n</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/27648/nauclerus-naucleri">nauclerus, naucleri</a> n</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/27649/naucum-nauci">naucum, nauci</a> n</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/27650/naufragium-naufragi-i">naufragium, naufragi(i)</a> n</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/27651/naufrago-naufragare-naufragavi-naufragatus">naufrago, naufragare, naufragavi, naufragatus</a> v</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/27652/naufragus-naufraga-naufragum">naufragus, naufraga, naufragum</a> adj</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/27653/naulum-nauli">naulum, nauli</a> n</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/27654/naupegus-naupegi">naupegus, naupegi</a> n</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/27655/nausea-nauseae">nausea, nauseae</a> n</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/27656/nauseo-nauseare-nauseavi-nauseatus">nauseo, nauseare, nauseavi, nauseatus</a> v</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/27657/nauseola-nauseolae">nauseola, nauseolae</a> n</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/27658/nausia-nausiae">nausia, nausiae</a> n</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/27659/nausio-nausiare-nausiavi-nausiatus">nausio, nausiare, nausiavi, nausiatus</a> v</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/27660/nauta-nautae">nauta, nautae</a> n</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/27661/nauticus-nautica-nauticum">nauticus, nautica, nauticum</a> adj</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/27662/nauticus-nautici">nauticus, nautici</a> n</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/27663/navale-navalis">navale, navalis</a> n</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/27664/navalis-navalis-navale">navalis, navalis, navale</a> adj</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/27665/navanter">navanter</a> adv</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/27666/navicula-naviculae">navicula, naviculae</a> n</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/27667/navicularia-naviculariae">navicularia, naviculariae</a> n</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/27668/navicularius-navicularia-navicularium">navicularius, navicularia, navicularium</a> adj</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/27669/navifragus-navifraga-navifragum">navifragus, navifraga, navifragum</a> adj</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/27670/navigabilis-navigabilis-navigabile">navigabilis, navigabilis, navigabile</a> adj</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/27671/navigatio-navigationis">navigatio, navigationis</a> n</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/27672/naviger-navigera-navigerum">naviger, navigera, navigerum</a> adj</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/27673/navigium-navigi-i">navigium, navigi(i)</a> n</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/27674/navigo-navigare-navigavi-navigatus">navigo, navigare, navigavi, navigatus</a> v</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/27675/navis-navis">navis, navis</a> n</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/27676/navita-navitae">navita, navitae</a> n</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/27677/naviter">naviter</a> adv</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/27678/navmachia-navmachiae">navmachia, navmachiae</a> n</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/27679/navmachiarius-navmachiari-i">navmachiarius, navmachiari(i)</a> n</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/27680/navmachiarius-navmachiaria-navmachiarium">navmachiarius, navmachiaria, navmachiarium</a> adj</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/27681/navo-navare-navavi-navatus">navo, navare, navavi, navatus</a> v</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/27682/navus-nava-navum">navus, nava, navum</a> adj</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/27683/Nazara-Nazarae">Nazara, Nazarae</a> n</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/27684/nazaraeus-nazaraei">nazaraeus, nazaraei</a> n</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/27685/Nazaraeus-Nazaraei">Nazaraeus, Nazaraei</a> n</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/27686/Nazarenus-Nazarena-Nazarenum">Nazarenus, Nazarena, Nazarenum</a> adj</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/27687/Nazarenus-Nazareni">Nazarenus, Nazareni</a> n</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/27688/Nazareth-undeclined">Nazareth, undeclined</a> n</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/27689/Nazareus-Nazarea-Nazareum">Nazareus, Nazarea, Nazareum</a> adj</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/27690/Nazarus-Nazara-Nazarum">Nazarus, Nazara, Nazarum</a> adj</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/27691/nazismus-nazismi">nazismus, nazismi</a> n</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/27692/nazista-nazistae">nazista, nazistae</a> n</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/27693/nazoreus-nazorei">nazoreus, nazorei</a> n</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/27694/ne">ne</a> adv</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/27695/ne">ne</a> adv</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/27696/ne">ne</a> conj</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/27697/nebrida-nebridae">nebrida, nebridae</a> n</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/27698/nebula-nebulae">nebula, nebulae</a> n</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/27699/nebulo-nebulonis">nebulo, nebulonis</a> n</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/27700/nebulosus-nebulosa-nebulosum">nebulosus, nebulosa, nebulosum</a> adj</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/27701/nec">nec</a> adv</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/27702/nec">nec</a> conj</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/27703/necdum">necdum</a> conj</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/27704/necessaria-necessariae">necessaria, necessariae</a> n</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/27705/necessarie">necessarie</a> adv</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/27706/necessario">necessario</a> adv</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/27707/necessarium-necessarii">necessarium, necessarii</a> n</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/27708/necessarius-necessari-i">necessarius, necessari(i)</a> n</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/27709/necessarius-necessaria-necessarium">necessarius, necessaria, necessarium</a> adj</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/27710/necessarius-necessaria-necessarium">necessarius, necessaria, necessarium</a> adj</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/27711/necesse-undeclined">necesse, undeclined</a> adj</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/27712/necessest">necessest</a> v</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/27713/necessis-undeclined">necessis, undeclined</a> adj</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/27714/necessitas-necessitatis">necessitas, necessitatis</a> n</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/27715/necessitudo-necessitudinis">necessitudo, necessitudinis</a> n</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/27716/necesso-necessare-necessavi-necessatus">necesso, necessare, necessavi, necessatus</a> v</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/27717/necessum-undeclined">necessum, undeclined</a> adj</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/27718/necessus-undeclined">necessus, undeclined</a> adj</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/27719/neclectus-neclecta">neclectus, neclecta</a> adj</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/27720/neclectus-neclectus">neclectus, neclectus</a> n</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/27721/neclegens-neclegentis">neclegens, neclegentis</a> adj</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/27722/neclegenter-neclegentius-neclegentissime">neclegenter, neclegentius, neclegentissime</a> adv</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/27723/neclegentia-neclegentiae">neclegentia, neclegentiae</a> n</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/27724/neclego-neclegere-neclexi-neclectus">neclego, neclegere, neclexi, neclectus</a> v</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/27725/necne">necne</a> conj</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/27726/necnon">necnon</a> adv</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/27727/neco-necare-necavi-necatus">neco, necare, necavi, necatus</a> v</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/27728/neco-necare-necui-nectus">neco, necare, necui, nectus</a> v</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/27729/necopinans-gen-necopinantis">necopinans, (gen.), necopinantis</a> adj</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/27730/necopinatus-necopinata-necopinatum">necopinatus, necopinata, necopinatum</a> adj</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/27731/necopinus-necopina-necopinum">necopinus, necopina, necopinum</a> adj</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/27732/necopmus-necopma-necopmum">necopmus, necopma, necopmum</a> adj</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/27733/necrocomium-necrocomii">necrocomium, necrocomii</a> n</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/27734/necrologia-necrologiae">necrologia, necrologiae</a> n</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/27735/necrosis-necrosis">necrosis, necrosis</a> n</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/27736/nectar-nectaris">nectar, nectaris</a> n</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/27737/nectareus-nectarea-nectareum">nectareus, nectarea, nectareum</a> adj</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/27738/necto-nectere-nexui-nexus">necto, nectere, nexui, nexus</a> v</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/27739/necubi">necubi</a> adv</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/27740/necunde">necunde</a> adv</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/27741/nedum">nedum</a> conj</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/27742/nefandus-nefanda-nefandum">nefandus, nefanda, nefandum</a> adj</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/27743/nefarie">nefarie</a> adv</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/27744/nefarium-nefarii">nefarium, nefarii</a> n</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/27745/nefarius-nefaria-nefarium">nefarius, nefaria, nefarium</a> adj</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/27746/nefarius-nefaria-nefarium">nefarius, nefaria, nefarium</a> adj</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/27747/nefas-undeclined">nefas, undeclined</a> n</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/27748/nefastus-nefasta-nefastum">nefastus, nefasta, nefastum</a> adj</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/27749/negatio-negationis">negatio, negationis</a> n</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/27750/negative">negative</a> adv</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/27751/negativus-negativa-negativum">negativus, negativa, negativum</a> adj</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/27752/negator-negatoris">negator, negatoris</a> n</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/27753/negidius-negidii">negidius, negidii</a> n</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/27754/negito-negitare-negitavi-negitatus">negito, negitare, negitavi, negitatus</a> v</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/27755/neglectim">neglectim</a> adv</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/27756/neglectus-neglecta">neglectus, neglecta</a> adj</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/27757/neglectus-neglectus">neglectus, neglectus</a> n</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/27758/neglegens-neglegentis">neglegens, neglegentis</a> adj</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/27759/neglegenter-neglegentius-neglegentissime">neglegenter, neglegentius, neglegentissime</a> adv</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/27760/neglegentia-neglegentiae">neglegentia, neglegentiae</a> n</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/27761/neglego-neglegere-neglexi-neglectus">neglego, neglegere, neglexi, neglectus</a> v</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/27762/negligenter-negligentius-negligentissime">negligenter, negligentius, negligentissime</a> adv</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/27763/negligentia-negligentiae">negligentia, negligentiae</a> n</li>
+          <li id="word-199" class="word"><a href="http://www.latin-dictionary.net/definition/27764/negligo-negligere-neglixi-neglictus">negligo, negligere, neglixi, neglictus</a> v</li>
+          <li id="word-200" class="word"><a href="http://www.latin-dictionary.net/definition/27765/nego-negare-additional-forms">nego, negare, additional, forms</a> v</li>
+          <li id="word-201" class="word"><a href="http://www.latin-dictionary.net/definition/27766/nego-negare-negavi-negatus">nego, negare, negavi, negatus</a> v</li>
+          <li id="word-202" class="word"><a href="http://www.latin-dictionary.net/definition/27767/negotiatio-negotiationis">negotiatio, negotiationis</a> n</li>
+          <li id="word-203" class="word"><a href="http://www.latin-dictionary.net/definition/27768/negotiator-negotiatoris">negotiator, negotiatoris</a> n</li>
+          <li id="word-204" class="word"><a href="http://www.latin-dictionary.net/definition/27769/negotio-negotiare-negotiavi-negotiatus">negotio, negotiare, negotiavi, negotiatus</a> v</li>
+          <li id="word-205" class="word"><a href="http://www.latin-dictionary.net/definition/27770/negotiolum-negotioli">negotiolum, negotioli</a> n</li>
+          <li id="word-206" class="word"><a href="http://www.latin-dictionary.net/definition/27771/negotior-negotiari-negotiatus">negotior, negotiari, negotiatus</a> v</li>
+          <li id="word-207" class="word"><a href="http://www.latin-dictionary.net/definition/27772/negotiosus-negotiosa-negotiosum">negotiosus, negotiosa, negotiosum</a> adj</li>
+          <li id="word-208" class="word"><a href="http://www.latin-dictionary.net/definition/27773/negotium-negoti-i">negotium, negoti(i)</a> n</li>
+          <li id="word-209" class="word"><a href="http://www.latin-dictionary.net/definition/27774/Nehalannia-Nehalanniae">Nehalannia, Nehalanniae</a> n</li>
+          <li id="word-210" class="word"><a href="http://www.latin-dictionary.net/definition/27775/nemo-neminis">nemo, neminis</a> n</li>
+          <li id="word-211" class="word"><a href="http://www.latin-dictionary.net/definition/27776/nemoralis-nemoralis-nemorale">nemoralis, nemoralis, nemorale</a> adj</li>
+          <li id="word-212" class="word"><a href="http://www.latin-dictionary.net/definition/27777/nemorensis-nemorensis-nemorense">nemorensis, nemorensis, nemorense</a> adj</li>
+          <li id="word-213" class="word"><a href="http://www.latin-dictionary.net/definition/27778/nemorivagus-nemorivaga-nemorivagum">nemorivagus, nemorivaga, nemorivagum</a> adj</li>
+          <li id="word-214" class="word"><a href="http://www.latin-dictionary.net/definition/27779/nemorosus-nemorosa-nemorosum">nemorosus, nemorosa, nemorosum</a> adj</li>
+          <li id="word-215" class="word"><a href="http://www.latin-dictionary.net/definition/27780/nempe">nempe</a> conj</li>
+          <li id="word-216" class="word"><a href="http://www.latin-dictionary.net/definition/27781/nemus-nemoris">nemus, nemoris</a> n</li>
+          <li id="word-217" class="word"><a href="http://www.latin-dictionary.net/definition/27782/nenia-neniae">nenia, neniae</a> n</li>
+          <li id="word-218" class="word"><a href="http://www.latin-dictionary.net/definition/27783/neo-nere-nevi-netus">neo, nere, nevi, netus</a> v</li>
+          <li id="word-219" class="word"><a href="http://www.latin-dictionary.net/definition/27784/neofitus-neofita-neofitum">neofitus, neofita, neofitum</a> adj</li>
+          <li id="word-220" class="word"><a href="http://www.latin-dictionary.net/definition/27785/neolithicus-neolithica-neolithicum">neolithicus, neolithica, neolithicum</a> adj</li>
+          <li id="word-221" class="word"><a href="http://www.latin-dictionary.net/definition/27786/neologismus-neologismi">neologismus, neologismi</a> n</li>
+          <li id="word-222" class="word"><a href="http://www.latin-dictionary.net/definition/27787/neomenia-neomeniae">neomenia, neomeniae</a> n</li>
+          <li id="word-223" class="word"><a href="http://www.latin-dictionary.net/definition/27788/neonatus-neonati">neonatus, neonati</a> n</li>
+          <li id="word-224" class="word"><a href="http://www.latin-dictionary.net/definition/27789/neophytus-neophyta-neophytum">neophytus, neophyta, neophytum</a> adj</li>
+          <li id="word-225" class="word"><a href="http://www.latin-dictionary.net/definition/27790/neophytus-neophyti">neophytus, neophyti</a> n</li>
+          <li id="word-226" class="word"><a href="http://www.latin-dictionary.net/definition/27791/neoplasia-neoplasiae">neoplasia, neoplasiae</a> n</li>
+          <li id="word-227" class="word"><a href="http://www.latin-dictionary.net/definition/27792/nepa-nepae">nepa, nepae</a> n</li>
+          <li id="word-228" class="word"><a href="http://www.latin-dictionary.net/definition/27793/nepiagogium-nepiagogii">nepiagogium, nepiagogii</a> n</li>
+          <li id="word-229" class="word"><a href="http://www.latin-dictionary.net/definition/27794/nepos-nepotis">nepos, nepotis</a> n</li>
+          <li id="word-230" class="word"><a href="http://www.latin-dictionary.net/definition/27795/neptis-neptis">neptis, neptis</a> n</li>
+          <li id="word-231" class="word"><a href="http://www.latin-dictionary.net/definition/27796/Neptunus-Neptuni">Neptunus, Neptuni</a> n</li>
+          <li id="word-232" class="word"><a href="http://www.latin-dictionary.net/definition/27797/nequam-undeclined">nequam, undeclined</a> adj</li>
+          <li id="word-233" class="word"><a href="http://www.latin-dictionary.net/definition/27798/nequando">nequando</a> adv</li>
+          <li id="word-234" class="word"><a href="http://www.latin-dictionary.net/definition/27799/nequaquam">nequaquam</a> adv</li>
+          <li id="word-235" class="word"><a href="http://www.latin-dictionary.net/definition/27800/neque">neque</a> adv</li>
+          <li id="word-236" class="word"><a href="http://www.latin-dictionary.net/definition/27801/neque">neque</a> conj</li>
+          <li id="word-237" class="word"><a href="http://www.latin-dictionary.net/definition/27802/nequedum">nequedum</a> conj</li>
+          <li id="word-238" class="word"><a href="http://www.latin-dictionary.net/definition/27803/nequeo-nequire-nequivi-ii-nequitus">nequeo, nequire, nequivi(ii), nequitus</a> v</li>
+          <li id="word-239" class="word"><a href="http://www.latin-dictionary.net/definition/27804/nequicquam">nequicquam</a> adv</li>
+          <li id="word-240" class="word"><a href="http://www.latin-dictionary.net/definition/27805/nequior-undeclined">nequior, undeclined</a> adj</li>
+          <li id="word-241" class="word"><a href="http://www.latin-dictionary.net/definition/27806/nequiquam">nequiquam</a> adv</li>
+          <li id="word-242" class="word"><a href="http://www.latin-dictionary.net/definition/27807/nequis">nequis</a> adv</li>
+          <li id="word-243" class="word"><a href="http://www.latin-dictionary.net/definition/27808/nequissimus-undeclined">nequissimus, undeclined</a> adj</li>
+          <li id="word-244" class="word"><a href="http://www.latin-dictionary.net/definition/27809/nequiter">nequiter</a> adv</li>
+          <li id="word-245" class="word"><a href="http://www.latin-dictionary.net/definition/27810/nequitia-nequitiae">nequitia, nequitiae</a> n</li>
+          <li id="word-246" class="word"><a href="http://www.latin-dictionary.net/definition/27811/nequities-nequitiae">nequities, nequitiae</a> n</li>
+          <li id="word-247" class="word"><a href="http://www.latin-dictionary.net/definition/27812/Nero-Neronis">Nero, Neronis</a> n</li>
+          <li id="word-248" class="word"><a href="http://www.latin-dictionary.net/definition/27813/Nerva-Nervae">Nerva, Nervae</a> n</li>
+          <li id="word-249" class="word"><a href="http://www.latin-dictionary.net/definition/27814/Nervius-Nervii">Nervius, Nervii</a> n</li>
+          <li id="word-250" class="word"><a href="http://www.latin-dictionary.net/definition/27815/nervosus-nervosa-nervosum">nervosus, nervosa, nervosum</a> adj</li>
+          <li id="word-251" class="word"><a href="http://www.latin-dictionary.net/definition/27816/nervulus-nervuli">nervulus, nervuli</a> n</li>
+          <li id="word-252" class="word"><a href="http://www.latin-dictionary.net/definition/27817/nervus-nervi">nervus, nervi</a> n</li>
+          <li id="word-253" class="word"><a href="http://www.latin-dictionary.net/definition/27818/nervus-nervi">nervus, nervi</a> n</li>
+          <li id="word-254" class="word"><a href="http://www.latin-dictionary.net/definition/27819/nervus-nervi">nervus, nervi</a> n</li>
+          <li id="word-255" class="word"><a href="http://www.latin-dictionary.net/definition/27820/nescio-nescire-nescivi-nescitus">nescio, nescire, nescivi, nescitus</a> v</li>
+          <li id="word-256" class="word"><a href="http://www.latin-dictionary.net/definition/27821/nescius-nescia-nescium">nescius, nescia, nescium</a> adj</li>
+          <li id="word-257" class="word"><a href="http://www.latin-dictionary.net/definition/27822/nete-netes">nete, netes</a> n</li>
+          <li id="word-258" class="word"><a href="http://www.latin-dictionary.net/definition/27823/neu">neu</a> conj</li>
+          <li id="word-259" class="word"><a href="http://www.latin-dictionary.net/definition/27824/neuma-neumae">neuma, neumae</a> n</li>
+          <li id="word-260" class="word"><a href="http://www.latin-dictionary.net/definition/27825/neuma-neumae">neuma, neumae</a> n</li>
+          <li id="word-261" class="word"><a href="http://www.latin-dictionary.net/definition/27826/neuma-neumatis">neuma, neumatis</a> n</li>
+          <li id="word-262" class="word"><a href="http://www.latin-dictionary.net/definition/27827/neuronum-neuroni">neuronum, neuroni</a> n</li>
+          <li id="word-263" class="word"><a href="http://www.latin-dictionary.net/definition/27828/neuter-neutra-neutrum">neuter, neutra, neutrum</a> adj</li>
+          <li id="word-264" class="word"><a href="http://www.latin-dictionary.net/definition/27829/neutiquam">neutiquam</a> adv</li>
+          <li id="word-265" class="word"><a href="http://www.latin-dictionary.net/definition/27830/neutralitas-neutralitatis">neutralitas, neutralitatis</a> n</li>
+          <li id="word-266" class="word"><a href="http://www.latin-dictionary.net/definition/27831/neutralizatio-neutralizationis">neutralizatio, neutralizationis</a> n</li>
+          <li id="word-267" class="word"><a href="http://www.latin-dictionary.net/definition/27832/neutralizo-neutralizare-neutralizavi-neutralizatus">neutralizo, neutralizare, neutralizavi, neutralizatus</a> v</li>
+          <li id="word-268" class="word"><a href="http://www.latin-dictionary.net/definition/27833/neutro">neutro</a> adv</li>
+          <li id="word-269" class="word"><a href="http://www.latin-dictionary.net/definition/27834/neutronium-neutronii">neutronium, neutronii</a> n</li>
+          <li id="word-270" class="word"><a href="http://www.latin-dictionary.net/definition/27835/neutrubi">neutrubi</a> adv</li>
+          <li id="word-271" class="word"><a href="http://www.latin-dictionary.net/definition/27836/neve">neve</a> conj</li>
+          <li id="word-272" class="word"><a href="http://www.latin-dictionary.net/definition/27837/nex-necis">nex, necis</a> n</li>
+          <li id="word-273" class="word"><a href="http://www.latin-dictionary.net/definition/27838/nexilis-nexilis-nexile">nexilis, nexilis, nexile</a> adj</li>
+          <li id="word-274" class="word"><a href="http://www.latin-dictionary.net/definition/27839/nexo-nexere-nexi">nexo, nexere, nexi, -</a> v</li>
+          <li id="word-275" class="word"><a href="http://www.latin-dictionary.net/definition/27840/nexum-nexi">nexum, nexi</a> n</li>
+          <li id="word-276" class="word"><a href="http://www.latin-dictionary.net/definition/27841/nexus-nexi">nexus, nexi</a> n</li>
+          <li id="word-277" class="word"><a href="http://www.latin-dictionary.net/definition/27842/nexus-nexus">nexus, nexus</a> n</li>
+          <li id="word-278" class="word"><a href="http://www.latin-dictionary.net/definition/27843/ni">ni</a> adv</li>
+          <li id="word-279" class="word"><a href="http://www.latin-dictionary.net/definition/27844/ni">ni</a> conj</li>
+          <li id="word-280" class="word"><a href="http://www.latin-dictionary.net/definition/27845/niceterium-niceterii">niceterium, niceterii</a> n</li>
+          <li id="word-281" class="word"><a href="http://www.latin-dictionary.net/definition/27846/nichelium-nichelii">nichelium, nichelii</a> n</li>
+          <li id="word-282" class="word"><a href="http://www.latin-dictionary.net/definition/27847/nichil-undeclined">nichil, undeclined</a> n</li>
+          <li id="word-283" class="word"><a href="http://www.latin-dictionary.net/definition/27848/nichilum-nichili">nichilum, nichili</a> n</li>
+          <li id="word-284" class="word"><a href="http://www.latin-dictionary.net/definition/27849/Nicomedia-Nicomediae">Nicomedia, Nicomediae</a> n</li>
+          <li id="word-285" class="word"><a href="http://www.latin-dictionary.net/definition/27850/nicotinum-nicotini">nicotinum, nicotini</a> n</li>
+          <li id="word-286" class="word"><a href="http://www.latin-dictionary.net/definition/27851/nicto-nictare-nictavi-nictatus">nicto, nictare, nictavi, nictatus</a> v</li>
+          <li id="word-287" class="word"><a href="http://www.latin-dictionary.net/definition/27852/nidificium-nidificii">nidificium, nidificii</a> n</li>
+          <li id="word-288" class="word"><a href="http://www.latin-dictionary.net/definition/27853/nidifico-nidificare-nidificavi-nidificatus">nidifico, nidificare, nidificavi, nidificatus</a> v</li>
+          <li id="word-289" class="word"><a href="http://www.latin-dictionary.net/definition/27854/nidificus-nidifica-nidificum">nidificus, nidifica, nidificum</a> adj</li>
+          <li id="word-290" class="word"><a href="http://www.latin-dictionary.net/definition/27855/nidor-nidoris">nidor, nidoris</a> n</li>
+          <li id="word-291" class="word"><a href="http://www.latin-dictionary.net/definition/27856/nidulus-niduli">nidulus, niduli</a> n</li>
+          <li id="word-292" class="word"><a href="http://www.latin-dictionary.net/definition/27857/nidus-nidi">nidus, nidi</a> n</li>
+          <li id="word-293" class="word"><a href="http://www.latin-dictionary.net/definition/27858/nigellus-nigella-nigellum">nigellus, nigella, nigellum</a> adj</li>
+          <li id="word-294" class="word"><a href="http://www.latin-dictionary.net/definition/27859/niger-nigra-nigrum">niger, nigra, nigrum</a> adj</li>
+          <li id="word-295" class="word"><a href="http://www.latin-dictionary.net/definition/27860/nigrans-gen-nigrantis">nigrans, (gen.), nigrantis</a> adj</li>
+          <li id="word-296" class="word"><a href="http://www.latin-dictionary.net/definition/27861/nigredo-nigredinis">nigredo, nigredinis</a> n</li>
+          <li id="word-297" class="word"><a href="http://www.latin-dictionary.net/definition/27862/nigreo-nigrere">nigreo, nigrere, -, -</a> v</li>
+          <li id="word-298" class="word"><a href="http://www.latin-dictionary.net/definition/27863/nigresco-nigrescere-nigrui">nigresco, nigrescere, nigrui, -</a> v</li>
+          <li id="word-299" class="word"><a href="http://www.latin-dictionary.net/definition/27864/nigrita-nigritae">nigrita, nigritae</a> n</li>
+          <li id="word-300" class="word"><a href="http://www.latin-dictionary.net/definition/27865/nigritia-nigritiae">nigritia, nigritiae</a> n</li>
+          <li id="word-301" class="word"><a href="http://www.latin-dictionary.net/definition/27866/nigrities-nigritiei">nigrities, nigritiei</a> n</li>
+          <li id="word-302" class="word"><a href="http://www.latin-dictionary.net/definition/27867/nigro-nigrare-nigravi-nigratus">nigro, nigrare, nigravi, nigratus</a> v</li>
+          <li id="word-303" class="word"><a href="http://www.latin-dictionary.net/definition/27868/nihil-undeclined">nihil, undeclined</a> n</li>
+          <li id="word-304" class="word"><a href="http://www.latin-dictionary.net/definition/27869/nihildum-undeclined">nihildum, undeclined</a> n</li>
+          <li id="word-305" class="word"><a href="http://www.latin-dictionary.net/definition/27870/nihilismus-nihilismi">nihilismus, nihilismi</a> n</li>
+          <li id="word-306" class="word"><a href="http://www.latin-dictionary.net/definition/27871/nihilitas-nihilitatis">nihilitas, nihilitatis</a> n</li>
+          <li id="word-307" class="word"><a href="http://www.latin-dictionary.net/definition/27872/nihilominus">nihilominus</a> adv</li>
+          <li id="word-308" class="word"><a href="http://www.latin-dictionary.net/definition/27873/nihilum-nihili">nihilum, nihili</a> n</li>
+          <li id="word-309" class="word"><a href="http://www.latin-dictionary.net/definition/27874/nil-undeclined">nil, undeclined</a> n</li>
+          <li id="word-310" class="word"><a href="http://www.latin-dictionary.net/definition/27875/nilum-nili">nilum, nili</a> n</li>
+          <li id="word-311" class="word"><a href="http://www.latin-dictionary.net/definition/27876/nimbifer-nimbifera-nimbiferum">nimbifer, nimbifera, nimbiferum</a> adj</li>
+          <li id="word-312" class="word"><a href="http://www.latin-dictionary.net/definition/27877/nimbosus-nimbosa-nimbosum">nimbosus, nimbosa, nimbosum</a> adj</li>
+          <li id="word-313" class="word"><a href="http://www.latin-dictionary.net/definition/27878/nimbus-nimbi">nimbus, nimbi</a> n</li>
+          <li id="word-314" class="word"><a href="http://www.latin-dictionary.net/definition/27879/nimietas-nimietatis">nimietas, nimietatis</a> n</li>
+          <li id="word-315" class="word"><a href="http://www.latin-dictionary.net/definition/27880/nimio">nimio</a> adv</li>
+          <li id="word-316" class="word"><a href="http://www.latin-dictionary.net/definition/27881/nimirum">nimirum</a> adv</li>
+          <li id="word-317" class="word"><a href="http://www.latin-dictionary.net/definition/27882/nimis">nimis</a> adv</li>
+          <li id="word-318" class="word"><a href="http://www.latin-dictionary.net/definition/27883/nimium">nimium</a> adv</li>
+          <li id="word-319" class="word"><a href="http://www.latin-dictionary.net/definition/27884/nimius-nimia-nimium">nimius, nimia, nimium</a> adj</li>
+          <li id="word-320" class="word"><a href="http://www.latin-dictionary.net/definition/27885/Nineve-Nineves">Nineve, Nineves</a> n</li>
+          <li id="word-321" class="word"><a href="http://www.latin-dictionary.net/definition/27886/Ninevita-Ninevitae">Ninevita, Ninevitae</a> n</li>
+          <li id="word-322" class="word"><a href="http://www.latin-dictionary.net/definition/27887/Nineviticus-Ninevitica-Nineviticum">Nineviticus, Ninevitica, Nineviticum</a> adj</li>
+          <li id="word-323" class="word"><a href="http://www.latin-dictionary.net/definition/27888/Ninevitus-Ninevita-Ninevitum">Ninevitus, Ninevita, Ninevitum</a> adj</li>
+          <li id="word-324" class="word"><a href="http://www.latin-dictionary.net/definition/27889/ningo-ningere-ninxi">ningo, ningere, ninxi, -</a> v</li>
+          <li id="word-325" class="word"><a href="http://www.latin-dictionary.net/definition/27890/ningt-ningere-ninxit">ningt, ningere, ninxit, -</a> v</li>
+          <li id="word-326" class="word"><a href="http://www.latin-dictionary.net/definition/27891/ninguis-ninguis">ninguis, ninguis</a> n</li>
+          <li id="word-327" class="word"><a href="http://www.latin-dictionary.net/definition/27892/ninguo-ninguere-ninxi">ninguo, ninguere, ninxi, -</a> v</li>
+          <li id="word-328" class="word"><a href="http://www.latin-dictionary.net/definition/27893/Ninive-Ninives">Ninive, Ninives</a> n</li>
+          <li id="word-329" class="word"><a href="http://www.latin-dictionary.net/definition/27894/Ninivita-Ninivitae">Ninivita, Ninivitae</a> n</li>
+          <li id="word-330" class="word"><a href="http://www.latin-dictionary.net/definition/27895/Niniviticus-Ninivitica-Niniviticum">Niniviticus, Ninivitica, Niniviticum</a> adj</li>
+          <li id="word-331" class="word"><a href="http://www.latin-dictionary.net/definition/27896/Ninivitus-Ninivita-Ninivitum">Ninivitus, Ninivita, Ninivitum</a> adj</li>
+          <li id="word-332" class="word"><a href="http://www.latin-dictionary.net/definition/27897/nisan-undeclined">nisan, undeclined</a> n</li>
+          <li id="word-333" class="word"><a href="http://www.latin-dictionary.net/definition/27898/nisi">nisi</a> conj</li>
+          <li id="word-334" class="word"><a href="http://www.latin-dictionary.net/definition/27899/nisus-nisus">nisus, nisus</a> n</li>
+          <li id="word-335" class="word"><a href="http://www.latin-dictionary.net/definition/27900/nitedula-nitedulae">nitedula, nitedulae</a> n</li>
+          <li id="word-336" class="word"><a href="http://www.latin-dictionary.net/definition/27901/nitella-nitellae">nitella, nitellae</a> n</li>
+          <li id="word-337" class="word"><a href="http://www.latin-dictionary.net/definition/27902/niteo-nitere-nitui">niteo, nitere, nitui, -</a> v</li>
+          <li id="word-338" class="word"><a href="http://www.latin-dictionary.net/definition/27903/nitesco-nitescere-nitui">nitesco, nitescere, nitui, -</a> v</li>
+          <li id="word-339" class="word"><a href="http://www.latin-dictionary.net/definition/27904/nitidus-nitida-nitidum">nitidus, nitida, nitidum</a> adj</li>
+          <li id="word-340" class="word"><a href="http://www.latin-dictionary.net/definition/27905/nitor-niti-nisus">nitor, niti, nisus</a> v</li>
+          <li id="word-341" class="word"><a href="http://www.latin-dictionary.net/definition/27906/nitor-niti-nixus">nitor, niti, nixus</a> v</li>
+          <li id="word-342" class="word"><a href="http://www.latin-dictionary.net/definition/27907/nitor-nitoris">nitor, nitoris</a> n</li>
+          <li id="word-343" class="word"><a href="http://www.latin-dictionary.net/definition/27908/nitrosus-nitrosa-nitrosum">nitrosus, nitrosa, nitrosum</a> adj</li>
+          <li id="word-344" class="word"><a href="http://www.latin-dictionary.net/definition/27909/nitrum-nitri">nitrum, nitri</a> n</li>
+          <li id="word-345" class="word"><a href="http://www.latin-dictionary.net/definition/27910/nivalis-nivalis-nivale">nivalis, nivalis, nivale</a> adj</li>
+          <li id="word-346" class="word"><a href="http://www.latin-dictionary.net/definition/27911/niveus-nivea-niveum">niveus, nivea, niveum</a> adj</li>
+          <li id="word-347" class="word"><a href="http://www.latin-dictionary.net/definition/27912/Nivomagus-Nivomagi">Nivomagus, Nivomagi</a> n</li>
+          <li id="word-348" class="word"><a href="http://www.latin-dictionary.net/definition/27913/nivosus-nivosa-nivosum">nivosus, nivosa, nivosum</a> adj</li>
+          <li id="word-349" class="word"><a href="http://www.latin-dictionary.net/definition/27914/nix-nivis">nix, nivis</a> n</li>
+          <li id="word-350" class="word"><a href="http://www.latin-dictionary.net/definition/27915/nixor-nixari-nixatus">nixor, nixari, nixatus</a> v</li>
+          <li id="word-351" class="word"><a href="http://www.latin-dictionary.net/definition/27916/nixus-nixus">nixus, nixus</a> n</li>
+          <li id="word-352" class="word"><a href="http://www.latin-dictionary.net/definition/27917/no-nare-navi">no, nare, navi, -</a> v</li>
+          <li id="word-353" class="word"><a href="http://www.latin-dictionary.net/definition/27918/nobilis-nobile-nobilior">nobilis, nobile, nobilior</a> adj</li>
+          <li id="word-354" class="word"><a href="http://www.latin-dictionary.net/definition/27919/nobilis-nobile-nobilior">nobilis, nobile, nobilior</a> adj</li>
+          <li id="word-355" class="word"><a href="http://www.latin-dictionary.net/definition/27920/nobilis-nobilis">nobilis, nobilis</a> n</li>
+          <li id="word-356" class="word"><a href="http://www.latin-dictionary.net/definition/27921/nobilitas-nobilitatis">nobilitas, nobilitatis</a> n</li>
+          <li id="word-357" class="word"><a href="http://www.latin-dictionary.net/definition/27922/nobilito-nobilitare-nobilitavi-nobilitatus">nobilito, nobilitare, nobilitavi, nobilitatus</a> v</li>
+          <li id="word-358" class="word"><a href="http://www.latin-dictionary.net/definition/27923/nocens-gen-nocentis">nocens, (gen.), nocentis</a> adj</li>
+          <li id="word-359" class="word"><a href="http://www.latin-dictionary.net/definition/27924/noceo-nocere-nocui-nocitus">noceo, nocere, nocui, nocitus</a> v</li>
+          <li id="word-360" class="word"><a href="http://www.latin-dictionary.net/definition/27925/nocivus-nociva">nocivus, nociva</a> adj</li>
+          <li id="word-361" class="word"><a href="http://www.latin-dictionary.net/definition/27926/noctesco-noctescere">noctesco, noctescere, -, -</a> v</li>
+          <li id="word-362" class="word"><a href="http://www.latin-dictionary.net/definition/27927/noctiluca-noctilucae">noctiluca, noctilucae</a> n</li>
+          <li id="word-363" class="word"><a href="http://www.latin-dictionary.net/definition/27928/noctivagus-noctivaga-noctivagum">noctivagus, noctivaga, noctivagum</a> adj</li>
+          <li id="word-364" class="word"><a href="http://www.latin-dictionary.net/definition/27929/noctu">noctu</a> adv</li>
+          <li id="word-365" class="word"><a href="http://www.latin-dictionary.net/definition/27930/noctua-noctuae">noctua, noctuae</a> n</li>
+          <li id="word-366" class="word"><a href="http://www.latin-dictionary.net/definition/27931/noctuabundus-noctuabunda-noctuabundum">noctuabundus, noctuabunda, noctuabundum</a> adj</li>
+          <li id="word-367" class="word"><a href="http://www.latin-dictionary.net/definition/27932/nocturnalis-nocturnalis-nocturnale">nocturnalis, nocturnalis, nocturnale</a> adj</li>
+          <li id="word-368" class="word"><a href="http://www.latin-dictionary.net/definition/27933/nocturnus-nocturna-nocturnum">nocturnus, nocturna, nocturnum</a> adj</li>
+          <li id="word-369" class="word"><a href="http://www.latin-dictionary.net/definition/27934/nocumentum-nocumenti">nocumentum, nocumenti</a> n</li>
+          <li id="word-370" class="word"><a href="http://www.latin-dictionary.net/definition/27935/nocuus-nocua-nocuum">nocuus, nocua, nocuum</a> adj</li>
+          <li id="word-371" class="word"><a href="http://www.latin-dictionary.net/definition/27936/nodo-nodare-nodavi-nodatus">nodo, nodare, nodavi, nodatus</a> v</li>
+          <li id="word-372" class="word"><a href="http://www.latin-dictionary.net/definition/27937/nodosus-nodosa-nodosum">nodosus, nodosa, nodosum</a> adj</li>
+          <li id="word-373" class="word"><a href="http://www.latin-dictionary.net/definition/27938/nodus-nodi">nodus, nodi</a> n</li>
+          <li id="word-374" class="word"><a href="http://www.latin-dictionary.net/definition/27939/nola-nolae">nola, nolae</a> n</li>
+          <li id="word-375" class="word"><a href="http://www.latin-dictionary.net/definition/27940/nolo-nolle-nolui">nolo, nolle, nolui, -</a> v</li>
+          <li id="word-376" class="word"><a href="http://www.latin-dictionary.net/definition/27941/nomas-nomados-is">nomas, nomados/is</a> n</li>
+          <li id="word-377" class="word"><a href="http://www.latin-dictionary.net/definition/27942/nomen-nominis">nomen, nominis</a> n</li>
+          <li id="word-378" class="word"><a href="http://www.latin-dictionary.net/definition/27943/nomenclator-nomenclatoris">nomenclator, nomenclatoris</a> n</li>
+          <li id="word-379" class="word"><a href="http://www.latin-dictionary.net/definition/27944/nomenclatura-nomenclaturae">nomenclatura, nomenclaturae</a> n</li>
+          <li id="word-380" class="word"><a href="http://www.latin-dictionary.net/definition/27945/nomenculator-nomenculatoris">nomenculator, nomenculatoris</a> n</li>
+          <li id="word-381" class="word"><a href="http://www.latin-dictionary.net/definition/27946/nominatim">nominatim</a> adv</li>
+          <li id="word-382" class="word"><a href="http://www.latin-dictionary.net/definition/27947/nominatio-nominationis">nominatio, nominationis</a> n</li>
+          <li id="word-383" class="word"><a href="http://www.latin-dictionary.net/definition/27948/nominativus-nominativa-nominativum">nominativus, nominativa, nominativum</a> adj</li>
+          <li id="word-384" class="word"><a href="http://www.latin-dictionary.net/definition/27949/nominatus-nominatus">nominatus, nominatus</a> n</li>
+          <li id="word-385" class="word"><a href="http://www.latin-dictionary.net/definition/27950/nomine">nomine</a> adv</li>
+          <li id="word-386" class="word"><a href="http://www.latin-dictionary.net/definition/27951/nominetenus">nominetenus</a> adv</li>
+          <li id="word-387" class="word"><a href="http://www.latin-dictionary.net/definition/27952/nominito-nominitare-nominitavi-nominitatus">nominito, nominitare, nominitavi, nominitatus</a> v</li>
+          <li id="word-388" class="word"><a href="http://www.latin-dictionary.net/definition/27953/nomino-nominare-nominavi-nominatus">nomino, nominare, nominavi, nominatus</a> v</li>
+          <li id="word-389" class="word"><a href="http://www.latin-dictionary.net/definition/27954/nomisma-nomismatis">nomisma, nomismatis</a> n</li>
+          <li id="word-390" class="word"><a href="http://www.latin-dictionary.net/definition/27955/non">non</a> adv</li>
+          <li id="word-391" class="word"><a href="http://www.latin-dictionary.net/definition/27956/Non-abb">Non., abb.</a> n</li>
+          <li id="word-392" class="word"><a href="http://www.latin-dictionary.net/definition/27957/Nona-Nonae">Nona, Nonae</a> n</li>
+          <li id="word-393" class="word"><a href="http://www.latin-dictionary.net/definition/27958/nonagensim">nonagensim</a> n</li>
+          <li id="word-394" class="word"><a href="http://www.latin-dictionary.net/definition/27959/nonagensum">nonagensum</a> n</li>
+          <li id="word-395" class="word"><a href="http://www.latin-dictionary.net/definition/27960/nonaginta-nonagesimus">nonaginta, nonagesimus</a> n</li>
+          <li id="word-396" class="word"><a href="http://www.latin-dictionary.net/definition/27961/nonanus-nonana-nonanum">nonanus, nonana, nonanum</a> adj</li>
+          <li id="word-397" class="word"><a href="http://www.latin-dictionary.net/definition/27962/nondum">nondum</a> adv</li>
+          <li id="word-398" class="word"><a href="http://www.latin-dictionary.net/definition/27963/nongentensim">nongentensim</a> adv</li>
+          <li id="word-399" class="word"><a href="http://www.latin-dictionary.net/definition/27964/nongentensum">nongentensum</a> adv</li>
+          <li id="word-400" class="word"><a href="http://www.latin-dictionary.net/definition/27965/nongenti">nongenti</a> adv</li>
+          <li id="word-401" class="word"><a href="http://www.latin-dictionary.net/definition/27966/nonne">nonne</a> adv</li>
+          <li id="word-402" class="word"><a href="http://www.latin-dictionary.net/definition/27967/nonnemo-nonneminis">nonnemo, nonneminis</a> n</li>
+          <li id="word-403" class="word"><a href="http://www.latin-dictionary.net/definition/27968/nonnihil">nonnihil</a> adv</li>
+          <li id="word-404" class="word"><a href="http://www.latin-dictionary.net/definition/27969/nonnihil-undeclined">nonnihil, undeclined</a> n</li>
+          <li id="word-405" class="word"><a href="http://www.latin-dictionary.net/definition/27970/nonnisi">nonnisi</a> conj</li>
+          <li id="word-406" class="word"><a href="http://www.latin-dictionary.net/definition/27971/nonnullus-nonnulla-nonnullum">nonnullus, nonnulla, nonnullum</a> adj</li>
+          <li id="word-407" class="word"><a href="http://www.latin-dictionary.net/definition/27972/nonnullus-nonnulla-nonnullum">nonnullus, nonnulla, nonnullum</a> adj</li>
+          <li id="word-408" class="word"><a href="http://www.latin-dictionary.net/definition/27973/nonnullus-nonnulli">nonnullus, nonnulli</a> n</li>
+          <li id="word-409" class="word"><a href="http://www.latin-dictionary.net/definition/27974/nonnumquam">nonnumquam</a> adv</li>
+          <li id="word-410" class="word"><a href="http://www.latin-dictionary.net/definition/27975/nonnunquam">nonnunquam</a> adv</li>
+          <li id="word-411" class="word"><a href="http://www.latin-dictionary.net/definition/27976/norma-normae">norma, normae</a> n</li>
+          <li id="word-412" class="word"><a href="http://www.latin-dictionary.net/definition/27977/normativus-normativa-normativum">normativus, normativa, normativum</a> adj</li>
+          <li id="word-413" class="word"><a href="http://www.latin-dictionary.net/definition/27978/nos-nostrum-nostri">nos, nostrum/nostri</a> adj</li>
+          <li id="word-414" class="word"><a href="http://www.latin-dictionary.net/definition/27979/noscito-noscitare-noscitavi-noscitatus">noscito, noscitare, noscitavi, noscitatus</a> v</li>
+          <li id="word-415" class="word"><a href="http://www.latin-dictionary.net/definition/27980/nosco-noscere-novi-notus">nosco, noscere, novi, notus</a> v</li>
+          <li id="word-416" class="word"><a href="http://www.latin-dictionary.net/definition/27981/nosco-noscere-novi-notus">nosco, noscere, novi, notus</a> v</li>
+          <li id="word-417" class="word"><a href="http://www.latin-dictionary.net/definition/27982/nosocomium-nosocomii">nosocomium, nosocomii</a> n</li>
+          <li id="word-418" class="word"><a href="http://www.latin-dictionary.net/definition/27983/nosocomus-nosocomi">nosocomus, nosocomi</a> n</li>
+          <li id="word-419" class="word"><a href="http://www.latin-dictionary.net/definition/27984/nostalgia-nostalgiae">nostalgia, nostalgiae</a> n</li>
+          <li id="word-420" class="word"><a href="http://www.latin-dictionary.net/definition/27985/noster-nostra-nostrum">noster, nostra, nostrum</a> adj</li>
+          <li id="word-421" class="word"><a href="http://www.latin-dictionary.net/definition/27986/noster-nostri">noster, nostri</a> n</li>
+          <li id="word-422" class="word"><a href="http://www.latin-dictionary.net/definition/27987/nota-notae">nota, notae</a> n</li>
+          <li id="word-423" class="word"><a href="http://www.latin-dictionary.net/definition/27988/notabilis-notabilis-notabile">notabilis, notabilis, notabile</a> adj</li>
+          <li id="word-424" class="word"><a href="http://www.latin-dictionary.net/definition/27989/notaculum-notaculi">notaculum, notaculi</a> n</li>
+          <li id="word-425" class="word"><a href="http://www.latin-dictionary.net/definition/27990/notariatus-notariatus">notariatus, notariatus</a> n</li>
+          <li id="word-426" class="word"><a href="http://www.latin-dictionary.net/definition/27991/notarius-notari-i">notarius, notari(i)</a> n</li>
+          <li id="word-427" class="word"><a href="http://www.latin-dictionary.net/definition/27992/notarius-notarii">notarius, notarii</a> n</li>
+          <li id="word-428" class="word"><a href="http://www.latin-dictionary.net/definition/27993/notatio-notationis">notatio, notationis</a> n</li>
+          <li id="word-429" class="word"><a href="http://www.latin-dictionary.net/definition/27994/noteo-notere-notui-notitus">noteo, notere, notui, notitus</a> v</li>
+          <li id="word-430" class="word"><a href="http://www.latin-dictionary.net/definition/27995/notesco-notescere-notui">notesco, notescere, notui, -</a> v</li>
+          <li id="word-431" class="word"><a href="http://www.latin-dictionary.net/definition/27996/nothus-notha-nothum">nothus, notha, nothum</a> adj</li>
+          <li id="word-432" class="word"><a href="http://www.latin-dictionary.net/definition/27997/notificatio-notificationis">notificatio, notificationis</a> n</li>
+          <li id="word-433" class="word"><a href="http://www.latin-dictionary.net/definition/27998/notio-notionis">notio, notionis</a> n</li>
+          <li id="word-434" class="word"><a href="http://www.latin-dictionary.net/definition/27999/notionalis-notionalis-notionale">notionalis, notionalis, notionale</a> adj</li>
+          <li id="word-435" class="word"><a href="http://www.latin-dictionary.net/definition/28000/notionaliter">notionaliter</a> adv</li>
+          <li id="word-436" class="word"><a href="http://www.latin-dictionary.net/definition/28001/notitia-notitiae">notitia, notitiae</a> n</li>
+          <li id="word-437" class="word"><a href="http://www.latin-dictionary.net/definition/28002/noto-notare-notavi-notatus">noto, notare, notavi, notatus</a> v</li>
+          <li id="word-438" class="word"><a href="http://www.latin-dictionary.net/definition/28003/notula-notulae">notula, notulae</a> n</li>
+          <li id="word-439" class="word"><a href="http://www.latin-dictionary.net/definition/28004/notum-noti">notum, noti</a> n</li>
+          <li id="word-440" class="word"><a href="http://www.latin-dictionary.net/definition/28005/notus-nota">notus, nota</a> adj</li>
+          <li id="word-441" class="word"><a href="http://www.latin-dictionary.net/definition/28006/notus-noti">notus, noti</a> n</li>
+          <li id="word-442" class="word"><a href="http://www.latin-dictionary.net/definition/28007/Nov-abb">Nov., abb.</a> adj</li>
+          <li id="word-443" class="word"><a href="http://www.latin-dictionary.net/definition/28008/novacula-novaculae">novacula, novaculae</a> n</li>
+          <li id="word-444" class="word"><a href="http://www.latin-dictionary.net/definition/28009/novale-novalis">novale, novalis</a> n</li>
+          <li id="word-445" class="word"><a href="http://www.latin-dictionary.net/definition/28010/novalis-novalis">novalis, novalis</a> n</li>
+          <li id="word-446" class="word"><a href="http://www.latin-dictionary.net/definition/28011/novamen-novaminis">novamen, novaminis</a> n</li>
+          <li id="word-447" class="word"><a href="http://www.latin-dictionary.net/definition/28012/novatio-novationis">novatio, novationis</a> n</li>
+          <li id="word-448" class="word"><a href="http://www.latin-dictionary.net/definition/28013/nove-novius-novissime">nove, novius, novissime</a> adv</li>
+          <li id="word-449" class="word"><a href="http://www.latin-dictionary.net/definition/28014/novella-novellae">novella, novellae</a> n</li>
+          <li id="word-450" class="word"><a href="http://www.latin-dictionary.net/definition/28015/novello-novellare-novellavi-novellatus">novello, novellare, novellavi, novellatus</a> v</li>
+          <li id="word-451" class="word"><a href="http://www.latin-dictionary.net/definition/28016/novellus-novella-novellum">novellus, novella, novellum</a> adj</li>
+          <li id="word-452" class="word"><a href="http://www.latin-dictionary.net/definition/28017/novem-nonus">novem, nonus</a> adj</li>
+          <li id="word-453" class="word"><a href="http://www.latin-dictionary.net/definition/28018/November-Novembris">November, Novembris</a> n</li>
+          <li id="word-454" class="word"><a href="http://www.latin-dictionary.net/definition/28019/November-Novembris-Novembre">November, Novembris, Novembre</a> adj</li>
+          <li id="word-455" class="word"><a href="http://www.latin-dictionary.net/definition/28020/novenarius-novenaria-novenarium">novenarius, novenaria, novenarium</a> adj</li>
+          <li id="word-456" class="word"><a href="http://www.latin-dictionary.net/definition/28021/novendecim">novendecim</a> adj</li>
+          <li id="word-457" class="word"><a href="http://www.latin-dictionary.net/definition/28022/novendialis-novendialis-novendiale">novendialis, novendialis, novendiale</a> adj</li>
+          <li id="word-458" class="word"><a href="http://www.latin-dictionary.net/definition/28023/noverca-novercae">noverca, novercae</a> n</li>
+          <li id="word-459" class="word"><a href="http://www.latin-dictionary.net/definition/28024/novi-novisse-notus">novi, novisse, notus</a> v</li>
+          <li id="word-460" class="word"><a href="http://www.latin-dictionary.net/definition/28025/novi-novisse-notus">novi, novisse, notus</a> v</li>
+          <li id="word-461" class="word"><a href="http://www.latin-dictionary.net/definition/28026/noviciatus-noviciatus">noviciatus, noviciatus</a> n</li>
+          <li id="word-462" class="word"><a href="http://www.latin-dictionary.net/definition/28027/novicius-novicia-novicium">novicius, novicia, novicium</a> adj</li>
+          <li id="word-463" class="word"><a href="http://www.latin-dictionary.net/definition/28028/novicius-novicii">novicius, novicii</a> n</li>
+          <li id="word-464" class="word"><a href="http://www.latin-dictionary.net/definition/28029/novilunium-novilunii">novilunium, novilunii</a> n</li>
+          <li id="word-465" class="word"><a href="http://www.latin-dictionary.net/definition/28030/Noviomagus-Noviomagi">Noviomagus, Noviomagi</a> n</li>
+          <li id="word-466" class="word"><a href="http://www.latin-dictionary.net/definition/28031/novissime">novissime</a> adv</li>
+          <li id="word-467" class="word"><a href="http://www.latin-dictionary.net/definition/28032/novissimum-novissimi">novissimum, novissimi</a> n</li>
+          <li id="word-468" class="word"><a href="http://www.latin-dictionary.net/definition/28033/novissimus-novissima-novissimum">novissimus, novissima, novissimum</a> adj</li>
+          <li id="word-469" class="word"><a href="http://www.latin-dictionary.net/definition/28034/novitas-novitatis">novitas, novitatis</a> n</li>
+          <li id="word-470" class="word"><a href="http://www.latin-dictionary.net/definition/28035/novitas-novitatis">novitas, novitatis</a> n</li>
+          <li id="word-471" class="word"><a href="http://www.latin-dictionary.net/definition/28036/noviter">noviter</a> adv</li>
+          <li id="word-472" class="word"><a href="http://www.latin-dictionary.net/definition/28037/novitiatus-novitiati">novitiatus, novitiati</a> n</li>
+          <li id="word-473" class="word"><a href="http://www.latin-dictionary.net/definition/28038/novitius-noviti-i">novitius, noviti(i)</a> n</li>
+          <li id="word-474" class="word"><a href="http://www.latin-dictionary.net/definition/28039/novitius-novitia-novitium">novitius, novitia, novitium</a> adj</li>
+          <li id="word-475" class="word"><a href="http://www.latin-dictionary.net/definition/28040/novo-novare-novavi-novatus">novo, novare, novavi, novatus</a> v</li>
+          <li id="word-476" class="word"><a href="http://www.latin-dictionary.net/definition/28041/Novomagus-Novomagi">Novomagus, Novomagi</a> n</li>
+          <li id="word-477" class="word"><a href="http://www.latin-dictionary.net/definition/28042/novus-nova">novus, nova</a> adj</li>
+          <li id="word-478" class="word"><a href="http://www.latin-dictionary.net/definition/28043/nox-noctis">nox, noctis</a> n</li>
+          <li id="word-479" class="word"><a href="http://www.latin-dictionary.net/definition/28044/noxa-noxae">noxa, noxae</a> n</li>
+          <li id="word-480" class="word"><a href="http://www.latin-dictionary.net/definition/28045/noxalis-noxalis-noxale">noxalis, noxalis, noxale</a> adj</li>
+          <li id="word-481" class="word"><a href="http://www.latin-dictionary.net/definition/28046/noxia-noxiae">noxia, noxiae</a> n</li>
+          <li id="word-482" class="word"><a href="http://www.latin-dictionary.net/definition/28047/noxiosus-noxiosa">noxiosus, noxiosa</a> adj</li>
+          <li id="word-483" class="word"><a href="http://www.latin-dictionary.net/definition/28048/noxius-noxia-noxium">noxius, noxia, noxium</a> adj</li>
+          <li id="word-484" class="word"><a href="http://www.latin-dictionary.net/definition/28049/nubecula-nubeculae">nubecula, nubeculae</a> n</li>
+          <li id="word-485" class="word"><a href="http://www.latin-dictionary.net/definition/28050/nubeculatus-nubeculata-nubeculatum">nubeculatus, nubeculata, nubeculatum</a> adj</li>
+          <li id="word-486" class="word"><a href="http://www.latin-dictionary.net/definition/28051/nubes-nubis">nubes, nubis</a> n</li>
+          <li id="word-487" class="word"><a href="http://www.latin-dictionary.net/definition/28052/nubes-nubis">nubes, nubis</a> n</li>
+          <li id="word-488" class="word"><a href="http://www.latin-dictionary.net/definition/28053/nubifer-nubifera-nubiferum">nubifer, nubifera, nubiferum</a> adj</li>
+          <li id="word-489" class="word"><a href="http://www.latin-dictionary.net/definition/28054/nubigena-nubigenae">nubigena, nubigenae</a> n</li>
+          <li id="word-490" class="word"><a href="http://www.latin-dictionary.net/definition/28055/nubilis-nubilis-nubile">nubilis, nubilis, nubile</a> adj</li>
+          <li id="word-491" class="word"><a href="http://www.latin-dictionary.net/definition/28056/nubilosus-nubilosa-nubilosum">nubilosus, nubilosa, nubilosum</a> adj</li>
+          <li id="word-492" class="word"><a href="http://www.latin-dictionary.net/definition/28057/nubilum-nubili">nubilum, nubili</a> n</li>
+          <li id="word-493" class="word"><a href="http://www.latin-dictionary.net/definition/28058/nubilus-nubila-nubilum">nubilus, nubila, nubilum</a> adj</li>
+          <li id="word-494" class="word"><a href="http://www.latin-dictionary.net/definition/28059/nubis-nubis">nubis, nubis</a> n</li>
+          <li id="word-495" class="word"><a href="http://www.latin-dictionary.net/definition/28060/nubis-nubis">nubis, nubis</a> n</li>
+          <li id="word-496" class="word"><a href="http://www.latin-dictionary.net/definition/28061/nubo-nubere-nupsi-nuptus">nubo, nubere, nupsi, nuptus</a> v</li>
+          <li id="word-497" class="word"><a href="http://www.latin-dictionary.net/definition/28062/nubs-nubis">nubs, nubis</a> n</li>
+          <li id="word-498" class="word"><a href="http://www.latin-dictionary.net/definition/28063/nubs-nubis">nubs, nubis</a> n</li>
+          <li id="word-499" class="word"><a href="http://www.latin-dictionary.net/definition/28064/nucatum-nucati">nucatum, nucati</a> n</li>
+          <li id="word-500" class="word"><a href="http://www.latin-dictionary.net/definition/28065/nucifrangibulum-nucifrangibuli">nucifrangibulum, nucifrangibuli</a> n</li>
+          <li id="word-501" class="word"><a href="http://www.latin-dictionary.net/definition/28066/nuclearis-nuclearis-nucleare">nuclearis, nuclearis, nucleare</a> adj</li>
+          <li id="word-502" class="word"><a href="http://www.latin-dictionary.net/definition/28067/nucleus-nuclei">nucleus, nuclei</a> n</li>
+          <li id="word-503" class="word"><a href="http://www.latin-dictionary.net/definition/28068/nuditas-nuditatis">nuditas, nuditatis</a> n</li>
+          <li id="word-504" class="word"><a href="http://www.latin-dictionary.net/definition/28069/nudius">nudius</a> adv</li>
+          <li id="word-505" class="word"><a href="http://www.latin-dictionary.net/definition/28070/nudiustertius">nudiustertius</a> adv</li>
+          <li id="word-506" class="word"><a href="http://www.latin-dictionary.net/definition/28071/nudo-nudare-nudavi-nudatus">nudo, nudare, nudavi, nudatus</a> v</li>
+          <li id="word-507" class="word"><a href="http://www.latin-dictionary.net/definition/28072/nudus-nuda-nudum">nudus, nuda, nudum</a> adj</li>
+          <li id="word-508" class="word"><a href="http://www.latin-dictionary.net/definition/28073/nuga-nugae">nuga, nugae</a> n</li>
+          <li id="word-509" class="word"><a href="http://www.latin-dictionary.net/definition/28074/nugacitas-nugacitatis">nugacitas, nugacitatis</a> n</li>
+          <li id="word-510" class="word"><a href="http://www.latin-dictionary.net/definition/28075/nugator-nugatoris">nugator, nugatoris</a> n</li>
+          <li id="word-511" class="word"><a href="http://www.latin-dictionary.net/definition/28076/nugatorius-nugatoria-nugatorium">nugatorius, nugatoria, nugatorium</a> adj</li>
+          <li id="word-512" class="word"><a href="http://www.latin-dictionary.net/definition/28077/nugigerulus-nugigeruli">nugigerulus, nugigeruli</a> n</li>
+          <li id="word-513" class="word"><a href="http://www.latin-dictionary.net/definition/28078/nugivendus-nugivendi">nugivendus, nugivendi</a> n</li>
+          <li id="word-514" class="word"><a href="http://www.latin-dictionary.net/definition/28079/nugor-nugari-nugatus">nugor, nugari, nugatus</a> v</li>
+          <li id="word-515" class="word"><a href="http://www.latin-dictionary.net/definition/28080/nullatenus">nullatenus</a> adv</li>
+          <li id="word-516" class="word"><a href="http://www.latin-dictionary.net/definition/28081/nullibi">nullibi</a> adv</li>
+          <li id="word-517" class="word"><a href="http://www.latin-dictionary.net/definition/28082/nullitas-nullitatis">nullitas, nullitatis</a> n</li>
+          <li id="word-518" class="word"><a href="http://www.latin-dictionary.net/definition/28083/nulliter">nulliter</a> adv</li>
+          <li id="word-519" class="word"><a href="http://www.latin-dictionary.net/definition/28084/nullus-nulla-nullum">nullus, nulla, nullum</a> adj</li>
+          <li id="word-520" class="word"><a href="http://www.latin-dictionary.net/definition/28085/nullus-nulli">nullus, nulli</a> n</li>
+          <li id="word-521" class="word"><a href="http://www.latin-dictionary.net/definition/28086/num">num</a> adv</li>
+          <li id="word-522" class="word"><a href="http://www.latin-dictionary.net/definition/28087/Num-abb">Num., abb.</a> n</li>
+          <li id="word-523" class="word"><a href="http://www.latin-dictionary.net/definition/28088/numen-numinis">numen, numinis</a> n</li>
+          <li id="word-524" class="word"><a href="http://www.latin-dictionary.net/definition/28089/numerabilis-numerabilis-numerabile">numerabilis, numerabilis, numerabile</a> adj</li>
+          <li id="word-525" class="word"><a href="http://www.latin-dictionary.net/definition/28090/numerarius-numerarii">numerarius, numerarii</a> n</li>
+          <li id="word-526" class="word"><a href="http://www.latin-dictionary.net/definition/28091/numeratio-numerationis">numeratio, numerationis</a> n</li>
+          <li id="word-527" class="word"><a href="http://www.latin-dictionary.net/definition/28092/numerator-numeratoris">numerator, numeratoris</a> n</li>
+          <li id="word-528" class="word"><a href="http://www.latin-dictionary.net/definition/28093/Numerius-Numeri">Numerius, Numeri</a> n</li>
+          <li id="word-529" class="word"><a href="http://www.latin-dictionary.net/definition/28094/numero">numero</a> adv</li>
+          <li id="word-530" class="word"><a href="http://www.latin-dictionary.net/definition/28095/numero-numerare-numeravi-numeratus">numero, numerare, numeravi, numeratus</a> v</li>
+          <li id="word-531" class="word"><a href="http://www.latin-dictionary.net/definition/28096/numerose">numerose</a> adv</li>
+          <li id="word-532" class="word"><a href="http://www.latin-dictionary.net/definition/28097/numerositas-numerositatis">numerositas, numerositatis</a> n</li>
+          <li id="word-533" class="word"><a href="http://www.latin-dictionary.net/definition/28098/numerosus-numerosa">numerosus, numerosa</a> adj</li>
+          <li id="word-534" class="word"><a href="http://www.latin-dictionary.net/definition/28099/numerosus-numerosa">numerosus, numerosa</a> adj</li>
+          <li id="word-535" class="word"><a href="http://www.latin-dictionary.net/definition/28100/numerus-numeri">numerus, numeri</a> n</li>
+          <li id="word-536" class="word"><a href="http://www.latin-dictionary.net/definition/28101/numerus-numeri">numerus, numeri</a> n</li>
+          <li id="word-537" class="word"><a href="http://www.latin-dictionary.net/definition/28102/numisma-numismatis">numisma, numismatis</a> n</li>
+          <li id="word-538" class="word"><a href="http://www.latin-dictionary.net/definition/28103/nummarius-nummaria-nummarium">nummarius, nummaria, nummarium</a> adj</li>
+          <li id="word-539" class="word"><a href="http://www.latin-dictionary.net/definition/28104/nummatus-nummata-nummatum">nummatus, nummata, nummatum</a> adj</li>
+          <li id="word-540" class="word"><a href="http://www.latin-dictionary.net/definition/28105/nummischedula-nummischedulae">nummischedula, nummischedulae</a> n</li>
+          <li id="word-541" class="word"><a href="http://www.latin-dictionary.net/definition/28106/nummisma-nummismatis">nummisma, nummismatis</a> n</li>
+          <li id="word-542" class="word"><a href="http://www.latin-dictionary.net/definition/28107/nummularius-nummulari-i">nummularius, nummulari(i)</a> n</li>
+          <li id="word-543" class="word"><a href="http://www.latin-dictionary.net/definition/28108/nummularius-nummularia-nummularium">nummularius, nummularia, nummularium</a> adj</li>
+          <li id="word-544" class="word"><a href="http://www.latin-dictionary.net/definition/28109/nummulus-nummuli">nummulus, nummuli</a> n</li>
+          <li id="word-545" class="word"><a href="http://www.latin-dictionary.net/definition/28110/nummus-nummi">nummus, nummi</a> n</li>
+          <li id="word-546" class="word"><a href="http://www.latin-dictionary.net/definition/28111/numquam">numquam</a> adv</li>
+          <li id="word-547" class="word"><a href="http://www.latin-dictionary.net/definition/28112/numquid">numquid</a> adv</li>
+          <li id="word-548" class="word"><a href="http://www.latin-dictionary.net/definition/28113/nun-undeclined">nun, undeclined</a> n</li>
+          <li id="word-549" class="word"><a href="http://www.latin-dictionary.net/definition/28114/nunc">nunc</a> adv</li>
+          <li id="word-550" class="word"><a href="http://www.latin-dictionary.net/definition/28115/nuncia-nunciae">nuncia, nunciae</a> n</li>
+          <li id="word-551" class="word"><a href="http://www.latin-dictionary.net/definition/28116/nunciam">nunciam</a> adv</li>
+          <li id="word-552" class="word"><a href="http://www.latin-dictionary.net/definition/28117/nunciatio-nunciationis">nunciatio, nunciationis</a> n</li>
+          <li id="word-553" class="word"><a href="http://www.latin-dictionary.net/definition/28118/nunciator-nunciatoris">nunciator, nunciatoris</a> n</li>
+          <li id="word-554" class="word"><a href="http://www.latin-dictionary.net/definition/28119/nunciatrix-nunciatricis">nunciatrix, nunciatricis</a> n</li>
+          <li id="word-555" class="word"><a href="http://www.latin-dictionary.net/definition/28120/nuncio-nunciare-nunciavi-nunciatus">nuncio, nunciare, nunciavi, nunciatus</a> v</li>
+          <li id="word-556" class="word"><a href="http://www.latin-dictionary.net/definition/28121/nuncium-nunci-i">nuncium, nunci(i)</a> n</li>
+          <li id="word-557" class="word"><a href="http://www.latin-dictionary.net/definition/28122/nuncius-nunci-i">nuncius, nunci(i)</a> n</li>
+          <li id="word-558" class="word"><a href="http://www.latin-dictionary.net/definition/28123/nuncius-nuncia-nuncium">nuncius, nuncia, nuncium</a> adj</li>
+          <li id="word-559" class="word"><a href="http://www.latin-dictionary.net/definition/28124/nuncupatio-nuncupationis">nuncupatio, nuncupationis</a> n</li>
+          <li id="word-560" class="word"><a href="http://www.latin-dictionary.net/definition/28125/nuncupatorius-nuncupatoria-nuncupatorium">nuncupatorius, nuncupatoria, nuncupatorium</a> adj</li>
+          <li id="word-561" class="word"><a href="http://www.latin-dictionary.net/definition/28126/nuncupatura-nuncupaturae">nuncupatura, nuncupaturae</a> n</li>
+          <li id="word-562" class="word"><a href="http://www.latin-dictionary.net/definition/28127/nuncupo-nuncupare-nuncupavi-nuncupatus">nuncupo, nuncupare, nuncupavi, nuncupatus</a> v</li>
+          <li id="word-563" class="word"><a href="http://www.latin-dictionary.net/definition/28128/nundina-nundinae">nundina, nundinae</a> n</li>
+          <li id="word-564" class="word"><a href="http://www.latin-dictionary.net/definition/28129/nundinor-nundinari-nundinatus">nundinor, nundinari, nundinatus</a> v</li>
+          <li id="word-565" class="word"><a href="http://www.latin-dictionary.net/definition/28130/nundinum-nundini">nundinum, nundini</a> n</li>
+          <li id="word-566" class="word"><a href="http://www.latin-dictionary.net/definition/28131/nunnullus-nunnulli">nunnullus, nunnulli</a> n</li>
+          <li id="word-567" class="word"><a href="http://www.latin-dictionary.net/definition/28132/nunquam">nunquam</a> adv</li>
+          <li id="word-568" class="word"><a href="http://www.latin-dictionary.net/definition/28133/nunquid">nunquid</a> adv</li>
+          <li id="word-569" class="word"><a href="http://www.latin-dictionary.net/definition/28134/nuntia-nuntiae">nuntia, nuntiae</a> n</li>
+          <li id="word-570" class="word"><a href="http://www.latin-dictionary.net/definition/28135/nuntiatio-nuntiationis">nuntiatio, nuntiationis</a> n</li>
+          <li id="word-571" class="word"><a href="http://www.latin-dictionary.net/definition/28136/nuntiator-nuntiatoris">nuntiator, nuntiatoris</a> n</li>
+          <li id="word-572" class="word"><a href="http://www.latin-dictionary.net/definition/28137/nuntiatrix-nuntiatricis">nuntiatrix, nuntiatricis</a> n</li>
+          <li id="word-573" class="word"><a href="http://www.latin-dictionary.net/definition/28138/nuntiatura-nuntiaturae">nuntiatura, nuntiaturae</a> n</li>
+          <li id="word-574" class="word"><a href="http://www.latin-dictionary.net/definition/28139/nuntio-nuntiare-nuntiavi-nuntiatus">nuntio, nuntiare, nuntiavi, nuntiatus</a> v</li>
+          <li id="word-575" class="word"><a href="http://www.latin-dictionary.net/definition/28140/nuntium-nunti-i">nuntium, nunti(i)</a> n</li>
+          <li id="word-576" class="word"><a href="http://www.latin-dictionary.net/definition/28141/nuntius-nunti-i">nuntius, nunti(i)</a> n</li>
+          <li id="word-577" class="word"><a href="http://www.latin-dictionary.net/definition/28142/nuntius-nuntia-nuntium">nuntius, nuntia, nuntium</a> adj</li>
+          <li id="word-578" class="word"><a href="http://www.latin-dictionary.net/definition/28143/nuo-nuere-nui-nuitus">nuo, nuere, nui, nuitus</a> v</li>
+          <li id="word-579" class="word"><a href="http://www.latin-dictionary.net/definition/28144/nuo-nuere-nui-nutus">nuo, nuere, nui, nutus</a> v</li>
+          <li id="word-580" class="word"><a href="http://www.latin-dictionary.net/definition/28145/nuper-nuperrime">nuper, -, nuperrime</a> adv</li>
+          <li id="word-581" class="word"><a href="http://www.latin-dictionary.net/definition/28146/nupta-nuptae">nupta, nuptae</a> n</li>
+          <li id="word-582" class="word"><a href="http://www.latin-dictionary.net/definition/28147/nuptia-nuptiae">nuptia, nuptiae</a> n</li>
+          <li id="word-583" class="word"><a href="http://www.latin-dictionary.net/definition/28148/nuptialis-nuptialis-nuptiale">nuptialis, nuptialis, nuptiale</a> adj</li>
+          <li id="word-584" class="word"><a href="http://www.latin-dictionary.net/definition/28149/nurus-nurus">nurus, nurus</a> n</li>
+          <li id="word-585" class="word"><a href="http://www.latin-dictionary.net/definition/28150/nusquam">nusquam</a> adv</li>
+          <li id="word-586" class="word"><a href="http://www.latin-dictionary.net/definition/28151/nutabilis-nutabilis-nutabile">nutabilis, nutabilis, nutabile</a> adj</li>
+          <li id="word-587" class="word"><a href="http://www.latin-dictionary.net/definition/28152/nutabundus-nutabunda-nutabundum">nutabundus, nutabunda, nutabundum</a> adj</li>
+          <li id="word-588" class="word"><a href="http://www.latin-dictionary.net/definition/28153/nutamen-nutaminis">nutamen, nutaminis</a> n</li>
+          <li id="word-589" class="word"><a href="http://www.latin-dictionary.net/definition/28154/nuto-nutare-nutavi-nutatus">nuto, nutare, nutavi, nutatus</a> v</li>
+          <li id="word-590" class="word"><a href="http://www.latin-dictionary.net/definition/28155/nutriamentus-nutriamenti">nutriamentus, nutriamenti</a> n</li>
+          <li id="word-591" class="word"><a href="http://www.latin-dictionary.net/definition/28156/nutricius-nutrici-i">nutricius, nutrici(i)</a> n</li>
+          <li id="word-592" class="word"><a href="http://www.latin-dictionary.net/definition/28157/nutricius-nutricia-nutricium">nutricius, nutricia, nutricium</a> adj</li>
+          <li id="word-593" class="word"><a href="http://www.latin-dictionary.net/definition/28158/nutrico-nutricare-nutricavi-nutricatus">nutrico, nutricare, nutricavi, nutricatus</a> v</li>
+          <li id="word-594" class="word"><a href="http://www.latin-dictionary.net/definition/28159/nutricor-nutricari-nutricatus">nutricor, nutricari, nutricatus</a> v</li>
+          <li id="word-595" class="word"><a href="http://www.latin-dictionary.net/definition/28160/nutricula-nutriculae">nutricula, nutriculae</a> n</li>
+          <li id="word-596" class="word"><a href="http://www.latin-dictionary.net/definition/28161/nutrimen-nutriminis">nutrimen, nutriminis</a> n</li>
+          <li id="word-597" class="word"><a href="http://www.latin-dictionary.net/definition/28162/nutrimens-nutrimentis">nutrimens, nutrimentis</a> n</li>
+          <li id="word-598" class="word"><a href="http://www.latin-dictionary.net/definition/28163/nutrimentum-nutrimenti">nutrimentum, nutrimenti</a> n</li>
+          <li id="word-599" class="word"><a href="http://www.latin-dictionary.net/definition/28164/nutrio-nutrire-nutrivi-nutritus">nutrio, nutrire, nutrivi, nutritus</a> v</li>
+          <li id="word-600" class="word"><a href="http://www.latin-dictionary.net/definition/28165/nutrio-nutrire-nutrivi-nutritus">nutrio, nutrire, nutrivi, nutritus</a> v</li>
+          <li id="word-601" class="word"><a href="http://www.latin-dictionary.net/definition/28166/nutrior-nutriri-nutritus">nutrior, nutriri, nutritus</a> v</li>
+          <li id="word-602" class="word"><a href="http://www.latin-dictionary.net/definition/28167/nutrior-nutriri-nutritus">nutrior, nutriri, nutritus</a> v</li>
+          <li id="word-603" class="word"><a href="http://www.latin-dictionary.net/definition/28168/nutrix-nutricis">nutrix, nutricis</a> n</li>
+          <li id="word-604" class="word"><a href="http://www.latin-dictionary.net/definition/28169/nutus-nutus">nutus, nutus</a> n</li>
+          <li id="word-605" class="word"><a href="http://www.latin-dictionary.net/definition/28170/nux-nucis">nux, nucis</a> n</li>
+          <li id="word-606" class="word"><a href="http://www.latin-dictionary.net/definition/28171/nyctegreton-nyctegreti">nyctegreton, nyctegreti</a> n</li>
+          <li id="word-607" class="word"><a href="http://www.latin-dictionary.net/definition/28172/nyctegretos-nyctegreti">nyctegretos, nyctegreti</a> n</li>
+          <li id="word-608" class="word"><a href="http://www.latin-dictionary.net/definition/28173/nycticorax-nycticoracis">nycticorax, nycticoracis</a> n</li>
+          <li id="word-609" class="word"><a href="http://www.latin-dictionary.net/definition/28174/nylonium-nylonii">nylonium, nylonii</a> n</li>
+          <li id="word-610" class="word"><a href="http://www.latin-dictionary.net/definition/28175/nylonius-nylonia-nylonium">nylonius, nylonia, nylonium</a> adj</li>
+          <li id="word-611" class="word"><a href="http://www.latin-dictionary.net/definition/28176/nympha-nymphae">nympha, nymphae</a> n</li>
+          <li id="word-612" class="word"><a href="http://www.latin-dictionary.net/definition/28177/nymphe-nymphes">nymphe, nymphes</a> n</li>

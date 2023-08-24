@@ -1,0 +1,569 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/21237/Gabalus-Gabali">Gabalus, Gabali</a> n</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/21238/gabalus-gabali">gabalus, gabali</a> n</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/21239/Gabinius-Gabini">Gabinius, Gabini</a> n</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/21240/Gabinius-Gabinia-Gabinium">Gabinius, Gabinia, Gabinium</a> adj</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/21241/gadus-gadi">gadus, gadi</a> n</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/21242/gaesum-gaesi">gaesum, gaesi</a> n</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/21243/gafrum-gafri">gafrum, gafri</a> n</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/21244/Gaius-Gai">Gaius, Gai</a> n</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/21245/galactinus-galactini">galactinus, galactini</a> n</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/21246/galanthus-galanthi">galanthus, galanthi</a> n</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/21247/Galatea-Galateae">Galatea, Galateae</a> n</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/21248/Galatia-Galatiae">Galatia, Galatiae</a> n</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/21249/Galaticus-Galatica-Galaticum">Galaticus, Galatica, Galaticum</a> adj</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/21250/galaxia-galaxiae">galaxia, galaxiae</a> n</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/21251/galaxicus-galaxica-galaxicum">galaxicus, galaxica, galaxicum</a> adj</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/21252/galba-galbae">galba, galbae</a> n</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/21253/Galba-Galbae">Galba, Galbae</a> n</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/21254/galbanen-galbaninis">galbanen, galbaninis</a> n</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/21255/galbanum-galbani">galbanum, galbani</a> n</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/21256/galbanus-galbana-galbanum">galbanus, galbana, galbanum</a> adj</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/21257/galbeolus-galbeoli">galbeolus, galbeoli</a> n</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/21258/galbeus-galbei">galbeus, galbei</a> n</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/21259/galbinum-galbini">galbinum, galbini</a> n</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/21260/galbinus-galbina-galbinum">galbinus, galbina, galbinum</a> adj</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/21261/galea-galeae">galea, galeae</a> n</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/21262/galeatus-galeata-galeatum">galeatus, galeata, galeatum</a> adj</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/21263/galeo-galeare-galeavi-galeatus">galeo, galeare, galeavi, galeatus</a> v</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/21264/galeola-galeolae">galeola, galeolae</a> n</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/21265/galericulum-galericuli">galericulum, galericuli</a> n</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/21266/galeritus-galerita-galeritum">galeritus, galerita, galeritum</a> adj</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/21267/galerum-galeri">galerum, galeri</a> n</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/21268/galerus-galeri">galerus, galeri</a> n</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/21269/galetta-galettae">galetta, galettae</a> n</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/21270/Galilaea-Galilaeae">Galilaea, Galilaeae</a> n</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/21271/Galilaeus-Galilaea-Galilaeum">Galilaeus, Galilaea, Galilaeum</a> adj</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/21272/Gallia-Galliae">Gallia, Galliae</a> n</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/21273/galliambus-galliambi">galliambus, galliambi</a> n</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/21274/galliarium-galliarii">galliarium, galliarii</a> n</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/21275/galliarius-galliaria-galliarium">galliarius, galliaria, galliarium</a> adj</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/21276/galliarius-galliarii">galliarius, galliarii</a> n</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/21277/gallicinium-gallicinii">gallicinium, gallicinii</a> n</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/21278/gallicula-galliculae">gallicula, galliculae</a> n</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/21279/Gallicus-Gallica-Gallicum">Gallicus, Gallica, Gallicum</a> adj</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/21280/Gallienus-Gallieni">Gallienus, Gallieni</a> n</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/21281/gallina-gallinae">gallina, gallinae</a> n</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/21282/gallinaceus-gallinacea-gallinaceum">gallinaceus, gallinacea, gallinaceum</a> adj</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/21283/gallinacius-gallinacia-gallinacium">gallinacius, gallinacia, gallinacium</a> adj</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/21284/gallinarius-gallinaria-gallinarium">gallinarius, gallinaria, gallinarium</a> adj</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/21285/gallinarius-gallinarii">gallinarius, gallinarii</a> n</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/21286/Gallus-Galla-Gallum">Gallus, Galla, Gallum</a> adj</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/21287/gallus-galli">gallus, galli</a> n</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/21288/Gallus-Galli">Gallus, Galli</a> n</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/21289/gammarus-gammari">gammarus, gammari</a> n</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/21290/ganea-ganeae">ganea, ganeae</a> n</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/21291/ganeo-ganeonis">ganeo, ganeonis</a> n</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/21292/ganeum-ganei">ganeum, ganei</a> n</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/21293/gannio-gannire">gannio, gannire, -, -</a> v</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/21294/gannitus-gannitus">gannitus, gannitus</a> n</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/21295/gannitus-gannitus">gannitus, gannitus</a> n</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/21296/gaola-gaolae">gaola, gaolae</a> n</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/21297/garba-garbae">garba, garbae</a> n</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/21298/garda-gardae">garda, gardae</a> n</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/21299/gardinum-gardini">gardinum, gardini</a> n</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/21300/gargarisso-gargarissare-gargarissavi-gargarissatus">gargarisso, gargarissare, gargarissavi, gargarissatus</a> v</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/21301/gargarizatio-gargarizationis">gargarizatio, gargarizationis</a> n</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/21302/gargarizo-gargarizare-gargarizavi-gargarizatus">gargarizo, gargarizare, gargarizavi, gargarizatus</a> v</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/21303/garrio-garrire-garrivi-garritus">garrio, garrire, garrivi, garritus</a> v</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/21304/garritus-garritus">garritus, garritus</a> n</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/21305/garrulitas-garrulitatis">garrulitas, garrulitatis</a> n</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/21306/garrulus-garrula-garrulum">garrulus, garrula, garrulum</a> adj</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/21307/garum-gari">garum, gari</a> n</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/21308/Garunna-Garunnae">Garunna, Garunnae</a> n</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/21309/garyophyllon-garyophylli">garyophyllon, garyophylli</a> n</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/21310/gasalis-gasalis-gasale">gasalis, gasalis, gasale</a> adj</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/21311/gasificatrum-gasificatri">gasificatrum, gasificatri</a> n</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/21312/gasometrum-gasometri">gasometrum, gasometri</a> n</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/21313/gasosus-gasosa-gasosum">gasosus, gasosa, gasosum</a> adj</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/21314/gastritis-gastritidis">gastritis, gastritidis</a> n</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/21315/gasum-gasi">gasum, gasi</a> n</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/21316/gata-gatae">gata, gatae</a> n</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/21317/gateleia-gateleiae">gateleia, gateleiae</a> n</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/21318/gatta-gattae">gatta, gattae</a> n</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/21319/gattus-gatti">gattus, gatti</a> n</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/21320/gaudeo-gaudere-gavisus">gaudeo, gaudere, gavisus</a> v</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/21321/gaudimonium-gaudimoni-i">gaudimonium, gaudimoni(i)</a> n</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/21322/gaudium-gaudi-i">gaudium, gaudi(i)</a> n</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/21323/gaudium-gaudi-i">gaudium, gaudi(i)</a> n</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/21324/gaunaca-gaunacae">gaunaca, gaunacae</a> n</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/21325/gaunacum-gaunaci">gaunacum, gaunaci</a> n</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/21326/gaunacuma-gaunacumae">gaunacuma, gaunacumae</a> n</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/21327/gausapa-gausapae">gausapa, gausapae</a> n</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/21328/gausapatus-gausapata-gausapatum">gausapatus, gausapata, gausapatum</a> adj</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/21329/gausape-gausapis">gausape, gausapis</a> n</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/21330/gausapes-gausapis">gausapes, gausapis</a> n</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/21331/gausapina-gausapinae">gausapina, gausapinae</a> n</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/21332/gausapinus-gausapina-gausapinum">gausapinus, gausapina, gausapinum</a> adj</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/21333/gausapum-gausapi">gausapum, gausapi</a> n</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/21334/gaza-gazae">gaza, gazae</a> n</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/21335/gazela-gazelae">gazela, gazelae</a> n</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/21336/gazofilacium-gazofilacii">gazofilacium, gazofilacii</a> n</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/21337/gazophylachium-gazophylachii">gazophylachium, gazophylachii</a> n</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/21338/gehenna-gehennae">gehenna, gehennae</a> n</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/21339/gehennalis-gehennalis-gehennale">gehennalis, gehennalis, gehennale</a> adj</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/21340/gelamen-gelaminis">gelamen, gelaminis</a> n</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/21341/gelasinus-gelasini">gelasinus, gelasini</a> n</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/21342/Gelasius-Gelasi">Gelasius, Gelasi</a> n</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/21343/gelatina-gelatinae">gelatina, gelatinae</a> n</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/21344/gelatorius-gelatoria-gelatorium">gelatorius, gelatoria, gelatorium</a> adj</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/21345/gelda-geldae">gelda, geldae</a> n</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/21346/geldonia-geldoniae">geldonia, geldoniae</a> n</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/21347/geldum-geldi">geldum, geldi</a> n</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/21348/gelicidium-gelicidii">gelicidium, gelicidii</a> n</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/21349/gelida-gelidae">gelida, gelidae</a> n</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/21350/gelide">gelide</a> adv</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/21351/gelidus-gelida-gelidum">gelidus, gelida, gelidum</a> adj</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/21352/gelo-gelare-gelavi-gelatus">gelo, gelare, gelavi, gelatus</a> v</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/21353/gelu-gelus">gelu, gelus</a> n</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/21354/gelum-geli">gelum, geli</a> n</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/21355/gelus-gelus">gelus, gelus</a> n</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/21356/gemebundus-gemebunda-gemebundum">gemebundus, gemebunda, gemebundum</a> adj</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/21357/gemellio-gemellionis">gemellio, gemellionis</a> n</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/21358/gemellipara-gemelliparae">gemellipara, gemelliparae</a> n</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/21359/gemellus-gemella-gemellum">gemellus, gemella, gemellum</a> adj</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/21360/gemellus-gemelli">gemellus, gemelli</a> n</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/21361/geminatio-geminationis">geminatio, geminationis</a> n</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/21362/gemino-geminare-geminavi-geminatus">gemino, geminare, geminavi, geminatus</a> v</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/21363/geminus-gemina-geminum">geminus, gemina, geminum</a> adj</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/21364/geminus-gemini">geminus, gemini</a> n</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/21365/gemitus-gemitus">gemitus, gemitus</a> n</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/21366/gemma-gemmae">gemma, gemmae</a> n</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/21367/gemmarius-gemmari-i">gemmarius, gemmari(i)</a> n</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/21368/gemmatus-gemmata-gemmatum">gemmatus, gemmata, gemmatum</a> adj</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/21369/gemmeus-gemmea-gemmeum">gemmeus, gemmea, gemmeum</a> adj</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/21370/gemmifer-gemmifera-gemmiferum">gemmifer, gemmifera, gemmiferum</a> adj</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/21371/gemmo-gemmare-gemmavi-gemmatus">gemmo, gemmare, gemmavi, gemmatus</a> v</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/21372/gemo-gemere-gemui-gemitus">gemo, gemere, gemui, gemitus</a> v</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/21373/gena-genae">gena, genae</a> n</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/21374/Genava-Genavae">Genava, Genavae</a> n</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/21375/genealogia-genealogiae">genealogia, genealogiae</a> n</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/21376/genealogicus-genealogica-genealogicum">genealogicus, genealogica, genealogicum</a> adj</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/21377/genealogus-genealogi">genealogus, genealogi</a> n</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/21378/gener-generi">gener, generi</a> n</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/21379/generalis-generalis">generalis, generalis</a> n</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/21380/generalis-generalis-generale">generalis, generalis, generale</a> adj</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/21381/generalitas-generalitatis">generalitas, generalitatis</a> n</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/21382/generaliter">generaliter</a> adv</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/21383/generasco-generascere">generasco, generascere, -, -</a> v</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/21384/generatim">generatim</a> adv</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/21385/generatio-generationis">generatio, generationis</a> n</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/21386/generativus-generativa-generativum">generativus, generativa, generativum</a> adj</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/21387/generator-generatoris">generator, generatoris</a> n</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/21388/generatrum-generatri">generatrum, generatri</a> n</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/21389/generilitas-generilitatis">generilitas, generilitatis</a> n</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/21390/genero-generare-generavi-generatus">genero, generare, generavi, generatus</a> v</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/21391/generose-generosius-generosissime">generose, generosius, generosissime</a> adv</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/21392/generositas-generositatis">generositas, generositatis</a> n</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/21393/generosus-generosa-generosum">generosus, generosa, generosum</a> adj</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/21394/genes-genesis">genes, genesis</a> n</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/21395/genesta-genestae">genesta, genestae</a> n</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/21396/genetica-geneticae">genetica, geneticae</a> n</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/21397/geneticus-genetica-geneticum">geneticus, genetica, geneticum</a> adj</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/21398/genetivus-genetiva-genetivum">genetivus, genetiva, genetivum</a> adj</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/21399/genetrix-genetricis">genetrix, genetricis</a> n</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/21400/genialis-genialis-geniale">genialis, genialis, geniale</a> adj</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/21401/geniculatus-geniculata-geniculatum">geniculatus, geniculata, geniculatum</a> adj</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/21402/genimen-geniminis">genimen, geniminis</a> n</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/21403/genista-genistae">genista, genistae</a> n</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/21404/genital-genitalis">genital, genitalis</a> n</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/21405/genitalis-genitalis-genitale">genitalis, genitalis, genitale</a> adj</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/21406/genitor-genitoris">genitor, genitoris</a> n</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/21407/genitus-genita-genitum">genitus, genita, genitum</a> adj</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/21408/genius-geni">genius, geni</a> n</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/21409/genius-geni-i">genius, geni(i)</a> n</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/21410/geno-genere">geno, genere, -, -</a> v</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/21411/genocidium-genocidii">genocidium, genocidii</a> n</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/21412/genoma-genomatis">genoma, genomatis</a> n</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/21413/gens-gentis">gens, gentis</a> n</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/21414/gentiana-gentianae">gentiana, gentianae</a> n</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/21415/genticus-gentica-genticum">genticus, gentica, genticum</a> adj</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/21416/gentil-gentilis">gentil, gentilis</a> n</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/21417/gentilicius-gentilicia-gentilicium">gentilicius, gentilicia, gentilicium</a> adj</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/21418/gentilis-gentilis">gentilis, gentilis</a> n</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/21419/gentilis-gentilis">gentilis, gentilis</a> n</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/21420/gentilis-gentilis-gentile">gentilis, gentilis, gentile</a> adj</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/21421/gentilis-gentilis-gentile">gentilis, gentilis, gentile</a> adj</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/21422/gentilismus-gentilismi">gentilismus, gentilismi</a> n</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/21423/gentilitas-gentilitatis">gentilitas, gentilitatis</a> n</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/21424/gentilitius-gentilitia-gentilitium">gentilitius, gentilitia, gentilitium</a> adj</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/21425/genu-genus">genu, genus</a> n</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/21426/genual-genualis">genual, genualis</a> n</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/21427/genuale-genualis">genuale, genualis</a> n</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/21428/genuflecto-genuflectere-genuflexi-genuflexus">genuflecto, genuflectere, genuflexi, genuflexus</a> v</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/21429/genuine">genuine</a> adv</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/21430/genuinus-genuina-genuinum">genuinus, genuina, genuinum</a> adj</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/21431/genuinus-genuini">genuinus, genuini</a> n</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/21432/genum-geni">genum, geni</a> n</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/21433/genus-generis">genus, generis</a> n</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/21434/genus-generis">genus, generis</a> n</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/21435/geocentricus-geocentrica-geocentricum">geocentricus, geocentrica, geocentricum</a> adj</li>
+          <li id="word-199" class="word"><a href="http://www.latin-dictionary.net/definition/21436/geocentrismus-geocentrismi">geocentrismus, geocentrismi</a> n</li>
+          <li id="word-200" class="word"><a href="http://www.latin-dictionary.net/definition/21437/geochemia-geochemiae">geochemia, geochemiae</a> n</li>
+          <li id="word-201" class="word"><a href="http://www.latin-dictionary.net/definition/21438/geochemista-geochemistae">geochemista, geochemistae</a> n</li>
+          <li id="word-202" class="word"><a href="http://www.latin-dictionary.net/definition/21439/geodaeticus-geodaetica-geodaeticum">geodaeticus, geodaetica, geodaeticum</a> adj</li>
+          <li id="word-203" class="word"><a href="http://www.latin-dictionary.net/definition/21440/geographia-geographiae">geographia, geographiae</a> n</li>
+          <li id="word-204" class="word"><a href="http://www.latin-dictionary.net/definition/21441/geographicus-geographica-geographicum">geographicus, geographica, geographicum</a> adj</li>
+          <li id="word-205" class="word"><a href="http://www.latin-dictionary.net/definition/21442/geologia-geologiae">geologia, geologiae</a> n</li>
+          <li id="word-206" class="word"><a href="http://www.latin-dictionary.net/definition/21443/geologicus-geologica-geologicum">geologicus, geologica, geologicum</a> adj</li>
+          <li id="word-207" class="word"><a href="http://www.latin-dictionary.net/definition/21444/geologus-geologi">geologus, geologi</a> n</li>
+          <li id="word-208" class="word"><a href="http://www.latin-dictionary.net/definition/21445/geometres-geometrae">geometres, geometrae</a> n</li>
+          <li id="word-209" class="word"><a href="http://www.latin-dictionary.net/definition/21446/geometria-geometriae">geometria, geometriae</a> n</li>
+          <li id="word-210" class="word"><a href="http://www.latin-dictionary.net/definition/21447/geometricus-geometrica-geometricum">geometricus, geometrica, geometricum</a> adj</li>
+          <li id="word-211" class="word"><a href="http://www.latin-dictionary.net/definition/21448/geometricus-geometrici">geometricus, geometrici</a> n</li>
+          <li id="word-212" class="word"><a href="http://www.latin-dictionary.net/definition/21449/georgicus-georgica-georgicum">georgicus, georgica, georgicum</a> adj</li>
+          <li id="word-213" class="word"><a href="http://www.latin-dictionary.net/definition/21450/Gergovia-Gergoviae">Gergovia, Gergoviae</a> n</li>
+          <li id="word-214" class="word"><a href="http://www.latin-dictionary.net/definition/21451/geriatria-geriatriae">geriatria, geriatriae</a> n</li>
+          <li id="word-215" class="word"><a href="http://www.latin-dictionary.net/definition/21452/germana-germanae">germana, germanae</a> n</li>
+          <li id="word-216" class="word"><a href="http://www.latin-dictionary.net/definition/21453/Germania-Germaniae">Germania, Germaniae</a> n</li>
+          <li id="word-217" class="word"><a href="http://www.latin-dictionary.net/definition/21454/Germanicus-Germanica-Germanicum">Germanicus, Germanica, Germanicum</a> adj</li>
+          <li id="word-218" class="word"><a href="http://www.latin-dictionary.net/definition/21455/Germanicus-Germanici">Germanicus, Germanici</a> n</li>
+          <li id="word-219" class="word"><a href="http://www.latin-dictionary.net/definition/21456/germanitas-germanitatis">germanitas, germanitatis</a> n</li>
+          <li id="word-220" class="word"><a href="http://www.latin-dictionary.net/definition/21457/germanus-germana-germanum">germanus, germana, germanum</a> adj</li>
+          <li id="word-221" class="word"><a href="http://www.latin-dictionary.net/definition/21458/Germanus-Germani">Germanus, Germani</a> n</li>
+          <li id="word-222" class="word"><a href="http://www.latin-dictionary.net/definition/21459/germanus-germani">germanus, germani</a> n</li>
+          <li id="word-223" class="word"><a href="http://www.latin-dictionary.net/definition/21460/germen-germinis">germen, germinis</a> n</li>
+          <li id="word-224" class="word"><a href="http://www.latin-dictionary.net/definition/21461/germinalis-germinalis-germinale">germinalis, germinalis, germinale</a> adj</li>
+          <li id="word-225" class="word"><a href="http://www.latin-dictionary.net/definition/21462/germinatio-germinationis">germinatio, germinationis</a> n</li>
+          <li id="word-226" class="word"><a href="http://www.latin-dictionary.net/definition/21463/germino-germinare-germinavi-germinatus">germino, germinare, germinavi, germinatus</a> v</li>
+          <li id="word-227" class="word"><a href="http://www.latin-dictionary.net/definition/21464/gero-gerere-gessi-gestus">gero, gerere, gessi, gestus</a> v</li>
+          <li id="word-228" class="word"><a href="http://www.latin-dictionary.net/definition/21465/gerontocomium-gerontocomii">gerontocomium, gerontocomii</a> n</li>
+          <li id="word-229" class="word"><a href="http://www.latin-dictionary.net/definition/21466/gerontotrophium-gerontotrophii">gerontotrophium, gerontotrophii</a> n</li>
+          <li id="word-230" class="word"><a href="http://www.latin-dictionary.net/definition/21467/gerra-gerrae">gerra, gerrae</a> n</li>
+          <li id="word-231" class="word"><a href="http://www.latin-dictionary.net/definition/21468/gerra-gerrae">gerra, gerrae</a> n</li>
+          <li id="word-232" class="word"><a href="http://www.latin-dictionary.net/definition/21469/gerro-gerronis">gerro, gerronis</a> n</li>
+          <li id="word-233" class="word"><a href="http://www.latin-dictionary.net/definition/21470/gerula-gerulae">gerula, gerulae</a> n</li>
+          <li id="word-234" class="word"><a href="http://www.latin-dictionary.net/definition/21471/gerulum-geruli">gerulum, geruli</a> n</li>
+          <li id="word-235" class="word"><a href="http://www.latin-dictionary.net/definition/21472/gerulus-geruli">gerulus, geruli</a> n</li>
+          <li id="word-236" class="word"><a href="http://www.latin-dictionary.net/definition/21473/gerundium-gerundii">gerundium, gerundii</a> n</li>
+          <li id="word-237" class="word"><a href="http://www.latin-dictionary.net/definition/21474/gerundivum-gerundivi">gerundivum, gerundivi</a> n</li>
+          <li id="word-238" class="word"><a href="http://www.latin-dictionary.net/definition/21475/gestamen-gestaminis">gestamen, gestaminis</a> n</li>
+          <li id="word-239" class="word"><a href="http://www.latin-dictionary.net/definition/21476/gestatio-gestationis">gestatio, gestationis</a> n</li>
+          <li id="word-240" class="word"><a href="http://www.latin-dictionary.net/definition/21477/gesticulor-gesticulari-gesticulatus">gesticulor, gesticulari, gesticulatus</a> v</li>
+          <li id="word-241" class="word"><a href="http://www.latin-dictionary.net/definition/21478/gestio-gestire-gestivi-gestitus">gestio, gestire, gestivi, gestitus</a> v</li>
+          <li id="word-242" class="word"><a href="http://www.latin-dictionary.net/definition/21479/gestito-gestitare-gestitavi-gestitatus">gestito, gestitare, gestitavi, gestitatus</a> v</li>
+          <li id="word-243" class="word"><a href="http://www.latin-dictionary.net/definition/21480/gesto-gestare-gestavi-gestatus">gesto, gestare, gestavi, gestatus</a> v</li>
+          <li id="word-244" class="word"><a href="http://www.latin-dictionary.net/definition/21481/gestum-gesti">gestum, gesti</a> n</li>
+          <li id="word-245" class="word"><a href="http://www.latin-dictionary.net/definition/21482/gestus-gestus">gestus, gestus</a> n</li>
+          <li id="word-246" class="word"><a href="http://www.latin-dictionary.net/definition/21483/gibber-gibbera-gibberum">gibber, gibbera, gibberum</a> adj</li>
+          <li id="word-247" class="word"><a href="http://www.latin-dictionary.net/definition/21484/gibber-gibberis">gibber, gibberis</a> n</li>
+          <li id="word-248" class="word"><a href="http://www.latin-dictionary.net/definition/21485/gibberosus-gibberosa-gibberosum">gibberosus, gibberosa, gibberosum</a> adj</li>
+          <li id="word-249" class="word"><a href="http://www.latin-dictionary.net/definition/21486/gibbus-gibba-gibbum">gibbus, gibba, gibbum</a> adj</li>
+          <li id="word-250" class="word"><a href="http://www.latin-dictionary.net/definition/21487/gibbus-gibbi">gibbus, gibbi</a> n</li>
+          <li id="word-251" class="word"><a href="http://www.latin-dictionary.net/definition/21488/Gigans-Gigantis">Gigans, Gigantis</a> n</li>
+          <li id="word-252" class="word"><a href="http://www.latin-dictionary.net/definition/21489/Giganteus-Gigantea-Giganteum">Giganteus, Gigantea, Giganteum</a> adj</li>
+          <li id="word-253" class="word"><a href="http://www.latin-dictionary.net/definition/21490/Gigas-Gigantos-is">Gigas, Gigantos/is</a> n</li>
+          <li id="word-254" class="word"><a href="http://www.latin-dictionary.net/definition/21491/gigno-gignere-genui-genitus">gigno, gignere, genui, genitus</a> v</li>
+          <li id="word-255" class="word"><a href="http://www.latin-dictionary.net/definition/21492/gilbus-gilba-gilbum">gilbus, gilba, gilbum</a> adj</li>
+          <li id="word-256" class="word"><a href="http://www.latin-dictionary.net/definition/21493/gilda-gildae">gilda, gildae</a> n</li>
+          <li id="word-257" class="word"><a href="http://www.latin-dictionary.net/definition/21494/gildo-gildonis">gildo, gildonis</a> n</li>
+          <li id="word-258" class="word"><a href="http://www.latin-dictionary.net/definition/21495/gilvus-gilva-gilvum">gilvus, gilva, gilvum</a> adj</li>
+          <li id="word-259" class="word"><a href="http://www.latin-dictionary.net/definition/21496/gimel-undeclined">gimel, undeclined</a> n</li>
+          <li id="word-260" class="word"><a href="http://www.latin-dictionary.net/definition/21497/gingiber-gingiberis">gingiber, gingiberis</a> n</li>
+          <li id="word-261" class="word"><a href="http://www.latin-dictionary.net/definition/21498/gingiva-gingivae">gingiva, gingivae</a> n</li>
+          <li id="word-262" class="word"><a href="http://www.latin-dictionary.net/definition/21499/git-undeclined">git, undeclined</a> n</li>
+          <li id="word-263" class="word"><a href="http://www.latin-dictionary.net/definition/21500/gith-undeclined">gith, undeclined</a> n</li>
+          <li id="word-264" class="word"><a href="http://www.latin-dictionary.net/definition/21501/gitti-undeclined">gitti, undeclined</a> n</li>
+          <li id="word-265" class="word"><a href="http://www.latin-dictionary.net/definition/21502/glaba-glabae">glaba, glabae</a> n</li>
+          <li id="word-266" class="word"><a href="http://www.latin-dictionary.net/definition/21503/glaber-glabra-glabrum">glaber, glabra, glabrum</a> adj</li>
+          <li id="word-267" class="word"><a href="http://www.latin-dictionary.net/definition/21504/glabrio-glabrionis">glabrio, glabrionis</a> n</li>
+          <li id="word-268" class="word"><a href="http://www.latin-dictionary.net/definition/21505/glacialis-glacialis-glaciale">glacialis, glacialis, glaciale</a> adj</li>
+          <li id="word-269" class="word"><a href="http://www.latin-dictionary.net/definition/21506/glaciarium-glaciarii">glaciarium, glaciarii</a> n</li>
+          <li id="word-270" class="word"><a href="http://www.latin-dictionary.net/definition/21507/glacies-glaciei">glacies, glaciei</a> n</li>
+          <li id="word-271" class="word"><a href="http://www.latin-dictionary.net/definition/21508/glacio-glaciare-glaciavi-glaciatus">glacio, glaciare, glaciavi, glaciatus</a> v</li>
+          <li id="word-272" class="word"><a href="http://www.latin-dictionary.net/definition/21509/gladiator-gladiatoris">gladiator, gladiatoris</a> n</li>
+          <li id="word-273" class="word"><a href="http://www.latin-dictionary.net/definition/21510/gladiatorius-gladiatoria-gladiatorium">gladiatorius, gladiatoria, gladiatorium</a> adj</li>
+          <li id="word-274" class="word"><a href="http://www.latin-dictionary.net/definition/21511/gladiatura-gladiaturae">gladiatura, gladiaturae</a> n</li>
+          <li id="word-275" class="word"><a href="http://www.latin-dictionary.net/definition/21512/gladiolus-gladioli">gladiolus, gladioli</a> n</li>
+          <li id="word-276" class="word"><a href="http://www.latin-dictionary.net/definition/21513/gladius-gladi-i">gladius, gladi(i)</a> n</li>
+          <li id="word-277" class="word"><a href="http://www.latin-dictionary.net/definition/21514/gladius-gladii">gladius, gladii</a> n</li>
+          <li id="word-278" class="word"><a href="http://www.latin-dictionary.net/definition/21515/glaeba-glaebae">glaeba, glaebae</a> n</li>
+          <li id="word-279" class="word"><a href="http://www.latin-dictionary.net/definition/21516/glaesum-glaesi">glaesum, glaesi</a> n</li>
+          <li id="word-280" class="word"><a href="http://www.latin-dictionary.net/definition/21517/glandifer-glandifera-glandiferum">glandifer, glandifera, glandiferum</a> adj</li>
+          <li id="word-281" class="word"><a href="http://www.latin-dictionary.net/definition/21518/glans-glandis">glans, glandis</a> n</li>
+          <li id="word-282" class="word"><a href="http://www.latin-dictionary.net/definition/21519/glarea-glareae">glarea, glareae</a> n</li>
+          <li id="word-283" class="word"><a href="http://www.latin-dictionary.net/definition/21520/glareosus-glareosa-glareosum">glareosus, glareosa, glareosum</a> adj</li>
+          <li id="word-284" class="word"><a href="http://www.latin-dictionary.net/definition/21521/glaria-glariae">glaria, glariae</a> n</li>
+          <li id="word-285" class="word"><a href="http://www.latin-dictionary.net/definition/21522/glas-glandis">glas, glandis</a> n</li>
+          <li id="word-286" class="word"><a href="http://www.latin-dictionary.net/definition/21523/glaucom-glaucomis">glaucom, glaucomis</a> n</li>
+          <li id="word-287" class="word"><a href="http://www.latin-dictionary.net/definition/21524/glaucoma-glaucomatis">glaucoma, glaucomatis</a> n</li>
+          <li id="word-288" class="word"><a href="http://www.latin-dictionary.net/definition/21525/glaucus-glauca-glaucum">glaucus, glauca, glaucum</a> adj</li>
+          <li id="word-289" class="word"><a href="http://www.latin-dictionary.net/definition/21526/gleba-glebae">gleba, glebae</a> n</li>
+          <li id="word-290" class="word"><a href="http://www.latin-dictionary.net/definition/21527/glebula-glebulae">glebula, glebulae</a> n</li>
+          <li id="word-291" class="word"><a href="http://www.latin-dictionary.net/definition/21528/glesum-glesi">glesum, glesi</a> n</li>
+          <li id="word-292" class="word"><a href="http://www.latin-dictionary.net/definition/21529/gleucinus-gleucina-gleucinum">gleucinus, gleucina, gleucinum</a> adj</li>
+          <li id="word-293" class="word"><a href="http://www.latin-dictionary.net/definition/21530/glis-gliris">glis, gliris</a> n</li>
+          <li id="word-294" class="word"><a href="http://www.latin-dictionary.net/definition/21531/glisco-gliscere">glisco, gliscere, -, -</a> v</li>
+          <li id="word-295" class="word"><a href="http://www.latin-dictionary.net/definition/21532/globalis-globalis-globale">globalis, globalis, globale</a> adj</li>
+          <li id="word-296" class="word"><a href="http://www.latin-dictionary.net/definition/21533/globosus-globosa-globosum">globosus, globosa, globosum</a> adj</li>
+          <li id="word-297" class="word"><a href="http://www.latin-dictionary.net/definition/21534/globulus-globuli">globulus, globuli</a> n</li>
+          <li id="word-298" class="word"><a href="http://www.latin-dictionary.net/definition/21535/globus-globi">globus, globi</a> n</li>
+          <li id="word-299" class="word"><a href="http://www.latin-dictionary.net/definition/21536/glomeramen-glomeraminis">glomeramen, glomeraminis</a> n</li>
+          <li id="word-300" class="word"><a href="http://www.latin-dictionary.net/definition/21537/glomero-glomerare-glomeravi-glomeratus">glomero, glomerare, glomeravi, glomeratus</a> v</li>
+          <li id="word-301" class="word"><a href="http://www.latin-dictionary.net/definition/21538/glomus-glomeris">glomus, glomeris</a> n</li>
+          <li id="word-302" class="word"><a href="http://www.latin-dictionary.net/definition/21539/gloria-gloriae">gloria, gloriae</a> n</li>
+          <li id="word-303" class="word"><a href="http://www.latin-dictionary.net/definition/21540/gloriabundus-gloriabunda-gloriabundum">gloriabundus, gloriabunda, gloriabundum</a> adj</li>
+          <li id="word-304" class="word"><a href="http://www.latin-dictionary.net/definition/21541/glorianter">glorianter</a> adv</li>
+          <li id="word-305" class="word"><a href="http://www.latin-dictionary.net/definition/21542/gloriatio-gloriationis">gloriatio, gloriationis</a> n</li>
+          <li id="word-306" class="word"><a href="http://www.latin-dictionary.net/definition/21543/glorificatio-glorificationis">glorificatio, glorificationis</a> n</li>
+          <li id="word-307" class="word"><a href="http://www.latin-dictionary.net/definition/21544/glorifico-glorificare-glorificavi-glorificatus">glorifico, glorificare, glorificavi, glorificatus</a> v</li>
+          <li id="word-308" class="word"><a href="http://www.latin-dictionary.net/definition/21545/glorificus-glorifica-glorificum">glorificus, glorifica, glorificum</a> adj</li>
+          <li id="word-309" class="word"><a href="http://www.latin-dictionary.net/definition/21546/gloriola-gloriolae">gloriola, gloriolae</a> n</li>
+          <li id="word-310" class="word"><a href="http://www.latin-dictionary.net/definition/21547/glorior-gloriari-gloriatus">glorior, gloriari, gloriatus</a> v</li>
+          <li id="word-311" class="word"><a href="http://www.latin-dictionary.net/definition/21548/gloriose-gloriosius-gloriosissime">gloriose, gloriosius, gloriosissime</a> adv</li>
+          <li id="word-312" class="word"><a href="http://www.latin-dictionary.net/definition/21549/gloriosus-gloriosa">gloriosus, gloriosa</a> adj</li>
+          <li id="word-313" class="word"><a href="http://www.latin-dictionary.net/definition/21550/glosa-glosae">glosa, glosae</a> n</li>
+          <li id="word-314" class="word"><a href="http://www.latin-dictionary.net/definition/21551/glosarium-glosarii">glosarium, glosarii</a> n</li>
+          <li id="word-315" class="word"><a href="http://www.latin-dictionary.net/definition/21552/glosema-glosematis">glosema, glosematis</a> n</li>
+          <li id="word-316" class="word"><a href="http://www.latin-dictionary.net/definition/21553/glossa-glossae">glossa, glossae</a> n</li>
+          <li id="word-317" class="word"><a href="http://www.latin-dictionary.net/definition/21554/glossema-glossematis">glossema, glossematis</a> n</li>
+          <li id="word-318" class="word"><a href="http://www.latin-dictionary.net/definition/21555/glottologia-glottologiae">glottologia, glottologiae</a> n</li>
+          <li id="word-319" class="word"><a href="http://www.latin-dictionary.net/definition/21556/glottologicus-glottologica-glottologicum">glottologicus, glottologica, glottologicum</a> adj</li>
+          <li id="word-320" class="word"><a href="http://www.latin-dictionary.net/definition/21557/glubeo-glubere">glubeo, glubere, -, -</a> v</li>
+          <li id="word-321" class="word"><a href="http://www.latin-dictionary.net/definition/21558/glubo-glubere-glupsi-gluptus">glubo, glubere, glupsi, gluptus</a> v</li>
+          <li id="word-322" class="word"><a href="http://www.latin-dictionary.net/definition/21559/gluma-glumae">gluma, glumae</a> n</li>
+          <li id="word-323" class="word"><a href="http://www.latin-dictionary.net/definition/21560/gluten-glutinis">gluten, glutinis</a> n</li>
+          <li id="word-324" class="word"><a href="http://www.latin-dictionary.net/definition/21561/glutinator-glutinatoris">glutinator, glutinatoris</a> n</li>
+          <li id="word-325" class="word"><a href="http://www.latin-dictionary.net/definition/21562/glutino-glutinare-glutinavi-glutinatus">glutino, glutinare, glutinavi, glutinatus</a> v</li>
+          <li id="word-326" class="word"><a href="http://www.latin-dictionary.net/definition/21563/glutinosus-glutinosa-glutinosum">glutinosus, glutinosa, glutinosum</a> adj</li>
+          <li id="word-327" class="word"><a href="http://www.latin-dictionary.net/definition/21564/glutinum-glutini">glutinum, glutini</a> n</li>
+          <li id="word-328" class="word"><a href="http://www.latin-dictionary.net/definition/21565/glutio-glutire">glutio, glutire, -, -</a> v</li>
+          <li id="word-329" class="word"><a href="http://www.latin-dictionary.net/definition/21566/gluto-glutonis">gluto, glutonis</a> n</li>
+          <li id="word-330" class="word"><a href="http://www.latin-dictionary.net/definition/21567/gluttio-gluttire">gluttio, gluttire, -, -</a> v</li>
+          <li id="word-331" class="word"><a href="http://www.latin-dictionary.net/definition/21568/glutto-gluttonis">glutto, gluttonis</a> n</li>
+          <li id="word-332" class="word"><a href="http://www.latin-dictionary.net/definition/21569/glyconius-glyconia-glyconium">glyconius, glyconia, glyconium</a> adj</li>
+          <li id="word-333" class="word"><a href="http://www.latin-dictionary.net/definition/21570/glycyrrhiza-glycyrrhizae">glycyrrhiza, glycyrrhizae</a> n</li>
+          <li id="word-334" class="word"><a href="http://www.latin-dictionary.net/definition/21571/glycyrrhizon-glycyrrhizi">glycyrrhizon, glycyrrhizi</a> n</li>
+          <li id="word-335" class="word"><a href="http://www.latin-dictionary.net/definition/21572/Gnaeus-Gnaei">Gnaeus, Gnaei</a> n</li>
+          <li id="word-336" class="word"><a href="http://www.latin-dictionary.net/definition/21573/gnaritas-gnaritatis">gnaritas, gnaritatis</a> n</li>
+          <li id="word-337" class="word"><a href="http://www.latin-dictionary.net/definition/21574/gnarus-gnara-gnarum">gnarus, gnara, gnarum</a> adj</li>
+          <li id="word-338" class="word"><a href="http://www.latin-dictionary.net/definition/21575/gnascor-gnasci-gnatus">gnascor, gnasci, gnatus</a> v</li>
+          <li id="word-339" class="word"><a href="http://www.latin-dictionary.net/definition/21576/gnascor-gnasci-gnatus">gnascor, gnasci, gnatus</a> v</li>
+          <li id="word-340" class="word"><a href="http://www.latin-dictionary.net/definition/21577/gnata-gnatae">gnata, gnatae</a> n</li>
+          <li id="word-341" class="word"><a href="http://www.latin-dictionary.net/definition/21578/gnatus-gnati">gnatus, gnati</a> n</li>
+          <li id="word-342" class="word"><a href="http://www.latin-dictionary.net/definition/21579/gnecos-gneci">gnecos, gneci</a> n</li>
+          <li id="word-343" class="word"><a href="http://www.latin-dictionary.net/definition/21580/gnosco-gnoscere-gnovi-gnotus">gnosco, gnoscere, gnovi, gnotus</a> v</li>
+          <li id="word-344" class="word"><a href="http://www.latin-dictionary.net/definition/21581/gnosco-gnoscere-gnovi-gnotus">gnosco, gnoscere, gnovi, gnotus</a> v</li>
+          <li id="word-345" class="word"><a href="http://www.latin-dictionary.net/definition/21582/gnovi-gnovisse-gnotus">gnovi, gnovisse, gnotus</a> v</li>
+          <li id="word-346" class="word"><a href="http://www.latin-dictionary.net/definition/21583/gnovi-gnovisse-gnotus">gnovi, gnovisse, gnotus</a> v</li>
+          <li id="word-347" class="word"><a href="http://www.latin-dictionary.net/definition/21584/gobio-gobionis">gobio, gobionis</a> n</li>
+          <li id="word-348" class="word"><a href="http://www.latin-dictionary.net/definition/21585/gobius-gobii">gobius, gobii</a> n</li>
+          <li id="word-349" class="word"><a href="http://www.latin-dictionary.net/definition/21586/gomor-undeclined">gomor, undeclined</a> n</li>
+          <li id="word-350" class="word"><a href="http://www.latin-dictionary.net/definition/21587/gonger-gongri">gonger, gongri</a> n</li>
+          <li id="word-351" class="word"><a href="http://www.latin-dictionary.net/definition/21588/Gordianus-Gordiani">Gordianus, Gordiani</a> n</li>
+          <li id="word-352" class="word"><a href="http://www.latin-dictionary.net/definition/21589/gorilla-gorillae">gorilla, gorillae</a> n</li>
+          <li id="word-353" class="word"><a href="http://www.latin-dictionary.net/definition/21590/gorytos-goryti">gorytos, goryti</a> n</li>
+          <li id="word-354" class="word"><a href="http://www.latin-dictionary.net/definition/21591/gorytus-goryti">gorytus, goryti</a> n</li>
+          <li id="word-355" class="word"><a href="http://www.latin-dictionary.net/definition/21592/gossypium-gossypii">gossypium, gossypii</a> n</li>
+          <li id="word-356" class="word"><a href="http://www.latin-dictionary.net/definition/21593/Gothicus-Gothica-Gothicum">Gothicus, Gothica, Gothicum</a> adj</li>
+          <li id="word-357" class="word"><a href="http://www.latin-dictionary.net/definition/21594/Gothus-Gothi">Gothus, Gothi</a> n</li>
+          <li id="word-358" class="word"><a href="http://www.latin-dictionary.net/definition/21595/grabattus-grabatti">grabattus, grabatti</a> n</li>
+          <li id="word-359" class="word"><a href="http://www.latin-dictionary.net/definition/21596/grabatus-grabati">grabatus, grabati</a> n</li>
+          <li id="word-360" class="word"><a href="http://www.latin-dictionary.net/definition/21597/gracia-graciae">gracia, graciae</a> n</li>
+          <li id="word-361" class="word"><a href="http://www.latin-dictionary.net/definition/21598/gracia-graciae">gracia, graciae</a> n</li>
+          <li id="word-362" class="word"><a href="http://www.latin-dictionary.net/definition/21599/gracilis-gracile-gracilior">gracilis, gracile, gracilior</a> adj</li>
+          <li id="word-363" class="word"><a href="http://www.latin-dictionary.net/definition/21600/gracilitas-gracilitatis">gracilitas, gracilitatis</a> n</li>
+          <li id="word-364" class="word"><a href="http://www.latin-dictionary.net/definition/21601/graculus-graculi">graculus, graculi</a> n</li>
+          <li id="word-365" class="word"><a href="http://www.latin-dictionary.net/definition/21602/gradalis-gradalis-gradale">gradalis, gradalis, gradale</a> adj</li>
+          <li id="word-366" class="word"><a href="http://www.latin-dictionary.net/definition/21603/gradarius-gradaria-gradarium">gradarius, gradaria, gradarium</a> adj</li>
+          <li id="word-367" class="word"><a href="http://www.latin-dictionary.net/definition/21604/gradatim">gradatim</a> adv</li>
+          <li id="word-368" class="word"><a href="http://www.latin-dictionary.net/definition/21605/gradatio-gradationis">gradatio, gradationis</a> n</li>
+          <li id="word-369" class="word"><a href="http://www.latin-dictionary.net/definition/21606/gradior-gradi-gressus">gradior, gradi, gressus</a> v</li>
+          <li id="word-370" class="word"><a href="http://www.latin-dictionary.net/definition/21607/gradual-gradualis">gradual, gradualis</a> n</li>
+          <li id="word-371" class="word"><a href="http://www.latin-dictionary.net/definition/21608/gradualis-gradualis-graduale">gradualis, gradualis, graduale</a> adj</li>
+          <li id="word-372" class="word"><a href="http://www.latin-dictionary.net/definition/21609/gradualitas-gradualitatis">gradualitas, gradualitatis</a> n</li>
+          <li id="word-373" class="word"><a href="http://www.latin-dictionary.net/definition/21610/gradualiter">gradualiter</a> adv</li>
+          <li id="word-374" class="word"><a href="http://www.latin-dictionary.net/definition/21611/gradus-gradus">gradus, gradus</a> n</li>
+          <li id="word-375" class="word"><a href="http://www.latin-dictionary.net/definition/21612/Graecanicus-Graecanica-Graecanicum">Graecanicus, Graecanica, Graecanicum</a> adj</li>
+          <li id="word-376" class="word"><a href="http://www.latin-dictionary.net/definition/21613/Graecatus-Graecata-Graecatum">Graecatus, Graecata, Graecatum</a> adj</li>
+          <li id="word-377" class="word"><a href="http://www.latin-dictionary.net/definition/21614/Graecia-Graeciae">Graecia, Graeciae</a> n</li>
+          <li id="word-378" class="word"><a href="http://www.latin-dictionary.net/definition/21615/graecisso-graecissare-graecissavi-graecissatus">graecisso, graecissare, graecissavi, graecissatus</a> v</li>
+          <li id="word-379" class="word"><a href="http://www.latin-dictionary.net/definition/21616/Graecitas-Graecitatis">Graecitas, Graecitatis</a> n</li>
+          <li id="word-380" class="word"><a href="http://www.latin-dictionary.net/definition/21617/graecor-graecari-graecatus">graecor, graecari, graecatus</a> v</li>
+          <li id="word-381" class="word"><a href="http://www.latin-dictionary.net/definition/21618/Graeculus-Graecula-Graeculum">Graeculus, Graecula, Graeculum</a> adj</li>
+          <li id="word-382" class="word"><a href="http://www.latin-dictionary.net/definition/21619/Graeculus-Graeculi">Graeculus, Graeculi</a> n</li>
+          <li id="word-383" class="word"><a href="http://www.latin-dictionary.net/definition/21620/graecus-graeca-graecum">graecus, graeca, graecum</a> adj</li>
+          <li id="word-384" class="word"><a href="http://www.latin-dictionary.net/definition/21621/Graecus-Graeci">Graecus, Graeci</a> n</li>
+          <li id="word-385" class="word"><a href="http://www.latin-dictionary.net/definition/21622/grallator-grallatoris">grallator, grallatoris</a> n</li>
+          <li id="word-386" class="word"><a href="http://www.latin-dictionary.net/definition/21623/gramen-graminis">gramen, graminis</a> n</li>
+          <li id="word-387" class="word"><a href="http://www.latin-dictionary.net/definition/21624/gramineus-graminea-gramineum">gramineus, graminea, gramineum</a> adj</li>
+          <li id="word-388" class="word"><a href="http://www.latin-dictionary.net/definition/21625/graminus-gramina-graminum">graminus, gramina, graminum</a> adj</li>
+          <li id="word-389" class="word"><a href="http://www.latin-dictionary.net/definition/21626/gramma-grammatis">gramma, grammatis</a> n</li>
+          <li id="word-390" class="word"><a href="http://www.latin-dictionary.net/definition/21627/gramma-grammatis">gramma, grammatis</a> n</li>
+          <li id="word-391" class="word"><a href="http://www.latin-dictionary.net/definition/21628/grammatica-grammaticae">grammatica, grammaticae</a> n</li>
+          <li id="word-392" class="word"><a href="http://www.latin-dictionary.net/definition/21629/grammatice">grammatice</a> adv</li>
+          <li id="word-393" class="word"><a href="http://www.latin-dictionary.net/definition/21630/grammatice-grammatices">grammatice, grammatices</a> n</li>
+          <li id="word-394" class="word"><a href="http://www.latin-dictionary.net/definition/21631/grammaticus-grammatica-grammaticum">grammaticus, grammatica, grammaticum</a> adj</li>
+          <li id="word-395" class="word"><a href="http://www.latin-dictionary.net/definition/21632/grammaticus-grammatici">grammaticus, grammatici</a> n</li>
+          <li id="word-396" class="word"><a href="http://www.latin-dictionary.net/definition/21633/grammatista-grammatistae">grammatista, grammatistae</a> n</li>
+          <li id="word-397" class="word"><a href="http://www.latin-dictionary.net/definition/21634/granarium-granarii">granarium, granarii</a> n</li>
+          <li id="word-398" class="word"><a href="http://www.latin-dictionary.net/definition/21635/granata-granatae">granata, granatae</a> n</li>
+          <li id="word-399" class="word"><a href="http://www.latin-dictionary.net/definition/21636/granatum-granati">granatum, granati</a> n</li>
+          <li id="word-400" class="word"><a href="http://www.latin-dictionary.net/definition/21637/granatus-granata-granatum">granatus, granata, granatum</a> adj</li>
+          <li id="word-401" class="word"><a href="http://www.latin-dictionary.net/definition/21638/granatus-granatus">granatus, granatus</a> n</li>
+          <li id="word-402" class="word"><a href="http://www.latin-dictionary.net/definition/21639/grandaevus-grandaeva-grandaevum">grandaevus, grandaeva, grandaevum</a> adj</li>
+          <li id="word-403" class="word"><a href="http://www.latin-dictionary.net/definition/21640/grandesco-grandescere">grandesco, grandescere, -, -</a> v</li>
+          <li id="word-404" class="word"><a href="http://www.latin-dictionary.net/definition/21641/grandiculus-grandicula-grandiculum">grandiculus, grandicula, grandiculum</a> adj</li>
+          <li id="word-405" class="word"><a href="http://www.latin-dictionary.net/definition/21642/grandifer-grandifera-grandiferum">grandifer, grandifera, grandiferum</a> adj</li>
+          <li id="word-406" class="word"><a href="http://www.latin-dictionary.net/definition/21643/grandiloquus-grandiloqua-grandiloquum">grandiloquus, grandiloqua, grandiloquum</a> adj</li>
+          <li id="word-407" class="word"><a href="http://www.latin-dictionary.net/definition/21644/grandinat-grandinare-grandinavit-grandinatus">grandinat, grandinare, grandinavit, grandinatus</a> v</li>
+          <li id="word-408" class="word"><a href="http://www.latin-dictionary.net/definition/21645/grandio-grandire">grandio, grandire, -, -</a> v</li>
+          <li id="word-409" class="word"><a href="http://www.latin-dictionary.net/definition/21646/grandis-grandis-grande">grandis, grandis, grande</a> adj</li>
+          <li id="word-410" class="word"><a href="http://www.latin-dictionary.net/definition/21647/grandisculus-grandiscula-grandisculum">grandisculus, grandiscula, grandisculum</a> adj</li>
+          <li id="word-411" class="word"><a href="http://www.latin-dictionary.net/definition/21648/granditas-granditatis">granditas, granditatis</a> n</li>
+          <li id="word-412" class="word"><a href="http://www.latin-dictionary.net/definition/21649/granditer">granditer</a> adv</li>
+          <li id="word-413" class="word"><a href="http://www.latin-dictionary.net/definition/21650/grandiusculus-grandiuscula-grandiusculum">grandiusculus, grandiuscula, grandiusculum</a> adj</li>
+          <li id="word-414" class="word"><a href="http://www.latin-dictionary.net/definition/21651/grando-grandinis">grando, grandinis</a> n</li>
+          <li id="word-415" class="word"><a href="http://www.latin-dictionary.net/definition/21652/granifer-granifera-graniferum">granifer, granifera, graniferum</a> adj</li>
+          <li id="word-416" class="word"><a href="http://www.latin-dictionary.net/definition/21653/granitum-graniti">granitum, graniti</a> n</li>
+          <li id="word-417" class="word"><a href="http://www.latin-dictionary.net/definition/21654/granulum-granuli">granulum, granuli</a> n</li>
+          <li id="word-418" class="word"><a href="http://www.latin-dictionary.net/definition/21655/granum-grani">granum, grani</a> n</li>
+          <li id="word-419" class="word"><a href="http://www.latin-dictionary.net/definition/21656/grapheocrates-grapheocratae">grapheocrates, grapheocratae</a> n</li>
+          <li id="word-420" class="word"><a href="http://www.latin-dictionary.net/definition/21657/grapheocratia-grapheocratiae">grapheocratia, grapheocratiae</a> n</li>
+          <li id="word-421" class="word"><a href="http://www.latin-dictionary.net/definition/21658/grapheocraticus-grapheocratica-grapheocraticum">grapheocraticus, grapheocratica, grapheocraticum</a> adj</li>
+          <li id="word-422" class="word"><a href="http://www.latin-dictionary.net/definition/21659/grapheum-graphei">grapheum, graphei</a> n</li>
+          <li id="word-423" class="word"><a href="http://www.latin-dictionary.net/definition/21660/graphia-graphiae">graphia, graphiae</a> n</li>
+          <li id="word-424" class="word"><a href="http://www.latin-dictionary.net/definition/21661/graphice-graphices">graphice, graphices</a> n</li>
+          <li id="word-425" class="word"><a href="http://www.latin-dictionary.net/definition/21662/graphicus-graphica-graphicum">graphicus, graphica, graphicum</a> adj</li>
+          <li id="word-426" class="word"><a href="http://www.latin-dictionary.net/definition/21663/graphis-graphidis">graphis, graphidis</a> n</li>
+          <li id="word-427" class="word"><a href="http://www.latin-dictionary.net/definition/21664/graphis-graphidos-is">graphis, graphidos/is</a> n</li>
+          <li id="word-428" class="word"><a href="http://www.latin-dictionary.net/definition/21665/graphium-graphi-i">graphium, graphi(i)</a> n</li>
+          <li id="word-429" class="word"><a href="http://www.latin-dictionary.net/definition/21666/graphium-graphii">graphium, graphii</a> n</li>
+          <li id="word-430" class="word"><a href="http://www.latin-dictionary.net/definition/21667/grassator-grassatoris">grassator, grassatoris</a> n</li>
+          <li id="word-431" class="word"><a href="http://www.latin-dictionary.net/definition/21668/grassor-grassari-grassatus">grassor, grassari, grassatus</a> v</li>
+          <li id="word-432" class="word"><a href="http://www.latin-dictionary.net/definition/21669/gratanter">gratanter</a> adv</li>
+          <li id="word-433" class="word"><a href="http://www.latin-dictionary.net/definition/21670/grate-gratius-gratissime">grate, gratius, gratissime</a> adv</li>
+          <li id="word-434" class="word"><a href="http://www.latin-dictionary.net/definition/21671/grates-gratis">grates, gratis</a> n</li>
+          <li id="word-435" class="word"><a href="http://www.latin-dictionary.net/definition/21672/gratia-gratiae">gratia, gratiae</a> n</li>
+          <li id="word-436" class="word"><a href="http://www.latin-dictionary.net/definition/21673/gratia-gratiae">gratia, gratiae</a> n</li>
+          <li id="word-437" class="word"><a href="http://www.latin-dictionary.net/definition/21674/gratia-gratiae">gratia, gratiae</a> n</li>
+          <li id="word-438" class="word"><a href="http://www.latin-dictionary.net/definition/21675/gratificatio-gratificationis">gratificatio, gratificationis</a> n</li>
+          <li id="word-439" class="word"><a href="http://www.latin-dictionary.net/definition/21676/gratifico-gratificare-gratificavi-gratificatus">gratifico, gratificare, gratificavi, gratificatus</a> v</li>
+          <li id="word-440" class="word"><a href="http://www.latin-dictionary.net/definition/21677/gratificor-gratificari-gratificatus">gratificor, gratificari, gratificatus</a> v</li>
+          <li id="word-441" class="word"><a href="http://www.latin-dictionary.net/definition/21678/gratiosus-gratiosa-gratiosum">gratiosus, gratiosa, gratiosum</a> adj</li>
+          <li id="word-442" class="word"><a href="http://www.latin-dictionary.net/definition/21679/gratis">gratis</a> adv</li>
+          <li id="word-443" class="word"><a href="http://www.latin-dictionary.net/definition/21680/gratitudo-gratitudinis">gratitudo, gratitudinis</a> n</li>
+          <li id="word-444" class="word"><a href="http://www.latin-dictionary.net/definition/21681/grator-gratari-gratatus">grator, gratari, gratatus</a> v</li>
+          <li id="word-445" class="word"><a href="http://www.latin-dictionary.net/definition/21682/gratuitas-gratuitatis">gratuitas, gratuitatis</a> n</li>
+          <li id="word-446" class="word"><a href="http://www.latin-dictionary.net/definition/21683/gratuito">gratuito</a> adv</li>
+          <li id="word-447" class="word"><a href="http://www.latin-dictionary.net/definition/21684/gratuitus-gratuita-gratuitum">gratuitus, gratuita, gratuitum</a> adj</li>
+          <li id="word-448" class="word"><a href="http://www.latin-dictionary.net/definition/21685/gratulabundus-gratulabunda-gratulabundum">gratulabundus, gratulabunda, gratulabundum</a> adj</li>
+          <li id="word-449" class="word"><a href="http://www.latin-dictionary.net/definition/21686/gratulanter">gratulanter</a> adv</li>
+          <li id="word-450" class="word"><a href="http://www.latin-dictionary.net/definition/21687/gratulatio-gratulationis">gratulatio, gratulationis</a> n</li>
+          <li id="word-451" class="word"><a href="http://www.latin-dictionary.net/definition/21688/gratulatorie">gratulatorie</a> adv</li>
+          <li id="word-452" class="word"><a href="http://www.latin-dictionary.net/definition/21689/gratulor-gratulari-gratulatus">gratulor, gratulari, gratulatus</a> v</li>
+          <li id="word-453" class="word"><a href="http://www.latin-dictionary.net/definition/21690/gratus-grata">gratus, grata</a> adj</li>
+          <li id="word-454" class="word"><a href="http://www.latin-dictionary.net/definition/21691/graulatio-graulationis">graulatio, graulationis</a> n</li>
+          <li id="word-455" class="word"><a href="http://www.latin-dictionary.net/definition/21692/gravamen-gravaminis">gravamen, gravaminis</a> n</li>
+          <li id="word-456" class="word"><a href="http://www.latin-dictionary.net/definition/21693/gravanter">gravanter</a> adv</li>
+          <li id="word-457" class="word"><a href="http://www.latin-dictionary.net/definition/21694/gravate-gravatius-gravatissime">gravate, gravatius, gravatissime</a> adv</li>
+          <li id="word-458" class="word"><a href="http://www.latin-dictionary.net/definition/21695/gravatim">gravatim</a> adv</li>
+          <li id="word-459" class="word"><a href="http://www.latin-dictionary.net/definition/21696/gravatus-gravata">gravatus, gravata</a> adj</li>
+          <li id="word-460" class="word"><a href="http://www.latin-dictionary.net/definition/21697/gravedinosus-gravedinosa-gravedinosum">gravedinosus, gravedinosa, gravedinosum</a> adj</li>
+          <li id="word-461" class="word"><a href="http://www.latin-dictionary.net/definition/21698/gravedo-gravedinis">gravedo, gravedinis</a> n</li>
+          <li id="word-462" class="word"><a href="http://www.latin-dictionary.net/definition/21699/graveolens-gen-graveolentis">graveolens, (gen.), graveolentis</a> adj</li>
+          <li id="word-463" class="word"><a href="http://www.latin-dictionary.net/definition/21700/graveolentia-graveolentiae">graveolentia, graveolentiae</a> n</li>
+          <li id="word-464" class="word"><a href="http://www.latin-dictionary.net/definition/21701/gravida-gravidae">gravida, gravidae</a> n</li>
+          <li id="word-465" class="word"><a href="http://www.latin-dictionary.net/definition/21702/gravido-gravidare-gravidavi-gravidatus">gravido, gravidare, gravidavi, gravidatus</a> v</li>
+          <li id="word-466" class="word"><a href="http://www.latin-dictionary.net/definition/21703/gravidor-gravidari-gravidatus">gravidor, gravidari, gravidatus</a> v</li>
+          <li id="word-467" class="word"><a href="http://www.latin-dictionary.net/definition/21704/gravidus-gravida-gravidum">gravidus, gravida, gravidum</a> adj</li>
+          <li id="word-468" class="word"><a href="http://www.latin-dictionary.net/definition/21705/gravis-grave-gravior">gravis, grave, gravior</a> adj</li>
+          <li id="word-469" class="word"><a href="http://www.latin-dictionary.net/definition/21706/gravitas-gravitatis">gravitas, gravitatis</a> n</li>
+          <li id="word-470" class="word"><a href="http://www.latin-dictionary.net/definition/21707/graviter">graviter</a> adv</li>
+          <li id="word-471" class="word"><a href="http://www.latin-dictionary.net/definition/21708/gravito-gravitare-gravitavi-gravitatus">gravito, gravitare, gravitavi, gravitatus</a> v</li>
+          <li id="word-472" class="word"><a href="http://www.latin-dictionary.net/definition/21709/gravo-gravare-gravavi-gravatus">gravo, gravare, gravavi, gravatus</a> v</li>
+          <li id="word-473" class="word"><a href="http://www.latin-dictionary.net/definition/21710/gravor-gravari-gravatus">gravor, gravari, gravatus</a> v</li>
+          <li id="word-474" class="word"><a href="http://www.latin-dictionary.net/definition/21711/grecus-greca-grecum">grecus, greca, grecum</a> adj</li>
+          <li id="word-475" class="word"><a href="http://www.latin-dictionary.net/definition/21712/gregalis-gregalis">gregalis, gregalis</a> n</li>
+          <li id="word-476" class="word"><a href="http://www.latin-dictionary.net/definition/21713/gregalis-gregalis-gregale">gregalis, gregalis, gregale</a> adj</li>
+          <li id="word-477" class="word"><a href="http://www.latin-dictionary.net/definition/21714/gregarius-gregaria-gregarium">gregarius, gregaria, gregarium</a> adj</li>
+          <li id="word-478" class="word"><a href="http://www.latin-dictionary.net/definition/21715/gregatim">gregatim</a> adv</li>
+          <li id="word-479" class="word"><a href="http://www.latin-dictionary.net/definition/21716/grego-gregare-gregavi-gregatus">grego, gregare, gregavi, gregatus</a> v</li>
+          <li id="word-480" class="word"><a href="http://www.latin-dictionary.net/definition/21717/Gregorianus-Gregoriana-Gregorianum">Gregorianus, Gregoriana, Gregorianum</a> adj</li>
+          <li id="word-481" class="word"><a href="http://www.latin-dictionary.net/definition/21718/gremiale-gremialis">gremiale, gremialis</a> n</li>
+          <li id="word-482" class="word"><a href="http://www.latin-dictionary.net/definition/21719/gremialis-gremialis-gremiale">gremialis, gremialis, gremiale</a> adj</li>
+          <li id="word-483" class="word"><a href="http://www.latin-dictionary.net/definition/21720/gremium-gremi-i">gremium, gremi(i)</a> n</li>
+          <li id="word-484" class="word"><a href="http://www.latin-dictionary.net/definition/21721/gremium-gremii">gremium, gremii</a> n</li>
+          <li id="word-485" class="word"><a href="http://www.latin-dictionary.net/definition/21722/gressus-gressus">gressus, gressus</a> n</li>
+          <li id="word-486" class="word"><a href="http://www.latin-dictionary.net/definition/21723/grex-gregis">grex, gregis</a> n</li>
+          <li id="word-487" class="word"><a href="http://www.latin-dictionary.net/definition/21724/griffo-griffonis">griffo, griffonis</a> n</li>
+          <li id="word-488" class="word"><a href="http://www.latin-dictionary.net/definition/21725/grillus-grilli">grillus, grilli</a> n</li>
+          <li id="word-489" class="word"><a href="http://www.latin-dictionary.net/definition/21726/griphus-griphi">griphus, griphi</a> n</li>
+          <li id="word-490" class="word"><a href="http://www.latin-dictionary.net/definition/21727/grippa-grippae">grippa, grippae</a> n</li>
+          <li id="word-491" class="word"><a href="http://www.latin-dictionary.net/definition/21728/griseus-grisea-griseum">griseus, grisea, griseum</a> adj</li>
+          <li id="word-492" class="word"><a href="http://www.latin-dictionary.net/definition/21729/groccio-groccire">groccio, groccire, -, -</a> v</li>
+          <li id="word-493" class="word"><a href="http://www.latin-dictionary.net/definition/21730/groma-gromae">groma, gromae</a> n</li>
+          <li id="word-494" class="word"><a href="http://www.latin-dictionary.net/definition/21731/grossitudo-grossitudinis">grossitudo, grossitudinis</a> n</li>
+          <li id="word-495" class="word"><a href="http://www.latin-dictionary.net/definition/21732/grossus-grossa">grossus, grossa</a> adj</li>
+          <li id="word-496" class="word"><a href="http://www.latin-dictionary.net/definition/21733/grossus-grossi">grossus, grossi</a> n</li>
+          <li id="word-497" class="word"><a href="http://www.latin-dictionary.net/definition/21734/gruis-gruis">gruis, gruis</a> n</li>
+          <li id="word-498" class="word"><a href="http://www.latin-dictionary.net/definition/21735/gruma-grumae">gruma, grumae</a> n</li>
+          <li id="word-499" class="word"><a href="http://www.latin-dictionary.net/definition/21736/grumus-grumi">grumus, grumi</a> n</li>
+          <li id="word-500" class="word"><a href="http://www.latin-dictionary.net/definition/21737/grundio-grundire">grundio, grundire, -, -</a> v</li>
+          <li id="word-501" class="word"><a href="http://www.latin-dictionary.net/definition/21738/grunnio-grunnire">grunnio, grunnire, -, -</a> v</li>
+          <li id="word-502" class="word"><a href="http://www.latin-dictionary.net/definition/21739/grunnitus-grunnitus">grunnitus, grunnitus</a> n</li>
+          <li id="word-503" class="word"><a href="http://www.latin-dictionary.net/definition/21740/grus-gruis">grus, gruis</a> n</li>
+          <li id="word-504" class="word"><a href="http://www.latin-dictionary.net/definition/21741/grus-gruis">grus, gruis</a> n</li>
+          <li id="word-505" class="word"><a href="http://www.latin-dictionary.net/definition/21742/gry-undeclined">gry, undeclined</a> n</li>
+          <li id="word-506" class="word"><a href="http://www.latin-dictionary.net/definition/21743/gryllographus-gryllographi">gryllographus, gryllographi</a> n</li>
+          <li id="word-507" class="word"><a href="http://www.latin-dictionary.net/definition/21744/gryllus-grylli">gryllus, grylli</a> n</li>
+          <li id="word-508" class="word"><a href="http://www.latin-dictionary.net/definition/21745/grypho-gryphonis">grypho, gryphonis</a> n</li>
+          <li id="word-509" class="word"><a href="http://www.latin-dictionary.net/definition/21746/gryps-grypos-is">gryps, grypos/is</a> n</li>
+          <li id="word-510" class="word"><a href="http://www.latin-dictionary.net/definition/21747/grypus-grypi">grypus, grypi</a> n</li>
+          <li id="word-511" class="word"><a href="http://www.latin-dictionary.net/definition/21748/guarra-guarrae">guarra, guarrae</a> n</li>
+          <li id="word-512" class="word"><a href="http://www.latin-dictionary.net/definition/21749/gubernaculum-gubernaculi">gubernaculum, gubernaculi</a> n</li>
+          <li id="word-513" class="word"><a href="http://www.latin-dictionary.net/definition/21750/gubernatio-gubernationis">gubernatio, gubernationis</a> n</li>
+          <li id="word-514" class="word"><a href="http://www.latin-dictionary.net/definition/21751/gubernator-gubernatoris">gubernator, gubernatoris</a> n</li>
+          <li id="word-515" class="word"><a href="http://www.latin-dictionary.net/definition/21752/gubernatrix-gubernatricis">gubernatrix, gubernatricis</a> n</li>
+          <li id="word-516" class="word"><a href="http://www.latin-dictionary.net/definition/21753/gubernium-gubernii">gubernium, gubernii</a> n</li>
+          <li id="word-517" class="word"><a href="http://www.latin-dictionary.net/definition/21754/gubernius-gubernii">gubernius, gubernii</a> n</li>
+          <li id="word-518" class="word"><a href="http://www.latin-dictionary.net/definition/21755/guberno-gubernare-gubernavi-gubernatus">guberno, gubernare, gubernavi, gubernatus</a> v</li>
+          <li id="word-519" class="word"><a href="http://www.latin-dictionary.net/definition/21756/guerra-guerrae">guerra, guerrae</a> n</li>
+          <li id="word-520" class="word"><a href="http://www.latin-dictionary.net/definition/21757/guilda-guildae">guilda, guildae</a> n</li>
+          <li id="word-521" class="word"><a href="http://www.latin-dictionary.net/definition/21758/gula-gulae">gula, gulae</a> n</li>
+          <li id="word-522" class="word"><a href="http://www.latin-dictionary.net/definition/21759/gulda-guldae">gulda, guldae</a> n</li>
+          <li id="word-523" class="word"><a href="http://www.latin-dictionary.net/definition/21760/Gulielmus-Gulielmi">Gulielmus, Gulielmi</a> n</li>
+          <li id="word-524" class="word"><a href="http://www.latin-dictionary.net/definition/21761/gulosus-gulosa-gulosum">gulosus, gulosa, gulosum</a> adj</li>
+          <li id="word-525" class="word"><a href="http://www.latin-dictionary.net/definition/21762/gumia-gumiae">gumia, gumiae</a> n</li>
+          <li id="word-526" class="word"><a href="http://www.latin-dictionary.net/definition/21763/gummi-undeclined">gummi, undeclined</a> n</li>
+          <li id="word-527" class="word"><a href="http://www.latin-dictionary.net/definition/21764/gumminosus-gumminosa-gumminosum">gumminosus, gumminosa, gumminosum</a> adj</li>
+          <li id="word-528" class="word"><a href="http://www.latin-dictionary.net/definition/21765/gummis-gummis">gummis, gummis</a> n</li>
+          <li id="word-529" class="word"><a href="http://www.latin-dictionary.net/definition/21766/gummitio-gummitionis">gummitio, gummitionis</a> n</li>
+          <li id="word-530" class="word"><a href="http://www.latin-dictionary.net/definition/21767/gunna-gunnae">gunna, gunnae</a> n</li>
+          <li id="word-531" class="word"><a href="http://www.latin-dictionary.net/definition/21768/guoma-guomae">guoma, guomae</a> n</li>
+          <li id="word-532" class="word"><a href="http://www.latin-dictionary.net/definition/21769/gurculio-gurculionis">gurculio, gurculionis</a> n</li>
+          <li id="word-533" class="word"><a href="http://www.latin-dictionary.net/definition/21770/gurges-gurgitis">gurges, gurgitis</a> n</li>
+          <li id="word-534" class="word"><a href="http://www.latin-dictionary.net/definition/21771/gurgulio-gurgulionis">gurgulio, gurgulionis</a> n</li>
+          <li id="word-535" class="word"><a href="http://www.latin-dictionary.net/definition/21772/gurgustium-gurgustii">gurgustium, gurgustii</a> n</li>
+          <li id="word-536" class="word"><a href="http://www.latin-dictionary.net/definition/21773/gustatus-gustatus">gustatus, gustatus</a> n</li>
+          <li id="word-537" class="word"><a href="http://www.latin-dictionary.net/definition/21774/gusto-gustare-gustavi-gustatus">gusto, gustare, gustavi, gustatus</a> v</li>
+          <li id="word-538" class="word"><a href="http://www.latin-dictionary.net/definition/21775/gustus-gustus">gustus, gustus</a> n</li>
+          <li id="word-539" class="word"><a href="http://www.latin-dictionary.net/definition/21776/gutta-guttae">gutta, guttae</a> n</li>
+          <li id="word-540" class="word"><a href="http://www.latin-dictionary.net/definition/21777/guttatim">guttatim</a> adv</li>
+          <li id="word-541" class="word"><a href="http://www.latin-dictionary.net/definition/21778/gutter-gutteris">gutter, gutteris</a> n</li>
+          <li id="word-542" class="word"><a href="http://www.latin-dictionary.net/definition/21779/guttula-guttulae">guttula, guttulae</a> n</li>
+          <li id="word-543" class="word"><a href="http://www.latin-dictionary.net/definition/21780/guttur-gutturis">guttur, gutturis</a> n</li>
+          <li id="word-544" class="word"><a href="http://www.latin-dictionary.net/definition/21781/guttur-gutturis">guttur, gutturis</a> n</li>
+          <li id="word-545" class="word"><a href="http://www.latin-dictionary.net/definition/21782/gutturalis-gutturalis-gutturale">gutturalis, gutturalis, gutturale</a> adj</li>
+          <li id="word-546" class="word"><a href="http://www.latin-dictionary.net/definition/21783/guttus-gutti">guttus, gutti</a> n</li>
+          <li id="word-547" class="word"><a href="http://www.latin-dictionary.net/definition/21784/gwerra-gwerrae">gwerra, gwerrae</a> n</li>
+          <li id="word-548" class="word"><a href="http://www.latin-dictionary.net/definition/21785/gymnasiarchus-gymnasiarchi">gymnasiarchus, gymnasiarchi</a> n</li>
+          <li id="word-549" class="word"><a href="http://www.latin-dictionary.net/definition/21786/gymnasium-gymnasi-i">gymnasium, gymnasi(i)</a> n</li>
+          <li id="word-550" class="word"><a href="http://www.latin-dictionary.net/definition/21787/gymnasium-gymnasii">gymnasium, gymnasii</a> n</li>
+          <li id="word-551" class="word"><a href="http://www.latin-dictionary.net/definition/21788/gymnastica-gymnasticae">gymnastica, gymnasticae</a> n</li>
+          <li id="word-552" class="word"><a href="http://www.latin-dictionary.net/definition/21789/gymnasticus-gymnastica-gymnasticum">gymnasticus, gymnastica, gymnasticum</a> adj</li>
+          <li id="word-553" class="word"><a href="http://www.latin-dictionary.net/definition/21790/gymnicus-gymnica-gymnicum">gymnicus, gymnica, gymnicum</a> adj</li>
+          <li id="word-554" class="word"><a href="http://www.latin-dictionary.net/definition/21791/gynaecearium-gynaecearii">gynaecearium, gynaecearii</a> n</li>
+          <li id="word-555" class="word"><a href="http://www.latin-dictionary.net/definition/21792/gynaecearius-gynaecearii">gynaecearius, gynaecearii</a> n</li>
+          <li id="word-556" class="word"><a href="http://www.latin-dictionary.net/definition/21793/gynaeceum-gynaecei">gynaeceum, gynaecei</a> n</li>
+          <li id="word-557" class="word"><a href="http://www.latin-dictionary.net/definition/21794/gynaeciarium-gynaeciarii">gynaeciarium, gynaeciarii</a> n</li>
+          <li id="word-558" class="word"><a href="http://www.latin-dictionary.net/definition/21795/gynaecium-gynaecii">gynaecium, gynaecii</a> n</li>
+          <li id="word-559" class="word"><a href="http://www.latin-dictionary.net/definition/21796/gynaecius-gynaecii">gynaecius, gynaecii</a> n</li>
+          <li id="word-560" class="word"><a href="http://www.latin-dictionary.net/definition/21797/gynaecologia-gynaecologiae">gynaecologia, gynaecologiae</a> n</li>
+          <li id="word-561" class="word"><a href="http://www.latin-dictionary.net/definition/21798/gynaecologus-gynaecologi">gynaecologus, gynaecologi</a> n</li>
+          <li id="word-562" class="word"><a href="http://www.latin-dictionary.net/definition/21799/gynaeconitis-gynaeconitidos-is">gynaeconitis, gynaeconitidos/is</a> n</li>
+          <li id="word-563" class="word"><a href="http://www.latin-dictionary.net/definition/21800/gypsatus-gypsata-gypsatum">gypsatus, gypsata, gypsatum</a> adj</li>
+          <li id="word-564" class="word"><a href="http://www.latin-dictionary.net/definition/21801/gypso-gypsare-gypsavi-gypsatus">gypso, gypsare, gypsavi, gypsatus</a> v</li>
+          <li id="word-565" class="word"><a href="http://www.latin-dictionary.net/definition/21802/gypsum-gypsi">gypsum, gypsi</a> n</li>
+          <li id="word-566" class="word"><a href="http://www.latin-dictionary.net/definition/21803/gyratus-gyrata-gyratum">gyratus, gyrata, gyratum</a> adj</li>
+          <li id="word-567" class="word"><a href="http://www.latin-dictionary.net/definition/21804/gyro-gyrare-gyravi-gyratus">gyro, gyrare, gyravi, gyratus</a> v</li>
+          <li id="word-568" class="word"><a href="http://www.latin-dictionary.net/definition/21805/gyrus-gyri">gyrus, gyri</a> n</li>

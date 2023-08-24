@@ -1,0 +1,1022 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/32806/R-abb">R., abb.</a> adj</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/32807/rabbi-undeclined">rabbi, undeclined</a> n</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/32808/rabbinus-rabbini">rabbinus, rabbini</a> n</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/32809/rabboni-undeclined">rabboni, undeclined</a> n</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/32810/rabidus-rabida-rabidum">rabidus, rabida, rabidum</a> adj</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/32811/rabies-rabiei">rabies, rabiei</a> n</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/32812/rabio-rabere">rabio, rabere, -, -</a> v</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/32813/rabiola-rabiolae">rabiola, rabiolae</a> n</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/32814/rabiose">rabiose</a> adv</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/32815/rabiosulus-rabiosula-rabiosulum">rabiosulus, rabiosula, rabiosulum</a> adj</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/32816/rabiosus-rabiosa-rabiosum">rabiosus, rabiosa, rabiosum</a> adj</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/32817/rabula-rabulae">rabula, rabulae</a> n</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/32818/raca-undeclined">raca, undeclined</a> adj</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/32819/racana-racanae">racana, racanae</a> n</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/32820/racemifer-racemifera-racemiferum">racemifer, racemifera, racemiferum</a> adj</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/32821/racemus-racemi">racemus, racemi</a> n</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/32822/racha-undeclined">racha, undeclined</a> adj</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/32823/rachana-rachanae">rachana, rachanae</a> n</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/32824/racialis-racialis-raciale">racialis, racialis, raciale</a> adj</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/32825/radaricus-radarica-radaricum">radaricus, radarica, radaricum</a> adj</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/32826/radiatilis-radiatilis-radiatile">radiatilis, radiatilis, radiatile</a> adj</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/32827/radiatrum-radiatri">radiatrum, radiatri</a> n</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/32828/radicalis-radicalis-radicale">radicalis, radicalis, radicale</a> adj</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/32829/radicalismus-radicalismi">radicalismus, radicalismi</a> n</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/32830/radicatus-radicata-radicatum">radicatus, radicata, radicatum</a> adj</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/32831/radicitus">radicitus</a> adv</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/32832/radico-radicare-radicavi-radicatus">radico, radicare, radicavi, radicatus</a> v</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/32833/radicula-radiculae">radicula, radiculae</a> n</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/32834/radio-radiare-radiavi-radiatus">radio, radiare, radiavi, radiatus</a> v</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/32835/radioactivitas-radioactivitatis">radioactivitas, radioactivitatis</a> n</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/32836/radioactivus-radioactiva-radioactivum">radioactivus, radioactiva, radioactivum</a> adj</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/32837/radioelectricus-radioelectrica-radioelectricum">radioelectricus, radioelectrica, radioelectricum</a> adj</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/32838/radiographema-radiographematis">radiographema, radiographematis</a> n</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/32839/radiographia-radiographiae">radiographia, radiographiae</a> n</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/32840/radiologia-radiologiae">radiologia, radiologiae</a> n</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/32841/radiologicus-radiologica-radiologicum">radiologicus, radiologica, radiologicum</a> adj</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/32842/radiologus-radiologi">radiologus, radiologi</a> n</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/32843/radiophonia-radiophoniae">radiophonia, radiophoniae</a> n</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/32844/radiophonicus-radiophonica-radiophonicum">radiophonicus, radiophonica, radiophonicum</a> adj</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/32845/radiophonum-radiophoni">radiophonum, radiophoni</a> n</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/32846/radior-radiari-radiatus">radior, radiari, radiatus</a> v</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/32847/radiosus-radiosa-radiosum">radiosus, radiosa, radiosum</a> adj</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/32848/radiotherapia-radiotherapiae">radiotherapia, radiotherapiae</a> n</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/32849/radius-radi-i">radius, radi(i)</a> n</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/32850/radix-radicis">radix, radicis</a> n</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/32851/rado-radere-rasi-rasus">rado, radere, rasi, rasus</a> v</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/32852/raeda-raedae">raeda, raedae</a> n</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/32853/raedarius-raedari-i">raedarius, raedari(i)</a> n</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/32854/raffinatio-raffinationis">raffinatio, raffinationis</a> n</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/32855/ramale-ramalis">ramale, ramalis</a> n</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/32856/ramentum-ramenti">ramentum, ramenti</a> n</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/32857/rameus-ramea-rameum">rameus, ramea, rameum</a> adj</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/32858/ramex-ramicis">ramex, ramicis</a> n</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/32859/ramnum-ramni">ramnum, ramni</a> n</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/32860/ramosus-ramosa-ramosum">ramosus, ramosa, ramosum</a> adj</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/32861/ramulus-ramuli">ramulus, ramuli</a> n</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/32862/ramus-rami">ramus, rami</a> n</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/32863/ramusculus-ramusculi">ramusculus, ramusculi</a> n</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/32864/rana-ranae">rana, ranae</a> n</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/32865/rancens-gen-rancentis">rancens, (gen.), rancentis</a> adj</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/32866/rancidulus-rancidula-rancidulum">rancidulus, rancidula, rancidulum</a> adj</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/32867/rancidus-rancida-rancidum">rancidus, rancida, rancidum</a> adj</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/32868/ranunculus-ranunculi">ranunculus, ranunculi</a> n</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/32869/rapa-rapae">rapa, rapae</a> n</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/32870/rapacida-rapacidae">rapacida, rapacidae</a> n</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/32871/rapacitas-rapacitatis">rapacitas, rapacitatis</a> n</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/32872/rapax-gen-rapacis">rapax, (gen.), rapacis</a> adj</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/32873/raphaninus-raphanina-raphaninum">raphaninus, raphanina, raphaninum</a> adj</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/32874/raphanitis-raphanitidos-is">raphanitis, raphanitidos/is</a> n</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/32875/raphanus-raphani">raphanus, raphani</a> n</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/32876/raphanus-raphani">raphanus, raphani</a> n</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/32877/rapiditas-rapiditatis">rapiditas, rapiditatis</a> n</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/32878/rapidus-rapida">rapidus, rapida</a> adj</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/32879/rapina-rapinae">rapina, rapinae</a> n</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/32880/rapio-rapere-rapui-raptus">rapio, rapere, rapui, raptus</a> v</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/32881/raptim">raptim</a> adv</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/32882/rapto-raptare-raptavi-raptatus">rapto, raptare, raptavi, raptatus</a> v</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/32883/raptor-raptoris">raptor, raptoris</a> n</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/32884/raptum-rapti">raptum, rapti</a> n</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/32885/raptus-raptus">raptus, raptus</a> n</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/32886/rapulum-rapuli">rapulum, rapuli</a> n</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/32887/rapum-rapi">rapum, rapi</a> n</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/32888/rare-rarius-rarissime">rare, rarius, rarissime</a> adv</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/32889/rarefacio-rarefacere-rarefeci-rarefactus">rarefacio, rarefacere, rarefeci, rarefactus</a> v</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/32890/rarefactio-rarefactionis">rarefactio, rarefactionis</a> n</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/32891/rarenter">rarenter</a> adv</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/32892/raresco-rarescere">raresco, rarescere, -, -</a> v</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/32893/raro">raro</a> adv</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/32894/rarus-rara">rarus, rara</a> adj</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/32895/rasilis-rasilis-rasile">rasilis, rasilis, rasile</a> adj</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/32896/rasito-rasitare-rasitavi-rasitatus">rasito, rasitare, rasitavi, rasitatus</a> v</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/32897/rasorium-rasorii">rasorium, rasorii</a> n</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/32898/rassismus-rassismi">rassismus, rassismi</a> n</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/32899/rassista-rassistae">rassista, rassistae</a> n</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/32900/rassisticus-rassistica-rassisticum">rassisticus, rassistica, rassisticum</a> adj</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/32901/rastellus-rastelli">rastellus, rastelli</a> n</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/32902/rastrum-rastri">rastrum, rastri</a> n</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/32903/rastrus-rastri">rastrus, rastri</a> n</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/32904/ratificatio-ratificationis">ratificatio, ratificationis</a> n</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/32905/ratifico-ratificare-ratificavi-ratificatus">ratifico, ratificare, ratificavi, ratificatus</a> v</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/32906/ratihabeo-ratihabere-ratihabui-ratihabitus">ratihabeo, ratihabere, ratihabui, ratihabitus</a> v</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/32907/ratihabitio-ratihabitionis">ratihabitio, ratihabitionis</a> n</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/32908/ratio-rationis">ratio, rationis</a> n</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/32909/ratiocinatio-ratiocinationis">ratiocinatio, ratiocinationis</a> n</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/32910/ratiocinativus-ratiocinativa-ratiocinativum">ratiocinativus, ratiocinativa, ratiocinativum</a> adj</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/32911/ratiocinator-ratiocinatoris">ratiocinator, ratiocinatoris</a> n</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/32912/ratiocinium-ratiocinii">ratiocinium, ratiocinii</a> n</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/32913/ratiocinor-ratiocinari-ratiocinatus">ratiocinor, ratiocinari, ratiocinatus</a> v</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/32914/rationabilis-rationabile-rationabilior">rationabilis, rationabile, rationabilior</a> adj</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/32915/rationabilitas-rationabilitatis">rationabilitas, rationabilitatis</a> n</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/32916/rationabiliter">rationabiliter</a> adv</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/32917/rationalabilis-rationalabilis-rationalabile">rationalabilis, rationalabilis, rationalabile</a> adj</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/32918/rationalabiliter">rationalabiliter</a> adv</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/32919/rationalis-rationalis">rationalis, rationalis</a> n</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/32920/rationalis-rationalis-rationale">rationalis, rationalis, rationale</a> adj</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/32921/rationalis-rationalis-rationale">rationalis, rationalis, rationale</a> adj</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/32922/rationalismus-rationalismi">rationalismus, rationalismi</a> n</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/32923/rationalista-rationalistae">rationalista, rationalistae</a> n</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/32924/rationalisticus-rationalistica-rationalisticum">rationalisticus, rationalistica, rationalisticum</a> adj</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/32925/rationalizo-rationalizare-rationalizavi-rationalizatus">rationalizo, rationalizare, rationalizavi, rationalizatus</a> v</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/32926/rationarium-rationarii">rationarium, rationarii</a> n</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/32927/ratis-ratis">ratis, ratis</a> n</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/32928/ratiuncula-ratiunculae">ratiuncula, ratiunculae</a> n</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/32929/ratus-rata-ratum">ratus, rata, ratum</a> adj</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/32930/ratus-rati">ratus, rati</a> n</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/32931/raucisonus-raucisona-raucisonum">raucisonus, raucisona, raucisonum</a> adj</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/32932/raucus-rauca-raucum">raucus, rauca, raucum</a> adj</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/32933/raudus-rauderis">raudus, rauderis</a> n</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/32934/raudusculum-raudusculi">raudusculum, raudusculi</a> n</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/32935/ravacaulis-ravacaulis">ravacaulis, ravacaulis</a> n</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/32936/Ravenna-Ravennae">Ravenna, Ravennae</a> n</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/32937/ravus-rava-ravum">ravus, rava, ravum</a> adj</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/32938/rea-reae">rea, reae</a> n</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/32939/reactrum-reactri">reactrum, reactri</a> n</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/32940/reageo-reagere-reagui-reagitus">reageo, reagere, reagui, reagitus</a> v</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/32941/realis-realis-reale">realis, realis, reale</a> adj</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/32942/realismus-realismi">realismus, realismi</a> n</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/32943/realista-realistae">realista, realistae</a> n</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/32944/realisticus-realistica-realisticum">realisticus, realistica, realisticum</a> adj</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/32945/realitas-realitatis">realitas, realitatis</a> n</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/32946/realiter">realiter</a> adv</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/32947/reapse">reapse</a> adv</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/32948/reatitudo-reatitudinis">reatitudo, reatitudinis</a> n</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/32949/reatus-reatus">reatus, reatus</a> n</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/32950/reatus-reatus">reatus, reatus</a> n</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/32951/rebellatio-rebellationis">rebellatio, rebellationis</a> n</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/32952/rebellatrix-rebellatricis">rebellatrix, rebellatricis</a> n</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/32953/rebellio-rebellionis">rebellio, rebellionis</a> n</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/32954/rebellis-rebellis">rebellis, rebellis</a> n</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/32955/rebellis-rebellis-rebelle">rebellis, rebellis, rebelle</a> adj</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/32956/rebello-rebellare-rebellavi-rebellatus">rebello, rebellare, rebellavi, rebellatus</a> v</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/32957/rebito-rebitere">rebito, rebitere, -, -</a> v</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/32958/reboo-reboare-reboavi-reboatus">reboo, reboare, reboavi, reboatus</a> v</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/32959/recalcitro-recalcitrare">recalcitro, recalcitrare, -, -</a> v</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/32960/recaleo-recalere-recalui">recaleo, recalere, recalui, -</a> v</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/32961/recalesceo-recalescere">recalesceo, recalescere, -, -</a> v</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/32962/recalfacio-recalfacere-recalfeci-recalfactus">recalfacio, recalfacere, recalfeci, recalfactus</a> v</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/32963/recalvaster-recalvastra-recalvastrum">recalvaster, recalvastra, recalvastrum</a> adj</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/32964/recandesco-recandescere-recandui">recandesco, recandescere, recandui, -</a> v</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/32965/recanto-recantare-recantavi-recantatus">recanto, recantare, recantavi, recantatus</a> v</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/32966/recapitulatio-recapitulationis">recapitulatio, recapitulationis</a> n</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/32967/recapitulo-recapitulare-recapitulavi-recapitulatus">recapitulo, recapitulare, recapitulavi, recapitulatus</a> v</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/32968/reccido-reccidere-reccidi-reccasus">reccido, reccidere, reccidi, reccasus</a> v</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/32969/recedo-recedere-recessi-recessus">recedo, recedere, recessi, recessus</a> v</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/32970/recello-recellere">recello, recellere, -, -</a> v</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/32971/recens-gen-recentis">recens, (gen.), recentis</a> adj</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/32972/recenseo-recensere-recensui-recensitus">recenseo, recensere, recensui, recensitus</a> v</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/32973/recenseo-recensere-recensui-recensus">recenseo, recensere, recensui, recensus</a> v</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/32974/recenter-recentius-recentissime">recenter, recentius, recentissime</a> adv</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/32975/receptaculum-receptaculi">receptaculum, receptaculi</a> n</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/32976/receptio-receptionis">receptio, receptionis</a> n</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/32977/recepto-receptare-receptavi-receptatus">recepto, receptare, receptavi, receptatus</a> v</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/32978/receptor-receptoris">receptor, receptoris</a> n</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/32979/receptrix-receptricis">receptrix, receptricis</a> n</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/32980/receptum-recepti">receptum, recepti</a> n</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/32981/receptus-receptus">receptus, receptus</a> n</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/32982/recessus-recessus">recessus, recessus</a> n</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/32983/recidivus-recidiva-recidivum">recidivus, recidiva, recidivum</a> adj</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/32984/recido-recidere-recidi-recasus">recido, recidere, recidi, recasus</a> v</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/32985/recido-recidere-recidi-recisus">recido, recidere, recidi, recisus</a> v</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/32986/recingo-recingere-recinctus">recingo, recingere, -, recinctus</a> v</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/32987/recino-recinere">recino, recinere, -, -</a> v</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/32988/recipeo-recipere-recipui-recipitus">recipeo, recipere, recipui, recipitus</a> v</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/32989/reciperatio-reciperationis">reciperatio, reciperationis</a> n</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/32990/reciperativus-reciperativa-reciperativum">reciperativus, reciperativa, reciperativum</a> adj</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/32991/reciperator-reciperatoris">reciperator, reciperatoris</a> n</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/32992/reciperatorius-reciperatoria-reciperatorium">reciperatorius, reciperatoria, reciperatorium</a> adj</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/32993/recipero-reciperare-reciperavi-reciperatus">recipero, reciperare, reciperavi, reciperatus</a> v</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/32994/recipio-recipere-recepi-receptus">recipio, recipere, recepi, receptus</a> v</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/32995/reciprocatio-reciprocationis">reciprocatio, reciprocationis</a> n</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/32996/reciproco-reciprocare-reciprocavi-reciprocatus">reciproco, reciprocare, reciprocavi, reciprocatus</a> v</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/32997/reciprocus-reciproca-reciprocum">reciprocus, reciproca, reciprocum</a> adj</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/32998/recitator-recitatoris">recitator, recitatoris</a> n</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/32999/recito-recitare-recitavi-recitatus">recito, recitare, recitavi, recitatus</a> v</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/33000/reclamatio-reclamationis">reclamatio, reclamationis</a> n</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/33001/reclamito-reclamitare">reclamito, reclamitare, -, -</a> v</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/33002/reclamo-reclamare-reclamavi-reclamatus">reclamo, reclamare, reclamavi, reclamatus</a> v</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/33003/reclinatorium-reclinatorii">reclinatorium, reclinatorii</a> n</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/33004/reclinis-reclinis-recline">reclinis, reclinis, recline</a> adj</li>
+          <li id="word-199" class="word"><a href="http://www.latin-dictionary.net/definition/33005/reclino-reclinare-reclinavi-reclinatus">reclino, reclinare, reclinavi, reclinatus</a> v</li>
+          <li id="word-200" class="word"><a href="http://www.latin-dictionary.net/definition/33006/recludo-recludere-reclusi-reclusus">recludo, recludere, reclusi, reclusus</a> v</li>
+          <li id="word-201" class="word"><a href="http://www.latin-dictionary.net/definition/33007/recogito-recogitare-recogitavi-recogitatus">recogito, recogitare, recogitavi, recogitatus</a> v</li>
+          <li id="word-202" class="word"><a href="http://www.latin-dictionary.net/definition/33008/recognitio-recognitionis">recognitio, recognitionis</a> n</li>
+          <li id="word-203" class="word"><a href="http://www.latin-dictionary.net/definition/33009/recognitor-recognitoris">recognitor, recognitoris</a> n</li>
+          <li id="word-204" class="word"><a href="http://www.latin-dictionary.net/definition/33010/recognosco-recognoscere-recognovi-recognitus">recognosco, recognoscere, recognovi, recognitus</a> v</li>
+          <li id="word-205" class="word"><a href="http://www.latin-dictionary.net/definition/33011/recolligo-recolligere-recollegi-recollectus">recolligo, recolligere, recollegi, recollectus</a> v</li>
+          <li id="word-206" class="word"><a href="http://www.latin-dictionary.net/definition/33012/recolo-recolere-recolui-recultus">recolo, recolere, recolui, recultus</a> v</li>
+          <li id="word-207" class="word"><a href="http://www.latin-dictionary.net/definition/33013/recomminiscor-recomminisci-recommentus">recomminiscor, recomminisci, recommentus</a> v</li>
+          <li id="word-208" class="word"><a href="http://www.latin-dictionary.net/definition/33014/recompenso-recompensare-recompensavi-recompensatus">recompenso, recompensare, recompensavi, recompensatus</a> v</li>
+          <li id="word-209" class="word"><a href="http://www.latin-dictionary.net/definition/33015/reconciliatio-reconciliationis">reconciliatio, reconciliationis</a> n</li>
+          <li id="word-210" class="word"><a href="http://www.latin-dictionary.net/definition/33016/reconciliator-reconciliatoris">reconciliator, reconciliatoris</a> n</li>
+          <li id="word-211" class="word"><a href="http://www.latin-dictionary.net/definition/33017/reconcilio-reconciliare-reconciliavi-reconciliatus">reconcilio, reconciliare, reconciliavi, reconciliatus</a> v</li>
+          <li id="word-212" class="word"><a href="http://www.latin-dictionary.net/definition/33018/reconcinno-reconcinnare-reconcinnavi-reconcinnatus">reconcinno, reconcinnare, reconcinnavi, reconcinnatus</a> v</li>
+          <li id="word-213" class="word"><a href="http://www.latin-dictionary.net/definition/33019/reconditus-recondita-reconditum">reconditus, recondita, reconditum</a> adj</li>
+          <li id="word-214" class="word"><a href="http://www.latin-dictionary.net/definition/33020/recondo-recondere-recondidi-reconditus">recondo, recondere, recondidi, reconditus</a> v</li>
+          <li id="word-215" class="word"><a href="http://www.latin-dictionary.net/definition/33021/reconflo-reconflare-reconflavi-reconflatus">reconflo, reconflare, reconflavi, reconflatus</a> v</li>
+          <li id="word-216" class="word"><a href="http://www.latin-dictionary.net/definition/33022/recoquo-recoquere-recoxi-recoctus">recoquo, recoquere, recoxi, recoctus</a> v</li>
+          <li id="word-217" class="word"><a href="http://www.latin-dictionary.net/definition/33023/recordatio-recordationis">recordatio, recordationis</a> n</li>
+          <li id="word-218" class="word"><a href="http://www.latin-dictionary.net/definition/33024/recordor-recordari-recordatus">recordor, recordari, recordatus</a> v</li>
+          <li id="word-219" class="word"><a href="http://www.latin-dictionary.net/definition/33025/recreatio-recreationis">recreatio, recreationis</a> n</li>
+          <li id="word-220" class="word"><a href="http://www.latin-dictionary.net/definition/33026/recreo-recreare-recreavi-recreatus">recreo, recreare, recreavi, recreatus</a> v</li>
+          <li id="word-221" class="word"><a href="http://www.latin-dictionary.net/definition/33027/recrepo-recrepare-recrepui">recrepo, recrepare, recrepui, -</a> v</li>
+          <li id="word-222" class="word"><a href="http://www.latin-dictionary.net/definition/33028/recresco-recrescere-recrevi-recretus">recresco, recrescere, recrevi, recretus</a> v</li>
+          <li id="word-223" class="word"><a href="http://www.latin-dictionary.net/definition/33029/recrudesco-recrudescere-recrudui">recrudesco, recrudescere, recrudui, -</a> v</li>
+          <li id="word-224" class="word"><a href="http://www.latin-dictionary.net/definition/33030/recta">recta</a> adv</li>
+          <li id="word-225" class="word"><a href="http://www.latin-dictionary.net/definition/33031/recte">recte</a> adv</li>
+          <li id="word-226" class="word"><a href="http://www.latin-dictionary.net/definition/33032/rectificatio-rectificationis">rectificatio, rectificationis</a> n</li>
+          <li id="word-227" class="word"><a href="http://www.latin-dictionary.net/definition/33033/rectifico-rectificare-rectificavi-rectificatus">rectifico, rectificare, rectificavi, rectificatus</a> v</li>
+          <li id="word-228" class="word"><a href="http://www.latin-dictionary.net/definition/33034/rectilineus-rectilinea-rectilineum">rectilineus, rectilinea, rectilineum</a> adj</li>
+          <li id="word-229" class="word"><a href="http://www.latin-dictionary.net/definition/33035/rectio-rectionis">rectio, rectionis</a> n</li>
+          <li id="word-230" class="word"><a href="http://www.latin-dictionary.net/definition/33036/rectitudo-rectitudinis">rectitudo, rectitudinis</a> n</li>
+          <li id="word-231" class="word"><a href="http://www.latin-dictionary.net/definition/33037/rector-rectoris">rector, rectoris</a> n</li>
+          <li id="word-232" class="word"><a href="http://www.latin-dictionary.net/definition/33038/rectum-recti">rectum, recti</a> n</li>
+          <li id="word-233" class="word"><a href="http://www.latin-dictionary.net/definition/33039/rectus-recta">rectus, recta</a> adj</li>
+          <li id="word-234" class="word"><a href="http://www.latin-dictionary.net/definition/33040/recubitus-recubitus">recubitus, recubitus</a> n</li>
+          <li id="word-235" class="word"><a href="http://www.latin-dictionary.net/definition/33041/recubo-recubare-recubui-recubitus">recubo, recubare, recubui, recubitus</a> v</li>
+          <li id="word-236" class="word"><a href="http://www.latin-dictionary.net/definition/33042/recudeo-recudere-recudui-recuditus">recudeo, recudere, recudui, recuditus</a> v</li>
+          <li id="word-237" class="word"><a href="http://www.latin-dictionary.net/definition/33043/recumbo-recumbere-recubui">recumbo, recumbere, recubui, -</a> v</li>
+          <li id="word-238" class="word"><a href="http://www.latin-dictionary.net/definition/33044/recuperatio-recuperationis">recuperatio, recuperationis</a> n</li>
+          <li id="word-239" class="word"><a href="http://www.latin-dictionary.net/definition/33045/recuperativus-recuperativa-recuperativum">recuperativus, recuperativa, recuperativum</a> adj</li>
+          <li id="word-240" class="word"><a href="http://www.latin-dictionary.net/definition/33046/recuperator-recuperatoris">recuperator, recuperatoris</a> n</li>
+          <li id="word-241" class="word"><a href="http://www.latin-dictionary.net/definition/33047/recuperatorius-recuperatoria-recuperatorium">recuperatorius, recuperatoria, recuperatorium</a> adj</li>
+          <li id="word-242" class="word"><a href="http://www.latin-dictionary.net/definition/33048/recupero-recuperare-recuperavi-recuperatus">recupero, recuperare, recuperavi, recuperatus</a> v</li>
+          <li id="word-243" class="word"><a href="http://www.latin-dictionary.net/definition/33049/recuro-recurare-recuravi-recuratus">recuro, recurare, recuravi, recuratus</a> v</li>
+          <li id="word-244" class="word"><a href="http://www.latin-dictionary.net/definition/33050/recurro-recurrere-recucurri-recursus">recurro, recurrere, recucurri, recursus</a> v</li>
+          <li id="word-245" class="word"><a href="http://www.latin-dictionary.net/definition/33051/recurro-recurrere-recurri-recursus">recurro, recurrere, recurri, recursus</a> v</li>
+          <li id="word-246" class="word"><a href="http://www.latin-dictionary.net/definition/33052/recurso-recursare-recursavi-recursatus">recurso, recursare, recursavi, recursatus</a> v</li>
+          <li id="word-247" class="word"><a href="http://www.latin-dictionary.net/definition/33053/recursus-recursus">recursus, recursus</a> n</li>
+          <li id="word-248" class="word"><a href="http://www.latin-dictionary.net/definition/33054/recurvo-recurvare-recurvavi-recurvatus">recurvo, recurvare, recurvavi, recurvatus</a> v</li>
+          <li id="word-249" class="word"><a href="http://www.latin-dictionary.net/definition/33055/recurvus-recurva-recurvum">recurvus, recurva, recurvum</a> adj</li>
+          <li id="word-250" class="word"><a href="http://www.latin-dictionary.net/definition/33056/recusatio-recusationis">recusatio, recusationis</a> n</li>
+          <li id="word-251" class="word"><a href="http://www.latin-dictionary.net/definition/33057/recuso-recusare-recusavi-recusatus">recuso, recusare, recusavi, recusatus</a> v</li>
+          <li id="word-252" class="word"><a href="http://www.latin-dictionary.net/definition/33058/recussus-recussa-recussum">recussus, recussa, recussum</a> adj</li>
+          <li id="word-253" class="word"><a href="http://www.latin-dictionary.net/definition/33059/recutio-recutere-recussi-recussus">recutio, recutere, recussi, recussus</a> v</li>
+          <li id="word-254" class="word"><a href="http://www.latin-dictionary.net/definition/33060/redactor-redactoris">redactor, redactoris</a> n</li>
+          <li id="word-255" class="word"><a href="http://www.latin-dictionary.net/definition/33061/redambulo-redambulare">redambulo, redambulare, -, -</a> v</li>
+          <li id="word-256" class="word"><a href="http://www.latin-dictionary.net/definition/33062/redamo-redamare">redamo, redamare, -, -</a> v</li>
+          <li id="word-257" class="word"><a href="http://www.latin-dictionary.net/definition/33063/redardesco-redardescere">redardesco, redardescere, -, -</a> v</li>
+          <li id="word-258" class="word"><a href="http://www.latin-dictionary.net/definition/33064/redarguo-redarguere-redargui">redarguo, redarguere, redargui, -</a> v</li>
+          <li id="word-259" class="word"><a href="http://www.latin-dictionary.net/definition/33065/redauspico-redauspicare">redauspico, redauspicare, -, -</a> v</li>
+          <li id="word-260" class="word"><a href="http://www.latin-dictionary.net/definition/33066/reddo-reddere-reddidi-redditus">reddo, reddere, reddidi, redditus</a> v</li>
+          <li id="word-261" class="word"><a href="http://www.latin-dictionary.net/definition/33067/redemptio-redemptionis">redemptio, redemptionis</a> n</li>
+          <li id="word-262" class="word"><a href="http://www.latin-dictionary.net/definition/33068/redemptor-redemptoris">redemptor, redemptoris</a> n</li>
+          <li id="word-263" class="word"><a href="http://www.latin-dictionary.net/definition/33069/redeo-redire-redivi-ii-reditus">redeo, redire, redivi(ii), reditus</a> v</li>
+          <li id="word-264" class="word"><a href="http://www.latin-dictionary.net/definition/33070/redhalo-redhalare">redhalo, redhalare, -, -</a> v</li>
+          <li id="word-265" class="word"><a href="http://www.latin-dictionary.net/definition/33071/redhibeo-redhibere-redhibui-redhibitus">redhibeo, redhibere, redhibui, redhibitus</a> v</li>
+          <li id="word-266" class="word"><a href="http://www.latin-dictionary.net/definition/33072/redicor-redicari-radicatus">redicor, redicari, radicatus</a> v</li>
+          <li id="word-267" class="word"><a href="http://www.latin-dictionary.net/definition/33073/redigo-redigere-redegi-redactus">redigo, redigere, redegi, redactus</a> v</li>
+          <li id="word-268" class="word"><a href="http://www.latin-dictionary.net/definition/33074/redimiculum-redimiculi">redimiculum, redimiculi</a> n</li>
+          <li id="word-269" class="word"><a href="http://www.latin-dictionary.net/definition/33075/redimio-redimire-redimivi-redimitus">redimio, redimire, redimivi, redimitus</a> v</li>
+          <li id="word-270" class="word"><a href="http://www.latin-dictionary.net/definition/33076/redimo-redimere-redemi-redemptus">redimo, redimere, redemi, redemptus</a> v</li>
+          <li id="word-271" class="word"><a href="http://www.latin-dictionary.net/definition/33077/redimo-redimere-redemi-redemptus">redimo, redimere, redemi, redemptus</a> v</li>
+          <li id="word-272" class="word"><a href="http://www.latin-dictionary.net/definition/33078/redimo-redimere-redimi">redimo, redimere, redimi, -</a> v</li>
+          <li id="word-273" class="word"><a href="http://www.latin-dictionary.net/definition/33079/redimo-redimere-redimi">redimo, redimere, redimi, -</a> v</li>
+          <li id="word-274" class="word"><a href="http://www.latin-dictionary.net/definition/33080/redintegro-redintegrare-redintegravi-redintegratus">redintegro, redintegrare, redintegravi, redintegratus</a> v</li>
+          <li id="word-275" class="word"><a href="http://www.latin-dictionary.net/definition/33081/redipiscor-redipisci">redipiscor, redipisci, -</a> v</li>
+          <li id="word-276" class="word"><a href="http://www.latin-dictionary.net/definition/33082/reditio-reditionis">reditio, reditionis</a> n</li>
+          <li id="word-277" class="word"><a href="http://www.latin-dictionary.net/definition/33083/redituarius-redituarii">redituarius, redituarii</a> n</li>
+          <li id="word-278" class="word"><a href="http://www.latin-dictionary.net/definition/33084/reditus-reditus">reditus, reditus</a> n</li>
+          <li id="word-279" class="word"><a href="http://www.latin-dictionary.net/definition/33085/redivia-rediviae">redivia, rediviae</a> n</li>
+          <li id="word-280" class="word"><a href="http://www.latin-dictionary.net/definition/33086/redivivus-rediviva-redivivum">redivivus, rediviva, redivivum</a> adj</li>
+          <li id="word-281" class="word"><a href="http://www.latin-dictionary.net/definition/33087/redoleo-redolere-redolui">redoleo, redolere, redolui, -</a> v</li>
+          <li id="word-282" class="word"><a href="http://www.latin-dictionary.net/definition/33088/redomitus-redomita-redomitum">redomitus, redomita, redomitum</a> adj</li>
+          <li id="word-283" class="word"><a href="http://www.latin-dictionary.net/definition/33089/redono-redonare-redonavi-redonatus">redono, redonare, redonavi, redonatus</a> v</li>
+          <li id="word-284" class="word"><a href="http://www.latin-dictionary.net/definition/33090/redormio-redormire-redormivi-redormitus">redormio, redormire, redormivi, redormitus</a> v</li>
+          <li id="word-285" class="word"><a href="http://www.latin-dictionary.net/definition/33091/redormisco-redormiscere">redormisco, redormiscere, -, -</a> v</li>
+          <li id="word-286" class="word"><a href="http://www.latin-dictionary.net/definition/33092/reduco-reducere-reduxi-reductus">reduco, reducere, reduxi, reductus</a> v</li>
+          <li id="word-287" class="word"><a href="http://www.latin-dictionary.net/definition/33093/reductivus-reductiva-reductivum">reductivus, reductiva, reductivum</a> adj</li>
+          <li id="word-288" class="word"><a href="http://www.latin-dictionary.net/definition/33094/reductor-reductoris">reductor, reductoris</a> n</li>
+          <li id="word-289" class="word"><a href="http://www.latin-dictionary.net/definition/33095/reductus-reducta-reductum">reductus, reducta, reductum</a> adj</li>
+          <li id="word-290" class="word"><a href="http://www.latin-dictionary.net/definition/33096/reduncus-redunca-reduncum">reduncus, redunca, reduncum</a> adj</li>
+          <li id="word-291" class="word"><a href="http://www.latin-dictionary.net/definition/33097/redundantia-redundantiae">redundantia, redundantiae</a> n</li>
+          <li id="word-292" class="word"><a href="http://www.latin-dictionary.net/definition/33098/redundo-redundare-redundavi-redundatus">redundo, redundare, redundavi, redundatus</a> v</li>
+          <li id="word-293" class="word"><a href="http://www.latin-dictionary.net/definition/33099/reduntantia-reduntantiae">reduntantia, reduntantiae</a> n</li>
+          <li id="word-294" class="word"><a href="http://www.latin-dictionary.net/definition/33100/reduvia-reduviae">reduvia, reduviae</a> n</li>
+          <li id="word-295" class="word"><a href="http://www.latin-dictionary.net/definition/33101/redux-gen-reducis">redux, (gen.), reducis</a> adj</li>
+          <li id="word-296" class="word"><a href="http://www.latin-dictionary.net/definition/33102/refactor-refactoris">refactor, refactoris</a> n</li>
+          <li id="word-297" class="word"><a href="http://www.latin-dictionary.net/definition/33103/refectio-refectionis">refectio, refectionis</a> n</li>
+          <li id="word-298" class="word"><a href="http://www.latin-dictionary.net/definition/33104/refectio-refectionis">refectio, refectionis</a> n</li>
+          <li id="word-299" class="word"><a href="http://www.latin-dictionary.net/definition/33105/refector-refectoris">refector, refectoris</a> n</li>
+          <li id="word-300" class="word"><a href="http://www.latin-dictionary.net/definition/33106/refectorium-refectorii">refectorium, refectorii</a> n</li>
+          <li id="word-301" class="word"><a href="http://www.latin-dictionary.net/definition/33107/refectorius-refectoria-refectorium">refectorius, refectoria, refectorium</a> adj</li>
+          <li id="word-302" class="word"><a href="http://www.latin-dictionary.net/definition/33108/refello-refellere-refelli">refello, refellere, refelli, -</a> v</li>
+          <li id="word-303" class="word"><a href="http://www.latin-dictionary.net/definition/33109/refercio-refercire-refersi-refertus">refercio, refercire, refersi, refertus</a> v</li>
+          <li id="word-304" class="word"><a href="http://www.latin-dictionary.net/definition/33110/referendarius-referendarii">referendarius, referendarii</a> n</li>
+          <li id="word-305" class="word"><a href="http://www.latin-dictionary.net/definition/33111/referio-referire">referio, referire, -, -</a> v</li>
+          <li id="word-306" class="word"><a href="http://www.latin-dictionary.net/definition/33112/refero-referre-rettuli-relatus">refero, referre, rettuli, relatus</a> v</li>
+          <li id="word-307" class="word"><a href="http://www.latin-dictionary.net/definition/33113/refero-referre-rettuli-relatus">refero, referre, rettuli, relatus</a> v</li>
+          <li id="word-308" class="word"><a href="http://www.latin-dictionary.net/definition/33114/refero-referre-rettuli-relatus">refero, referre, rettuli, relatus</a> v</li>
+          <li id="word-309" class="word"><a href="http://www.latin-dictionary.net/definition/33115/refero-referre-retuli-relatus">refero, referre, retuli, relatus</a> v</li>
+          <li id="word-310" class="word"><a href="http://www.latin-dictionary.net/definition/33116/refero-referre-retuli-relatus">refero, referre, retuli, relatus</a> v</li>
+          <li id="word-311" class="word"><a href="http://www.latin-dictionary.net/definition/33117/refero-referre-retuli-relatus">refero, referre, retuli, relatus</a> v</li>
+          <li id="word-312" class="word"><a href="http://www.latin-dictionary.net/definition/33118/refert-referre-retulit-relatus">refert, referre, retulit, relatus</a> v</li>
+          <li id="word-313" class="word"><a href="http://www.latin-dictionary.net/definition/33119/refertus-referta">refertus, referta</a> adj</li>
+          <li id="word-314" class="word"><a href="http://www.latin-dictionary.net/definition/33120/referveo-refervere">referveo, refervere, -, -</a> v</li>
+          <li id="word-315" class="word"><a href="http://www.latin-dictionary.net/definition/33121/reficio-reficere-refeci-refectus">reficio, reficere, refeci, refectus</a> v</li>
+          <li id="word-316" class="word"><a href="http://www.latin-dictionary.net/definition/33122/refigo-refigere-refixi-refixus">refigo, refigere, refixi, refixus</a> v</li>
+          <li id="word-317" class="word"><a href="http://www.latin-dictionary.net/definition/33123/refingo-refingere">refingo, refingere, -, -</a> v</li>
+          <li id="word-318" class="word"><a href="http://www.latin-dictionary.net/definition/33124/reflagito-reflagitare">reflagito, reflagitare, -, -</a> v</li>
+          <li id="word-319" class="word"><a href="http://www.latin-dictionary.net/definition/33125/reflatus-reflatus">reflatus, reflatus</a> n</li>
+          <li id="word-320" class="word"><a href="http://www.latin-dictionary.net/definition/33126/reflecto-reflectere-reflexi-reflexus">reflecto, reflectere, reflexi, reflexus</a> v</li>
+          <li id="word-321" class="word"><a href="http://www.latin-dictionary.net/definition/33127/reflo-reflare-reflavi-reflatus">reflo, reflare, reflavi, reflatus</a> v</li>
+          <li id="word-322" class="word"><a href="http://www.latin-dictionary.net/definition/33128/refluo-refluere">refluo, refluere, -, -</a> v</li>
+          <li id="word-323" class="word"><a href="http://www.latin-dictionary.net/definition/33129/refluus-reflua-refluum">refluus, reflua, refluum</a> adj</li>
+          <li id="word-324" class="word"><a href="http://www.latin-dictionary.net/definition/33130/refocillatio-refocillationis">refocillatio, refocillationis</a> n</li>
+          <li id="word-325" class="word"><a href="http://www.latin-dictionary.net/definition/33131/refocillatrix-refocillatricis">refocillatrix, refocillatricis</a> n</li>
+          <li id="word-326" class="word"><a href="http://www.latin-dictionary.net/definition/33132/refocillo-refocillare-refocillavi-refocillatus">refocillo, refocillare, refocillavi, refocillatus</a> v</li>
+          <li id="word-327" class="word"><a href="http://www.latin-dictionary.net/definition/33133/refocilo-refocilare-refocilavi-refocilatus">refocilo, refocilare, refocilavi, refocilatus</a> v</li>
+          <li id="word-328" class="word"><a href="http://www.latin-dictionary.net/definition/33134/reformatio-reformationis">reformatio, reformationis</a> n</li>
+          <li id="word-329" class="word"><a href="http://www.latin-dictionary.net/definition/33135/reformido-reformidare-reformidavi-reformidatus">reformido, reformidare, reformidavi, reformidatus</a> v</li>
+          <li id="word-330" class="word"><a href="http://www.latin-dictionary.net/definition/33136/reformo-reformare-reformavi-reformatus">reformo, reformare, reformavi, reformatus</a> v</li>
+          <li id="word-331" class="word"><a href="http://www.latin-dictionary.net/definition/33137/refoveo-refovere-refovi-refotus">refoveo, refovere, refovi, refotus</a> v</li>
+          <li id="word-332" class="word"><a href="http://www.latin-dictionary.net/definition/33138/refractariolus-refractariola-refractariolum">refractariolus, refractariola, refractariolum</a> adj</li>
+          <li id="word-333" class="word"><a href="http://www.latin-dictionary.net/definition/33139/refractio-refractionis">refractio, refractionis</a> n</li>
+          <li id="word-334" class="word"><a href="http://www.latin-dictionary.net/definition/33140/refragatio-refragationis">refragatio, refragationis</a> n</li>
+          <li id="word-335" class="word"><a href="http://www.latin-dictionary.net/definition/33141/refragor-refragari-refragatus">refragor, refragari, refragatus</a> v</li>
+          <li id="word-336" class="word"><a href="http://www.latin-dictionary.net/definition/33142/refrangibilitas-refrangibilitatis">refrangibilitas, refrangibilitatis</a> n</li>
+          <li id="word-337" class="word"><a href="http://www.latin-dictionary.net/definition/33143/refreno-refrenare-refrenavi-refrenatus">refreno, refrenare, refrenavi, refrenatus</a> v</li>
+          <li id="word-338" class="word"><a href="http://www.latin-dictionary.net/definition/33144/refrico-refricare-refricavi-refricatus">refrico, refricare, refricavi, refricatus</a> v</li>
+          <li id="word-339" class="word"><a href="http://www.latin-dictionary.net/definition/33145/refrigeratio-refrigerationis">refrigeratio, refrigerationis</a> n</li>
+          <li id="word-340" class="word"><a href="http://www.latin-dictionary.net/definition/33146/refrigerium-refrigeri-i">refrigerium, refrigeri(i)</a> n</li>
+          <li id="word-341" class="word"><a href="http://www.latin-dictionary.net/definition/33147/refrigero-refrigerare-refrigeravi-refrigeratus">refrigero, refrigerare, refrigeravi, refrigeratus</a> v</li>
+          <li id="word-342" class="word"><a href="http://www.latin-dictionary.net/definition/33148/refrigesco-refrigescere-refrixi">refrigesco, refrigescere, refrixi, -</a> v</li>
+          <li id="word-343" class="word"><a href="http://www.latin-dictionary.net/definition/33149/refringo-refringere-refregi-refractus">refringo, refringere, refregi, refractus</a> v</li>
+          <li id="word-344" class="word"><a href="http://www.latin-dictionary.net/definition/33150/refugio-refugere-refugi">refugio, refugere, refugi, -</a> v</li>
+          <li id="word-345" class="word"><a href="http://www.latin-dictionary.net/definition/33151/refugium-refugi-i">refugium, refugi(i)</a> n</li>
+          <li id="word-346" class="word"><a href="http://www.latin-dictionary.net/definition/33152/refugus-refuga-refugum">refugus, refuga, refugum</a> adj</li>
+          <li id="word-347" class="word"><a href="http://www.latin-dictionary.net/definition/33153/refulgeo-refulgere-refulsi">refulgeo, refulgere, refulsi, -</a> v</li>
+          <li id="word-348" class="word"><a href="http://www.latin-dictionary.net/definition/33154/refulgo-refulgere-refulsi">refulgo, refulgere, refulsi, -</a> v</li>
+          <li id="word-349" class="word"><a href="http://www.latin-dictionary.net/definition/33155/refundo-refundere-refudi-refusus">refundo, refundere, refudi, refusus</a> v</li>
+          <li id="word-350" class="word"><a href="http://www.latin-dictionary.net/definition/33156/refutatio-refutationis">refutatio, refutationis</a> n</li>
+          <li id="word-351" class="word"><a href="http://www.latin-dictionary.net/definition/33157/refutatus-refutatus">refutatus, refutatus</a> n</li>
+          <li id="word-352" class="word"><a href="http://www.latin-dictionary.net/definition/33158/refuto-refutare-refutavi-refutatus">refuto, refutare, refutavi, refutatus</a> v</li>
+          <li id="word-353" class="word"><a href="http://www.latin-dictionary.net/definition/33159/regalis-regalis-regale">regalis, regalis, regale</a> adj</li>
+          <li id="word-354" class="word"><a href="http://www.latin-dictionary.net/definition/33160/regeneratio-regenerationis">regeneratio, regenerationis</a> n</li>
+          <li id="word-355" class="word"><a href="http://www.latin-dictionary.net/definition/33161/regero-regerere-regessi-regestus">regero, regerere, regessi, regestus</a> v</li>
+          <li id="word-356" class="word"><a href="http://www.latin-dictionary.net/definition/33162/regia-regiae">regia, regiae</a> n</li>
+          <li id="word-357" class="word"><a href="http://www.latin-dictionary.net/definition/33163/regificus-regifica-regificum">regificus, regifica, regificum</a> adj</li>
+          <li id="word-358" class="word"><a href="http://www.latin-dictionary.net/definition/33164/regigno-regignere-regenui-regenitus">regigno, regignere, regenui, regenitus</a> v</li>
+          <li id="word-359" class="word"><a href="http://www.latin-dictionary.net/definition/33165/regimen-regiminis">regimen, regiminis</a> n</li>
+          <li id="word-360" class="word"><a href="http://www.latin-dictionary.net/definition/33166/regina-reginae">regina, reginae</a> n</li>
+          <li id="word-361" class="word"><a href="http://www.latin-dictionary.net/definition/33167/regio-regionis">regio, regionis</a> n</li>
+          <li id="word-362" class="word"><a href="http://www.latin-dictionary.net/definition/33168/regionalismus-regionalismi">regionalismus, regionalismi</a> n</li>
+          <li id="word-363" class="word"><a href="http://www.latin-dictionary.net/definition/33169/regius-regia-regium">regius, regia, regium</a> adj</li>
+          <li id="word-364" class="word"><a href="http://www.latin-dictionary.net/definition/33170/reglutino-reglutinare-reglutinavi-reglutinatus">reglutino, reglutinare, reglutinavi, reglutinatus</a> v</li>
+          <li id="word-365" class="word"><a href="http://www.latin-dictionary.net/definition/33171/regnator-regnatoris">regnator, regnatoris</a> n</li>
+          <li id="word-366" class="word"><a href="http://www.latin-dictionary.net/definition/33172/regnatrix-gen-regnatricis">regnatrix, (gen.), regnatricis</a> adj</li>
+          <li id="word-367" class="word"><a href="http://www.latin-dictionary.net/definition/33173/regno-regnare-regnavi-regnatus">regno, regnare, regnavi, regnatus</a> v</li>
+          <li id="word-368" class="word"><a href="http://www.latin-dictionary.net/definition/33174/regnum-regni">regnum, regni</a> n</li>
+          <li id="word-369" class="word"><a href="http://www.latin-dictionary.net/definition/33175/rego-regere-rexi-rectus">rego, regere, rexi, rectus</a> v</li>
+          <li id="word-370" class="word"><a href="http://www.latin-dictionary.net/definition/33176/regredior-regredi-regressus">regredior, regredi, regressus</a> v</li>
+          <li id="word-371" class="word"><a href="http://www.latin-dictionary.net/definition/33177/regressivus-regressiva-regressivum">regressivus, regressiva, regressivum</a> adj</li>
+          <li id="word-372" class="word"><a href="http://www.latin-dictionary.net/definition/33178/regressus-regressus">regressus, regressus</a> n</li>
+          <li id="word-373" class="word"><a href="http://www.latin-dictionary.net/definition/33179/regula-regulae">regula, regulae</a> n</li>
+          <li id="word-374" class="word"><a href="http://www.latin-dictionary.net/definition/33180/regularis-regularis-regulare">regularis, regularis, regulare</a> adj</li>
+          <li id="word-375" class="word"><a href="http://www.latin-dictionary.net/definition/33181/regularis-regularis-regulare">regularis, regularis, regulare</a> adj</li>
+          <li id="word-376" class="word"><a href="http://www.latin-dictionary.net/definition/33182/regulariter">regulariter</a> adv</li>
+          <li id="word-377" class="word"><a href="http://www.latin-dictionary.net/definition/33183/regulatim">regulatim</a> adv</li>
+          <li id="word-378" class="word"><a href="http://www.latin-dictionary.net/definition/33184/regulus-reguli">regulus, reguli</a> n</li>
+          <li id="word-379" class="word"><a href="http://www.latin-dictionary.net/definition/33185/Regulus-Reguli">Regulus, Reguli</a> n</li>
+          <li id="word-380" class="word"><a href="http://www.latin-dictionary.net/definition/33186/regusto-regustare-regustavi-regustatus">regusto, regustare, regustavi, regustatus</a> v</li>
+          <li id="word-381" class="word"><a href="http://www.latin-dictionary.net/definition/33187/rehendo-rehendere-rehendi-rehensus">rehendo, rehendere, rehendi, rehensus</a> v</li>
+          <li id="word-382" class="word"><a href="http://www.latin-dictionary.net/definition/33188/reicio-reicere-rejeci-rejectus">reicio, reicere, rejeci, rejectus</a> v</li>
+          <li id="word-383" class="word"><a href="http://www.latin-dictionary.net/definition/33189/reiculus-reicula-reiculum">reiculus, reicula, reiculum</a> adj</li>
+          <li id="word-384" class="word"><a href="http://www.latin-dictionary.net/definition/33190/reimpressio-reimpressionis">reimpressio, reimpressionis</a> n</li>
+          <li id="word-385" class="word"><a href="http://www.latin-dictionary.net/definition/33191/reimprimeo-reimprimere-reimprimui-reimprimitus">reimprimeo, reimprimere, reimprimui, reimprimitus</a> v</li>
+          <li id="word-386" class="word"><a href="http://www.latin-dictionary.net/definition/33192/reincarnatio-reincarnationis">reincarnatio, reincarnationis</a> n</li>
+          <li id="word-387" class="word"><a href="http://www.latin-dictionary.net/definition/33193/rejectaneus-rejectanea-rejectaneum">rejectaneus, rejectanea, rejectaneum</a> adj</li>
+          <li id="word-388" class="word"><a href="http://www.latin-dictionary.net/definition/33194/rejectio-rejectionis">rejectio, rejectionis</a> n</li>
+          <li id="word-389" class="word"><a href="http://www.latin-dictionary.net/definition/33195/rejecto-rejectare-rejectavi-rejectatus">rejecto, rejectare, rejectavi, rejectatus</a> v</li>
+          <li id="word-390" class="word"><a href="http://www.latin-dictionary.net/definition/33196/rejicio-rejicere-rejeci-rejectus">rejicio, rejicere, rejeci, rejectus</a> v</li>
+          <li id="word-391" class="word"><a href="http://www.latin-dictionary.net/definition/33197/relabor-relabi-relapsus">relabor, relabi, relapsus</a> v</li>
+          <li id="word-392" class="word"><a href="http://www.latin-dictionary.net/definition/33198/relanguesco-relanguescere-relangui">relanguesco, relanguescere, relangui, -</a> v</li>
+          <li id="word-393" class="word"><a href="http://www.latin-dictionary.net/definition/33199/relapsus-relapsus">relapsus, relapsus</a> n</li>
+          <li id="word-394" class="word"><a href="http://www.latin-dictionary.net/definition/33200/relatio-relationis">relatio, relationis</a> n</li>
+          <li id="word-395" class="word"><a href="http://www.latin-dictionary.net/definition/33201/relatio-relationis">relatio, relationis</a> n</li>
+          <li id="word-396" class="word"><a href="http://www.latin-dictionary.net/definition/33202/relatio-relationis">relatio, relationis</a> n</li>
+          <li id="word-397" class="word"><a href="http://www.latin-dictionary.net/definition/33203/relationalis-relationalis-relationale">relationalis, relationalis, relationale</a> adj</li>
+          <li id="word-398" class="word"><a href="http://www.latin-dictionary.net/definition/33204/relative">relative</a> adv</li>
+          <li id="word-399" class="word"><a href="http://www.latin-dictionary.net/definition/33205/relativismus-relativismi">relativismus, relativismi</a> n</li>
+          <li id="word-400" class="word"><a href="http://www.latin-dictionary.net/definition/33206/relativisticus-relativistica-relativisticum">relativisticus, relativistica, relativisticum</a> adj</li>
+          <li id="word-401" class="word"><a href="http://www.latin-dictionary.net/definition/33207/relativitas-relativitatis">relativitas, relativitatis</a> n</li>
+          <li id="word-402" class="word"><a href="http://www.latin-dictionary.net/definition/33208/relativus-relativa-relativum">relativus, relativa, relativum</a> adj</li>
+          <li id="word-403" class="word"><a href="http://www.latin-dictionary.net/definition/33209/relator-relatoris">relator, relatoris</a> n</li>
+          <li id="word-404" class="word"><a href="http://www.latin-dictionary.net/definition/33210/relatus-relatus">relatus, relatus</a> n</li>
+          <li id="word-405" class="word"><a href="http://www.latin-dictionary.net/definition/33211/relaxo-relaxare-relaxavi-relaxatus">relaxo, relaxare, relaxavi, relaxatus</a> v</li>
+          <li id="word-406" class="word"><a href="http://www.latin-dictionary.net/definition/33212/relegatio-relegationis">relegatio, relegationis</a> n</li>
+          <li id="word-407" class="word"><a href="http://www.latin-dictionary.net/definition/33213/relego-relegare-relegavi-relegatus">relego, relegare, relegavi, relegatus</a> v</li>
+          <li id="word-408" class="word"><a href="http://www.latin-dictionary.net/definition/33214/relego-relegere-relegi-relectus">relego, relegere, relegi, relectus</a> v</li>
+          <li id="word-409" class="word"><a href="http://www.latin-dictionary.net/definition/33215/relentesco-relentescere">relentesco, relentescere, -, -</a> v</li>
+          <li id="word-410" class="word"><a href="http://www.latin-dictionary.net/definition/33216/relevium-relevii">relevium, relevii</a> n</li>
+          <li id="word-411" class="word"><a href="http://www.latin-dictionary.net/definition/33217/relevo-relevare-relevavi-relevatus">relevo, relevare, relevavi, relevatus</a> v</li>
+          <li id="word-412" class="word"><a href="http://www.latin-dictionary.net/definition/33218/relictio-relictionis">relictio, relictionis</a> n</li>
+          <li id="word-413" class="word"><a href="http://www.latin-dictionary.net/definition/33219/relictum-relicti">relictum, relicti</a> n</li>
+          <li id="word-414" class="word"><a href="http://www.latin-dictionary.net/definition/33220/relictus-relicta">relictus, relicta</a> adj</li>
+          <li id="word-415" class="word"><a href="http://www.latin-dictionary.net/definition/33221/relicum-relici">relicum, relici</a> n</li>
+          <li id="word-416" class="word"><a href="http://www.latin-dictionary.net/definition/33222/relicum-relici">relicum, relici</a> n</li>
+          <li id="word-417" class="word"><a href="http://www.latin-dictionary.net/definition/33223/relicus-relica-relicum">relicus, relica, relicum</a> adj</li>
+          <li id="word-418" class="word"><a href="http://www.latin-dictionary.net/definition/33224/relicuum-relicui">relicuum, relicui</a> n</li>
+          <li id="word-419" class="word"><a href="http://www.latin-dictionary.net/definition/33225/relicuum-relicui">relicuum, relicui</a> n</li>
+          <li id="word-420" class="word"><a href="http://www.latin-dictionary.net/definition/33226/relicuus-relicua-relicuum">relicuus, relicua, relicuum</a> adj</li>
+          <li id="word-421" class="word"><a href="http://www.latin-dictionary.net/definition/33227/relido-relidere-relisi-relisus">relido, relidere, relisi, relisus</a> v</li>
+          <li id="word-422" class="word"><a href="http://www.latin-dictionary.net/definition/33228/religatio-religationis">religatio, religationis</a> n</li>
+          <li id="word-423" class="word"><a href="http://www.latin-dictionary.net/definition/33229/religio-religionis">religio, religionis</a> n</li>
+          <li id="word-424" class="word"><a href="http://www.latin-dictionary.net/definition/33230/religio-religionis">religio, religionis</a> n</li>
+          <li id="word-425" class="word"><a href="http://www.latin-dictionary.net/definition/33231/religiose">religiose</a> adv</li>
+          <li id="word-426" class="word"><a href="http://www.latin-dictionary.net/definition/33232/religiositas-religiositatis">religiositas, religiositatis</a> n</li>
+          <li id="word-427" class="word"><a href="http://www.latin-dictionary.net/definition/33233/religiosus-religiosa-religiosum">religiosus, religiosa, religiosum</a> adj</li>
+          <li id="word-428" class="word"><a href="http://www.latin-dictionary.net/definition/33234/religiosus-religiosi">religiosus, religiosi</a> n</li>
+          <li id="word-429" class="word"><a href="http://www.latin-dictionary.net/definition/33235/religo-religare-religavi-religatus">religo, religare, religavi, religatus</a> v</li>
+          <li id="word-430" class="word"><a href="http://www.latin-dictionary.net/definition/33236/relino-relinere-relinevi-relinitus">relino, relinere, relinevi, relinitus</a> v</li>
+          <li id="word-431" class="word"><a href="http://www.latin-dictionary.net/definition/33237/relinquo-relinquere-reliqui-relictus">relinquo, relinquere, reliqui, relictus</a> v</li>
+          <li id="word-432" class="word"><a href="http://www.latin-dictionary.net/definition/33238/reliquator-reliquatoris">reliquator, reliquatoris</a> n</li>
+          <li id="word-433" class="word"><a href="http://www.latin-dictionary.net/definition/33239/reliquia-reliquiae">reliquia, reliquiae</a> n</li>
+          <li id="word-434" class="word"><a href="http://www.latin-dictionary.net/definition/33240/reliquum-reliqui">reliquum, reliqui</a> n</li>
+          <li id="word-435" class="word"><a href="http://www.latin-dictionary.net/definition/33241/reliquum-reliqui">reliquum, reliqui</a> n</li>
+          <li id="word-436" class="word"><a href="http://www.latin-dictionary.net/definition/33242/reliquus-reliqua-reliquum">reliquus, reliqua, reliquum</a> adj</li>
+          <li id="word-437" class="word"><a href="http://www.latin-dictionary.net/definition/33243/reluceo-relucere-reluxi">reluceo, relucere, reluxi, -</a> v</li>
+          <li id="word-438" class="word"><a href="http://www.latin-dictionary.net/definition/33244/relucesco-relucescere-reluxi">relucesco, relucescere, reluxi, -</a> v</li>
+          <li id="word-439" class="word"><a href="http://www.latin-dictionary.net/definition/33245/reluctor-reluctari-reluctatus">reluctor, reluctari, reluctatus</a> v</li>
+          <li id="word-440" class="word"><a href="http://www.latin-dictionary.net/definition/33246/remaneo-remanere-remansi-remansus">remaneo, remanere, remansi, remansus</a> v</li>
+          <li id="word-441" class="word"><a href="http://www.latin-dictionary.net/definition/33247/remano-remanare-remanavi-remanatus">remano, remanare, remanavi, remanatus</a> v</li>
+          <li id="word-442" class="word"><a href="http://www.latin-dictionary.net/definition/33248/remansio-remansionis">remansio, remansionis</a> n</li>
+          <li id="word-443" class="word"><a href="http://www.latin-dictionary.net/definition/33249/remedium-remedi-i">remedium, remedi(i)</a> n</li>
+          <li id="word-444" class="word"><a href="http://www.latin-dictionary.net/definition/33250/rememoratio-rememorationis">rememoratio, rememorationis</a> n</li>
+          <li id="word-445" class="word"><a href="http://www.latin-dictionary.net/definition/33251/remeo-remeare-remeavi-remeatus">remeo, remeare, remeavi, remeatus</a> v</li>
+          <li id="word-446" class="word"><a href="http://www.latin-dictionary.net/definition/33252/remetior-remetiri-remensus">remetior, remetiri, remensus</a> v</li>
+          <li id="word-447" class="word"><a href="http://www.latin-dictionary.net/definition/33253/remex-remigis">remex, remigis</a> n</li>
+          <li id="word-448" class="word"><a href="http://www.latin-dictionary.net/definition/33254/remigatio-remigationis">remigatio, remigationis</a> n</li>
+          <li id="word-449" class="word"><a href="http://www.latin-dictionary.net/definition/33255/remigium-remigi-i">remigium, remigi(i)</a> n</li>
+          <li id="word-450" class="word"><a href="http://www.latin-dictionary.net/definition/33256/remigo-remigare-remigavi-remigatus">remigo, remigare, remigavi, remigatus</a> v</li>
+          <li id="word-451" class="word"><a href="http://www.latin-dictionary.net/definition/33257/remigro-remigrare-remigravi-remigratus">remigro, remigrare, remigravi, remigratus</a> v</li>
+          <li id="word-452" class="word"><a href="http://www.latin-dictionary.net/definition/33258/reminiscor-reminisci">reminiscor, reminisci, -</a> v</li>
+          <li id="word-453" class="word"><a href="http://www.latin-dictionary.net/definition/33259/remisceo-remiscere-remiscui-remistus">remisceo, remiscere, remiscui, remistus</a> v</li>
+          <li id="word-454" class="word"><a href="http://www.latin-dictionary.net/definition/33260/remisceo-remiscere-remiscui-remixtus">remisceo, remiscere, remiscui, remixtus</a> v</li>
+          <li id="word-455" class="word"><a href="http://www.latin-dictionary.net/definition/33261/remisse-remissius-remississime">remisse, remissius, remississime</a> adv</li>
+          <li id="word-456" class="word"><a href="http://www.latin-dictionary.net/definition/33262/remisse-remissius-remississime">remisse, remissius, remississime</a> adv</li>
+          <li id="word-457" class="word"><a href="http://www.latin-dictionary.net/definition/33263/remissio-remissionis">remissio, remissionis</a> n</li>
+          <li id="word-458" class="word"><a href="http://www.latin-dictionary.net/definition/33264/remissus-remissa">remissus, remissa</a> adj</li>
+          <li id="word-459" class="word"><a href="http://www.latin-dictionary.net/definition/33265/remissus-remissa">remissus, remissa</a> adj</li>
+          <li id="word-460" class="word"><a href="http://www.latin-dictionary.net/definition/33266/remitto-remittere-remisi-remissus">remitto, remittere, remisi, remissus</a> v</li>
+          <li id="word-461" class="word"><a href="http://www.latin-dictionary.net/definition/33267/remolior-remoliri-remolitus">remolior, remoliri, remolitus</a> v</li>
+          <li id="word-462" class="word"><a href="http://www.latin-dictionary.net/definition/33268/remollesco-remollescere">remollesco, remollescere, -, -</a> v</li>
+          <li id="word-463" class="word"><a href="http://www.latin-dictionary.net/definition/33269/remollio-remollire-remollivi-remollitus">remollio, remollire, remollivi, remollitus</a> v</li>
+          <li id="word-464" class="word"><a href="http://www.latin-dictionary.net/definition/33270/remora-remorae">remora, remorae</a> n</li>
+          <li id="word-465" class="word"><a href="http://www.latin-dictionary.net/definition/33271/remoramen-remoraminis">remoramen, remoraminis</a> n</li>
+          <li id="word-466" class="word"><a href="http://www.latin-dictionary.net/definition/33272/remordeo-remordere-remorsus">remordeo, remordere, -, remorsus</a> v</li>
+          <li id="word-467" class="word"><a href="http://www.latin-dictionary.net/definition/33273/remoror-remorari-remoratus">remoror, remorari, remoratus</a> v</li>
+          <li id="word-468" class="word"><a href="http://www.latin-dictionary.net/definition/33274/remote">remote</a> adv</li>
+          <li id="word-469" class="word"><a href="http://www.latin-dictionary.net/definition/33275/remotus-remota-remotum">remotus, remota, remotum</a> adj</li>
+          <li id="word-470" class="word"><a href="http://www.latin-dictionary.net/definition/33276/removeo-removere-removi-remotus">removeo, removere, removi, remotus</a> v</li>
+          <li id="word-471" class="word"><a href="http://www.latin-dictionary.net/definition/33277/remugio-remugire">remugio, remugire, -, -</a> v</li>
+          <li id="word-472" class="word"><a href="http://www.latin-dictionary.net/definition/33278/remulceo-remulcere-remulsi-remulsus">remulceo, remulcere, remulsi, remulsus</a> v</li>
+          <li id="word-473" class="word"><a href="http://www.latin-dictionary.net/definition/33279/remulcum-remulci">remulcum, remulci</a> n</li>
+          <li id="word-474" class="word"><a href="http://www.latin-dictionary.net/definition/33280/remuneratio-remunerationis">remuneratio, remunerationis</a> n</li>
+          <li id="word-475" class="word"><a href="http://www.latin-dictionary.net/definition/33281/remunero-remunerare-remuneravi-remuneratus">remunero, remunerare, remuneravi, remuneratus</a> v</li>
+          <li id="word-476" class="word"><a href="http://www.latin-dictionary.net/definition/33282/remunero-remunerare-remuneravi-remuneratus">remunero, remunerare, remuneravi, remuneratus</a> v</li>
+          <li id="word-477" class="word"><a href="http://www.latin-dictionary.net/definition/33283/remuneror-remunerari-remuneratus">remuneror, remunerari, remuneratus</a> v</li>
+          <li id="word-478" class="word"><a href="http://www.latin-dictionary.net/definition/33284/remurmuro-remurmurare-remurmuravi-remurmuratus">remurmuro, remurmurare, remurmuravi, remurmuratus</a> v</li>
+          <li id="word-479" class="word"><a href="http://www.latin-dictionary.net/definition/33285/remus-remi">remus, remi</a> n</li>
+          <li id="word-480" class="word"><a href="http://www.latin-dictionary.net/definition/33286/ren-renis">ren, renis</a> n</li>
+          <li id="word-481" class="word"><a href="http://www.latin-dictionary.net/definition/33287/renarro-renarrare-renarravi-renarratus">renarro, renarrare, renarravi, renarratus</a> v</li>
+          <li id="word-482" class="word"><a href="http://www.latin-dictionary.net/definition/33288/renascentia-renascentiae">renascentia, renascentiae</a> n</li>
+          <li id="word-483" class="word"><a href="http://www.latin-dictionary.net/definition/33289/renascor-renasci-renatus">renascor, renasci, renatus</a> v</li>
+          <li id="word-484" class="word"><a href="http://www.latin-dictionary.net/definition/33290/renavigo-renavigare-renavigavi-renavigatus">renavigo, renavigare, renavigavi, renavigatus</a> v</li>
+          <li id="word-485" class="word"><a href="http://www.latin-dictionary.net/definition/33291/reneo-renere">reneo, renere, -, -</a> v</li>
+          <li id="word-486" class="word"><a href="http://www.latin-dictionary.net/definition/33292/renidens-gen-renidentis">renidens, (gen.), renidentis</a> adj</li>
+          <li id="word-487" class="word"><a href="http://www.latin-dictionary.net/definition/33293/renideo-renidere">renideo, renidere, -, -</a> v</li>
+          <li id="word-488" class="word"><a href="http://www.latin-dictionary.net/definition/33294/renidesco-renidescere">renidesco, renidescere, -, -</a> v</li>
+          <li id="word-489" class="word"><a href="http://www.latin-dictionary.net/definition/33295/renitor-reniti-renisus">renitor, reniti, renisus</a> v</li>
+          <li id="word-490" class="word"><a href="http://www.latin-dictionary.net/definition/33296/rennuo-rennuere-rennui-rennutus">rennuo, rennuere, rennui, rennutus</a> v</li>
+          <li id="word-491" class="word"><a href="http://www.latin-dictionary.net/definition/33297/reno-renonis">reno, renonis</a> n</li>
+          <li id="word-492" class="word"><a href="http://www.latin-dictionary.net/definition/33298/renodo-renodare-renodavi-renodatus">renodo, renodare, renodavi, renodatus</a> v</li>
+          <li id="word-493" class="word"><a href="http://www.latin-dictionary.net/definition/33299/renovamen-renovaminis">renovamen, renovaminis</a> n</li>
+          <li id="word-494" class="word"><a href="http://www.latin-dictionary.net/definition/33300/renovatio-renovationis">renovatio, renovationis</a> n</li>
+          <li id="word-495" class="word"><a href="http://www.latin-dictionary.net/definition/33301/renovo-renovare-renovavi-renovatus">renovo, renovare, renovavi, renovatus</a> v</li>
+          <li id="word-496" class="word"><a href="http://www.latin-dictionary.net/definition/33302/renumero-renumerare-renumeravi-renumeratus">renumero, renumerare, renumeravi, renumeratus</a> v</li>
+          <li id="word-497" class="word"><a href="http://www.latin-dictionary.net/definition/33303/renuncio-renunciare-renunciavi-renunciatus">renuncio, renunciare, renunciavi, renunciatus</a> v</li>
+          <li id="word-498" class="word"><a href="http://www.latin-dictionary.net/definition/33304/renunculus-renunculi">renunculus, renunculi</a> n</li>
+          <li id="word-499" class="word"><a href="http://www.latin-dictionary.net/definition/33305/renuntiatio-renuntiationis">renuntiatio, renuntiationis</a> n</li>
+          <li id="word-500" class="word"><a href="http://www.latin-dictionary.net/definition/33306/renuntiatio-renuntiationis">renuntiatio, renuntiationis</a> n</li>
+          <li id="word-501" class="word"><a href="http://www.latin-dictionary.net/definition/33307/renuntio-renuntiare-renuntiavi-renuntiatus">renuntio, renuntiare, renuntiavi, renuntiatus</a> v</li>
+          <li id="word-502" class="word"><a href="http://www.latin-dictionary.net/definition/33308/renuo-renuere-renui-renutus">renuo, renuere, renui, renutus</a> v</li>
+          <li id="word-503" class="word"><a href="http://www.latin-dictionary.net/definition/33309/renuto-renutare-renutavi-renutatus">renuto, renutare, renutavi, renutatus</a> v</li>
+          <li id="word-504" class="word"><a href="http://www.latin-dictionary.net/definition/33310/reor-reri-ratus">reor, reri, ratus</a> v</li>
+          <li id="word-505" class="word"><a href="http://www.latin-dictionary.net/definition/33311/repagulum-repaguli">repagulum, repaguli</a> n</li>
+          <li id="word-506" class="word"><a href="http://www.latin-dictionary.net/definition/33312/repandus-repanda-repandum">repandus, repanda, repandum</a> adj</li>
+          <li id="word-507" class="word"><a href="http://www.latin-dictionary.net/definition/33313/reparabilis-reparabilis-reparabile">reparabilis, reparabilis, reparabile</a> adj</li>
+          <li id="word-508" class="word"><a href="http://www.latin-dictionary.net/definition/33314/reparatio-reparationis">reparatio, reparationis</a> n</li>
+          <li id="word-509" class="word"><a href="http://www.latin-dictionary.net/definition/33315/reparco-reparcere">reparco, reparcere, -, -</a> v</li>
+          <li id="word-510" class="word"><a href="http://www.latin-dictionary.net/definition/33316/reparo-reparare-reparavi-reparatus">reparo, reparare, reparavi, reparatus</a> v</li>
+          <li id="word-511" class="word"><a href="http://www.latin-dictionary.net/definition/33317/repastinatio-repastinationis">repastinatio, repastinationis</a> n</li>
+          <li id="word-512" class="word"><a href="http://www.latin-dictionary.net/definition/33318/repatrio-repatrionis">repatrio, repatrionis</a> n</li>
+          <li id="word-513" class="word"><a href="http://www.latin-dictionary.net/definition/33319/repecto-repectere-repexi-repexus">repecto, repectere, repexi, repexus</a> v</li>
+          <li id="word-514" class="word"><a href="http://www.latin-dictionary.net/definition/33320/repedo-repedare-repedavi-repedatus">repedo, repedare, repedavi, repedatus</a> v</li>
+          <li id="word-515" class="word"><a href="http://www.latin-dictionary.net/definition/33321/repello-repellere-reppuli-repulsus">repello, repellere, reppuli, repulsus</a> v</li>
+          <li id="word-516" class="word"><a href="http://www.latin-dictionary.net/definition/33322/repello-repellere-repuli-repulsus">repello, repellere, repuli, repulsus</a> v</li>
+          <li id="word-517" class="word"><a href="http://www.latin-dictionary.net/definition/33323/rependo-rependere-rependi-repensus">rependo, rependere, rependi, repensus</a> v</li>
+          <li id="word-518" class="word"><a href="http://www.latin-dictionary.net/definition/33324/repens-gen-repentis">repens, (gen.), repentis</a> adj</li>
+          <li id="word-519" class="word"><a href="http://www.latin-dictionary.net/definition/33325/repente">repente</a> adv</li>
+          <li id="word-520" class="word"><a href="http://www.latin-dictionary.net/definition/33326/repentinus-repentina-repentinum">repentinus, repentina, repentinum</a> adj</li>
+          <li id="word-521" class="word"><a href="http://www.latin-dictionary.net/definition/33327/reperco-repercere-repeperci">reperco, repercere, repeperci, -</a> v</li>
+          <li id="word-522" class="word"><a href="http://www.latin-dictionary.net/definition/33328/reperco-repercere-repersi">reperco, repercere, repersi, -</a> v</li>
+          <li id="word-523" class="word"><a href="http://www.latin-dictionary.net/definition/33329/repercussio-repercussionis">repercussio, repercussionis</a> n</li>
+          <li id="word-524" class="word"><a href="http://www.latin-dictionary.net/definition/33330/repercussus-repercussus">repercussus, repercussus</a> n</li>
+          <li id="word-525" class="word"><a href="http://www.latin-dictionary.net/definition/33331/repercutio-repercutere-repercussi-repercussus">repercutio, repercutere, repercussi, repercussus</a> v</li>
+          <li id="word-526" class="word"><a href="http://www.latin-dictionary.net/definition/33332/reperio-reperire-repperi-repertus">reperio, reperire, repperi, repertus</a> v</li>
+          <li id="word-527" class="word"><a href="http://www.latin-dictionary.net/definition/33333/repertor-repertoris">repertor, repertoris</a> n</li>
+          <li id="word-528" class="word"><a href="http://www.latin-dictionary.net/definition/33334/repertum-reperti">repertum, reperti</a> n</li>
+          <li id="word-529" class="word"><a href="http://www.latin-dictionary.net/definition/33335/repetitio-repetitionis">repetitio, repetitionis</a> n</li>
+          <li id="word-530" class="word"><a href="http://www.latin-dictionary.net/definition/33336/repetitor-repetitoris">repetitor, repetitoris</a> n</li>
+          <li id="word-531" class="word"><a href="http://www.latin-dictionary.net/definition/33337/repetitus-repetita-repetitum">repetitus, repetita, repetitum</a> adj</li>
+          <li id="word-532" class="word"><a href="http://www.latin-dictionary.net/definition/33338/repeto-repetere-repetivi-repetitus">repeto, repetere, repetivi, repetitus</a> v</li>
+          <li id="word-533" class="word"><a href="http://www.latin-dictionary.net/definition/33339/repetunda-repetundae">repetunda, repetundae</a> n</li>
+          <li id="word-534" class="word"><a href="http://www.latin-dictionary.net/definition/33340/replebilis-replebilis-replebile">replebilis, replebilis, replebile</a> adj</li>
+          <li id="word-535" class="word"><a href="http://www.latin-dictionary.net/definition/33341/replegio-replegiare-replegiavi-replegiatus">replegio, replegiare, replegiavi, replegiatus</a> v</li>
+          <li id="word-536" class="word"><a href="http://www.latin-dictionary.net/definition/33342/repleo-replere-replevi-repletus">repleo, replere, replevi, repletus</a> v</li>
+          <li id="word-537" class="word"><a href="http://www.latin-dictionary.net/definition/33343/repletus-repleta-repletum">repletus, repleta, repletum</a> adj</li>
+          <li id="word-538" class="word"><a href="http://www.latin-dictionary.net/definition/33344/replico-replicare-replicavi-replicatus">replico, replicare, replicavi, replicatus</a> v</li>
+          <li id="word-539" class="word"><a href="http://www.latin-dictionary.net/definition/33345/replico-replicare-replicui-replicitus">replico, replicare, replicui, replicitus</a> v</li>
+          <li id="word-540" class="word"><a href="http://www.latin-dictionary.net/definition/33346/replum-repli">replum, repli</a> n</li>
+          <li id="word-541" class="word"><a href="http://www.latin-dictionary.net/definition/33347/repo-repere-repsi-reptus">repo, repere, repsi, reptus</a> v</li>
+          <li id="word-542" class="word"><a href="http://www.latin-dictionary.net/definition/33348/repono-reponere-reposui-repositus">repono, reponere, reposui, repositus</a> v</li>
+          <li id="word-543" class="word"><a href="http://www.latin-dictionary.net/definition/33349/reporto-reportare-reportavi-reportatus">reporto, reportare, reportavi, reportatus</a> v</li>
+          <li id="word-544" class="word"><a href="http://www.latin-dictionary.net/definition/33350/reposco-reposcere">reposco, reposcere, -, -</a> v</li>
+          <li id="word-545" class="word"><a href="http://www.latin-dictionary.net/definition/33351/repositorium-repositori-i">repositorium, repositori(i)</a> n</li>
+          <li id="word-546" class="word"><a href="http://www.latin-dictionary.net/definition/33352/repositorium-repositorii">repositorium, repositorii</a> n</li>
+          <li id="word-547" class="word"><a href="http://www.latin-dictionary.net/definition/33353/repositus-reposita-repositum">repositus, reposita, repositum</a> adj</li>
+          <li id="word-548" class="word"><a href="http://www.latin-dictionary.net/definition/33354/repostor-repostoris">repostor, repostoris</a> n</li>
+          <li id="word-549" class="word"><a href="http://www.latin-dictionary.net/definition/33355/repostus-reposta-repostum">repostus, reposta, repostum</a> adj</li>
+          <li id="word-550" class="word"><a href="http://www.latin-dictionary.net/definition/33356/repotium-repoti-i">repotium, repoti(i)</a> n</li>
+          <li id="word-551" class="word"><a href="http://www.latin-dictionary.net/definition/33357/repperio-repperire-repperi-reppertus">repperio, repperire, repperi, reppertus</a> v</li>
+          <li id="word-552" class="word"><a href="http://www.latin-dictionary.net/definition/33358/reppertum-repperti">reppertum, repperti</a> n</li>
+          <li id="word-553" class="word"><a href="http://www.latin-dictionary.net/definition/33359/repraesentativus-repraesentativa-repraesentativum">repraesentativus, repraesentativa, repraesentativum</a> adj</li>
+          <li id="word-554" class="word"><a href="http://www.latin-dictionary.net/definition/33360/repraesento-repraesentare-repraesentavi-repraesentatus">repraesento, repraesentare, repraesentavi, repraesentatus</a> v</li>
+          <li id="word-555" class="word"><a href="http://www.latin-dictionary.net/definition/33361/reprehendo-reprehendere-reprehendi-reprehensus">reprehendo, reprehendere, reprehendi, reprehensus</a> v</li>
+          <li id="word-556" class="word"><a href="http://www.latin-dictionary.net/definition/33362/reprehensibilis-reprehensibilis-reprehensibile">reprehensibilis, reprehensibilis, reprehensibile</a> adj</li>
+          <li id="word-557" class="word"><a href="http://www.latin-dictionary.net/definition/33363/reprehensio-reprehensionis">reprehensio, reprehensionis</a> n</li>
+          <li id="word-558" class="word"><a href="http://www.latin-dictionary.net/definition/33364/reprehenso-reprehensare-reprehensavi-reprehensatus">reprehenso, reprehensare, reprehensavi, reprehensatus</a> v</li>
+          <li id="word-559" class="word"><a href="http://www.latin-dictionary.net/definition/33365/reprensio-reprensionis">reprensio, reprensionis</a> n</li>
+          <li id="word-560" class="word"><a href="http://www.latin-dictionary.net/definition/33366/repressor-repressoris">repressor, repressoris</a> n</li>
+          <li id="word-561" class="word"><a href="http://www.latin-dictionary.net/definition/33367/reprimo-reprimere-repressi-repressus">reprimo, reprimere, repressi, repressus</a> v</li>
+          <li id="word-562" class="word"><a href="http://www.latin-dictionary.net/definition/33368/reprobatio-reprobationis">reprobatio, reprobationis</a> n</li>
+          <li id="word-563" class="word"><a href="http://www.latin-dictionary.net/definition/33369/reprobo-reprobare-reprobavi-reprobatus">reprobo, reprobare, reprobavi, reprobatus</a> v</li>
+          <li id="word-564" class="word"><a href="http://www.latin-dictionary.net/definition/33370/reprobus-reproba-reprobum">reprobus, reproba, reprobum</a> adj</li>
+          <li id="word-565" class="word"><a href="http://www.latin-dictionary.net/definition/33371/reproductio-reproductionis">reproductio, reproductionis</a> n</li>
+          <li id="word-566" class="word"><a href="http://www.latin-dictionary.net/definition/33372/repromissio-repromissionis">repromissio, repromissionis</a> n</li>
+          <li id="word-567" class="word"><a href="http://www.latin-dictionary.net/definition/33373/repromissum-repromissi">repromissum, repromissi</a> n</li>
+          <li id="word-568" class="word"><a href="http://www.latin-dictionary.net/definition/33374/repromitto-repromittere-repromisi-repromissus">repromitto, repromittere, repromisi, repromissus</a> v</li>
+          <li id="word-569" class="word"><a href="http://www.latin-dictionary.net/definition/33375/reptatus-reptata-reptatum">reptatus, reptata, reptatum</a> adj</li>
+          <li id="word-570" class="word"><a href="http://www.latin-dictionary.net/definition/33376/reptatus-reptatus">reptatus, reptatus</a> n</li>
+          <li id="word-571" class="word"><a href="http://www.latin-dictionary.net/definition/33377/reptile-reptilis">reptile, reptilis</a> n</li>
+          <li id="word-572" class="word"><a href="http://www.latin-dictionary.net/definition/33378/reptilis-reptilis-reptile">reptilis, reptilis, reptile</a> adj</li>
+          <li id="word-573" class="word"><a href="http://www.latin-dictionary.net/definition/33379/repto-reptare-reptavi-reptatus">repto, reptare, reptavi, reptatus</a> v</li>
+          <li id="word-574" class="word"><a href="http://www.latin-dictionary.net/definition/33380/republicae">republicae</a> n</li>
+          <li id="word-575" class="word"><a href="http://www.latin-dictionary.net/definition/33381/republicanus-republicani">republicanus, republicani</a> n</li>
+          <li id="word-576" class="word"><a href="http://www.latin-dictionary.net/definition/33382/repudiatio-repudiationis">repudiatio, repudiationis</a> n</li>
+          <li id="word-577" class="word"><a href="http://www.latin-dictionary.net/definition/33383/repudio-repudiare-repudiavi-repudiatus">repudio, repudiare, repudiavi, repudiatus</a> v</li>
+          <li id="word-578" class="word"><a href="http://www.latin-dictionary.net/definition/33384/repudium-repudi-i">repudium, repudi(i)</a> n</li>
+          <li id="word-579" class="word"><a href="http://www.latin-dictionary.net/definition/33385/repuerasco-repuerascere">repuerasco, repuerascere, -, -</a> v</li>
+          <li id="word-580" class="word"><a href="http://www.latin-dictionary.net/definition/33386/repugnantia-repugnantiae">repugnantia, repugnantiae</a> n</li>
+          <li id="word-581" class="word"><a href="http://www.latin-dictionary.net/definition/33387/repugno-repugnare-repugnavi-repugnatus">repugno, repugnare, repugnavi, repugnatus</a> v</li>
+          <li id="word-582" class="word"><a href="http://www.latin-dictionary.net/definition/33388/repulsa-repulsae">repulsa, repulsae</a> n</li>
+          <li id="word-583" class="word"><a href="http://www.latin-dictionary.net/definition/33389/repulsivus-repulsiva-repulsivum">repulsivus, repulsiva, repulsivum</a> adj</li>
+          <li id="word-584" class="word"><a href="http://www.latin-dictionary.net/definition/33390/repulso-repulsare-repulsavi-repulsatus">repulso, repulsare, repulsavi, repulsatus</a> v</li>
+          <li id="word-585" class="word"><a href="http://www.latin-dictionary.net/definition/33391/repulsus-repulsus">repulsus, repulsus</a> n</li>
+          <li id="word-586" class="word"><a href="http://www.latin-dictionary.net/definition/33392/repungo-repungere-repepugi-repunctus">repungo, repungere, repepugi, repunctus</a> v</li>
+          <li id="word-587" class="word"><a href="http://www.latin-dictionary.net/definition/33393/repuo-repuare-repuavi-repuatus">repuo, repuare, repuavi, repuatus</a> v</li>
+          <li id="word-588" class="word"><a href="http://www.latin-dictionary.net/definition/33394/repurgo-repurgare-repurgavi-repurgatus">repurgo, repurgare, repurgavi, repurgatus</a> v</li>
+          <li id="word-589" class="word"><a href="http://www.latin-dictionary.net/definition/33395/reputatio-reputationis">reputatio, reputationis</a> n</li>
+          <li id="word-590" class="word"><a href="http://www.latin-dictionary.net/definition/33396/reputo-reputare-reputavi-reputatus">reputo, reputare, reputavi, reputatus</a> v</li>
+          <li id="word-591" class="word"><a href="http://www.latin-dictionary.net/definition/33397/requies-requiei">requies, requiei</a> n</li>
+          <li id="word-592" class="word"><a href="http://www.latin-dictionary.net/definition/33398/requies-requietis">requies, requietis</a> n</li>
+          <li id="word-593" class="word"><a href="http://www.latin-dictionary.net/definition/33399/requiesco-requiescere-requievi-requietus">requiesco, requiescere, requievi, requietus</a> v</li>
+          <li id="word-594" class="word"><a href="http://www.latin-dictionary.net/definition/33400/requietio-requietionis">requietio, requietionis</a> n</li>
+          <li id="word-595" class="word"><a href="http://www.latin-dictionary.net/definition/33401/requietus-requieta-requietum">requietus, requieta, requietum</a> adj</li>
+          <li id="word-596" class="word"><a href="http://www.latin-dictionary.net/definition/33402/requirito-requiritare-requiritavi-requiritatus">requirito, requiritare, requiritavi, requiritatus</a> v</li>
+          <li id="word-597" class="word"><a href="http://www.latin-dictionary.net/definition/33403/requiro-requirere-requisivi-requisitus">requiro, requirere, requisivi, requisitus</a> v</li>
+          <li id="word-598" class="word"><a href="http://www.latin-dictionary.net/definition/33404/res-rei">res, rei</a> n</li>
+          <li id="word-599" class="word"><a href="http://www.latin-dictionary.net/definition/33405/res-undeclined">res, undeclined</a> n</li>
+          <li id="word-600" class="word"><a href="http://www.latin-dictionary.net/definition/33406/resacro-resacrare-resacravi-resacratus">resacro, resacrare, resacravi, resacratus</a> v</li>
+          <li id="word-601" class="word"><a href="http://www.latin-dictionary.net/definition/33407/resaevio-resaevire">resaevio, resaevire, -, -</a> v</li>
+          <li id="word-602" class="word"><a href="http://www.latin-dictionary.net/definition/33408/resaluto-resalutare-resalutavi-resalutatus">resaluto, resalutare, resalutavi, resalutatus</a> v</li>
+          <li id="word-603" class="word"><a href="http://www.latin-dictionary.net/definition/33409/resanesco-resanescere-resanui">resanesco, resanescere, resanui, -</a> v</li>
+          <li id="word-604" class="word"><a href="http://www.latin-dictionary.net/definition/33410/resarcio-resarcire-resarsi-resarsus">resarcio, resarcire, resarsi, resarsus</a> v</li>
+          <li id="word-605" class="word"><a href="http://www.latin-dictionary.net/definition/33411/resarcio-resarcire-resarsi-resartus">resarcio, resarcire, resarsi, resartus</a> v</li>
+          <li id="word-606" class="word"><a href="http://www.latin-dictionary.net/definition/33412/rescindo-rescindere-rescidi-rescissus">rescindo, rescindere, rescidi, rescissus</a> v</li>
+          <li id="word-607" class="word"><a href="http://www.latin-dictionary.net/definition/33413/rescisco-resciscere-rescivi-rescitus">rescisco, resciscere, rescivi, rescitus</a> v</li>
+          <li id="word-608" class="word"><a href="http://www.latin-dictionary.net/definition/33414/rescribo-rescribere-rescripsi-rescriptus">rescribo, rescribere, rescripsi, rescriptus</a> v</li>
+          <li id="word-609" class="word"><a href="http://www.latin-dictionary.net/definition/33415/reseantia-reseantiae">reseantia, reseantiae</a> n</li>
+          <li id="word-610" class="word"><a href="http://www.latin-dictionary.net/definition/33416/reseantisa-reseantisae">reseantisa, reseantisae</a> n</li>
+          <li id="word-611" class="word"><a href="http://www.latin-dictionary.net/definition/33417/reseco-resecare-resecui-resectus">reseco, resecare, resecui, resectus</a> v</li>
+          <li id="word-612" class="word"><a href="http://www.latin-dictionary.net/definition/33418/resecro-resecrare-resecravi-resecratus">resecro, resecrare, resecravi, resecratus</a> v</li>
+          <li id="word-613" class="word"><a href="http://www.latin-dictionary.net/definition/33419/resemino-reseminare-reseminavi-reseminatus">resemino, reseminare, reseminavi, reseminatus</a> v</li>
+          <li id="word-614" class="word"><a href="http://www.latin-dictionary.net/definition/33420/resequor-resequi-resecutus">resequor, resequi, resecutus</a> v</li>
+          <li id="word-615" class="word"><a href="http://www.latin-dictionary.net/definition/33421/resero-reserare-reseravi-reseratus">resero, reserare, reseravi, reseratus</a> v</li>
+          <li id="word-616" class="word"><a href="http://www.latin-dictionary.net/definition/33422/reservo-reservare-reservavi-reservatus">reservo, reservare, reservavi, reservatus</a> v</li>
+          <li id="word-617" class="word"><a href="http://www.latin-dictionary.net/definition/33423/reses-gen-residis">reses, (gen.), residis</a> adj</li>
+          <li id="word-618" class="word"><a href="http://www.latin-dictionary.net/definition/33424/residentia-residentiae">residentia, residentiae</a> n</li>
+          <li id="word-619" class="word"><a href="http://www.latin-dictionary.net/definition/33425/residentialis-residentialis-residentiale">residentialis, residentialis, residentiale</a> adj</li>
+          <li id="word-620" class="word"><a href="http://www.latin-dictionary.net/definition/33426/resideo-residere-resedi-resessus">resideo, residere, resedi, resessus</a> v</li>
+          <li id="word-621" class="word"><a href="http://www.latin-dictionary.net/definition/33427/resideo-residere-resedi-resessus">resideo, residere, resedi, resessus</a> v</li>
+          <li id="word-622" class="word"><a href="http://www.latin-dictionary.net/definition/33428/resido-residere-residi">resido, residere, residi, -</a> v</li>
+          <li id="word-623" class="word"><a href="http://www.latin-dictionary.net/definition/33429/residuus-residua-residuum">residuus, residua, residuum</a> adj</li>
+          <li id="word-624" class="word"><a href="http://www.latin-dictionary.net/definition/33430/resignatio-resignationis">resignatio, resignationis</a> n</li>
+          <li id="word-625" class="word"><a href="http://www.latin-dictionary.net/definition/33431/resigno-resignare-resignavi-resignatus">resigno, resignare, resignavi, resignatus</a> v</li>
+          <li id="word-626" class="word"><a href="http://www.latin-dictionary.net/definition/33432/resilio-resilire-resilui">resilio, resilire, resilui, -</a> v</li>
+          <li id="word-627" class="word"><a href="http://www.latin-dictionary.net/definition/33433/resimus-resima-resimum">resimus, resima, resimum</a> adj</li>
+          <li id="word-628" class="word"><a href="http://www.latin-dictionary.net/definition/33434/resina-resinae">resina, resinae</a> n</li>
+          <li id="word-629" class="word"><a href="http://www.latin-dictionary.net/definition/33435/resinaceus-resinacea-resinaceum">resinaceus, resinacea, resinaceum</a> adj</li>
+          <li id="word-630" class="word"><a href="http://www.latin-dictionary.net/definition/33436/resinaria-resinariae">resinaria, resinariae</a> n</li>
+          <li id="word-631" class="word"><a href="http://www.latin-dictionary.net/definition/33437/resinosus-resinosa-resinosum">resinosus, resinosa, resinosum</a> adj</li>
+          <li id="word-632" class="word"><a href="http://www.latin-dictionary.net/definition/33438/resipicentia-resipicentiae">resipicentia, resipicentiae</a> n</li>
+          <li id="word-633" class="word"><a href="http://www.latin-dictionary.net/definition/33439/resipio-resipere">resipio, resipere, -, -</a> v</li>
+          <li id="word-634" class="word"><a href="http://www.latin-dictionary.net/definition/33440/resipisco-resipiscere-resipivi">resipisco, resipiscere, resipivi, -</a> v</li>
+          <li id="word-635" class="word"><a href="http://www.latin-dictionary.net/definition/33441/resipisco-resipiscere-resipui">resipisco, resipiscere, resipui, -</a> v</li>
+          <li id="word-636" class="word"><a href="http://www.latin-dictionary.net/definition/33442/resisto-resistere-restiti">resisto, resistere, restiti, -</a> v</li>
+          <li id="word-637" class="word"><a href="http://www.latin-dictionary.net/definition/33443/resolutio-resolutionis">resolutio, resolutionis</a> n</li>
+          <li id="word-638" class="word"><a href="http://www.latin-dictionary.net/definition/33444/resolutio-resolutionis">resolutio, resolutionis</a> n</li>
+          <li id="word-639" class="word"><a href="http://www.latin-dictionary.net/definition/33445/resolvo-resolvere-resolvi-resolutus">resolvo, resolvere, resolvi, resolutus</a> v</li>
+          <li id="word-640" class="word"><a href="http://www.latin-dictionary.net/definition/33446/resonabilis-resonabilis-resonabile">resonabilis, resonabilis, resonabile</a> adj</li>
+          <li id="word-641" class="word"><a href="http://www.latin-dictionary.net/definition/33447/resono-resonare-resonavi-resonatus">resono, resonare, resonavi, resonatus</a> v</li>
+          <li id="word-642" class="word"><a href="http://www.latin-dictionary.net/definition/33448/resonus-resona-resonum">resonus, resona, resonum</a> adj</li>
+          <li id="word-643" class="word"><a href="http://www.latin-dictionary.net/definition/33449/resorbeo-resorbere">resorbeo, resorbere, -, -</a> v</li>
+          <li id="word-644" class="word"><a href="http://www.latin-dictionary.net/definition/33450/respecto-respectare-respectavi-respectatus">respecto, respectare, respectavi, respectatus</a> v</li>
+          <li id="word-645" class="word"><a href="http://www.latin-dictionary.net/definition/33451/respectus-respectus">respectus, respectus</a> n</li>
+          <li id="word-646" class="word"><a href="http://www.latin-dictionary.net/definition/33452/respergo-respergere-respersi-respersus">respergo, respergere, respersi, respersus</a> v</li>
+          <li id="word-647" class="word"><a href="http://www.latin-dictionary.net/definition/33453/respersio-respersionis">respersio, respersionis</a> n</li>
+          <li id="word-648" class="word"><a href="http://www.latin-dictionary.net/definition/33454/respicio-respicere-respexi-respectus">respicio, respicere, respexi, respectus</a> v</li>
+          <li id="word-649" class="word"><a href="http://www.latin-dictionary.net/definition/33455/respiramen-respiraminis">respiramen, respiraminis</a> n</li>
+          <li id="word-650" class="word"><a href="http://www.latin-dictionary.net/definition/33456/respiratio-respirationis">respiratio, respirationis</a> n</li>
+          <li id="word-651" class="word"><a href="http://www.latin-dictionary.net/definition/33457/respiratus-respiratus">respiratus, respiratus</a> n</li>
+          <li id="word-652" class="word"><a href="http://www.latin-dictionary.net/definition/33458/respiro-respirare-respiravi-respiratus">respiro, respirare, respiravi, respiratus</a> v</li>
+          <li id="word-653" class="word"><a href="http://www.latin-dictionary.net/definition/33459/resplendeo-resplendere-resplendui">resplendeo, resplendere, resplendui, -</a> v</li>
+          <li id="word-654" class="word"><a href="http://www.latin-dictionary.net/definition/33460/respondeo-respondere-respondi-responsus">respondeo, respondere, respondi, responsus</a> v</li>
+          <li id="word-655" class="word"><a href="http://www.latin-dictionary.net/definition/33461/responsabilis-responsabilis-responsabile">responsabilis, responsabilis, responsabile</a> adj</li>
+          <li id="word-656" class="word"><a href="http://www.latin-dictionary.net/definition/33462/responsabilitas-responsabilitatis">responsabilitas, responsabilitatis</a> n</li>
+          <li id="word-657" class="word"><a href="http://www.latin-dictionary.net/definition/33463/responsalis-responsalis-responsale">responsalis, responsalis, responsale</a> adj</li>
+          <li id="word-658" class="word"><a href="http://www.latin-dictionary.net/definition/33464/responsalitas-responsalitatis">responsalitas, responsalitatis</a> n</li>
+          <li id="word-659" class="word"><a href="http://www.latin-dictionary.net/definition/33465/responsito-responsitare-responsitavi-responsitatus">responsito, responsitare, responsitavi, responsitatus</a> v</li>
+          <li id="word-660" class="word"><a href="http://www.latin-dictionary.net/definition/33466/responso-responsare-responsavi-responsatus">responso, responsare, responsavi, responsatus</a> v</li>
+          <li id="word-661" class="word"><a href="http://www.latin-dictionary.net/definition/33467/responsor-responsoris">responsor, responsoris</a> n</li>
+          <li id="word-662" class="word"><a href="http://www.latin-dictionary.net/definition/33468/responsoria-responsoriae">responsoria, responsoriae</a> n</li>
+          <li id="word-663" class="word"><a href="http://www.latin-dictionary.net/definition/33469/responsorium-responsorii">responsorium, responsorii</a> n</li>
+          <li id="word-664" class="word"><a href="http://www.latin-dictionary.net/definition/33470/responsum-responsi">responsum, responsi</a> n</li>
+          <li id="word-665" class="word"><a href="http://www.latin-dictionary.net/definition/33471/respuo-respuere-respui">respuo, respuere, respui, -</a> v</li>
+          <li id="word-666" class="word"><a href="http://www.latin-dictionary.net/definition/33472/restagno-restagnare-restagnavi-restagnatus">restagno, restagnare, restagnavi, restagnatus</a> v</li>
+          <li id="word-667" class="word"><a href="http://www.latin-dictionary.net/definition/33473/restat-restare-restatus">restat, restare, -, restatus</a> v</li>
+          <li id="word-668" class="word"><a href="http://www.latin-dictionary.net/definition/33474/restauro-restaurare-restauravi-restauratus">restauro, restaurare, restauravi, restauratus</a> v</li>
+          <li id="word-669" class="word"><a href="http://www.latin-dictionary.net/definition/33475/resticula-resticulae">resticula, resticulae</a> n</li>
+          <li id="word-670" class="word"><a href="http://www.latin-dictionary.net/definition/33476/restinctio-restinctionis">restinctio, restinctionis</a> n</li>
+          <li id="word-671" class="word"><a href="http://www.latin-dictionary.net/definition/33477/restinguo-restinguere-restinxi-restinctus">restinguo, restinguere, restinxi, restinctus</a> v</li>
+          <li id="word-672" class="word"><a href="http://www.latin-dictionary.net/definition/33478/restio-restionis">restio, restionis</a> n</li>
+          <li id="word-673" class="word"><a href="http://www.latin-dictionary.net/definition/33479/restipulatio-restipulationis">restipulatio, restipulationis</a> n</li>
+          <li id="word-674" class="word"><a href="http://www.latin-dictionary.net/definition/33480/restipulor-restipulari-restipulatus">restipulor, restipulari, restipulatus</a> v</li>
+          <li id="word-675" class="word"><a href="http://www.latin-dictionary.net/definition/33481/restis-restis">restis, restis</a> n</li>
+          <li id="word-676" class="word"><a href="http://www.latin-dictionary.net/definition/33482/restito-restitare-restitavi-restitatus">restito, restitare, restitavi, restitatus</a> v</li>
+          <li id="word-677" class="word"><a href="http://www.latin-dictionary.net/definition/33483/restituo-restituere-restitui-restitutus">restituo, restituere, restitui, restitutus</a> v</li>
+          <li id="word-678" class="word"><a href="http://www.latin-dictionary.net/definition/33484/restitutio-restitutionis">restitutio, restitutionis</a> n</li>
+          <li id="word-679" class="word"><a href="http://www.latin-dictionary.net/definition/33485/restitutor-restitutoris">restitutor, restitutoris</a> n</li>
+          <li id="word-680" class="word"><a href="http://www.latin-dictionary.net/definition/33486/restitutorius-restitutoria-restitutorium">restitutorius, restitutoria, restitutorium</a> adj</li>
+          <li id="word-681" class="word"><a href="http://www.latin-dictionary.net/definition/33487/resto-restare-restiti">resto, restare, restiti, -</a> v</li>
+          <li id="word-682" class="word"><a href="http://www.latin-dictionary.net/definition/33488/restrictivus-restrictiva-restrictivum">restrictivus, restrictiva, restrictivum</a> adj</li>
+          <li id="word-683" class="word"><a href="http://www.latin-dictionary.net/definition/33489/restrictus-restricta">restrictus, restricta</a> adj</li>
+          <li id="word-684" class="word"><a href="http://www.latin-dictionary.net/definition/33490/restringo-restringere-restrinxi-restrictus">restringo, restringere, restrinxi, restrictus</a> v</li>
+          <li id="word-685" class="word"><a href="http://www.latin-dictionary.net/definition/33491/resulto-resultare-resultavi-resultatus">resulto, resultare, resultavi, resultatus</a> v</li>
+          <li id="word-686" class="word"><a href="http://www.latin-dictionary.net/definition/33492/resummonitio-resummonitionis">resummonitio, resummonitionis</a> n</li>
+          <li id="word-687" class="word"><a href="http://www.latin-dictionary.net/definition/33493/resumo-resumere-resumpsi-resumptus">resumo, resumere, resumpsi, resumptus</a> v</li>
+          <li id="word-688" class="word"><a href="http://www.latin-dictionary.net/definition/33494/resupinus-resupina-resupinum">resupinus, resupina, resupinum</a> adj</li>
+          <li id="word-689" class="word"><a href="http://www.latin-dictionary.net/definition/33495/resurgo-resurgere-resurrexi-resurrectus">resurgo, resurgere, resurrexi, resurrectus</a> v</li>
+          <li id="word-690" class="word"><a href="http://www.latin-dictionary.net/definition/33496/resurrectio-resurrectionis">resurrectio, resurrectionis</a> n</li>
+          <li id="word-691" class="word"><a href="http://www.latin-dictionary.net/definition/33497/resuscito-resuscitare-resuscitavi-resuscitatus">resuscito, resuscitare, resuscitavi, resuscitatus</a> v</li>
+          <li id="word-692" class="word"><a href="http://www.latin-dictionary.net/definition/33498/retardatio-retardationis">retardatio, retardationis</a> n</li>
+          <li id="word-693" class="word"><a href="http://www.latin-dictionary.net/definition/33499/retardo-retardare-retardavi-retardatus">retardo, retardare, retardavi, retardatus</a> v</li>
+          <li id="word-694" class="word"><a href="http://www.latin-dictionary.net/definition/33500/rete-retis">rete, retis</a> n</li>
+          <li id="word-695" class="word"><a href="http://www.latin-dictionary.net/definition/33501/retego-retegere-retexi-retectus">retego, retegere, retexi, retectus</a> v</li>
+          <li id="word-696" class="word"><a href="http://www.latin-dictionary.net/definition/33502/retempto-retemptare-retemptavi-retemptatus">retempto, retemptare, retemptavi, retemptatus</a> v</li>
+          <li id="word-697" class="word"><a href="http://www.latin-dictionary.net/definition/33503/retendo-retendere-retendi-retensus">retendo, retendere, retendi, retensus</a> v</li>
+          <li id="word-698" class="word"><a href="http://www.latin-dictionary.net/definition/33504/retendo-retendere-retendi-retentus">retendo, retendere, retendi, retentus</a> v</li>
+          <li id="word-699" class="word"><a href="http://www.latin-dictionary.net/definition/33505/retentio-retentionis">retentio, retentionis</a> n</li>
+          <li id="word-700" class="word"><a href="http://www.latin-dictionary.net/definition/33506/retento-retentare-retentavi-retentatus">retento, retentare, retentavi, retentatus</a> v</li>
+          <li id="word-701" class="word"><a href="http://www.latin-dictionary.net/definition/33507/retexo-retexere-retexui-retextus">retexo, retexere, retexui, retextus</a> v</li>
+          <li id="word-702" class="word"><a href="http://www.latin-dictionary.net/definition/33508/retiaculum-retiaculi">retiaculum, retiaculi</a> n</li>
+          <li id="word-703" class="word"><a href="http://www.latin-dictionary.net/definition/33509/retiarius-retiari-i">retiarius, retiari(i)</a> n</li>
+          <li id="word-704" class="word"><a href="http://www.latin-dictionary.net/definition/33510/reticeo-reticere-reticui">reticeo, reticere, reticui, -</a> v</li>
+          <li id="word-705" class="word"><a href="http://www.latin-dictionary.net/definition/33511/reticulatus-reticulata-reticulatum">reticulatus, reticulata, reticulatum</a> adj</li>
+          <li id="word-706" class="word"><a href="http://www.latin-dictionary.net/definition/33512/reticulum-reticuli">reticulum, reticuli</a> n</li>
+          <li id="word-707" class="word"><a href="http://www.latin-dictionary.net/definition/33513/reticulum-reticuli">reticulum, reticuli</a> n</li>
+          <li id="word-708" class="word"><a href="http://www.latin-dictionary.net/definition/33514/reticulus-reticuli">reticulus, reticuli</a> n</li>
+          <li id="word-709" class="word"><a href="http://www.latin-dictionary.net/definition/33515/retina-retinae">retina, retinae</a> n</li>
+          <li id="word-710" class="word"><a href="http://www.latin-dictionary.net/definition/33516/retinaculum-retinaculi">retinaculum, retinaculi</a> n</li>
+          <li id="word-711" class="word"><a href="http://www.latin-dictionary.net/definition/33517/retinens-retinentis">retinens, retinentis</a> adj</li>
+          <li id="word-712" class="word"><a href="http://www.latin-dictionary.net/definition/33518/retinentia-retinentiae">retinentia, retinentiae</a> n</li>
+          <li id="word-713" class="word"><a href="http://www.latin-dictionary.net/definition/33519/retineo-retinere-retinui-retentus">retineo, retinere, retinui, retentus</a> v</li>
+          <li id="word-714" class="word"><a href="http://www.latin-dictionary.net/definition/33520/retono-retonare-retonavi-retonatus">retono, retonare, retonavi, retonatus</a> v</li>
+          <li id="word-715" class="word"><a href="http://www.latin-dictionary.net/definition/33521/retorqueo-retorquere-retorsi-retortus">retorqueo, retorquere, retorsi, retortus</a> v</li>
+          <li id="word-716" class="word"><a href="http://www.latin-dictionary.net/definition/33522/retorridus-retorrida-retorridum">retorridus, retorrida, retorridum</a> adj</li>
+          <li id="word-717" class="word"><a href="http://www.latin-dictionary.net/definition/33523/retorta-retortae">retorta, retortae</a> n</li>
+          <li id="word-718" class="word"><a href="http://www.latin-dictionary.net/definition/33524/retracto-retractare-retractavi-retractatus">retracto, retractare, retractavi, retractatus</a> v</li>
+          <li id="word-719" class="word"><a href="http://www.latin-dictionary.net/definition/33525/retractus-retracta-retractum">retractus, retracta, retractum</a> adj</li>
+          <li id="word-720" class="word"><a href="http://www.latin-dictionary.net/definition/33526/retraho-retrahere-retraxi-retractus">retraho, retrahere, retraxi, retractus</a> v</li>
+          <li id="word-721" class="word"><a href="http://www.latin-dictionary.net/definition/33527/retrecto-retrectare-retrectavi-retrectatus">retrecto, retrectare, retrectavi, retrectatus</a> v</li>
+          <li id="word-722" class="word"><a href="http://www.latin-dictionary.net/definition/33528/retribuo-retribuere-retribui-retributus">retribuo, retribuere, retribui, retributus</a> v</li>
+          <li id="word-723" class="word"><a href="http://www.latin-dictionary.net/definition/33529/retributio-retributionis">retributio, retributionis</a> n</li>
+          <li id="word-724" class="word"><a href="http://www.latin-dictionary.net/definition/33530/retro">retro</a> adv</li>
+          <li id="word-725" class="word"><a href="http://www.latin-dictionary.net/definition/33531/retroago-retroagere-retroegi-retroactus">retroago, retroagere, retroegi, retroactus</a> v</li>
+          <li id="word-726" class="word"><a href="http://www.latin-dictionary.net/definition/33532/retrogradatio-retrogradationis">retrogradatio, retrogradationis</a> n</li>
+          <li id="word-727" class="word"><a href="http://www.latin-dictionary.net/definition/33533/retrorsum">retrorsum</a> adv</li>
+          <li id="word-728" class="word"><a href="http://www.latin-dictionary.net/definition/33534/retrorsus">retrorsus</a> adv</li>
+          <li id="word-729" class="word"><a href="http://www.latin-dictionary.net/definition/33535/retroscopicus-retroscopica-retroscopicum">retroscopicus, retroscopica, retroscopicum</a> adj</li>
+          <li id="word-730" class="word"><a href="http://www.latin-dictionary.net/definition/33536/retrospective">retrospective</a> adv</li>
+          <li id="word-731" class="word"><a href="http://www.latin-dictionary.net/definition/33537/retrospectivus-retrospectiva-retrospectivum">retrospectivus, retrospectiva, retrospectivum</a> adj</li>
+          <li id="word-732" class="word"><a href="http://www.latin-dictionary.net/definition/33538/retrotraho-retrotrahere-retrotraxi-retrotractus">retrotraho, retrotrahere, retrotraxi, retrotractus</a> v</li>
+          <li id="word-733" class="word"><a href="http://www.latin-dictionary.net/definition/33539/retroversus">retroversus</a> adv</li>
+          <li id="word-734" class="word"><a href="http://www.latin-dictionary.net/definition/33540/retundo-retundere-rettudi-retunsus">retundo, retundere, rettudi, retunsus</a> v</li>
+          <li id="word-735" class="word"><a href="http://www.latin-dictionary.net/definition/33541/retundo-retundere-retudi-retusus">retundo, retundere, retudi, retusus</a> v</li>
+          <li id="word-736" class="word"><a href="http://www.latin-dictionary.net/definition/33542/retunsus-retunsa">retunsus, retunsa</a> adj</li>
+          <li id="word-737" class="word"><a href="http://www.latin-dictionary.net/definition/33543/retusus-retusa">retusus, retusa</a> adj</li>
+          <li id="word-738" class="word"><a href="http://www.latin-dictionary.net/definition/33544/reubarbarum-reubarbari">reubarbarum, reubarbari</a> n</li>
+          <li id="word-739" class="word"><a href="http://www.latin-dictionary.net/definition/33545/reus-rea-reum">reus, rea, reum</a> adj</li>
+          <li id="word-740" class="word"><a href="http://www.latin-dictionary.net/definition/33546/reus-rei">reus, rei</a> n</li>
+          <li id="word-741" class="word"><a href="http://www.latin-dictionary.net/definition/33547/revalesco-revalescere-revalui">revalesco, revalescere, revalui, -</a> v</li>
+          <li id="word-742" class="word"><a href="http://www.latin-dictionary.net/definition/33548/reveho-revehere-revexi-revectus">reveho, revehere, revexi, revectus</a> v</li>
+          <li id="word-743" class="word"><a href="http://www.latin-dictionary.net/definition/33549/revelatio-revelationis">revelatio, revelationis</a> n</li>
+          <li id="word-744" class="word"><a href="http://www.latin-dictionary.net/definition/33550/revello-revellere-revelli-revulsus">revello, revellere, revelli, revulsus</a> v</li>
+          <li id="word-745" class="word"><a href="http://www.latin-dictionary.net/definition/33551/revello-revellere-revelli-revulsus">revello, revellere, revelli, revulsus</a> v</li>
+          <li id="word-746" class="word"><a href="http://www.latin-dictionary.net/definition/33552/revello-revellere-revulsi-revolsus">revello, revellere, revulsi, revolsus</a> v</li>
+          <li id="word-747" class="word"><a href="http://www.latin-dictionary.net/definition/33553/revello-revellere-revulsi-revolsus">revello, revellere, revulsi, revolsus</a> v</li>
+          <li id="word-748" class="word"><a href="http://www.latin-dictionary.net/definition/33554/revelo-revelare-revelavi-revelatus">revelo, revelare, revelavi, revelatus</a> v</li>
+          <li id="word-749" class="word"><a href="http://www.latin-dictionary.net/definition/33555/revenio-revenire-reveni-reventus">revenio, revenire, reveni, reventus</a> v</li>
+          <li id="word-750" class="word"><a href="http://www.latin-dictionary.net/definition/33556/revera">revera</a> adv</li>
+          <li id="word-751" class="word"><a href="http://www.latin-dictionary.net/definition/33557/reverberatio-reverberationis">reverberatio, reverberationis</a> n</li>
+          <li id="word-752" class="word"><a href="http://www.latin-dictionary.net/definition/33558/reverberatus-reverberata-reverberatum">reverberatus, reverberata, reverberatum</a> adj</li>
+          <li id="word-753" class="word"><a href="http://www.latin-dictionary.net/definition/33559/reverbero-reverberare-reverberavi-reverberatus">reverbero, reverberare, reverberavi, reverberatus</a> v</li>
+          <li id="word-754" class="word"><a href="http://www.latin-dictionary.net/definition/33560/reverendus-reverenda">reverendus, reverenda</a> adj</li>
+          <li id="word-755" class="word"><a href="http://www.latin-dictionary.net/definition/33561/reverens-reverentis">reverens, reverentis</a> adj</li>
+          <li id="word-756" class="word"><a href="http://www.latin-dictionary.net/definition/33562/reverenter-reverentius-reverentissime">reverenter, reverentius, reverentissime</a> adv</li>
+          <li id="word-757" class="word"><a href="http://www.latin-dictionary.net/definition/33563/reverentia-reverentiae">reverentia, reverentiae</a> n</li>
+          <li id="word-758" class="word"><a href="http://www.latin-dictionary.net/definition/33564/revereor-revereri-reveritus">revereor, revereri, reveritus</a> v</li>
+          <li id="word-759" class="word"><a href="http://www.latin-dictionary.net/definition/33565/reversio-reversionis">reversio, reversionis</a> n</li>
+          <li id="word-760" class="word"><a href="http://www.latin-dictionary.net/definition/33566/reverto-revertere-reverti">reverto, revertere, reverti, -</a> v</li>
+          <li id="word-761" class="word"><a href="http://www.latin-dictionary.net/definition/33567/revertor-reverti-reversus">revertor, reverti, reversus</a> v</li>
+          <li id="word-762" class="word"><a href="http://www.latin-dictionary.net/definition/33568/revincio-revincire-revinxi-revinctus">revincio, revincire, revinxi, revinctus</a> v</li>
+          <li id="word-763" class="word"><a href="http://www.latin-dictionary.net/definition/33569/revinco-revincere-revici-revictus">revinco, revincere, revici, revictus</a> v</li>
+          <li id="word-764" class="word"><a href="http://www.latin-dictionary.net/definition/33570/reviresco-revirescere-revirui">reviresco, revirescere, revirui, -</a> v</li>
+          <li id="word-765" class="word"><a href="http://www.latin-dictionary.net/definition/33571/reviso-revisere">reviso, revisere, -, -</a> v</li>
+          <li id="word-766" class="word"><a href="http://www.latin-dictionary.net/definition/33572/revivisco-reviviscere-revivixi">revivisco, reviviscere, revivixi, -</a> v</li>
+          <li id="word-767" class="word"><a href="http://www.latin-dictionary.net/definition/33573/revivo-revivere-revixi-revictus">revivo, revivere, revixi, revictus</a> v</li>
+          <li id="word-768" class="word"><a href="http://www.latin-dictionary.net/definition/33574/revocabilis-revocabilis-revocabile">revocabilis, revocabilis, revocabile</a> adj</li>
+          <li id="word-769" class="word"><a href="http://www.latin-dictionary.net/definition/33575/revocamen-revocaminis">revocamen, revocaminis</a> n</li>
+          <li id="word-770" class="word"><a href="http://www.latin-dictionary.net/definition/33576/revoco-revocare-revocavi-revocatus">revoco, revocare, revocavi, revocatus</a> v</li>
+          <li id="word-771" class="word"><a href="http://www.latin-dictionary.net/definition/33577/revolo-revolare-revolavi-revolatus">revolo, revolare, revolavi, revolatus</a> v</li>
+          <li id="word-772" class="word"><a href="http://www.latin-dictionary.net/definition/33578/revolubilis-revolubilis-revolubile">revolubilis, revolubilis, revolubile</a> adj</li>
+          <li id="word-773" class="word"><a href="http://www.latin-dictionary.net/definition/33579/revolutio-revolutionis">revolutio, revolutionis</a> n</li>
+          <li id="word-774" class="word"><a href="http://www.latin-dictionary.net/definition/33580/revolvo-revolvere-revolvi-revolutus">revolvo, revolvere, revolvi, revolutus</a> v</li>
+          <li id="word-775" class="word"><a href="http://www.latin-dictionary.net/definition/33581/revomo-revomere-revomui">revomo, revomere, revomui, -</a> v</li>
+          <li id="word-776" class="word"><a href="http://www.latin-dictionary.net/definition/33582/rex-regis">rex, regis</a> n</li>
+          <li id="word-777" class="word"><a href="http://www.latin-dictionary.net/definition/33583/rhagadis-rhagadis">rhagadis, rhagadis</a> n</li>
+          <li id="word-778" class="word"><a href="http://www.latin-dictionary.net/definition/33584/rhagadium-rhagadii">rhagadium, rhagadii</a> n</li>
+          <li id="word-779" class="word"><a href="http://www.latin-dictionary.net/definition/33585/rheno-rhenonis">rheno, rhenonis</a> n</li>
+          <li id="word-780" class="word"><a href="http://www.latin-dictionary.net/definition/33586/Rhenus-Rheni">Rhenus, Rheni</a> n</li>
+          <li id="word-781" class="word"><a href="http://www.latin-dictionary.net/definition/33587/rhetor-rhetoris">rhetor, rhetoris</a> n</li>
+          <li id="word-782" class="word"><a href="http://www.latin-dictionary.net/definition/33588/rhetoria-rhetoriae">rhetoria, rhetoriae</a> n</li>
+          <li id="word-783" class="word"><a href="http://www.latin-dictionary.net/definition/33589/rhetorice-rhetorices">rhetorice, rhetorices</a> n</li>
+          <li id="word-784" class="word"><a href="http://www.latin-dictionary.net/definition/33590/rhetoricus-rhetorica-rhetoricum">rhetoricus, rhetorica, rhetoricum</a> adj</li>
+          <li id="word-785" class="word"><a href="http://www.latin-dictionary.net/definition/33591/rheumatismus-rheumatismi">rheumatismus, rheumatismi</a> n</li>
+          <li id="word-786" class="word"><a href="http://www.latin-dictionary.net/definition/33592/rhinoceros-rhinocerotos-is">rhinoceros, rhinocerotos/is</a> n</li>
+          <li id="word-787" class="word"><a href="http://www.latin-dictionary.net/definition/33593/rho-undeclined">rho, undeclined</a> n</li>
+          <li id="word-788" class="word"><a href="http://www.latin-dictionary.net/definition/33594/Rhodanus-Rhodani">Rhodanus, Rhodani</a> n</li>
+          <li id="word-789" class="word"><a href="http://www.latin-dictionary.net/definition/33595/rhododendron-rhododendri">rhododendron, rhododendri</a> n</li>
+          <li id="word-790" class="word"><a href="http://www.latin-dictionary.net/definition/33596/rhombus-rhombi">rhombus, rhombi</a> n</li>
+          <li id="word-791" class="word"><a href="http://www.latin-dictionary.net/definition/33597/rhomium-rhomii">rhomium, rhomii</a> n</li>
+          <li id="word-792" class="word"><a href="http://www.latin-dictionary.net/definition/33598/rhomphaea-rhomphaeae">rhomphaea, rhomphaeae</a> n</li>
+          <li id="word-793" class="word"><a href="http://www.latin-dictionary.net/definition/33599/rhypodes-rhypodes-rhypodes">rhypodes, rhypodes, rhypodes</a> adj</li>
+          <li id="word-794" class="word"><a href="http://www.latin-dictionary.net/definition/33600/rhythmicus-rhythmica-rhythmicum">rhythmicus, rhythmica, rhythmicum</a> adj</li>
+          <li id="word-795" class="word"><a href="http://www.latin-dictionary.net/definition/33601/rhythmicus-rhythmici">rhythmicus, rhythmici</a> n</li>
+          <li id="word-796" class="word"><a href="http://www.latin-dictionary.net/definition/33602/rhythmos-rhythmi">rhythmos, rhythmi</a> n</li>
+          <li id="word-797" class="word"><a href="http://www.latin-dictionary.net/definition/33603/rhythmus-rhythmi">rhythmus, rhythmi</a> n</li>
+          <li id="word-798" class="word"><a href="http://www.latin-dictionary.net/definition/33604/rhytium-rhytii">rhytium, rhytii</a> n</li>
+          <li id="word-799" class="word"><a href="http://www.latin-dictionary.net/definition/33605/ribes-ribis">ribes, ribis</a> n</li>
+          <li id="word-800" class="word"><a href="http://www.latin-dictionary.net/definition/33606/ribesium-ribesii">ribesium, ribesii</a> n</li>
+          <li id="word-801" class="word"><a href="http://www.latin-dictionary.net/definition/33607/rica-ricae">rica, ricae</a> n</li>
+          <li id="word-802" class="word"><a href="http://www.latin-dictionary.net/definition/33608/ricinium-ricinii">ricinium, ricinii</a> n</li>
+          <li id="word-803" class="word"><a href="http://www.latin-dictionary.net/definition/33609/ricinum-ricini">ricinum, ricini</a> n</li>
+          <li id="word-804" class="word"><a href="http://www.latin-dictionary.net/definition/33610/rictum-ricti">rictum, ricti</a> n</li>
+          <li id="word-805" class="word"><a href="http://www.latin-dictionary.net/definition/33611/rictus-rictus">rictus, rictus</a> n</li>
+          <li id="word-806" class="word"><a href="http://www.latin-dictionary.net/definition/33612/rideo-ridere-risi-risus">rideo, ridere, risi, risus</a> v</li>
+          <li id="word-807" class="word"><a href="http://www.latin-dictionary.net/definition/33613/ridibundus-ridibunda-ridibundum">ridibundus, ridibunda, ridibundum</a> adj</li>
+          <li id="word-808" class="word"><a href="http://www.latin-dictionary.net/definition/33614/ridica-ridicae">ridica, ridicae</a> n</li>
+          <li id="word-809" class="word"><a href="http://www.latin-dictionary.net/definition/33615/ridicula-ridiculae">ridicula, ridiculae</a> n</li>
+          <li id="word-810" class="word"><a href="http://www.latin-dictionary.net/definition/33616/ridiculare-ridicularis">ridiculare, ridicularis</a> n</li>
+          <li id="word-811" class="word"><a href="http://www.latin-dictionary.net/definition/33617/ridicularius-ridicularia-ridicularium">ridicularius, ridicularia, ridicularium</a> adj</li>
+          <li id="word-812" class="word"><a href="http://www.latin-dictionary.net/definition/33618/ridicule">ridicule</a> adv</li>
+          <li id="word-813" class="word"><a href="http://www.latin-dictionary.net/definition/33619/ridiculum">ridiculum</a> interj</li>
+          <li id="word-814" class="word"><a href="http://www.latin-dictionary.net/definition/33620/ridiculum-ridiculi">ridiculum, ridiculi</a> n</li>
+          <li id="word-815" class="word"><a href="http://www.latin-dictionary.net/definition/33621/ridiculus-ridicula-ridiculum">ridiculus, ridicula, ridiculum</a> adj</li>
+          <li id="word-816" class="word"><a href="http://www.latin-dictionary.net/definition/33622/ridiculus-ridiculi">ridiculus, ridiculi</a> n</li>
+          <li id="word-817" class="word"><a href="http://www.latin-dictionary.net/definition/33623/rienes-rienis">rienes, rienis</a> n</li>
+          <li id="word-818" class="word"><a href="http://www.latin-dictionary.net/definition/33624/rigatio-rigationis">rigatio, rigationis</a> n</li>
+          <li id="word-819" class="word"><a href="http://www.latin-dictionary.net/definition/33625/rigens-gen-rigentis">rigens, (gen.), rigentis</a> adj</li>
+          <li id="word-820" class="word"><a href="http://www.latin-dictionary.net/definition/33626/rigeo-rigere">rigeo, rigere, -, -</a> v</li>
+          <li id="word-821" class="word"><a href="http://www.latin-dictionary.net/definition/33627/rigesco-rigescere-rigui">rigesco, rigescere, rigui, -</a> v</li>
+          <li id="word-822" class="word"><a href="http://www.latin-dictionary.net/definition/33628/rigidus-rigida-rigidum">rigidus, rigida, rigidum</a> adj</li>
+          <li id="word-823" class="word"><a href="http://www.latin-dictionary.net/definition/33629/rigo-rigare-rigavi-rigatus">rigo, rigare, rigavi, rigatus</a> v</li>
+          <li id="word-824" class="word"><a href="http://www.latin-dictionary.net/definition/33630/rigor-rigoris">rigor, rigoris</a> n</li>
+          <li id="word-825" class="word"><a href="http://www.latin-dictionary.net/definition/33631/riguus-rigua-riguum">riguus, rigua, riguum</a> adj</li>
+          <li id="word-826" class="word"><a href="http://www.latin-dictionary.net/definition/33632/rima-rimae">rima, rimae</a> n</li>
+          <li id="word-827" class="word"><a href="http://www.latin-dictionary.net/definition/33633/rimor-rimari-rimatus">rimor, rimari, rimatus</a> v</li>
+          <li id="word-828" class="word"><a href="http://www.latin-dictionary.net/definition/33634/rimosus-rimosa-rimosum">rimosus, rimosa, rimosum</a> adj</li>
+          <li id="word-829" class="word"><a href="http://www.latin-dictionary.net/definition/33635/ringa-ringae">ringa, ringae</a> n</li>
+          <li id="word-830" class="word"><a href="http://www.latin-dictionary.net/definition/33636/ringor-ringi">ringor, ringi, -</a> v</li>
+          <li id="word-831" class="word"><a href="http://www.latin-dictionary.net/definition/33637/rinoceros-rinocerotos-is">rinoceros, rinocerotos/is</a> n</li>
+          <li id="word-832" class="word"><a href="http://www.latin-dictionary.net/definition/33638/ripa-ripae">ripa, ripae</a> n</li>
+          <li id="word-833" class="word"><a href="http://www.latin-dictionary.net/definition/33639/ripensis-ripensis-ripense">ripensis, ripensis, ripense</a> adj</li>
+          <li id="word-834" class="word"><a href="http://www.latin-dictionary.net/definition/33640/ripula-ripulae">ripula, ripulae</a> n</li>
+          <li id="word-835" class="word"><a href="http://www.latin-dictionary.net/definition/33641/riscus-risci">riscus, risci</a> n</li>
+          <li id="word-836" class="word"><a href="http://www.latin-dictionary.net/definition/33642/risibilis-risibilis-risibile">risibilis, risibilis, risibile</a> adj</li>
+          <li id="word-837" class="word"><a href="http://www.latin-dictionary.net/definition/33643/risor-risoris">risor, risoris</a> n</li>
+          <li id="word-838" class="word"><a href="http://www.latin-dictionary.net/definition/33644/risus-risus">risus, risus</a> n</li>
+          <li id="word-839" class="word"><a href="http://www.latin-dictionary.net/definition/33645/rite">rite</a> adv</li>
+          <li id="word-840" class="word"><a href="http://www.latin-dictionary.net/definition/33646/ritual-ritualis">ritual, ritualis</a> n</li>
+          <li id="word-841" class="word"><a href="http://www.latin-dictionary.net/definition/33647/ritualis-ritualis-rituale">ritualis, ritualis, rituale</a> adj</li>
+          <li id="word-842" class="word"><a href="http://www.latin-dictionary.net/definition/33648/ritualiter">ritualiter</a> adv</li>
+          <li id="word-843" class="word"><a href="http://www.latin-dictionary.net/definition/33649/ritus-ritus">ritus, ritus</a> n</li>
+          <li id="word-844" class="word"><a href="http://www.latin-dictionary.net/definition/33650/rivalis-rivalis">rivalis, rivalis</a> n</li>
+          <li id="word-845" class="word"><a href="http://www.latin-dictionary.net/definition/33651/rivalitas-rivalitatis">rivalitas, rivalitatis</a> n</li>
+          <li id="word-846" class="word"><a href="http://www.latin-dictionary.net/definition/33652/rivulus-rivuli">rivulus, rivuli</a> n</li>
+          <li id="word-847" class="word"><a href="http://www.latin-dictionary.net/definition/33653/rivus-rivi">rivus, rivi</a> n</li>
+          <li id="word-848" class="word"><a href="http://www.latin-dictionary.net/definition/33654/rixa-rixae">rixa, rixae</a> n</li>
+          <li id="word-849" class="word"><a href="http://www.latin-dictionary.net/definition/33655/rixor-rixari-rixatus">rixor, rixari, rixatus</a> v</li>
+          <li id="word-850" class="word"><a href="http://www.latin-dictionary.net/definition/33656/rixosus-rixosa-rixosum">rixosus, rixosa, rixosum</a> adj</li>
+          <li id="word-851" class="word"><a href="http://www.latin-dictionary.net/definition/33657/robbo-robbare-robbavi-robbatus">robbo, robbare, robbavi, robbatus</a> v</li>
+          <li id="word-852" class="word"><a href="http://www.latin-dictionary.net/definition/33658/roberia-roberiae">roberia, roberiae</a> n</li>
+          <li id="word-853" class="word"><a href="http://www.latin-dictionary.net/definition/33659/robeus-robea-robeum">robeus, robea, robeum</a> adj</li>
+          <li id="word-854" class="word"><a href="http://www.latin-dictionary.net/definition/33660/robiginosus-robiginosa-robiginosum">robiginosus, robiginosa, robiginosum</a> adj</li>
+          <li id="word-855" class="word"><a href="http://www.latin-dictionary.net/definition/33661/robigo-robiginis">robigo, robiginis</a> n</li>
+          <li id="word-856" class="word"><a href="http://www.latin-dictionary.net/definition/33662/robius-robia-robium">robius, robia, robium</a> adj</li>
+          <li id="word-857" class="word"><a href="http://www.latin-dictionary.net/definition/33663/robor-roburis">robor, roburis</a> n</li>
+          <li id="word-858" class="word"><a href="http://www.latin-dictionary.net/definition/33664/roboreus-roborea-roboreum">roboreus, roborea, roboreum</a> adj</li>
+          <li id="word-859" class="word"><a href="http://www.latin-dictionary.net/definition/33665/roboro-roborare-roboravi-roboratus">roboro, roborare, roboravi, roboratus</a> v</li>
+          <li id="word-860" class="word"><a href="http://www.latin-dictionary.net/definition/33666/robotum-roboti">robotum, roboti</a> n</li>
+          <li id="word-861" class="word"><a href="http://www.latin-dictionary.net/definition/33667/robur-roboris">robur, roboris</a> n</li>
+          <li id="word-862" class="word"><a href="http://www.latin-dictionary.net/definition/33668/robur-roboris">robur, roboris</a> n</li>
+          <li id="word-863" class="word"><a href="http://www.latin-dictionary.net/definition/33669/robur-roboris">robur, roboris</a> n</li>
+          <li id="word-864" class="word"><a href="http://www.latin-dictionary.net/definition/33670/robur-roboris">robur, roboris</a> n</li>
+          <li id="word-865" class="word"><a href="http://www.latin-dictionary.net/definition/33671/robureus-roburea-robureum">robureus, roburea, robureum</a> adj</li>
+          <li id="word-866" class="word"><a href="http://www.latin-dictionary.net/definition/33672/robus-roba-robum">robus, roba, robum</a> adj</li>
+          <li id="word-867" class="word"><a href="http://www.latin-dictionary.net/definition/33673/robus-roboris">robus, roboris</a> n</li>
+          <li id="word-868" class="word"><a href="http://www.latin-dictionary.net/definition/33674/robus-roboris">robus, roboris</a> n</li>
+          <li id="word-869" class="word"><a href="http://www.latin-dictionary.net/definition/33675/robus-roboris">robus, roboris</a> n</li>
+          <li id="word-870" class="word"><a href="http://www.latin-dictionary.net/definition/33676/robus-roboris">robus, roboris</a> n</li>
+          <li id="word-871" class="word"><a href="http://www.latin-dictionary.net/definition/33677/robustus-robusta">robustus, robusta</a> adj</li>
+          <li id="word-872" class="word"><a href="http://www.latin-dictionary.net/definition/33678/robustus-robusta">robustus, robusta</a> adj</li>
+          <li id="word-873" class="word"><a href="http://www.latin-dictionary.net/definition/33679/rodo-rodere-rosi-rosus">rodo, rodere, rosi, rosus</a> v</li>
+          <li id="word-874" class="word"><a href="http://www.latin-dictionary.net/definition/33680/rodus-roderis">rodus, roderis</a> n</li>
+          <li id="word-875" class="word"><a href="http://www.latin-dictionary.net/definition/33681/rogalis-rogalis-rogale">rogalis, rogalis, rogale</a> adj</li>
+          <li id="word-876" class="word"><a href="http://www.latin-dictionary.net/definition/33682/rogamen-rogaminis">rogamen, rogaminis</a> n</li>
+          <li id="word-877" class="word"><a href="http://www.latin-dictionary.net/definition/33683/rogatio-rogationis">rogatio, rogationis</a> n</li>
+          <li id="word-878" class="word"><a href="http://www.latin-dictionary.net/definition/33684/rogatiuncula-rogatiunculae">rogatiuncula, rogatiunculae</a> n</li>
+          <li id="word-879" class="word"><a href="http://www.latin-dictionary.net/definition/33685/rogator-rogatoris">rogator, rogatoris</a> n</li>
+          <li id="word-880" class="word"><a href="http://www.latin-dictionary.net/definition/33686/rogatorialis-rogatorialis-rogatoriale">rogatorialis, rogatorialis, rogatoriale</a> adj</li>
+          <li id="word-881" class="word"><a href="http://www.latin-dictionary.net/definition/33687/rogito-rogitare-rogitavi-rogitatus">rogito, rogitare, rogitavi, rogitatus</a> v</li>
+          <li id="word-882" class="word"><a href="http://www.latin-dictionary.net/definition/33688/rogo-rogare-rogavi-rogatus">rogo, rogare, rogavi, rogatus</a> v</li>
+          <li id="word-883" class="word"><a href="http://www.latin-dictionary.net/definition/33689/rogus-rogi">rogus, rogi</a> n</li>
+          <li id="word-884" class="word"><a href="http://www.latin-dictionary.net/definition/33690/Rolvo-Rolvonis">Rolvo, Rolvonis</a> n</li>
+          <li id="word-885" class="word"><a href="http://www.latin-dictionary.net/definition/33691/Roma-Romae">Roma, Romae</a> n</li>
+          <li id="word-886" class="word"><a href="http://www.latin-dictionary.net/definition/33692/romanciator-romanciatoris">romanciator, romanciatoris</a> n</li>
+          <li id="word-887" class="word"><a href="http://www.latin-dictionary.net/definition/33693/Romanicus-Romanica-Romanicum">Romanicus, Romanica, Romanicum</a> adj</li>
+          <li id="word-888" class="word"><a href="http://www.latin-dictionary.net/definition/33694/romanticus-romantica-romanticum">romanticus, romantica, romanticum</a> adj</li>
+          <li id="word-889" class="word"><a href="http://www.latin-dictionary.net/definition/33695/romanus-romana-romanum">romanus, romana, romanum</a> adj</li>
+          <li id="word-890" class="word"><a href="http://www.latin-dictionary.net/definition/33696/romanus-romani">romanus, romani</a> n</li>
+          <li id="word-891" class="word"><a href="http://www.latin-dictionary.net/definition/33697/romphea-rompheae">romphea, rompheae</a> n</li>
+          <li id="word-892" class="word"><a href="http://www.latin-dictionary.net/definition/33698/Romulus-Romula-Romulum">Romulus, Romula, Romulum</a> adj</li>
+          <li id="word-893" class="word"><a href="http://www.latin-dictionary.net/definition/33699/Romulus-Romuli">Romulus, Romuli</a> n</li>
+          <li id="word-894" class="word"><a href="http://www.latin-dictionary.net/definition/33700/rorarius-rorarii">rorarius, rorarii</a> n</li>
+          <li id="word-895" class="word"><a href="http://www.latin-dictionary.net/definition/33701/roridus-rorida-roridum">roridus, rorida, roridum</a> adj</li>
+          <li id="word-896" class="word"><a href="http://www.latin-dictionary.net/definition/33702/rorifer-rorifera-roriferum">rorifer, rorifera, roriferum</a> adj</li>
+          <li id="word-897" class="word"><a href="http://www.latin-dictionary.net/definition/33703/roro-rorare-roravi-roratus">roro, rorare, roravi, roratus</a> v</li>
+          <li id="word-898" class="word"><a href="http://www.latin-dictionary.net/definition/33704/rorulentus-rorulenta-rorulentum">rorulentus, rorulenta, rorulentum</a> adj</li>
+          <li id="word-899" class="word"><a href="http://www.latin-dictionary.net/definition/33705/ros-roris">ros, roris</a> n</li>
+          <li id="word-900" class="word"><a href="http://www.latin-dictionary.net/definition/33706/rosa-rosae">rosa, rosae</a> n</li>
+          <li id="word-901" class="word"><a href="http://www.latin-dictionary.net/definition/33707/rosaceus-rosacea-rosaceum">rosaceus, rosacea, rosaceum</a> adj</li>
+          <li id="word-902" class="word"><a href="http://www.latin-dictionary.net/definition/33708/rosacius-rosacia-rosacium">rosacius, rosacia, rosacium</a> adj</li>
+          <li id="word-903" class="word"><a href="http://www.latin-dictionary.net/definition/33709/rosarium-rosari-i">rosarium, rosari(i)</a> n</li>
+          <li id="word-904" class="word"><a href="http://www.latin-dictionary.net/definition/33710/rosarium-rosarii">rosarium, rosarii</a> n</li>
+          <li id="word-905" class="word"><a href="http://www.latin-dictionary.net/definition/33711/rosarius-rosari-i">rosarius, rosari(i)</a> n</li>
+          <li id="word-906" class="word"><a href="http://www.latin-dictionary.net/definition/33712/rosarius-rosaria-rosarium">rosarius, rosaria, rosarium</a> adj</li>
+          <li id="word-907" class="word"><a href="http://www.latin-dictionary.net/definition/33713/roscidum-roscidi">roscidum, roscidi</a> n</li>
+          <li id="word-908" class="word"><a href="http://www.latin-dictionary.net/definition/33714/roscidus-roscida-roscidum">roscidus, roscida, roscidum</a> adj</li>
+          <li id="word-909" class="word"><a href="http://www.latin-dictionary.net/definition/33715/rosetum-roseti">rosetum, roseti</a> n</li>
+          <li id="word-910" class="word"><a href="http://www.latin-dictionary.net/definition/33716/roseus-rosea-roseum">roseus, rosea, roseum</a> adj</li>
+          <li id="word-911" class="word"><a href="http://www.latin-dictionary.net/definition/33717/rosmarinus-rosmarini">rosmarinus, rosmarini</a> n</li>
+          <li id="word-912" class="word"><a href="http://www.latin-dictionary.net/definition/33718/rostratus-rostrata-rostratum">rostratus, rostrata, rostratum</a> adj</li>
+          <li id="word-913" class="word"><a href="http://www.latin-dictionary.net/definition/33719/rostrum-rostri">rostrum, rostri</a> n</li>
+          <li id="word-914" class="word"><a href="http://www.latin-dictionary.net/definition/33720/rota-rotae">rota, rotae</a> n</li>
+          <li id="word-915" class="word"><a href="http://www.latin-dictionary.net/definition/33721/rotarium-rotarii">rotarium, rotarii</a> n</li>
+          <li id="word-916" class="word"><a href="http://www.latin-dictionary.net/definition/33722/rotatio-rotationis">rotatio, rotationis</a> n</li>
+          <li id="word-917" class="word"><a href="http://www.latin-dictionary.net/definition/33723/rotensus-rotensa-rotensum">rotensus, rotensa, rotensum</a> adj</li>
+          <li id="word-918" class="word"><a href="http://www.latin-dictionary.net/definition/33724/roto-rotare-rotavi-rotatus">roto, rotare, rotavi, rotatus</a> v</li>
+          <li id="word-919" class="word"><a href="http://www.latin-dictionary.net/definition/33725/rotundatio-rotundationis">rotundatio, rotundationis</a> n</li>
+          <li id="word-920" class="word"><a href="http://www.latin-dictionary.net/definition/33726/rotunditas-rotunditatis">rotunditas, rotunditatis</a> n</li>
+          <li id="word-921" class="word"><a href="http://www.latin-dictionary.net/definition/33727/rotundo-rotundare-rotundavi-rotundatus">rotundo, rotundare, rotundavi, rotundatus</a> v</li>
+          <li id="word-922" class="word"><a href="http://www.latin-dictionary.net/definition/33728/rotundus-rotunda">rotundus, rotunda</a> adj</li>
+          <li id="word-923" class="word"><a href="http://www.latin-dictionary.net/definition/33729/rubecula-rubeculae">rubecula, rubeculae</a> n</li>
+          <li id="word-924" class="word"><a href="http://www.latin-dictionary.net/definition/33730/rubefacio-rubefacere-rubefeci-rubefactus">rubefacio, rubefacere, rubefeci, rubefactus</a> v</li>
+          <li id="word-925" class="word"><a href="http://www.latin-dictionary.net/definition/33731/rubellus-rubella-rubellum">rubellus, rubella, rubellum</a> adj</li>
+          <li id="word-926" class="word"><a href="http://www.latin-dictionary.net/definition/33732/rubens-gen-rubentis">rubens, (gen.), rubentis</a> adj</li>
+          <li id="word-927" class="word"><a href="http://www.latin-dictionary.net/definition/33733/rubeo-rubere">rubeo, rubere, -, -</a> v</li>
+          <li id="word-928" class="word"><a href="http://www.latin-dictionary.net/definition/33734/ruber-rubra-rubrum">ruber, rubra, rubrum</a> adj</li>
+          <li id="word-929" class="word"><a href="http://www.latin-dictionary.net/definition/33735/rubesco-rubescere-rubui">rubesco, rubescere, rubui, -</a> v</li>
+          <li id="word-930" class="word"><a href="http://www.latin-dictionary.net/definition/33736/rubeta-rubetae">rubeta, rubetae</a> n</li>
+          <li id="word-931" class="word"><a href="http://www.latin-dictionary.net/definition/33737/rubetum-rubeti">rubetum, rubeti</a> n</li>
+          <li id="word-932" class="word"><a href="http://www.latin-dictionary.net/definition/33738/rubeus-rubea-rubeum">rubeus, rubea, rubeum</a> adj</li>
+          <li id="word-933" class="word"><a href="http://www.latin-dictionary.net/definition/33739/rubeus-rubea-rubeum">rubeus, rubea, rubeum</a> adj</li>
+          <li id="word-934" class="word"><a href="http://www.latin-dictionary.net/definition/33740/rubia-rubiae">rubia, rubiae</a> n</li>
+          <li id="word-935" class="word"><a href="http://www.latin-dictionary.net/definition/33741/rubicundulus-rubicundula-rubicundulum">rubicundulus, rubicundula, rubicundulum</a> adj</li>
+          <li id="word-936" class="word"><a href="http://www.latin-dictionary.net/definition/33742/rubicundus-rubicunda-rubicundum">rubicundus, rubicunda, rubicundum</a> adj</li>
+          <li id="word-937" class="word"><a href="http://www.latin-dictionary.net/definition/33743/rubigo-rubiginis">rubigo, rubiginis</a> n</li>
+          <li id="word-938" class="word"><a href="http://www.latin-dictionary.net/definition/33744/rubinus-rubini">rubinus, rubini</a> n</li>
+          <li id="word-939" class="word"><a href="http://www.latin-dictionary.net/definition/33745/rubius-rubia-rubium">rubius, rubia, rubium</a> adj</li>
+          <li id="word-940" class="word"><a href="http://www.latin-dictionary.net/definition/33746/rubor-ruboris">rubor, ruboris</a> n</li>
+          <li id="word-941" class="word"><a href="http://www.latin-dictionary.net/definition/33747/rubramentum-rubramenti">rubramentum, rubramenti</a> n</li>
+          <li id="word-942" class="word"><a href="http://www.latin-dictionary.net/definition/33748/rubrica-rubricae">rubrica, rubricae</a> n</li>
+          <li id="word-943" class="word"><a href="http://www.latin-dictionary.net/definition/33749/rubricatus-rubricata-rubricatum">rubricatus, rubricata, rubricatum</a> adj</li>
+          <li id="word-944" class="word"><a href="http://www.latin-dictionary.net/definition/33750/rubus-rubi">rubus, rubi</a> n</li>
+          <li id="word-945" class="word"><a href="http://www.latin-dictionary.net/definition/33751/rucheta-ruchetae">rucheta, ruchetae</a> n</li>
+          <li id="word-946" class="word"><a href="http://www.latin-dictionary.net/definition/33752/ructo-ructare-ructavi-ructatus">ructo, ructare, ructavi, ructatus</a> v</li>
+          <li id="word-947" class="word"><a href="http://www.latin-dictionary.net/definition/33753/ructor-ructari-ructatus">ructor, ructari, ructatus</a> v</li>
+          <li id="word-948" class="word"><a href="http://www.latin-dictionary.net/definition/33754/ructus-ructus">ructus, ructus</a> n</li>
+          <li id="word-949" class="word"><a href="http://www.latin-dictionary.net/definition/33755/rudectus-rudecta-rudectum">rudectus, rudecta, rudectum</a> adj</li>
+          <li id="word-950" class="word"><a href="http://www.latin-dictionary.net/definition/33756/rudens-rudentis">rudens, rudentis</a> n</li>
+          <li id="word-951" class="word"><a href="http://www.latin-dictionary.net/definition/33757/rudiarius-rudiari-i">rudiarius, rudiari(i)</a> n</li>
+          <li id="word-952" class="word"><a href="http://www.latin-dictionary.net/definition/33758/rudicula-rudiculae">rudicula, rudiculae</a> n</li>
+          <li id="word-953" class="word"><a href="http://www.latin-dictionary.net/definition/33759/rudimentum-rudimenti">rudimentum, rudimenti</a> n</li>
+          <li id="word-954" class="word"><a href="http://www.latin-dictionary.net/definition/33760/rudis-rudis">rudis, rudis</a> n</li>
+          <li id="word-955" class="word"><a href="http://www.latin-dictionary.net/definition/33761/rudis-rudis">rudis, rudis</a> n</li>
+          <li id="word-956" class="word"><a href="http://www.latin-dictionary.net/definition/33762/rudis-rudis-rude">rudis, rudis, rude</a> adj</li>
+          <li id="word-957" class="word"><a href="http://www.latin-dictionary.net/definition/33763/rudo-rudere-rudivi-ruditus">rudo, rudere, rudivi, ruditus</a> v</li>
+          <li id="word-958" class="word"><a href="http://www.latin-dictionary.net/definition/33764/rudus-ruderis">rudus, ruderis</a> n</li>
+          <li id="word-959" class="word"><a href="http://www.latin-dictionary.net/definition/33765/Rufinus-Rufini">Rufinus, Rufini</a> n</li>
+          <li id="word-960" class="word"><a href="http://www.latin-dictionary.net/definition/33766/rufulus-rufula-rufulum">rufulus, rufula, rufulum</a> adj</li>
+          <li id="word-961" class="word"><a href="http://www.latin-dictionary.net/definition/33767/rufus-rufa">rufus, rufa</a> adj</li>
+          <li id="word-962" class="word"><a href="http://www.latin-dictionary.net/definition/33768/Rufus-Rufi">Rufus, Rufi</a> n</li>
+          <li id="word-963" class="word"><a href="http://www.latin-dictionary.net/definition/33769/ruga-rugae">ruga, rugae</a> n</li>
+          <li id="word-964" class="word"><a href="http://www.latin-dictionary.net/definition/33770/rugio-rugire-rugivi-rugitus">rugio, rugire, rugivi, rugitus</a> v</li>
+          <li id="word-965" class="word"><a href="http://www.latin-dictionary.net/definition/33771/rugo-rugare-rugavi-rugatus">rugo, rugare, rugavi, rugatus</a> v</li>
+          <li id="word-966" class="word"><a href="http://www.latin-dictionary.net/definition/33772/rugosus-rugosa-rugosum">rugosus, rugosa, rugosum</a> adj</li>
+          <li id="word-967" class="word"><a href="http://www.latin-dictionary.net/definition/33773/ruina-ruinae">ruina, ruinae</a> n</li>
+          <li id="word-968" class="word"><a href="http://www.latin-dictionary.net/definition/33774/ruinosus-ruinosa-ruinosum">ruinosus, ruinosa, ruinosum</a> adj</li>
+          <li id="word-969" class="word"><a href="http://www.latin-dictionary.net/definition/33775/rumex-rumicis">rumex, rumicis</a> n</li>
+          <li id="word-970" class="word"><a href="http://www.latin-dictionary.net/definition/33776/rumifico-rumificare-rumificavi-rumificatus">rumifico, rumificare, rumificavi, rumificatus</a> v</li>
+          <li id="word-971" class="word"><a href="http://www.latin-dictionary.net/definition/33777/ruminalis-ruminalis-ruminale">ruminalis, ruminalis, ruminale</a> adj</li>
+          <li id="word-972" class="word"><a href="http://www.latin-dictionary.net/definition/33778/rumino-ruminare-ruminavi-ruminatus">rumino, ruminare, ruminavi, ruminatus</a> v</li>
+          <li id="word-973" class="word"><a href="http://www.latin-dictionary.net/definition/33779/ruminor-ruminari-ruminatus">ruminor, ruminari, ruminatus</a> v</li>
+          <li id="word-974" class="word"><a href="http://www.latin-dictionary.net/definition/33780/rumor-rumoris">rumor, rumoris</a> n</li>
+          <li id="word-975" class="word"><a href="http://www.latin-dictionary.net/definition/33781/rumpia-rumpiae">rumpia, rumpiae</a> n</li>
+          <li id="word-976" class="word"><a href="http://www.latin-dictionary.net/definition/33782/rumpo-rumpere-rupi-ruptus">rumpo, rumpere, rupi, ruptus</a> v</li>
+          <li id="word-977" class="word"><a href="http://www.latin-dictionary.net/definition/33783/rumusculus-rumusculi">rumusculus, rumusculi</a> n</li>
+          <li id="word-978" class="word"><a href="http://www.latin-dictionary.net/definition/33784/runa-runae">runa, runae</a> n</li>
+          <li id="word-979" class="word"><a href="http://www.latin-dictionary.net/definition/33785/runcina-runcinae">runcina, runcinae</a> n</li>
+          <li id="word-980" class="word"><a href="http://www.latin-dictionary.net/definition/33786/runcino-runcinare-runcinavi-runcinatus">runcino, runcinare, runcinavi, runcinatus</a> v</li>
+          <li id="word-981" class="word"><a href="http://www.latin-dictionary.net/definition/33787/runco-runcare-runcavi-runcatus">runco, runcare, runcavi, runcatus</a> v</li>
+          <li id="word-982" class="word"><a href="http://www.latin-dictionary.net/definition/33788/ruo-ruere-rui-rutus">ruo, ruere, rui, rutus</a> v</li>
+          <li id="word-983" class="word"><a href="http://www.latin-dictionary.net/definition/33789/rupes-rupis">rupes, rupis</a> n</li>
+          <li id="word-984" class="word"><a href="http://www.latin-dictionary.net/definition/33790/ruptor-ruptoris">ruptor, ruptoris</a> n</li>
+          <li id="word-985" class="word"><a href="http://www.latin-dictionary.net/definition/33791/ruricola-ruricolae">ruricola, ruricolae</a> n</li>
+          <li id="word-986" class="word"><a href="http://www.latin-dictionary.net/definition/33792/rurigena-rurigenae">rurigena, rurigenae</a> n</li>
+          <li id="word-987" class="word"><a href="http://www.latin-dictionary.net/definition/33793/ruro-rurare-ruravi-ruratus">ruro, rurare, ruravi, ruratus</a> v</li>
+          <li id="word-988" class="word"><a href="http://www.latin-dictionary.net/definition/33794/ruror-rurari-ruratus">ruror, rurari, ruratus</a> v</li>
+          <li id="word-989" class="word"><a href="http://www.latin-dictionary.net/definition/33795/rursum">rursum</a> adv</li>
+          <li id="word-990" class="word"><a href="http://www.latin-dictionary.net/definition/33796/rursus">rursus</a> adv</li>
+          <li id="word-991" class="word"><a href="http://www.latin-dictionary.net/definition/33797/rus-ruris">rus, ruris</a> n</li>
+          <li id="word-992" class="word"><a href="http://www.latin-dictionary.net/definition/33798/rusceus-ruscea-rusceum">rusceus, ruscea, rusceum</a> adj</li>
+          <li id="word-993" class="word"><a href="http://www.latin-dictionary.net/definition/33799/ruscum-rusci">ruscum, rusci</a> n</li>
+          <li id="word-994" class="word"><a href="http://www.latin-dictionary.net/definition/33800/ruscus-rusci">ruscus, rusci</a> n</li>
+          <li id="word-995" class="word"><a href="http://www.latin-dictionary.net/definition/33801/rusi">rusi</a> n</li>
+          <li id="word-996" class="word"><a href="http://www.latin-dictionary.net/definition/33802/russula-russulae">russula, russulae</a> n</li>
+          <li id="word-997" class="word"><a href="http://www.latin-dictionary.net/definition/33803/russus-russa-russum">russus, russa, russum</a> adj</li>
+          <li id="word-998" class="word"><a href="http://www.latin-dictionary.net/definition/33804/rustica-rusticae">rustica, rusticae</a> n</li>
+          <li id="word-999" class="word"><a href="http://www.latin-dictionary.net/definition/33805/rusticanus-rusticana-rusticanum">rusticanus, rusticana, rusticanum</a> adj</li>
+          <li id="word-1000" class="word"><a href="http://www.latin-dictionary.net/definition/33806/rusticatio-rusticationis">rusticatio, rusticationis</a> n</li>
+          <li id="word-1001" class="word"><a href="http://www.latin-dictionary.net/definition/33807/rustice-rusticius-rusticissime">rustice, rusticius, rusticissime</a> adv</li>
+          <li id="word-1002" class="word"><a href="http://www.latin-dictionary.net/definition/33808/rusticitas-rusticitatis">rusticitas, rusticitatis</a> n</li>
+          <li id="word-1003" class="word"><a href="http://www.latin-dictionary.net/definition/33809/rusticor-rusticari-rusticatus">rusticor, rusticari, rusticatus</a> v</li>
+          <li id="word-1004" class="word"><a href="http://www.latin-dictionary.net/definition/33810/rusticulus-rusticula-rusticulum">rusticulus, rusticula, rusticulum</a> adj</li>
+          <li id="word-1005" class="word"><a href="http://www.latin-dictionary.net/definition/33811/rusticulus-rusticuli">rusticulus, rusticuli</a> n</li>
+          <li id="word-1006" class="word"><a href="http://www.latin-dictionary.net/definition/33812/rusticus-rustica-rusticum">rusticus, rustica, rusticum</a> adj</li>
+          <li id="word-1007" class="word"><a href="http://www.latin-dictionary.net/definition/33813/rusticus-rustici">rusticus, rustici</a> n</li>
+          <li id="word-1008" class="word"><a href="http://www.latin-dictionary.net/definition/33814/rustum-rusti">rustum, rusti</a> n</li>
+          <li id="word-1009" class="word"><a href="http://www.latin-dictionary.net/definition/33815/ruta-rutae">ruta, rutae</a> n</li>
+          <li id="word-1010" class="word"><a href="http://www.latin-dictionary.net/definition/33816/rutabulum-rutabuli">rutabulum, rutabuli</a> n</li>
+          <li id="word-1011" class="word"><a href="http://www.latin-dictionary.net/definition/33817/Rutilius-Rutili">Rutilius, Rutili</a> n</li>
+          <li id="word-1012" class="word"><a href="http://www.latin-dictionary.net/definition/33818/Rutilius-Rutilia-Rutilium">Rutilius, Rutilia, Rutilium</a> adj</li>
+          <li id="word-1013" class="word"><a href="http://www.latin-dictionary.net/definition/33819/rutilo-rutilare-rutilavi-rutilatus">rutilo, rutilare, rutilavi, rutilatus</a> v</li>
+          <li id="word-1014" class="word"><a href="http://www.latin-dictionary.net/definition/33820/rutilus-rutila-rutilum">rutilus, rutila, rutilum</a> adj</li>
+          <li id="word-1015" class="word"><a href="http://www.latin-dictionary.net/definition/33821/rutrum-rutri">rutrum, rutri</a> n</li>
+          <li id="word-1016" class="word"><a href="http://www.latin-dictionary.net/definition/33822/rutula-rutulae">rutula, rutulae</a> n</li>
+          <li id="word-1017" class="word"><a href="http://www.latin-dictionary.net/definition/33823/rutunditas-rutunditatis">rutunditas, rutunditatis</a> n</li>
+          <li id="word-1018" class="word"><a href="http://www.latin-dictionary.net/definition/33824/rutundo-rutundare-rutundavi-rutundatus">rutundo, rutundare, rutundavi, rutundatus</a> v</li>
+          <li id="word-1019" class="word"><a href="http://www.latin-dictionary.net/definition/33825/rutundus-rutunda">rutundus, rutunda</a> adj</li>
+          <li id="word-1020" class="word"><a href="http://www.latin-dictionary.net/definition/33826/rutus-ruta-rutum">rutus, ruta, rutum</a> adj</li>
+          <li id="word-1021" class="word"><a href="http://www.latin-dictionary.net/definition/33827/rythmicus-rythmica-rythmicum">rythmicus, rythmica, rythmicum</a> adj</li>

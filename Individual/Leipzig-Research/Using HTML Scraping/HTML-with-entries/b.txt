@@ -1,0 +1,1268 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/5918/Baal-undeclined">Baal, undeclined</a> n</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/5919/babae">babae</a> interj</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/5920/babaecalus-babaecali">babaecalus, babaecali</a> n</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/5921/babbius-babbia-babbium">babbius, babbia, babbium</a> adj</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/5922/babulus-babuli">babulus, babuli</a> n</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/5923/baburrus-baburra-baburrum">baburrus, baburra, baburrum</a> adj</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/5924/Babylon-Babylonos-is">Babylon, Babylonos/is</a> n</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/5925/Babylonia-Babyloniae">Babylonia, Babyloniae</a> n</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/5926/Babylonius-Babylonia-Babylonium">Babylonius, Babylonia, Babylonium</a> adj</li>
+          <li id="word-9" class="word"><a href="http://www.latin-dictionary.net/definition/5927/Babylonius-Babylonii">Babylonius, Babylonii</a> n</li>
+          <li id="word-10" class="word"><a href="http://www.latin-dictionary.net/definition/5928/baca-bacae">baca, bacae</a> n</li>
+          <li id="word-11" class="word"><a href="http://www.latin-dictionary.net/definition/5929/bacalarius-bacalarii">bacalarius, bacalarii</a> n</li>
+          <li id="word-12" class="word"><a href="http://www.latin-dictionary.net/definition/5930/bacalia-bacaliae">bacalia, bacaliae</a> n</li>
+          <li id="word-13" class="word"><a href="http://www.latin-dictionary.net/definition/5931/bacalis-bacalis-bacale">bacalis, bacalis, bacale</a> adj</li>
+          <li id="word-14" class="word"><a href="http://www.latin-dictionary.net/definition/5932/bacalusia-bacalusiae">bacalusia, bacalusiae</a> n</li>
+          <li id="word-15" class="word"><a href="http://www.latin-dictionary.net/definition/5933/bacar-bacaris">bacar, bacaris</a> n</li>
+          <li id="word-16" class="word"><a href="http://www.latin-dictionary.net/definition/5934/bacatus-bacata-bacatum">bacatus, bacata, bacatum</a> adj</li>
+          <li id="word-17" class="word"><a href="http://www.latin-dictionary.net/definition/5935/bacca-baccae">bacca, baccae</a> n</li>
+          <li id="word-18" class="word"><a href="http://www.latin-dictionary.net/definition/5936/baccalarius-baccalarii">baccalarius, baccalarii</a> n</li>
+          <li id="word-19" class="word"><a href="http://www.latin-dictionary.net/definition/5937/baccalaureatus-baccalaureatus">baccalaureatus, baccalaureatus</a> n</li>
+          <li id="word-20" class="word"><a href="http://www.latin-dictionary.net/definition/5938/baccalaureus-baccalaurei">baccalaureus, baccalaurei</a> n</li>
+          <li id="word-21" class="word"><a href="http://www.latin-dictionary.net/definition/5939/baccalaureus-baccalaurei">baccalaureus, baccalaurei</a> n</li>
+          <li id="word-22" class="word"><a href="http://www.latin-dictionary.net/definition/5940/baccalia-baccaliae">baccalia, baccaliae</a> n</li>
+          <li id="word-23" class="word"><a href="http://www.latin-dictionary.net/definition/5941/baccalis-baccalis-baccale">baccalis, baccalis, baccale</a> adj</li>
+          <li id="word-24" class="word"><a href="http://www.latin-dictionary.net/definition/5942/baccar-baccaris">baccar, baccaris</a> n</li>
+          <li id="word-25" class="word"><a href="http://www.latin-dictionary.net/definition/5943/baccaris-baccaris">baccaris, baccaris</a> n</li>
+          <li id="word-26" class="word"><a href="http://www.latin-dictionary.net/definition/5944/bacchabundus-bacchabunda-bacchabundum">bacchabundus, bacchabunda, bacchabundum</a> adj</li>
+          <li id="word-27" class="word"><a href="http://www.latin-dictionary.net/definition/5945/Bacchanal-Bacchanalis">Bacchanal, Bacchanalis</a> n</li>
+          <li id="word-28" class="word"><a href="http://www.latin-dictionary.net/definition/5946/Bacchanal-Bacchanalis">Bacchanal, Bacchanalis</a> n</li>
+          <li id="word-29" class="word"><a href="http://www.latin-dictionary.net/definition/5947/Bacchanalis-Bacchanalis-Bacchanale">Bacchanalis, Bacchanalis, Bacchanale</a> adj</li>
+          <li id="word-30" class="word"><a href="http://www.latin-dictionary.net/definition/5948/Bacchanalium-Bacchanalii">Bacchanalium, Bacchanalii</a> n</li>
+          <li id="word-31" class="word"><a href="http://www.latin-dictionary.net/definition/5949/bacchans-bacchantis">bacchans, bacchantis</a> n</li>
+          <li id="word-32" class="word"><a href="http://www.latin-dictionary.net/definition/5950/bacchar-baccharis">bacchar, baccharis</a> n</li>
+          <li id="word-33" class="word"><a href="http://www.latin-dictionary.net/definition/5951/baccharis-baccharis">baccharis, baccharis</a> n</li>
+          <li id="word-34" class="word"><a href="http://www.latin-dictionary.net/definition/5952/bacchatim">bacchatim</a> adv</li>
+          <li id="word-35" class="word"><a href="http://www.latin-dictionary.net/definition/5953/bacchatio-bacchationis">bacchatio, bacchationis</a> n</li>
+          <li id="word-36" class="word"><a href="http://www.latin-dictionary.net/definition/5954/bacchia-bacchiae">bacchia, bacchiae</a> n</li>
+          <li id="word-37" class="word"><a href="http://www.latin-dictionary.net/definition/5955/bacchiacus-bacchiaca-bacchiacum">bacchiacus, bacchiaca, bacchiacum</a> adj</li>
+          <li id="word-38" class="word"><a href="http://www.latin-dictionary.net/definition/5956/bacchius-bacchii">bacchius, bacchii</a> n</li>
+          <li id="word-39" class="word"><a href="http://www.latin-dictionary.net/definition/5957/bacchor-bacchari-bacchatus">bacchor, bacchari, bacchatus</a> v</li>
+          <li id="word-40" class="word"><a href="http://www.latin-dictionary.net/definition/5958/Bacchus-Bacchi">Bacchus, Bacchi</a> n</li>
+          <li id="word-41" class="word"><a href="http://www.latin-dictionary.net/definition/5959/bacchus-bacchi">bacchus, bacchi</a> n</li>
+          <li id="word-42" class="word"><a href="http://www.latin-dictionary.net/definition/5960/bacciballum-bacciballi">bacciballum, bacciballi</a> n</li>
+          <li id="word-43" class="word"><a href="http://www.latin-dictionary.net/definition/5961/baccifer-baccifera-bacciferum">baccifer, baccifera, bacciferum</a> adj</li>
+          <li id="word-44" class="word"><a href="http://www.latin-dictionary.net/definition/5962/baccillum-baccilli">baccillum, baccilli</a> n</li>
+          <li id="word-45" class="word"><a href="http://www.latin-dictionary.net/definition/5963/baccina-baccinae">baccina, baccinae</a> n</li>
+          <li id="word-46" class="word"><a href="http://www.latin-dictionary.net/definition/5964/baccor-baccari-baccatus">baccor, baccari, baccatus</a> v</li>
+          <li id="word-47" class="word"><a href="http://www.latin-dictionary.net/definition/5965/baceolus-baceola-baceolum">baceolus, baceola, baceolum</a> adj</li>
+          <li id="word-48" class="word"><a href="http://www.latin-dictionary.net/definition/5966/bacifer-bacifera-baciferum">bacifer, bacifera, baciferum</a> adj</li>
+          <li id="word-49" class="word"><a href="http://www.latin-dictionary.net/definition/5967/bacile-bacilis">bacile, bacilis</a> n</li>
+          <li id="word-50" class="word"><a href="http://www.latin-dictionary.net/definition/5968/bacilis-bacilis-bacile">bacilis, bacilis, bacile</a> adj</li>
+          <li id="word-51" class="word"><a href="http://www.latin-dictionary.net/definition/5969/bacillum-bacilli">bacillum, bacilli</a> n</li>
+          <li id="word-52" class="word"><a href="http://www.latin-dictionary.net/definition/5970/bacillum-bacilli">bacillum, bacilli</a> n</li>
+          <li id="word-53" class="word"><a href="http://www.latin-dictionary.net/definition/5971/bacillus-bacilli">bacillus, bacilli</a> n</li>
+          <li id="word-54" class="word"><a href="http://www.latin-dictionary.net/definition/5972/bacillus-bacilli">bacillus, bacilli</a> n</li>
+          <li id="word-55" class="word"><a href="http://www.latin-dictionary.net/definition/5973/bacrio-bacrionis">bacrio, bacrionis</a> n</li>
+          <li id="word-56" class="word"><a href="http://www.latin-dictionary.net/definition/5974/bacterialis-bacterialis-bacteriale">bacterialis, bacterialis, bacteriale</a> adj</li>
+          <li id="word-57" class="word"><a href="http://www.latin-dictionary.net/definition/5975/bactericidus-bactericida-bactericidum">bactericidus, bactericida, bactericidum</a> adj</li>
+          <li id="word-58" class="word"><a href="http://www.latin-dictionary.net/definition/5976/bacteriologus-bacteriologi">bacteriologus, bacteriologi</a> n</li>
+          <li id="word-59" class="word"><a href="http://www.latin-dictionary.net/definition/5977/bacterium-bacterii">bacterium, bacterii</a> n</li>
+          <li id="word-60" class="word"><a href="http://www.latin-dictionary.net/definition/5978/bactroperita-bactroperitae">bactroperita, bactroperitae</a> n</li>
+          <li id="word-61" class="word"><a href="http://www.latin-dictionary.net/definition/5979/bacula-baculae">bacula, baculae</a> n</li>
+          <li id="word-62" class="word"><a href="http://www.latin-dictionary.net/definition/5980/baculum-baculi">baculum, baculi</a> n</li>
+          <li id="word-63" class="word"><a href="http://www.latin-dictionary.net/definition/5981/baculus-baculi">baculus, baculi</a> n</li>
+          <li id="word-64" class="word"><a href="http://www.latin-dictionary.net/definition/5982/badisso-badissare-badissavi-badissatus">badisso, badissare, badissavi, badissatus</a> v</li>
+          <li id="word-65" class="word"><a href="http://www.latin-dictionary.net/definition/5983/baditis-baditidis">baditis, baditidis</a> n</li>
+          <li id="word-66" class="word"><a href="http://www.latin-dictionary.net/definition/5984/badius-badia-badium">badius, badia, badium</a> adj</li>
+          <li id="word-67" class="word"><a href="http://www.latin-dictionary.net/definition/5985/badizo-badizare">badizo, badizare, -, -</a> v</li>
+          <li id="word-68" class="word"><a href="http://www.latin-dictionary.net/definition/5986/bae-baes">bae, baes</a> n</li>
+          <li id="word-69" class="word"><a href="http://www.latin-dictionary.net/definition/5987/Baetica-Baeticae">Baetica, Baeticae</a> n</li>
+          <li id="word-70" class="word"><a href="http://www.latin-dictionary.net/definition/5988/baeticatus-baeticata-baeticatum">baeticatus, baeticata, baeticatum</a> adj</li>
+          <li id="word-71" class="word"><a href="http://www.latin-dictionary.net/definition/5989/baeto-baetere">baeto, baetere, -, -</a> v</li>
+          <li id="word-72" class="word"><a href="http://www.latin-dictionary.net/definition/5990/baetulus-baetuli">baetulus, baetuli</a> n</li>
+          <li id="word-73" class="word"><a href="http://www.latin-dictionary.net/definition/5991/baia-baiae">baia, baiae</a> n</li>
+          <li id="word-74" class="word"><a href="http://www.latin-dictionary.net/definition/5992/baijulo-baijulare">baijulo, baijulare, -, -</a> v</li>
+          <li id="word-75" class="word"><a href="http://www.latin-dictionary.net/definition/5993/baijulus-baijuli">baijulus, baijuli</a> n</li>
+          <li id="word-76" class="word"><a href="http://www.latin-dictionary.net/definition/5994/baillium-baillii">baillium, baillii</a> n</li>
+          <li id="word-77" class="word"><a href="http://www.latin-dictionary.net/definition/5995/bajolus-bajoli">bajolus, bajoli</a> n</li>
+          <li id="word-78" class="word"><a href="http://www.latin-dictionary.net/definition/5996/bajulatio-bajulationis">bajulatio, bajulationis</a> n</li>
+          <li id="word-79" class="word"><a href="http://www.latin-dictionary.net/definition/5997/bajulator-bajulatoris">bajulator, bajulatoris</a> n</li>
+          <li id="word-80" class="word"><a href="http://www.latin-dictionary.net/definition/5998/bajulatorius-bajulatoria-bajulatorium">bajulatorius, bajulatoria, bajulatorium</a> adj</li>
+          <li id="word-81" class="word"><a href="http://www.latin-dictionary.net/definition/5999/bajulo-bajulare">bajulo, bajulare, -, -</a> v</li>
+          <li id="word-82" class="word"><a href="http://www.latin-dictionary.net/definition/6000/bajulus-bajuli">bajulus, bajuli</a> n</li>
+          <li id="word-83" class="word"><a href="http://www.latin-dictionary.net/definition/6001/balaena-balaenae">balaena, balaenae</a> n</li>
+          <li id="word-84" class="word"><a href="http://www.latin-dictionary.net/definition/6002/balaenaceus-balaenacea-balaenaceum">balaenaceus, balaenacea, balaenaceum</a> adj</li>
+          <li id="word-85" class="word"><a href="http://www.latin-dictionary.net/definition/6003/balanatus-balanata-balanatum">balanatus, balanata, balanatum</a> adj</li>
+          <li id="word-86" class="word"><a href="http://www.latin-dictionary.net/definition/6004/balaninus-balanina-balaninum">balaninus, balanina, balaninum</a> adj</li>
+          <li id="word-87" class="word"><a href="http://www.latin-dictionary.net/definition/6005/balanites-balanitae">balanites, balanitae</a> n</li>
+          <li id="word-88" class="word"><a href="http://www.latin-dictionary.net/definition/6006/balanitis-balanitidis">balanitis, balanitidis</a> n</li>
+          <li id="word-89" class="word"><a href="http://www.latin-dictionary.net/definition/6007/balans-gen-balantis">balans, (gen.), balantis</a> adj</li>
+          <li id="word-90" class="word"><a href="http://www.latin-dictionary.net/definition/6008/balans-balantis">balans, balantis</a> n</li>
+          <li id="word-91" class="word"><a href="http://www.latin-dictionary.net/definition/6009/balantus-balanta-balantum">balantus, balanta, balantum</a> adj</li>
+          <li id="word-92" class="word"><a href="http://www.latin-dictionary.net/definition/6010/balanus-balani">balanus, balani</a> n</li>
+          <li id="word-93" class="word"><a href="http://www.latin-dictionary.net/definition/6011/balatro-balatronis">balatro, balatronis</a> n</li>
+          <li id="word-94" class="word"><a href="http://www.latin-dictionary.net/definition/6012/balatus-balatus">balatus, balatus</a> n</li>
+          <li id="word-95" class="word"><a href="http://www.latin-dictionary.net/definition/6013/balaustium-balausti-i">balaustium, balausti(i)</a> n</li>
+          <li id="word-96" class="word"><a href="http://www.latin-dictionary.net/definition/6014/balbe">balbe</a> adv</li>
+          <li id="word-97" class="word"><a href="http://www.latin-dictionary.net/definition/6015/balbus-balba-balbum">balbus, balba, balbum</a> adj</li>
+          <li id="word-98" class="word"><a href="http://www.latin-dictionary.net/definition/6016/balbuties-balbutiei">balbuties, balbutiei</a> n</li>
+          <li id="word-99" class="word"><a href="http://www.latin-dictionary.net/definition/6017/balbutio-balbutire">balbutio, balbutire, -, -</a> v</li>
+          <li id="word-100" class="word"><a href="http://www.latin-dictionary.net/definition/6018/balbuttio-balbuttire">balbuttio, balbuttire, -, -</a> v</li>
+          <li id="word-101" class="word"><a href="http://www.latin-dictionary.net/definition/6019/baldachinum-baldachini">baldachinum, baldachini</a> n</li>
+          <li id="word-102" class="word"><a href="http://www.latin-dictionary.net/definition/6020/baldachinus-baldachini">baldachinus, baldachini</a> n</li>
+          <li id="word-103" class="word"><a href="http://www.latin-dictionary.net/definition/6021/balena-balenae">balena, balenae</a> n</li>
+          <li id="word-104" class="word"><a href="http://www.latin-dictionary.net/definition/6022/balenaceus-balenacea-balenaceum">balenaceus, balenacea, balenaceum</a> adj</li>
+          <li id="word-105" class="word"><a href="http://www.latin-dictionary.net/definition/6023/balinea-balineae">balinea, balineae</a> n</li>
+          <li id="word-106" class="word"><a href="http://www.latin-dictionary.net/definition/6024/balineare-balinearis">balineare, balinearis</a> n</li>
+          <li id="word-107" class="word"><a href="http://www.latin-dictionary.net/definition/6025/balinearis-balinearis-balineare">balinearis, balinearis, balineare</a> adj</li>
+          <li id="word-108" class="word"><a href="http://www.latin-dictionary.net/definition/6026/balinearium-balinearii">balinearium, balinearii</a> n</li>
+          <li id="word-109" class="word"><a href="http://www.latin-dictionary.net/definition/6027/balinearius-balinearia-balinearium">balinearius, balinearia, balinearium</a> adj</li>
+          <li id="word-110" class="word"><a href="http://www.latin-dictionary.net/definition/6028/balineaticum-balineatici">balineaticum, balineatici</a> n</li>
+          <li id="word-111" class="word"><a href="http://www.latin-dictionary.net/definition/6029/balineator-balineatoris">balineator, balineatoris</a> n</li>
+          <li id="word-112" class="word"><a href="http://www.latin-dictionary.net/definition/6030/balineatorius-balineatoria-balineatorium">balineatorius, balineatoria, balineatorium</a> adj</li>
+          <li id="word-113" class="word"><a href="http://www.latin-dictionary.net/definition/6031/balineatrix-balineatricis">balineatrix, balineatricis</a> n</li>
+          <li id="word-114" class="word"><a href="http://www.latin-dictionary.net/definition/6032/balineolum-balineoli">balineolum, balineoli</a> n</li>
+          <li id="word-115" class="word"><a href="http://www.latin-dictionary.net/definition/6033/balineum-balinei">balineum, balinei</a> n</li>
+          <li id="word-116" class="word"><a href="http://www.latin-dictionary.net/definition/6034/baliolus-baliola-baliolum">baliolus, baliola, baliolum</a> adj</li>
+          <li id="word-117" class="word"><a href="http://www.latin-dictionary.net/definition/6035/balis-balis">balis, balis</a> n</li>
+          <li id="word-118" class="word"><a href="http://www.latin-dictionary.net/definition/6036/baliscus-balisca-baliscum">baliscus, balisca, baliscum</a> adj</li>
+          <li id="word-119" class="word"><a href="http://www.latin-dictionary.net/definition/6037/baliscus-balisci">baliscus, balisci</a> n</li>
+          <li id="word-120" class="word"><a href="http://www.latin-dictionary.net/definition/6038/balista-balistae">balista, balistae</a> n</li>
+          <li id="word-121" class="word"><a href="http://www.latin-dictionary.net/definition/6039/balistarium-balistarii">balistarium, balistarii</a> n</li>
+          <li id="word-122" class="word"><a href="http://www.latin-dictionary.net/definition/6040/balistarius-balistarii">balistarius, balistarii</a> n</li>
+          <li id="word-123" class="word"><a href="http://www.latin-dictionary.net/definition/6041/balistium-balistii">balistium, balistii</a> n</li>
+          <li id="word-124" class="word"><a href="http://www.latin-dictionary.net/definition/6042/balito-balitare-balitavi-balitatus">balito, balitare, balitavi, balitatus</a> v</li>
+          <li id="word-125" class="word"><a href="http://www.latin-dictionary.net/definition/6043/ballaena-ballaenae">ballaena, ballaenae</a> n</li>
+          <li id="word-126" class="word"><a href="http://www.latin-dictionary.net/definition/6044/ballaenaceus-ballaenacea-ballaenaceum">ballaenaceus, ballaenacea, ballaenaceum</a> adj</li>
+          <li id="word-127" class="word"><a href="http://www.latin-dictionary.net/definition/6045/ballatio-ballationis">ballatio, ballationis</a> n</li>
+          <li id="word-128" class="word"><a href="http://www.latin-dictionary.net/definition/6046/ballator-ballatoris">ballator, ballatoris</a> n</li>
+          <li id="word-129" class="word"><a href="http://www.latin-dictionary.net/definition/6047/ballematicus-ballematica-ballematicum">ballematicus, ballematica, ballematicum</a> adj</li>
+          <li id="word-130" class="word"><a href="http://www.latin-dictionary.net/definition/6048/ballena-ballenae">ballena, ballenae</a> n</li>
+          <li id="word-131" class="word"><a href="http://www.latin-dictionary.net/definition/6049/ballista-ballistae">ballista, ballistae</a> n</li>
+          <li id="word-132" class="word"><a href="http://www.latin-dictionary.net/definition/6050/ballistarium-ballistarii">ballistarium, ballistarii</a> n</li>
+          <li id="word-133" class="word"><a href="http://www.latin-dictionary.net/definition/6051/ballistarius-ballistarii">ballistarius, ballistarii</a> n</li>
+          <li id="word-134" class="word"><a href="http://www.latin-dictionary.net/definition/6052/ballistium-ballistii">ballistium, ballistii</a> n</li>
+          <li id="word-135" class="word"><a href="http://www.latin-dictionary.net/definition/6053/ballium-ballii">ballium, ballii</a> n</li>
+          <li id="word-136" class="word"><a href="http://www.latin-dictionary.net/definition/6054/ballivus-ballivi">ballivus, ballivi</a> n</li>
+          <li id="word-137" class="word"><a href="http://www.latin-dictionary.net/definition/6055/ballo-ballare-ballavi-ballatus">ballo, ballare, ballavi, ballatus</a> v</li>
+          <li id="word-138" class="word"><a href="http://www.latin-dictionary.net/definition/6056/ballote-ballotes">ballote, ballotes</a> n</li>
+          <li id="word-139" class="word"><a href="http://www.latin-dictionary.net/definition/6057/balluca-ballucae">balluca, ballucae</a> n</li>
+          <li id="word-140" class="word"><a href="http://www.latin-dictionary.net/definition/6058/ballux-ballucis">ballux, ballucis</a> n</li>
+          <li id="word-141" class="word"><a href="http://www.latin-dictionary.net/definition/6059/balnea-balneae">balnea, balneae</a> n</li>
+          <li id="word-142" class="word"><a href="http://www.latin-dictionary.net/definition/6060/balneare-balnearis">balneare, balnearis</a> n</li>
+          <li id="word-143" class="word"><a href="http://www.latin-dictionary.net/definition/6061/balnearis-balnearis-balneare">balnearis, balnearis, balneare</a> adj</li>
+          <li id="word-144" class="word"><a href="http://www.latin-dictionary.net/definition/6062/balnearium-balnearii">balnearium, balnearii</a> n</li>
+          <li id="word-145" class="word"><a href="http://www.latin-dictionary.net/definition/6063/balnearius-balnearia-balnearium">balnearius, balnearia, balnearium</a> adj</li>
+          <li id="word-146" class="word"><a href="http://www.latin-dictionary.net/definition/6064/balneaticum-balneatici">balneaticum, balneatici</a> n</li>
+          <li id="word-147" class="word"><a href="http://www.latin-dictionary.net/definition/6065/balneator-balneatoris">balneator, balneatoris</a> n</li>
+          <li id="word-148" class="word"><a href="http://www.latin-dictionary.net/definition/6066/balneatorius-balneatoria-balneatorium">balneatorius, balneatoria, balneatorium</a> adj</li>
+          <li id="word-149" class="word"><a href="http://www.latin-dictionary.net/definition/6067/balneatrix-balneatricis">balneatrix, balneatricis</a> n</li>
+          <li id="word-150" class="word"><a href="http://www.latin-dictionary.net/definition/6068/balneolum-balneoli">balneolum, balneoli</a> n</li>
+          <li id="word-151" class="word"><a href="http://www.latin-dictionary.net/definition/6069/balneum-balnei">balneum, balnei</a> n</li>
+          <li id="word-152" class="word"><a href="http://www.latin-dictionary.net/definition/6070/balo-balare-balavi-balatus">balo, balare, balavi, balatus</a> v</li>
+          <li id="word-153" class="word"><a href="http://www.latin-dictionary.net/definition/6071/balsameus-balsamea-balsameum">balsameus, balsamea, balsameum</a> adj</li>
+          <li id="word-154" class="word"><a href="http://www.latin-dictionary.net/definition/6072/balsaminus-balsamina-balsaminum">balsaminus, balsamina, balsaminum</a> adj</li>
+          <li id="word-155" class="word"><a href="http://www.latin-dictionary.net/definition/6073/balsamum-balsami">balsamum, balsami</a> n</li>
+          <li id="word-156" class="word"><a href="http://www.latin-dictionary.net/definition/6074/baltearius-baltearii">baltearius, baltearii</a> n</li>
+          <li id="word-157" class="word"><a href="http://www.latin-dictionary.net/definition/6075/balteolus-balteoli">balteolus, balteoli</a> n</li>
+          <li id="word-158" class="word"><a href="http://www.latin-dictionary.net/definition/6076/balteum-baltei">balteum, baltei</a> n</li>
+          <li id="word-159" class="word"><a href="http://www.latin-dictionary.net/definition/6077/balteus-baltei">balteus, baltei</a> n</li>
+          <li id="word-160" class="word"><a href="http://www.latin-dictionary.net/definition/6078/baluca-balucae">baluca, balucae</a> n</li>
+          <li id="word-161" class="word"><a href="http://www.latin-dictionary.net/definition/6079/balux-balucis">balux, balucis</a> n</li>
+          <li id="word-162" class="word"><a href="http://www.latin-dictionary.net/definition/6080/bambusa-bambusae">bambusa, bambusae</a> n</li>
+          <li id="word-163" class="word"><a href="http://www.latin-dictionary.net/definition/6081/banana-bananae">banana, bananae</a> n</li>
+          <li id="word-164" class="word"><a href="http://www.latin-dictionary.net/definition/6082/bananicus-bananica-bananicum">bananicus, bananica, bananicum</a> adj</li>
+          <li id="word-165" class="word"><a href="http://www.latin-dictionary.net/definition/6083/banca-bancae">banca, bancae</a> n</li>
+          <li id="word-166" class="word"><a href="http://www.latin-dictionary.net/definition/6084/bancale-bancalis">bancale, bancalis</a> n</li>
+          <li id="word-167" class="word"><a href="http://www.latin-dictionary.net/definition/6085/bancarius-bancarii">bancarius, bancarii</a> n</li>
+          <li id="word-168" class="word"><a href="http://www.latin-dictionary.net/definition/6086/banchus-banchi">banchus, banchi</a> n</li>
+          <li id="word-169" class="word"><a href="http://www.latin-dictionary.net/definition/6087/bancus-banci">bancus, banci</a> n</li>
+          <li id="word-170" class="word"><a href="http://www.latin-dictionary.net/definition/6088/bancus-banci">bancus, banci</a> n</li>
+          <li id="word-171" class="word"><a href="http://www.latin-dictionary.net/definition/6089/bannita-bannitae">bannita, bannitae</a> n</li>
+          <li id="word-172" class="word"><a href="http://www.latin-dictionary.net/definition/6090/bannium-bannii">bannium, bannii</a> n</li>
+          <li id="word-173" class="word"><a href="http://www.latin-dictionary.net/definition/6091/bannum-banni">bannum, banni</a> n</li>
+          <li id="word-174" class="word"><a href="http://www.latin-dictionary.net/definition/6092/bannus-banni">bannus, banni</a> n</li>
+          <li id="word-175" class="word"><a href="http://www.latin-dictionary.net/definition/6093/bapheum-baphei">bapheum, baphei</a> n</li>
+          <li id="word-176" class="word"><a href="http://www.latin-dictionary.net/definition/6094/bapheus-baphei">bapheus, baphei</a> n</li>
+          <li id="word-177" class="word"><a href="http://www.latin-dictionary.net/definition/6095/baphium-baphii">baphium, baphii</a> n</li>
+          <li id="word-178" class="word"><a href="http://www.latin-dictionary.net/definition/6096/baptes-baptae">baptes, baptae</a> n</li>
+          <li id="word-179" class="word"><a href="http://www.latin-dictionary.net/definition/6097/baptisma-baptismatis">baptisma, baptismatis</a> n</li>
+          <li id="word-180" class="word"><a href="http://www.latin-dictionary.net/definition/6098/baptismalis-baptismalis-baptismale">baptismalis, baptismalis, baptismale</a> adj</li>
+          <li id="word-181" class="word"><a href="http://www.latin-dictionary.net/definition/6099/baptismum-baptismi">baptismum, baptismi</a> n</li>
+          <li id="word-182" class="word"><a href="http://www.latin-dictionary.net/definition/6100/baptismus-baptismi">baptismus, baptismi</a> n</li>
+          <li id="word-183" class="word"><a href="http://www.latin-dictionary.net/definition/6101/baptista-baptistae">baptista, baptistae</a> n</li>
+          <li id="word-184" class="word"><a href="http://www.latin-dictionary.net/definition/6102/baptisterium-baptisterii">baptisterium, baptisterii</a> n</li>
+          <li id="word-185" class="word"><a href="http://www.latin-dictionary.net/definition/6103/baptizatio-baptizationis">baptizatio, baptizationis</a> n</li>
+          <li id="word-186" class="word"><a href="http://www.latin-dictionary.net/definition/6104/baptizator-baptizatoris">baptizator, baptizatoris</a> n</li>
+          <li id="word-187" class="word"><a href="http://www.latin-dictionary.net/definition/6105/baptizo-baptizare-baptizavi-baptizatus">baptizo, baptizare, baptizavi, baptizatus</a> v</li>
+          <li id="word-188" class="word"><a href="http://www.latin-dictionary.net/definition/6106/barathrum-barathri">barathrum, barathri</a> n</li>
+          <li id="word-189" class="word"><a href="http://www.latin-dictionary.net/definition/6107/baratrum-baratri">baratrum, baratri</a> n</li>
+          <li id="word-190" class="word"><a href="http://www.latin-dictionary.net/definition/6108/barba-barbae">barba, barbae</a> n</li>
+          <li id="word-191" class="word"><a href="http://www.latin-dictionary.net/definition/6109/barbara-barbarae">barbara, barbarae</a> n</li>
+          <li id="word-192" class="word"><a href="http://www.latin-dictionary.net/definition/6110/barbare">barbare</a> adv</li>
+          <li id="word-193" class="word"><a href="http://www.latin-dictionary.net/definition/6111/barbaria-barbariae">barbaria, barbariae</a> n</li>
+          <li id="word-194" class="word"><a href="http://www.latin-dictionary.net/definition/6112/barbaricarius-barbaricarii">barbaricarius, barbaricarii</a> n</li>
+          <li id="word-195" class="word"><a href="http://www.latin-dictionary.net/definition/6113/barbarice">barbarice</a> adv</li>
+          <li id="word-196" class="word"><a href="http://www.latin-dictionary.net/definition/6114/barbaricum">barbaricum</a> adv</li>
+          <li id="word-197" class="word"><a href="http://www.latin-dictionary.net/definition/6115/barbaricum-barbarici">barbaricum, barbarici</a> n</li>
+          <li id="word-198" class="word"><a href="http://www.latin-dictionary.net/definition/6116/barbaricus-barbarica-barbaricum">barbaricus, barbarica, barbaricum</a> adj</li>
+          <li id="word-199" class="word"><a href="http://www.latin-dictionary.net/definition/6117/barbaries-barbariei">barbaries, barbariei</a> n</li>
+          <li id="word-200" class="word"><a href="http://www.latin-dictionary.net/definition/6118/barbarismus-barbarismi">barbarismus, barbarismi</a> n</li>
+          <li id="word-201" class="word"><a href="http://www.latin-dictionary.net/definition/6119/barbarolexis-barbaroleos-is">barbarolexis, barbaroleos/is</a> n</li>
+          <li id="word-202" class="word"><a href="http://www.latin-dictionary.net/definition/6120/barbarum-barbari">barbarum, barbari</a> n</li>
+          <li id="word-203" class="word"><a href="http://www.latin-dictionary.net/definition/6121/barbarus-barbara">barbarus, barbara</a> adj</li>
+          <li id="word-204" class="word"><a href="http://www.latin-dictionary.net/definition/6122/barbarus-barbari">barbarus, barbari</a> n</li>
+          <li id="word-205" class="word"><a href="http://www.latin-dictionary.net/definition/6123/barbasculus-barbasculi">barbasculus, barbasculi</a> n</li>
+          <li id="word-206" class="word"><a href="http://www.latin-dictionary.net/definition/6124/barbatoria-barbatoriae">barbatoria, barbatoriae</a> n</li>
+          <li id="word-207" class="word"><a href="http://www.latin-dictionary.net/definition/6125/barbatulus-barbatula-barbatulum">barbatulus, barbatula, barbatulum</a> adj</li>
+          <li id="word-208" class="word"><a href="http://www.latin-dictionary.net/definition/6126/barbatus-barbata-barbatum">barbatus, barbata, barbatum</a> adj</li>
+          <li id="word-209" class="word"><a href="http://www.latin-dictionary.net/definition/6127/barbesco-barbescere">barbesco, barbescere, -, -</a> v</li>
+          <li id="word-210" class="word"><a href="http://www.latin-dictionary.net/definition/6128/barbiger-barbigera-barbigerum">barbiger, barbigera, barbigerum</a> adj</li>
+          <li id="word-211" class="word"><a href="http://www.latin-dictionary.net/definition/6129/barbio-barbire-barbivi-barbitus">barbio, barbire, barbivi, barbitus</a> v</li>
+          <li id="word-212" class="word"><a href="http://www.latin-dictionary.net/definition/6130/barbitium-barbitii">barbitium, barbitii</a> n</li>
+          <li id="word-213" class="word"><a href="http://www.latin-dictionary.net/definition/6131/barbiton-barbiti">barbiton, barbiti</a> n</li>
+          <li id="word-214" class="word"><a href="http://www.latin-dictionary.net/definition/6132/barbitonsor-barbitonsoris">barbitonsor, barbitonsoris</a> n</li>
+          <li id="word-215" class="word"><a href="http://www.latin-dictionary.net/definition/6133/barbitos-barbiti">barbitos, barbiti</a> n</li>
+          <li id="word-216" class="word"><a href="http://www.latin-dictionary.net/definition/6134/barbo-barbare-barbavi-barbatus">barbo, barbare, barbavi, barbatus</a> v</li>
+          <li id="word-217" class="word"><a href="http://www.latin-dictionary.net/definition/6135/barbula-barbulae">barbula, barbulae</a> n</li>
+          <li id="word-218" class="word"><a href="http://www.latin-dictionary.net/definition/6136/barbus-barbi">barbus, barbi</a> n</li>
+          <li id="word-219" class="word"><a href="http://www.latin-dictionary.net/definition/6137/barca-barcae">barca, barcae</a> n</li>
+          <li id="word-220" class="word"><a href="http://www.latin-dictionary.net/definition/6138/barcala-barcalae">barcala, barcalae</a> n</li>
+          <li id="word-221" class="word"><a href="http://www.latin-dictionary.net/definition/6139/barditus-barditus">barditus, barditus</a> n</li>
+          <li id="word-222" class="word"><a href="http://www.latin-dictionary.net/definition/6140/bardocucullus-bardocuculli">bardocucullus, bardocuculli</a> n</li>
+          <li id="word-223" class="word"><a href="http://www.latin-dictionary.net/definition/6141/bardus-barda-bardum">bardus, barda, bardum</a> adj</li>
+          <li id="word-224" class="word"><a href="http://www.latin-dictionary.net/definition/6142/Bardus-Bardi">Bardus, Bardi</a> n</li>
+          <li id="word-225" class="word"><a href="http://www.latin-dictionary.net/definition/6143/barile-barilis">barile, barilis</a> n</li>
+          <li id="word-226" class="word"><a href="http://www.latin-dictionary.net/definition/6144/baripe-baripes">baripe, baripes</a> n</li>
+          <li id="word-227" class="word"><a href="http://www.latin-dictionary.net/definition/6145/baris-baridis">baris, baridis</a> n</li>
+          <li id="word-228" class="word"><a href="http://www.latin-dictionary.net/definition/6146/baritus-baritus">baritus, baritus</a> n</li>
+          <li id="word-229" class="word"><a href="http://www.latin-dictionary.net/definition/6147/baro-baronis">baro, baronis</a> n</li>
+          <li id="word-230" class="word"><a href="http://www.latin-dictionary.net/definition/6148/baro-baronis">baro, baronis</a> n</li>
+          <li id="word-231" class="word"><a href="http://www.latin-dictionary.net/definition/6149/barocus-baroca-barocum">barocus, baroca, barocum</a> adj</li>
+          <li id="word-232" class="word"><a href="http://www.latin-dictionary.net/definition/6150/barometrum-barometri">barometrum, barometri</a> n</li>
+          <li id="word-233" class="word"><a href="http://www.latin-dictionary.net/definition/6151/baronia-baroniae">baronia, baroniae</a> n</li>
+          <li id="word-234" class="word"><a href="http://www.latin-dictionary.net/definition/6152/baroptenus-baropteni">baroptenus, baropteni</a> n</li>
+          <li id="word-235" class="word"><a href="http://www.latin-dictionary.net/definition/6153/barosus-barosa-barosum">barosus, barosa, barosum</a> adj</li>
+          <li id="word-236" class="word"><a href="http://www.latin-dictionary.net/definition/6154/barrinus-barrina-barrinum">barrinus, barrina, barrinum</a> adj</li>
+          <li id="word-237" class="word"><a href="http://www.latin-dictionary.net/definition/6155/barrio-barrire">barrio, barrire, -, -</a> v</li>
+          <li id="word-238" class="word"><a href="http://www.latin-dictionary.net/definition/6156/barritus-barritus">barritus, barritus</a> n</li>
+          <li id="word-239" class="word"><a href="http://www.latin-dictionary.net/definition/6157/barrus-barri">barrus, barri</a> n</li>
+          <li id="word-240" class="word"><a href="http://www.latin-dictionary.net/definition/6158/Baruch-undeclined">Baruch, undeclined</a> n</li>
+          <li id="word-241" class="word"><a href="http://www.latin-dictionary.net/definition/6159/barycephalus-barycephala-barycephalum">barycephalus, barycephala, barycephalum</a> adj</li>
+          <li id="word-242" class="word"><a href="http://www.latin-dictionary.net/definition/6160/barycus-baryca-barycum">barycus, baryca, barycum</a> adj</li>
+          <li id="word-243" class="word"><a href="http://www.latin-dictionary.net/definition/6161/barypicron-barypicri">barypicron, barypicri</a> n</li>
+          <li id="word-244" class="word"><a href="http://www.latin-dictionary.net/definition/6162/barython-barythonis">barython, barythonis</a> n</li>
+          <li id="word-245" class="word"><a href="http://www.latin-dictionary.net/definition/6163/barythonos-barythonos-barythonon">barythonos, barythonos, barythonon</a> adj</li>
+          <li id="word-246" class="word"><a href="http://www.latin-dictionary.net/definition/6164/barytonista-barytonistae">barytonista, barytonistae</a> n</li>
+          <li id="word-247" class="word"><a href="http://www.latin-dictionary.net/definition/6165/bas-baseos-is">bas, baseos/is</a> n</li>
+          <li id="word-248" class="word"><a href="http://www.latin-dictionary.net/definition/6166/basaltes-basaltis">basaltes, basaltis</a> n</li>
+          <li id="word-249" class="word"><a href="http://www.latin-dictionary.net/definition/6167/basanites-basanitae">basanites, basanitae</a> n</li>
+          <li id="word-250" class="word"><a href="http://www.latin-dictionary.net/definition/6168/bascauda-bascaudae">bascauda, bascaudae</a> n</li>
+          <li id="word-251" class="word"><a href="http://www.latin-dictionary.net/definition/6169/basella-basellae">basella, basellae</a> n</li>
+          <li id="word-252" class="word"><a href="http://www.latin-dictionary.net/definition/6170/basiatio-basiationis">basiatio, basiationis</a> n</li>
+          <li id="word-253" class="word"><a href="http://www.latin-dictionary.net/definition/6171/basiator-basiatoris">basiator, basiatoris</a> n</li>
+          <li id="word-254" class="word"><a href="http://www.latin-dictionary.net/definition/6172/basicula-basiculae">basicula, basiculae</a> n</li>
+          <li id="word-255" class="word"><a href="http://www.latin-dictionary.net/definition/6173/basileum-basilei">basileum, basilei</a> n</li>
+          <li id="word-256" class="word"><a href="http://www.latin-dictionary.net/definition/6174/basileus-basileus">basileus, basileus</a> n</li>
+          <li id="word-257" class="word"><a href="http://www.latin-dictionary.net/definition/6175/basilica-basilicae">basilica, basilicae</a> n</li>
+          <li id="word-258" class="word"><a href="http://www.latin-dictionary.net/definition/6176/basilicanus-basilicani">basilicanus, basilicani</a> n</li>
+          <li id="word-259" class="word"><a href="http://www.latin-dictionary.net/definition/6177/basilice">basilice</a> adv</li>
+          <li id="word-260" class="word"><a href="http://www.latin-dictionary.net/definition/6178/basilice-basilices">basilice, basilices</a> n</li>
+          <li id="word-261" class="word"><a href="http://www.latin-dictionary.net/definition/6179/basilicola-basilicolae">basilicola, basilicolae</a> n</li>
+          <li id="word-262" class="word"><a href="http://www.latin-dictionary.net/definition/6180/basilicon-basilici">basilicon, basilici</a> n</li>
+          <li id="word-263" class="word"><a href="http://www.latin-dictionary.net/definition/6181/basilicum-basilici">basilicum, basilici</a> n</li>
+          <li id="word-264" class="word"><a href="http://www.latin-dictionary.net/definition/6182/basilicum-basilici">basilicum, basilici</a> n</li>
+          <li id="word-265" class="word"><a href="http://www.latin-dictionary.net/definition/6183/basilicus-basilica-basilicum">basilicus, basilica, basilicum</a> adj</li>
+          <li id="word-266" class="word"><a href="http://www.latin-dictionary.net/definition/6184/basilicus-basilici">basilicus, basilici</a> adj</li>
+          <li id="word-267" class="word"><a href="http://www.latin-dictionary.net/definition/6185/basilisca-basiliscae">basilisca, basiliscae</a> n</li>
+          <li id="word-268" class="word"><a href="http://www.latin-dictionary.net/definition/6186/basiliscus-basilisci">basiliscus, basilisci</a> n</li>
+          <li id="word-269" class="word"><a href="http://www.latin-dictionary.net/definition/6187/basilium-basilii">basilium, basilii</a> n</li>
+          <li id="word-270" class="word"><a href="http://www.latin-dictionary.net/definition/6188/basio-basiare-basiavi-basiatus">basio, basiare, basiavi, basiatus</a> v</li>
+          <li id="word-271" class="word"><a href="http://www.latin-dictionary.net/definition/6189/basioballum-basioballi">basioballum, basioballi</a> n</li>
+          <li id="word-272" class="word"><a href="http://www.latin-dictionary.net/definition/6190/basiolum-basioli">basiolum, basioli</a> n</li>
+          <li id="word-273" class="word"><a href="http://www.latin-dictionary.net/definition/6191/basis-basos-is">basis, basos/is</a> n</li>
+          <li id="word-274" class="word"><a href="http://www.latin-dictionary.net/definition/6192/basium-basi-i">basium, basi(i)</a> n</li>
+          <li id="word-275" class="word"><a href="http://www.latin-dictionary.net/definition/6193/bassilica-bassilicae">bassilica, bassilicae</a> n</li>
+          <li id="word-276" class="word"><a href="http://www.latin-dictionary.net/definition/6194/bassista-bassistae">bassista, bassistae</a> n</li>
+          <li id="word-277" class="word"><a href="http://www.latin-dictionary.net/definition/6195/bassus-bassa-bassum">bassus, bassa, bassum</a> adj</li>
+          <li id="word-278" class="word"><a href="http://www.latin-dictionary.net/definition/6196/bastaga-bastagae">bastaga, bastagae</a> n</li>
+          <li id="word-279" class="word"><a href="http://www.latin-dictionary.net/definition/6197/bastagarius-bastagarii">bastagarius, bastagarii</a> n</li>
+          <li id="word-280" class="word"><a href="http://www.latin-dictionary.net/definition/6198/bastagia-bastagiae">bastagia, bastagiae</a> n</li>
+          <li id="word-281" class="word"><a href="http://www.latin-dictionary.net/definition/6199/bastarda-bastardae">bastarda, bastardae</a> n</li>
+          <li id="word-282" class="word"><a href="http://www.latin-dictionary.net/definition/6200/bastardia-bastardiae">bastardia, bastardiae</a> n</li>
+          <li id="word-283" class="word"><a href="http://www.latin-dictionary.net/definition/6201/bastardus-bastarda-bastardum">bastardus, bastarda, bastardum</a> adj</li>
+          <li id="word-284" class="word"><a href="http://www.latin-dictionary.net/definition/6202/bastardus-bastardi">bastardus, bastardi</a> n</li>
+          <li id="word-285" class="word"><a href="http://www.latin-dictionary.net/definition/6203/basterna-basternae">basterna, basternae</a> n</li>
+          <li id="word-286" class="word"><a href="http://www.latin-dictionary.net/definition/6204/basternarius-basternarii">basternarius, basternarii</a> n</li>
+          <li id="word-287" class="word"><a href="http://www.latin-dictionary.net/definition/6205/bat">bat</a> conj</li>
+          <li id="word-288" class="word"><a href="http://www.latin-dictionary.net/definition/6206/batalaria-batalariae">batalaria, batalariae</a> n</li>
+          <li id="word-289" class="word"><a href="http://www.latin-dictionary.net/definition/6207/batallum-batalli">batallum, batalli</a> n</li>
+          <li id="word-290" class="word"><a href="http://www.latin-dictionary.net/definition/6208/batenim">batenim</a> conj</li>
+          <li id="word-291" class="word"><a href="http://www.latin-dictionary.net/definition/6209/bathrum-bathri">bathrum, bathri</a> n</li>
+          <li id="word-292" class="word"><a href="http://www.latin-dictionary.net/definition/6210/batia-batiae">batia, batiae</a> n</li>
+          <li id="word-293" class="word"><a href="http://www.latin-dictionary.net/definition/6211/batiaca-batiacae">batiaca, batiacae</a> n</li>
+          <li id="word-294" class="word"><a href="http://www.latin-dictionary.net/definition/6212/batillum-batilli">batillum, batilli</a> n</li>
+          <li id="word-295" class="word"><a href="http://www.latin-dictionary.net/definition/6213/batillus-batilli">batillus, batilli</a> n</li>
+          <li id="word-296" class="word"><a href="http://www.latin-dictionary.net/definition/6214/batioca-batiocae">batioca, batiocae</a> n</li>
+          <li id="word-297" class="word"><a href="http://www.latin-dictionary.net/definition/6215/batiola-batiolae">batiola, batiolae</a> n</li>
+          <li id="word-298" class="word"><a href="http://www.latin-dictionary.net/definition/6216/batis-batis">batis, batis</a> n</li>
+          <li id="word-299" class="word"><a href="http://www.latin-dictionary.net/definition/6217/batrachion-batrachii">batrachion, batrachii</a> n</li>
+          <li id="word-300" class="word"><a href="http://www.latin-dictionary.net/definition/6218/batrachites-batrachitae">batrachites, batrachitae</a> n</li>
+          <li id="word-301" class="word"><a href="http://www.latin-dictionary.net/definition/6219/batrachium-batrachii">batrachium, batrachii</a> n</li>
+          <li id="word-302" class="word"><a href="http://www.latin-dictionary.net/definition/6220/batrachus-batrachi">batrachus, batrachi</a> n</li>
+          <li id="word-303" class="word"><a href="http://www.latin-dictionary.net/definition/6221/battalia-battaliae">battalia, battaliae</a> n</li>
+          <li id="word-304" class="word"><a href="http://www.latin-dictionary.net/definition/6222/battis-battis">battis, battis</a> n</li>
+          <li id="word-305" class="word"><a href="http://www.latin-dictionary.net/definition/6223/batto-battere">batto, battere, -, -</a> v</li>
+          <li id="word-306" class="word"><a href="http://www.latin-dictionary.net/definition/6224/battualia-battualiae">battualia, battualiae</a> n</li>
+          <li id="word-307" class="word"><a href="http://www.latin-dictionary.net/definition/6225/battuarium-battuarii">battuarium, battuarii</a> n</li>
+          <li id="word-308" class="word"><a href="http://www.latin-dictionary.net/definition/6226/battuens-battuentis">battuens, battuentis</a> n</li>
+          <li id="word-309" class="word"><a href="http://www.latin-dictionary.net/definition/6227/battuo-battuere">battuo, battuere, -, -</a> v</li>
+          <li id="word-310" class="word"><a href="http://www.latin-dictionary.net/definition/6228/battutus-battuta-battutum">battutus, battuta, battutum</a> adj</li>
+          <li id="word-311" class="word"><a href="http://www.latin-dictionary.net/definition/6229/batuo-batuere">batuo, batuere, -, -</a> v</li>
+          <li id="word-312" class="word"><a href="http://www.latin-dictionary.net/definition/6230/batus-bati">batus, bati</a> n</li>
+          <li id="word-313" class="word"><a href="http://www.latin-dictionary.net/definition/6231/batus-bati">batus, bati</a> n</li>
+          <li id="word-314" class="word"><a href="http://www.latin-dictionary.net/definition/6232/baubatus-baubatus">baubatus, baubatus</a> n</li>
+          <li id="word-315" class="word"><a href="http://www.latin-dictionary.net/definition/6233/baubo-baubare-baubavi-baubatus">baubo, baubare, baubavi, baubatus</a> v</li>
+          <li id="word-316" class="word"><a href="http://www.latin-dictionary.net/definition/6234/baubor-baubari-baubatus">baubor, baubari, baubatus</a> v</li>
+          <li id="word-317" class="word"><a href="http://www.latin-dictionary.net/definition/6235/baxa-baxae">baxa, baxae</a> n</li>
+          <li id="word-318" class="word"><a href="http://www.latin-dictionary.net/definition/6236/baxea-baxeae">baxea, baxeae</a> n</li>
+          <li id="word-319" class="word"><a href="http://www.latin-dictionary.net/definition/6237/baxearius-baxearii">baxearius, baxearii</a> n</li>
+          <li id="word-320" class="word"><a href="http://www.latin-dictionary.net/definition/6238/baxiarius-baxiarii">baxiarius, baxiarii</a> n</li>
+          <li id="word-321" class="word"><a href="http://www.latin-dictionary.net/definition/6239/bdella-bdellae">bdella, bdellae</a> n</li>
+          <li id="word-322" class="word"><a href="http://www.latin-dictionary.net/definition/6240/bdellium-bdellii">bdellium, bdellii</a> n</li>
+          <li id="word-323" class="word"><a href="http://www.latin-dictionary.net/definition/6241/be">be</a> interj</li>
+          <li id="word-324" class="word"><a href="http://www.latin-dictionary.net/definition/6242/beate-beatius-beatissime">beate, beatius, beatissime</a> adv</li>
+          <li id="word-325" class="word"><a href="http://www.latin-dictionary.net/definition/6243/beatificatio-beatificationis">beatificatio, beatificationis</a> n</li>
+          <li id="word-326" class="word"><a href="http://www.latin-dictionary.net/definition/6244/beatifico-beatificare-beatificavi-beatificatus">beatifico, beatificare, beatificavi, beatificatus</a> v</li>
+          <li id="word-327" class="word"><a href="http://www.latin-dictionary.net/definition/6245/beatificus-beatifica-beatificum">beatificus, beatifica, beatificum</a> adj</li>
+          <li id="word-328" class="word"><a href="http://www.latin-dictionary.net/definition/6246/beatitas-beatitatis">beatitas, beatitatis</a> n</li>
+          <li id="word-329" class="word"><a href="http://www.latin-dictionary.net/definition/6247/beatitudo-beatitudinis">beatitudo, beatitudinis</a> n</li>
+          <li id="word-330" class="word"><a href="http://www.latin-dictionary.net/definition/6248/beatulus-beatula-beatulum">beatulus, beatula, beatulum</a> adj</li>
+          <li id="word-331" class="word"><a href="http://www.latin-dictionary.net/definition/6249/beatulus-beatuli">beatulus, beatuli</a> n</li>
+          <li id="word-332" class="word"><a href="http://www.latin-dictionary.net/definition/6250/beatum-beati">beatum, beati</a> n</li>
+          <li id="word-333" class="word"><a href="http://www.latin-dictionary.net/definition/6251/beatus-beata">beatus, beata</a> adj</li>
+          <li id="word-334" class="word"><a href="http://www.latin-dictionary.net/definition/6252/beatus-beata-beatum">beatus, beata, beatum</a> adj</li>
+          <li id="word-335" class="word"><a href="http://www.latin-dictionary.net/definition/6253/beatus-beati">beatus, beati</a> n</li>
+          <li id="word-336" class="word"><a href="http://www.latin-dictionary.net/definition/6254/beber-bebri">beber, bebri</a> n</li>
+          <li id="word-337" class="word"><a href="http://www.latin-dictionary.net/definition/6255/bebo-bebare-bebavi-bebatus">bebo, bebare, bebavi, bebatus</a> v</li>
+          <li id="word-338" class="word"><a href="http://www.latin-dictionary.net/definition/6256/bebra-bebrae">bebra, bebrae</a> n</li>
+          <li id="word-339" class="word"><a href="http://www.latin-dictionary.net/definition/6257/bebrinus-bebrina-bebrinum">bebrinus, bebrina, bebrinum</a> adj</li>
+          <li id="word-340" class="word"><a href="http://www.latin-dictionary.net/definition/6258/beccus-becci">beccus, becci</a> n</li>
+          <li id="word-341" class="word"><a href="http://www.latin-dictionary.net/definition/6259/bechicus-bechica-bechicum">bechicus, bechica, bechicum</a> adj</li>
+          <li id="word-342" class="word"><a href="http://www.latin-dictionary.net/definition/6260/bechion-bechii">bechion, bechii</a> n</li>
+          <li id="word-343" class="word"><a href="http://www.latin-dictionary.net/definition/6261/Beda-Bedae">Beda, Bedae</a> n</li>
+          <li id="word-344" class="word"><a href="http://www.latin-dictionary.net/definition/6262/Beduinus-Beduini">Beduinus, Beduini</a> n</li>
+          <li id="word-345" class="word"><a href="http://www.latin-dictionary.net/definition/6263/bee">bee</a> interj</li>
+          <li id="word-346" class="word"><a href="http://www.latin-dictionary.net/definition/6264/behemoth-undeclined">behemoth, undeclined</a> n</li>
+          <li id="word-347" class="word"><a href="http://www.latin-dictionary.net/definition/6265/behmoth-undeclined">behmoth, undeclined</a> n</li>
+          <li id="word-348" class="word"><a href="http://www.latin-dictionary.net/definition/6266/beia">beia</a> interj</li>
+          <li id="word-349" class="word"><a href="http://www.latin-dictionary.net/definition/6267/bekah-undeclined">bekah, undeclined</a> n</li>
+          <li id="word-350" class="word"><a href="http://www.latin-dictionary.net/definition/6268/belbus-belbi">belbus, belbi</a> n</li>
+          <li id="word-351" class="word"><a href="http://www.latin-dictionary.net/definition/6269/Belga-Belgae">Belga, Belgae</a> n</li>
+          <li id="word-352" class="word"><a href="http://www.latin-dictionary.net/definition/6270/Belgicus-Belgica-Belgicum">Belgicus, Belgica, Belgicum</a> adj</li>
+          <li id="word-353" class="word"><a href="http://www.latin-dictionary.net/definition/6271/Belgium-Belgii">Belgium, Belgii</a> n</li>
+          <li id="word-354" class="word"><a href="http://www.latin-dictionary.net/definition/6272/belion-belii">belion, belii</a> n</li>
+          <li id="word-355" class="word"><a href="http://www.latin-dictionary.net/definition/6273/belivus-beliva-belivum">belivus, beliva, belivum</a> adj</li>
+          <li id="word-356" class="word"><a href="http://www.latin-dictionary.net/definition/6274/bellarium-bellarii">bellarium, bellarii</a> n</li>
+          <li id="word-357" class="word"><a href="http://www.latin-dictionary.net/definition/6275/bellator-gen-bellatoris">bellator, (gen.), bellatoris</a> adj</li>
+          <li id="word-358" class="word"><a href="http://www.latin-dictionary.net/definition/6276/bellator-bellatoris">bellator, bellatoris</a> n</li>
+          <li id="word-359" class="word"><a href="http://www.latin-dictionary.net/definition/6277/bellatorius-bellatoria-bellatorium">bellatorius, bellatoria, bellatorium</a> adj</li>
+          <li id="word-360" class="word"><a href="http://www.latin-dictionary.net/definition/6278/bellatorus-bellatora-bellatorum">bellatorus, bellatora, bellatorum</a> adj</li>
+          <li id="word-361" class="word"><a href="http://www.latin-dictionary.net/definition/6279/bellatrix-gen-bellatricis">bellatrix, (gen.), bellatricis</a> adj</li>
+          <li id="word-362" class="word"><a href="http://www.latin-dictionary.net/definition/6280/bellatrix-bellatricis">bellatrix, bellatricis</a> n</li>
+          <li id="word-363" class="word"><a href="http://www.latin-dictionary.net/definition/6281/bellatulus-bellatula-bellatulum">bellatulus, bellatula, bellatulum</a> adj</li>
+          <li id="word-364" class="word"><a href="http://www.latin-dictionary.net/definition/6282/bellax-gen-bellacis">bellax, (gen.), bellacis</a> adj</li>
+          <li id="word-365" class="word"><a href="http://www.latin-dictionary.net/definition/6283/belle-bellius-bellissime">belle, bellius, bellissime</a> adv</li>
+          <li id="word-366" class="word"><a href="http://www.latin-dictionary.net/definition/6284/belle-bellius-bellissime">belle, bellius, bellissime</a> adv</li>
+          <li id="word-367" class="word"><a href="http://www.latin-dictionary.net/definition/6285/belliatulus-belliatula-belliatulum">belliatulus, belliatula, belliatulum</a> adj</li>
+          <li id="word-368" class="word"><a href="http://www.latin-dictionary.net/definition/6286/belliatus-belliata-belliatum">belliatus, belliata, belliatum</a> adj</li>
+          <li id="word-369" class="word"><a href="http://www.latin-dictionary.net/definition/6287/bellicosus-bellicosa">bellicosus, bellicosa</a> adj</li>
+          <li id="word-370" class="word"><a href="http://www.latin-dictionary.net/definition/6288/bellicrepus-bellicrepa-bellicrepum">bellicrepus, bellicrepa, bellicrepum</a> adj</li>
+          <li id="word-371" class="word"><a href="http://www.latin-dictionary.net/definition/6289/bellicum-bellici">bellicum, bellici</a> n</li>
+          <li id="word-372" class="word"><a href="http://www.latin-dictionary.net/definition/6290/bellicus-bellica-bellicum">bellicus, bellica, bellicum</a> adj</li>
+          <li id="word-373" class="word"><a href="http://www.latin-dictionary.net/definition/6291/bellifer-bellifera-belliferum">bellifer, bellifera, belliferum</a> adj</li>
+          <li id="word-374" class="word"><a href="http://www.latin-dictionary.net/definition/6292/belliger-belligera-belligerum">belliger, belligera, belligerum</a> adj</li>
+          <li id="word-375" class="word"><a href="http://www.latin-dictionary.net/definition/6293/belligerator-belligeratoris">belligerator, belligeratoris</a> n</li>
+          <li id="word-376" class="word"><a href="http://www.latin-dictionary.net/definition/6294/belligero-belligerare-belligeravi-belligeratus">belligero, belligerare, belligeravi, belligeratus</a> v</li>
+          <li id="word-377" class="word"><a href="http://www.latin-dictionary.net/definition/6295/belligeror-belligerari-belligeratus">belligeror, belligerari, belligeratus</a> v</li>
+          <li id="word-378" class="word"><a href="http://www.latin-dictionary.net/definition/6296/bellio-bellionis">bellio, bellionis</a> n</li>
+          <li id="word-379" class="word"><a href="http://www.latin-dictionary.net/definition/6297/bellipotens-gen-bellipotentis">bellipotens, (gen.), bellipotentis</a> adj</li>
+          <li id="word-380" class="word"><a href="http://www.latin-dictionary.net/definition/6298/bellis-bellis">bellis, bellis</a> n</li>
+          <li id="word-381" class="word"><a href="http://www.latin-dictionary.net/definition/6299/bellisonus-bellisona-bellisonum">bellisonus, bellisona, bellisonum</a> adj</li>
+          <li id="word-382" class="word"><a href="http://www.latin-dictionary.net/definition/6300/bellitudo-bellitudinis">bellitudo, bellitudinis</a> n</li>
+          <li id="word-383" class="word"><a href="http://www.latin-dictionary.net/definition/6301/bello-bellare-bellavi-bellatus">bello, bellare, bellavi, bellatus</a> v</li>
+          <li id="word-384" class="word"><a href="http://www.latin-dictionary.net/definition/6302/bellonaria-bellonariae">bellonaria, bellonariae</a> n</li>
+          <li id="word-385" class="word"><a href="http://www.latin-dictionary.net/definition/6303/bellor-bellari">bellor, bellari, -</a> v</li>
+          <li id="word-386" class="word"><a href="http://www.latin-dictionary.net/definition/6304/bellosus-bellosa-bellosum">bellosus, bellosa, bellosum</a> adj</li>
+          <li id="word-387" class="word"><a href="http://www.latin-dictionary.net/definition/6305/Bellovacus-Bellovaci">Bellovacus, Bellovaci</a> n</li>
+          <li id="word-388" class="word"><a href="http://www.latin-dictionary.net/definition/6306/bellua-belluae">bellua, belluae</a> n</li>
+          <li id="word-389" class="word"><a href="http://www.latin-dictionary.net/definition/6307/bellualis-bellualis-belluale">bellualis, bellualis, belluale</a> adj</li>
+          <li id="word-390" class="word"><a href="http://www.latin-dictionary.net/definition/6308/belluatus-belluata-belluatum">belluatus, belluata, belluatum</a> adj</li>
+          <li id="word-391" class="word"><a href="http://www.latin-dictionary.net/definition/6309/belluilis-belluilis-belluile">belluilis, belluilis, belluile</a> adj</li>
+          <li id="word-392" class="word"><a href="http://www.latin-dictionary.net/definition/6310/belluinus-belluina-belluinum">belluinus, belluina, belluinum</a> adj</li>
+          <li id="word-393" class="word"><a href="http://www.latin-dictionary.net/definition/6311/bellule">bellule</a> adv</li>
+          <li id="word-394" class="word"><a href="http://www.latin-dictionary.net/definition/6312/bellulus-bellula-bellulum">bellulus, bellula, bellulum</a> adj</li>
+          <li id="word-395" class="word"><a href="http://www.latin-dictionary.net/definition/6313/bellum-belli">bellum, belli</a> n</li>
+          <li id="word-396" class="word"><a href="http://www.latin-dictionary.net/definition/6314/bellus-bella">bellus, bella</a> adj</li>
+          <li id="word-397" class="word"><a href="http://www.latin-dictionary.net/definition/6315/belo-belare-belavi-belatus">belo, belare, belavi, belatus</a> v</li>
+          <li id="word-398" class="word"><a href="http://www.latin-dictionary.net/definition/6316/beloacos-beloaci">beloacos, beloaci</a> n</li>
+          <li id="word-399" class="word"><a href="http://www.latin-dictionary.net/definition/6317/belone-belones">belone, belones</a> n</li>
+          <li id="word-400" class="word"><a href="http://www.latin-dictionary.net/definition/6318/belotocos-belotoci">belotocos, belotoci</a> n</li>
+          <li id="word-401" class="word"><a href="http://www.latin-dictionary.net/definition/6319/belua-beluae">belua, beluae</a> n</li>
+          <li id="word-402" class="word"><a href="http://www.latin-dictionary.net/definition/6320/belualis-belualis-beluale">belualis, belualis, beluale</a> adj</li>
+          <li id="word-403" class="word"><a href="http://www.latin-dictionary.net/definition/6321/beluatus-beluata-beluatum">beluatus, beluata, beluatum</a> adj</li>
+          <li id="word-404" class="word"><a href="http://www.latin-dictionary.net/definition/6322/beluilis-beluilis-beluile">beluilis, beluilis, beluile</a> adj</li>
+          <li id="word-405" class="word"><a href="http://www.latin-dictionary.net/definition/6323/beluinus-beluina-beluinum">beluinus, beluina, beluinum</a> adj</li>
+          <li id="word-406" class="word"><a href="http://www.latin-dictionary.net/definition/6324/beluosus-beluosa-beluosum">beluosus, beluosa, beluosum</a> adj</li>
+          <li id="word-407" class="word"><a href="http://www.latin-dictionary.net/definition/6325/beluus-belua-beluum">beluus, belua, beluum</a> adj</li>
+          <li id="word-408" class="word"><a href="http://www.latin-dictionary.net/definition/6326/bema-bematis">bema, bematis</a> n</li>
+          <li id="word-409" class="word"><a href="http://www.latin-dictionary.net/definition/6327/bene-melius-optime">bene, melius, optime</a> adv</li>
+          <li id="word-410" class="word"><a href="http://www.latin-dictionary.net/definition/6328/benedice">benedice</a> adv</li>
+          <li id="word-411" class="word"><a href="http://www.latin-dictionary.net/definition/6329/benedico-benedicere-benedixi-benedictus">benedico, benedicere, benedixi, benedictus</a> v</li>
+          <li id="word-412" class="word"><a href="http://www.latin-dictionary.net/definition/6330/benedictio-benedictionis">benedictio, benedictionis</a> n</li>
+          <li id="word-413" class="word"><a href="http://www.latin-dictionary.net/definition/6331/benedictionale-benedictionalis">benedictionale, benedictionalis</a> n</li>
+          <li id="word-414" class="word"><a href="http://www.latin-dictionary.net/definition/6332/benedictorium-benedictorii">benedictorium, benedictorii</a> n</li>
+          <li id="word-415" class="word"><a href="http://www.latin-dictionary.net/definition/6333/benedictus-benedicta-benedictum">benedictus, benedicta, benedictum</a> adj</li>
+          <li id="word-416" class="word"><a href="http://www.latin-dictionary.net/definition/6334/benedictus-benedicti">benedictus, benedicti</a> n</li>
+          <li id="word-417" class="word"><a href="http://www.latin-dictionary.net/definition/6335/benedicus-benedica-benedicum">benedicus, benedica, benedicum</a> adj</li>
+          <li id="word-418" class="word"><a href="http://www.latin-dictionary.net/definition/6336/benefacio-benefacere-benefeci-benefactus">benefacio, benefacere, benefeci, benefactus</a> v</li>
+          <li id="word-419" class="word"><a href="http://www.latin-dictionary.net/definition/6337/benefactio-benefactionis">benefactio, benefactionis</a> n</li>
+          <li id="word-420" class="word"><a href="http://www.latin-dictionary.net/definition/6338/benefactor-benefactoris">benefactor, benefactoris</a> n</li>
+          <li id="word-421" class="word"><a href="http://www.latin-dictionary.net/definition/6339/benefactum-benefacti">benefactum, benefacti</a> n</li>
+          <li id="word-422" class="word"><a href="http://www.latin-dictionary.net/definition/6340/benefice">benefice</a> adv</li>
+          <li id="word-423" class="word"><a href="http://www.latin-dictionary.net/definition/6341/beneficentia-beneficentiae">beneficentia, beneficentiae</a> n</li>
+          <li id="word-424" class="word"><a href="http://www.latin-dictionary.net/definition/6342/beneficiarius-beneficiari-i">beneficiarius, beneficiari(i)</a> n</li>
+          <li id="word-425" class="word"><a href="http://www.latin-dictionary.net/definition/6343/beneficiarius-beneficiaria-beneficiarium">beneficiarius, beneficiaria, beneficiarium</a> adj</li>
+          <li id="word-426" class="word"><a href="http://www.latin-dictionary.net/definition/6344/beneficiarius-beneficiarii">beneficiarius, beneficiarii</a> n</li>
+          <li id="word-427" class="word"><a href="http://www.latin-dictionary.net/definition/6345/beneficiatus-beneficiati">beneficiatus, beneficiati</a> n</li>
+          <li id="word-428" class="word"><a href="http://www.latin-dictionary.net/definition/6346/beneficiatus-beneficiatus">beneficiatus, beneficiatus</a> n</li>
+          <li id="word-429" class="word"><a href="http://www.latin-dictionary.net/definition/6347/beneficientia-beneficientiae">beneficientia, beneficientiae</a> n</li>
+          <li id="word-430" class="word"><a href="http://www.latin-dictionary.net/definition/6348/beneficium-benefici-i">beneficium, benefici(i)</a> n</li>
+          <li id="word-431" class="word"><a href="http://www.latin-dictionary.net/definition/6349/beneficus-benefica">beneficus, benefica</a> adj</li>
+          <li id="word-432" class="word"><a href="http://www.latin-dictionary.net/definition/6350/benefio-beneferi-benefactus">benefio, beneferi, benefactus</a> v</li>
+          <li id="word-433" class="word"><a href="http://www.latin-dictionary.net/definition/6351/benemerens-benemerentis">benemerens, benemerentis</a> adj</li>
+          <li id="word-434" class="word"><a href="http://www.latin-dictionary.net/definition/6352/benemeritus-benemerita">benemeritus, benemerita</a> adj</li>
+          <li id="word-435" class="word"><a href="http://www.latin-dictionary.net/definition/6353/benemorius-benemoria-benemorium">benemorius, benemoria, benemorium</a> adj</li>
+          <li id="word-436" class="word"><a href="http://www.latin-dictionary.net/definition/6354/beneolentia-beneolentiae">beneolentia, beneolentiae</a> n</li>
+          <li id="word-437" class="word"><a href="http://www.latin-dictionary.net/definition/6355/beneplacens-gen-beneplacentis">beneplacens, (gen.), beneplacentis</a> adj</li>
+          <li id="word-438" class="word"><a href="http://www.latin-dictionary.net/definition/6356/beneplaceo-beneplacere-beneplacui-beneplacitus">beneplaceo, beneplacere, beneplacui, beneplacitus</a> v</li>
+          <li id="word-439" class="word"><a href="http://www.latin-dictionary.net/definition/6357/beneplacitum-beneplaciti">beneplacitum, beneplaciti</a> n</li>
+          <li id="word-440" class="word"><a href="http://www.latin-dictionary.net/definition/6358/beneplacitus-beneplacita-beneplacitum">beneplacitus, beneplacita, beneplacitum</a> adj</li>
+          <li id="word-441" class="word"><a href="http://www.latin-dictionary.net/definition/6359/benesonans-gen-benesonantis">benesonans, (gen.), benesonantis</a> adj</li>
+          <li id="word-442" class="word"><a href="http://www.latin-dictionary.net/definition/6360/benesuadus-benesuada-benesuadum">benesuadus, benesuada, benesuadum</a> adj</li>
+          <li id="word-443" class="word"><a href="http://www.latin-dictionary.net/definition/6361/benevole">benevole</a> adv</li>
+          <li id="word-444" class="word"><a href="http://www.latin-dictionary.net/definition/6362/benevolens-benevolentis">benevolens, benevolentis</a> n</li>
+          <li id="word-445" class="word"><a href="http://www.latin-dictionary.net/definition/6363/benevolens-benevolentis">benevolens, benevolentis</a> adj</li>
+          <li id="word-446" class="word"><a href="http://www.latin-dictionary.net/definition/6364/benevolentia-benevolentiae">benevolentia, benevolentiae</a> n</li>
+          <li id="word-447" class="word"><a href="http://www.latin-dictionary.net/definition/6365/benevolus-benevola-benevolum">benevolus, benevola, benevolum</a> adj</li>
+          <li id="word-448" class="word"><a href="http://www.latin-dictionary.net/definition/6366/benevolus-benevoli">benevolus, benevoli</a> n</li>
+          <li id="word-449" class="word"><a href="http://www.latin-dictionary.net/definition/6367/benificium-benifici-i">benificium, benifici(i)</a> n</li>
+          <li id="word-450" class="word"><a href="http://www.latin-dictionary.net/definition/6368/benigne-benignius-benignissime">benigne, benignius, benignissime</a> adv</li>
+          <li id="word-451" class="word"><a href="http://www.latin-dictionary.net/definition/6369/benignitas-benignitatis">benignitas, benignitatis</a> n</li>
+          <li id="word-452" class="word"><a href="http://www.latin-dictionary.net/definition/6370/benigniter">benigniter</a> adv</li>
+          <li id="word-453" class="word"><a href="http://www.latin-dictionary.net/definition/6371/benignor-benignari">benignor, benignari, -</a> v</li>
+          <li id="word-454" class="word"><a href="http://www.latin-dictionary.net/definition/6372/benignus-benigna">benignus, benigna</a> adj</li>
+          <li id="word-455" class="word"><a href="http://www.latin-dictionary.net/definition/6373/benivole">benivole</a> adv</li>
+          <li id="word-456" class="word"><a href="http://www.latin-dictionary.net/definition/6374/benivolens-benivolentis">benivolens, benivolentis</a> n</li>
+          <li id="word-457" class="word"><a href="http://www.latin-dictionary.net/definition/6375/benivolens-benivolentis">benivolens, benivolentis</a> adj</li>
+          <li id="word-458" class="word"><a href="http://www.latin-dictionary.net/definition/6376/benivolentia-benivolentiae">benivolentia, benivolentiae</a> n</li>
+          <li id="word-459" class="word"><a href="http://www.latin-dictionary.net/definition/6377/benivolus-benivola-benivolum">benivolus, benivola, benivolum</a> adj</li>
+          <li id="word-460" class="word"><a href="http://www.latin-dictionary.net/definition/6378/benivolus-benivoli">benivolus, benivoli</a> n</li>
+          <li id="word-461" class="word"><a href="http://www.latin-dictionary.net/definition/6379/benna-bennae">benna, bennae</a> n</li>
+          <li id="word-462" class="word"><a href="http://www.latin-dictionary.net/definition/6380/benzinarium-benzinarii">benzinarium, benzinarii</a> n</li>
+          <li id="word-463" class="word"><a href="http://www.latin-dictionary.net/definition/6381/benzinarius-benzinarii">benzinarius, benzinarii</a> n</li>
+          <li id="word-464" class="word"><a href="http://www.latin-dictionary.net/definition/6382/benzinum-benzini">benzinum, benzini</a> n</li>
+          <li id="word-465" class="word"><a href="http://www.latin-dictionary.net/definition/6383/beo-beare-beavi-beatus">beo, beare, beavi, beatus</a> v</li>
+          <li id="word-466" class="word"><a href="http://www.latin-dictionary.net/definition/6384/berbex-berbecis">berbex, berbecis</a> n</li>
+          <li id="word-467" class="word"><a href="http://www.latin-dictionary.net/definition/6385/bergomagister-bergomagisteri">bergomagister, bergomagisteri</a> n</li>
+          <li id="word-468" class="word"><a href="http://www.latin-dictionary.net/definition/6386/berillus-berilli">berillus, berilli</a> n</li>
+          <li id="word-469" class="word"><a href="http://www.latin-dictionary.net/definition/6387/berna-bernae">berna, bernae</a> n</li>
+          <li id="word-470" class="word"><a href="http://www.latin-dictionary.net/definition/6388/bernus-berni">bernus, berni</a> n</li>
+          <li id="word-471" class="word"><a href="http://www.latin-dictionary.net/definition/6389/berula-berulae">berula, berulae</a> n</li>
+          <li id="word-472" class="word"><a href="http://www.latin-dictionary.net/definition/6390/berullus-berulli">berullus, berulli</a> n</li>
+          <li id="word-473" class="word"><a href="http://www.latin-dictionary.net/definition/6391/bervex-bervecis">bervex, bervecis</a> n</li>
+          <li id="word-474" class="word"><a href="http://www.latin-dictionary.net/definition/6392/beryllos-berylli">beryllos, berylli</a> n</li>
+          <li id="word-475" class="word"><a href="http://www.latin-dictionary.net/definition/6393/beryllus-berylli">beryllus, berylli</a> n</li>
+          <li id="word-476" class="word"><a href="http://www.latin-dictionary.net/definition/6394/bes">bes</a> n</li>
+          <li id="word-477" class="word"><a href="http://www.latin-dictionary.net/definition/6395/bes-besis">bes, besis</a> n</li>
+          <li id="word-478" class="word"><a href="http://www.latin-dictionary.net/definition/6396/bes-bessis">bes, bessis</a> n</li>
+          <li id="word-479" class="word"><a href="http://www.latin-dictionary.net/definition/6397/besalis-besalis-besale">besalis, besalis, besale</a> adj</li>
+          <li id="word-480" class="word"><a href="http://www.latin-dictionary.net/definition/6398/bessalis-bessalis-bessale">bessalis, bessalis, bessale</a> adj</li>
+          <li id="word-481" class="word"><a href="http://www.latin-dictionary.net/definition/6399/bestia-bestiae">bestia, bestiae</a> n</li>
+          <li id="word-482" class="word"><a href="http://www.latin-dictionary.net/definition/6400/bestialis-bestialis-bestiale">bestialis, bestialis, bestiale</a> adj</li>
+          <li id="word-483" class="word"><a href="http://www.latin-dictionary.net/definition/6401/bestialitas-bestialitatis">bestialitas, bestialitatis</a> n</li>
+          <li id="word-484" class="word"><a href="http://www.latin-dictionary.net/definition/6402/bestiarius-bestiari-i">bestiarius, bestiari(i)</a> n</li>
+          <li id="word-485" class="word"><a href="http://www.latin-dictionary.net/definition/6403/bestiarius-bestiaria-bestiarium">bestiarius, bestiaria, bestiarium</a> adj</li>
+          <li id="word-486" class="word"><a href="http://www.latin-dictionary.net/definition/6404/bestiola-bestiolae">bestiola, bestiolae</a> n</li>
+          <li id="word-487" class="word"><a href="http://www.latin-dictionary.net/definition/6405/beta-betae">beta, betae</a> n</li>
+          <li id="word-488" class="word"><a href="http://www.latin-dictionary.net/definition/6406/beta-undeclined">beta, undeclined</a> n</li>
+          <li id="word-489" class="word"><a href="http://www.latin-dictionary.net/definition/6407/betaceus-betacea-betaceum">betaceus, betacea, betaceum</a> adj</li>
+          <li id="word-490" class="word"><a href="http://www.latin-dictionary.net/definition/6408/betaceus-betacei">betaceus, betacei</a> n</li>
+          <li id="word-491" class="word"><a href="http://www.latin-dictionary.net/definition/6409/beth-undeclined">beth, undeclined</a> n</li>
+          <li id="word-492" class="word"><a href="http://www.latin-dictionary.net/definition/6410/Bethleemites-Bethleemitae">Bethleemites, Bethleemitae</a> n</li>
+          <li id="word-493" class="word"><a href="http://www.latin-dictionary.net/definition/6411/Bethsames-gen-Bethsamitis">Bethsames, (gen.), Bethsamitis</a> adj</li>
+          <li id="word-494" class="word"><a href="http://www.latin-dictionary.net/definition/6412/Bethsames-Bethsamitae">Bethsames, Bethsamitae</a> n</li>
+          <li id="word-495" class="word"><a href="http://www.latin-dictionary.net/definition/6413/betis-betis">betis, betis</a> n</li>
+          <li id="word-496" class="word"><a href="http://www.latin-dictionary.net/definition/6414/betisso-betissare">betisso, betissare, -, -</a> v</li>
+          <li id="word-497" class="word"><a href="http://www.latin-dictionary.net/definition/6415/betizo-betizare">betizo, betizare, -, -</a> v</li>
+          <li id="word-498" class="word"><a href="http://www.latin-dictionary.net/definition/6416/beto-betere">beto, betere, -, -</a> v</li>
+          <li id="word-499" class="word"><a href="http://www.latin-dictionary.net/definition/6417/betula-betulae">betula, betulae</a> n</li>
+          <li id="word-500" class="word"><a href="http://www.latin-dictionary.net/definition/6418/betulla-betullae">betulla, betullae</a> n</li>
+          <li id="word-501" class="word"><a href="http://www.latin-dictionary.net/definition/6419/biaeothanatus-biaeothanata-biaeothanatum">biaeothanatus, biaeothanata, biaeothanatum</a> adj</li>
+          <li id="word-502" class="word"><a href="http://www.latin-dictionary.net/definition/6420/biarchia-biarchiae">biarchia, biarchiae</a> n</li>
+          <li id="word-503" class="word"><a href="http://www.latin-dictionary.net/definition/6421/biarchus-biarchi">biarchus, biarchi</a> n</li>
+          <li id="word-504" class="word"><a href="http://www.latin-dictionary.net/definition/6422/bibale-bibalis">bibale, bibalis</a> n</li>
+          <li id="word-505" class="word"><a href="http://www.latin-dictionary.net/definition/6423/bibax-gen-bibacis">bibax, (gen.), bibacis</a> adj</li>
+          <li id="word-506" class="word"><a href="http://www.latin-dictionary.net/definition/6424/biberarius-biberari-i">biberarius, biberari(i)</a> n</li>
+          <li id="word-507" class="word"><a href="http://www.latin-dictionary.net/definition/6425/bibilis-bibilis-bibile">bibilis, bibilis, bibile</a> adj</li>
+          <li id="word-508" class="word"><a href="http://www.latin-dictionary.net/definition/6426/bibio-bibionis">bibio, bibionis</a> n</li>
+          <li id="word-509" class="word"><a href="http://www.latin-dictionary.net/definition/6427/bibitor-bibitoris">bibitor, bibitoris</a> n</li>
+          <li id="word-510" class="word"><a href="http://www.latin-dictionary.net/definition/6428/Biblia-Bibliae">Biblia, Bibliae</a> n</li>
+          <li id="word-511" class="word"><a href="http://www.latin-dictionary.net/definition/6429/biblicus-biblica-biblicum">biblicus, biblica, biblicum</a> adj</li>
+          <li id="word-512" class="word"><a href="http://www.latin-dictionary.net/definition/6430/biblinus-biblina-biblinum">biblinus, biblina, biblinum</a> adj</li>
+          <li id="word-513" class="word"><a href="http://www.latin-dictionary.net/definition/6431/bibliographia-bibliographiae">bibliographia, bibliographiae</a> n</li>
+          <li id="word-514" class="word"><a href="http://www.latin-dictionary.net/definition/6432/bibliographicus-bibliographica-bibliographicum">bibliographicus, bibliographica, bibliographicum</a> adj</li>
+          <li id="word-515" class="word"><a href="http://www.latin-dictionary.net/definition/6433/bibliographus-bibliographi">bibliographus, bibliographi</a> n</li>
+          <li id="word-516" class="word"><a href="http://www.latin-dictionary.net/definition/6434/bibliopegus-bibliopegi">bibliopegus, bibliopegi</a> n</li>
+          <li id="word-517" class="word"><a href="http://www.latin-dictionary.net/definition/6435/bibliopola-bibliopolae">bibliopola, bibliopolae</a> n</li>
+          <li id="word-518" class="word"><a href="http://www.latin-dictionary.net/definition/6436/bibliopolium-bibliopolii">bibliopolium, bibliopolii</a> n</li>
+          <li id="word-519" class="word"><a href="http://www.latin-dictionary.net/definition/6437/bibliotheca-bibliothecae">bibliotheca, bibliothecae</a> n</li>
+          <li id="word-520" class="word"><a href="http://www.latin-dictionary.net/definition/6438/bibliothecalis-bibliothecalis-bibliothecale">bibliothecalis, bibliothecalis, bibliothecale</a> adj</li>
+          <li id="word-521" class="word"><a href="http://www.latin-dictionary.net/definition/6439/bibliothecarius-bibliothecarii">bibliothecarius, bibliothecarii</a> n</li>
+          <li id="word-522" class="word"><a href="http://www.latin-dictionary.net/definition/6440/bibliothece-bibliotheces">bibliothece, bibliotheces</a> n</li>
+          <li id="word-523" class="word"><a href="http://www.latin-dictionary.net/definition/6441/bibliothecula-bibliotheculae">bibliothecula, bibliotheculae</a> n</li>
+          <li id="word-524" class="word"><a href="http://www.latin-dictionary.net/definition/6442/Biblium-Biblii">Biblium, Biblii</a> n</li>
+          <li id="word-525" class="word"><a href="http://www.latin-dictionary.net/definition/6443/biblus-bibli">biblus, bibli</a> n</li>
+          <li id="word-526" class="word"><a href="http://www.latin-dictionary.net/definition/6444/bibo-bibere-bibi-bibitus">bibo, bibere, bibi, bibitus</a> v</li>
+          <li id="word-527" class="word"><a href="http://www.latin-dictionary.net/definition/6445/bibo-bibonis">bibo, bibonis</a> n</li>
+          <li id="word-528" class="word"><a href="http://www.latin-dictionary.net/definition/6446/bibonius-bibonii">bibonius, bibonii</a> n</li>
+          <li id="word-529" class="word"><a href="http://www.latin-dictionary.net/definition/6447/bibosus-bibosa-bibosum">bibosus, bibosa, bibosum</a> adj</li>
+          <li id="word-530" class="word"><a href="http://www.latin-dictionary.net/definition/6448/Bibrax-Bibractis">Bibrax, Bibractis</a> n</li>
+          <li id="word-531" class="word"><a href="http://www.latin-dictionary.net/definition/6449/bibrevis-bibrevis-bibreve">bibrevis, bibrevis, bibreve</a> adj</li>
+          <li id="word-532" class="word"><a href="http://www.latin-dictionary.net/definition/6450/bibulus-bibula-bibulum">bibulus, bibula, bibulum</a> adj</li>
+          <li id="word-533" class="word"><a href="http://www.latin-dictionary.net/definition/6451/bicallis-bicallis">bicallis, bicallis</a> n</li>
+          <li id="word-534" class="word"><a href="http://www.latin-dictionary.net/definition/6452/bicameratum-bicamerati">bicameratum, bicamerati</a> n</li>
+          <li id="word-535" class="word"><a href="http://www.latin-dictionary.net/definition/6453/bicameratus-bicamerata-bicameratum">bicameratus, bicamerata, bicameratum</a> adj</li>
+          <li id="word-536" class="word"><a href="http://www.latin-dictionary.net/definition/6454/bicaps-gen-bicapitis">bicaps, (gen.), bicapitis</a> adj</li>
+          <li id="word-537" class="word"><a href="http://www.latin-dictionary.net/definition/6455/biceps-gen-bicipitis">biceps, (gen.), bicipitis</a> adj</li>
+          <li id="word-538" class="word"><a href="http://www.latin-dictionary.net/definition/6456/bicepsos-bicepsos-bicepson">bicepsos, bicepsos, bicepson</a> adj</li>
+          <li id="word-539" class="word"><a href="http://www.latin-dictionary.net/definition/6457/bicessis-bicessis">bicessis, bicessis</a> n</li>
+          <li id="word-540" class="word"><a href="http://www.latin-dictionary.net/definition/6458/bicinium-bicinii">bicinium, bicinii</a> n</li>
+          <li id="word-541" class="word"><a href="http://www.latin-dictionary.net/definition/6459/bicips-gen-bicipitis">bicips, (gen.), bicipitis</a> adj</li>
+          <li id="word-542" class="word"><a href="http://www.latin-dictionary.net/definition/6460/biclinium-biclini-i">biclinium, biclini(i)</a> n</li>
+          <li id="word-543" class="word"><a href="http://www.latin-dictionary.net/definition/6461/bicodulus-bicodula-bicodulum">bicodulus, bicodula, bicodulum</a> adj</li>
+          <li id="word-544" class="word"><a href="http://www.latin-dictionary.net/definition/6462/bicolor-gen-bicoloris">bicolor, (gen.), bicoloris</a> adj</li>
+          <li id="word-545" class="word"><a href="http://www.latin-dictionary.net/definition/6463/bicolorus-bicolora-bicolorum">bicolorus, bicolora, bicolorum</a> adj</li>
+          <li id="word-546" class="word"><a href="http://www.latin-dictionary.net/definition/6464/bicomis-bicomis-bicome">bicomis, bicomis, bicome</a> adj</li>
+          <li id="word-547" class="word"><a href="http://www.latin-dictionary.net/definition/6465/Bicorniger-Bicornigeri">Bicorniger, Bicornigeri</a> n</li>
+          <li id="word-548" class="word"><a href="http://www.latin-dictionary.net/definition/6466/bicornis-bicornis">bicornis, bicornis</a> n</li>
+          <li id="word-549" class="word"><a href="http://www.latin-dictionary.net/definition/6467/bicornis-bicornis-bicorne">bicornis, bicornis, bicorne</a> adj</li>
+          <li id="word-550" class="word"><a href="http://www.latin-dictionary.net/definition/6468/bicorpor-gen-bicorporis">bicorpor, (gen.), bicorporis</a> adj</li>
+          <li id="word-551" class="word"><a href="http://www.latin-dictionary.net/definition/6469/bicors-gen-bicordis">bicors, (gen.), bicordis</a> adj</li>
+          <li id="word-552" class="word"><a href="http://www.latin-dictionary.net/definition/6470/bicoxus-bicoxa-bicoxum">bicoxus, bicoxa, bicoxum</a> adj</li>
+          <li id="word-553" class="word"><a href="http://www.latin-dictionary.net/definition/6471/bicrotum-bicroti">bicrotum, bicroti</a> n</li>
+          <li id="word-554" class="word"><a href="http://www.latin-dictionary.net/definition/6472/bicubitalis-bicubitalis-bicubitale">bicubitalis, bicubitalis, bicubitale</a> adj</li>
+          <li id="word-555" class="word"><a href="http://www.latin-dictionary.net/definition/6473/bicubitalus-bicubitala-bicubitalum">bicubitalus, bicubitala, bicubitalum</a> adj</li>
+          <li id="word-556" class="word"><a href="http://www.latin-dictionary.net/definition/6474/bidens-gen-bidentis">bidens, (gen.), bidentis</a> adj</li>
+          <li id="word-557" class="word"><a href="http://www.latin-dictionary.net/definition/6475/bidens-bidentis">bidens, bidentis</a> n</li>
+          <li id="word-558" class="word"><a href="http://www.latin-dictionary.net/definition/6476/bidens-bidentis">bidens, bidentis</a> n</li>
+          <li id="word-559" class="word"><a href="http://www.latin-dictionary.net/definition/6477/bidental-bidentalis">bidental, bidentalis</a> n</li>
+          <li id="word-560" class="word"><a href="http://www.latin-dictionary.net/definition/6478/bidentalis-bidentalis-bidentale">bidentalis, bidentalis, bidentale</a> adj</li>
+          <li id="word-561" class="word"><a href="http://www.latin-dictionary.net/definition/6479/bidentatio-bidentationis">bidentatio, bidentationis</a> n</li>
+          <li id="word-562" class="word"><a href="http://www.latin-dictionary.net/definition/6480/biduanus-biduana-biduanum">biduanus, biduana, biduanum</a> adj</li>
+          <li id="word-563" class="word"><a href="http://www.latin-dictionary.net/definition/6481/biduum-bidui">biduum, bidui</a> n</li>
+          <li id="word-564" class="word"><a href="http://www.latin-dictionary.net/definition/6482/biduus-bidua-biduum">biduus, bidua, biduum</a> adj</li>
+          <li id="word-565" class="word"><a href="http://www.latin-dictionary.net/definition/6483/biennalis-biennalis-biennale">biennalis, biennalis, biennale</a> adj</li>
+          <li id="word-566" class="word"><a href="http://www.latin-dictionary.net/definition/6484/biennis-biennis-bienne">biennis, biennis, bienne</a> adj</li>
+          <li id="word-567" class="word"><a href="http://www.latin-dictionary.net/definition/6485/biennium-bienni-i">biennium, bienni(i)</a> n</li>
+          <li id="word-568" class="word"><a href="http://www.latin-dictionary.net/definition/6486/bifaciatus-bifaciata-bifaciatum">bifaciatus, bifaciata, bifaciatum</a> adj</li>
+          <li id="word-569" class="word"><a href="http://www.latin-dictionary.net/definition/6487/bifariam">bifariam</a> adv</li>
+          <li id="word-570" class="word"><a href="http://www.latin-dictionary.net/definition/6488/bifarius-bifaria-bifarium">bifarius, bifaria, bifarium</a> adj</li>
+          <li id="word-571" class="word"><a href="http://www.latin-dictionary.net/definition/6489/bifax-gen-bifacis">bifax, (gen.), bifacis</a> adj</li>
+          <li id="word-572" class="word"><a href="http://www.latin-dictionary.net/definition/6490/bifer-bifera-biferum">bifer, bifera, biferum</a> adj</li>
+          <li id="word-573" class="word"><a href="http://www.latin-dictionary.net/definition/6491/biferus-bifera-biferum">biferus, bifera, biferum</a> adj</li>
+          <li id="word-574" class="word"><a href="http://www.latin-dictionary.net/definition/6492/bifestus-bifesta-bifestum">bifestus, bifesta, bifestum</a> adj</li>
+          <li id="word-575" class="word"><a href="http://www.latin-dictionary.net/definition/6493/bifidatus-bifidata-bifidatum">bifidatus, bifidata, bifidatum</a> adj</li>
+          <li id="word-576" class="word"><a href="http://www.latin-dictionary.net/definition/6494/bifidus-bifida-bifidum">bifidus, bifida, bifidum</a> adj</li>
+          <li id="word-577" class="word"><a href="http://www.latin-dictionary.net/definition/6495/bifilum-bifili">bifilum, bifili</a> n</li>
+          <li id="word-578" class="word"><a href="http://www.latin-dictionary.net/definition/6496/bifissus-bifissa-bifissum">bifissus, bifissa, bifissum</a> adj</li>
+          <li id="word-579" class="word"><a href="http://www.latin-dictionary.net/definition/6497/biforis-biforis-bifore">biforis, biforis, bifore</a> adj</li>
+          <li id="word-580" class="word"><a href="http://www.latin-dictionary.net/definition/6498/biformatus-biformata-biformatum">biformatus, biformata, biformatum</a> adj</li>
+          <li id="word-581" class="word"><a href="http://www.latin-dictionary.net/definition/6499/biformis-biformis-biforme">biformis, biformis, biforme</a> adj</li>
+          <li id="word-582" class="word"><a href="http://www.latin-dictionary.net/definition/6500/biformitas-biformitatis">biformitas, biformitatis</a> n</li>
+          <li id="word-583" class="word"><a href="http://www.latin-dictionary.net/definition/6501/biforus-bifora-biforum">biforus, bifora, biforum</a> adj</li>
+          <li id="word-584" class="word"><a href="http://www.latin-dictionary.net/definition/6502/bifrons-gen-bifrontis">bifrons, (gen.), bifrontis</a> adj</li>
+          <li id="word-585" class="word"><a href="http://www.latin-dictionary.net/definition/6503/bifurcum-bifurci">bifurcum, bifurci</a> n</li>
+          <li id="word-586" class="word"><a href="http://www.latin-dictionary.net/definition/6504/bifurcus-bifurca-bifurcum">bifurcus, bifurca, bifurcum</a> adj</li>
+          <li id="word-587" class="word"><a href="http://www.latin-dictionary.net/definition/6505/biga-bigae">biga, bigae</a> n</li>
+          <li id="word-588" class="word"><a href="http://www.latin-dictionary.net/definition/6506/bigamia-bigamiae">bigamia, bigamiae</a> n</li>
+          <li id="word-589" class="word"><a href="http://www.latin-dictionary.net/definition/6507/bigamus-bigama-bigamum">bigamus, bigama, bigamum</a> adj</li>
+          <li id="word-590" class="word"><a href="http://www.latin-dictionary.net/definition/6508/bigamus-bigami">bigamus, bigami</a> n</li>
+          <li id="word-591" class="word"><a href="http://www.latin-dictionary.net/definition/6509/bigarius-bigari-i">bigarius, bigari(i)</a> n</li>
+          <li id="word-592" class="word"><a href="http://www.latin-dictionary.net/definition/6510/bigatus-bigata-bigatum">bigatus, bigata, bigatum</a> adj</li>
+          <li id="word-593" class="word"><a href="http://www.latin-dictionary.net/definition/6511/bigatus-bigati">bigatus, bigati</a> n</li>
+          <li id="word-594" class="word"><a href="http://www.latin-dictionary.net/definition/6512/bigeminus-bigemina-bigeminum">bigeminus, bigemina, bigeminum</a> adj</li>
+          <li id="word-595" class="word"><a href="http://www.latin-dictionary.net/definition/6513/bigemmis-bigemmis-bigemme">bigemmis, bigemmis, bigemme</a> adj</li>
+          <li id="word-596" class="word"><a href="http://www.latin-dictionary.net/definition/6514/bigener-bigenera-bigenerum">bigener, bigenera, bigenerum</a> adj</li>
+          <li id="word-597" class="word"><a href="http://www.latin-dictionary.net/definition/6515/bigenus-bigena-bigenum">bigenus, bigena, bigenum</a> adj</li>
+          <li id="word-598" class="word"><a href="http://www.latin-dictionary.net/definition/6516/bigna-bignae">bigna, bignae</a> n</li>
+          <li id="word-599" class="word"><a href="http://www.latin-dictionary.net/definition/6517/bigus-biga-bigum">bigus, biga, bigum</a> adj</li>
+          <li id="word-600" class="word"><a href="http://www.latin-dictionary.net/definition/6518/bijugis-bijugis">bijugis, bijugis</a> n</li>
+          <li id="word-601" class="word"><a href="http://www.latin-dictionary.net/definition/6519/bijugis-bijugis-bijuge">bijugis, bijugis, bijuge</a> adj</li>
+          <li id="word-602" class="word"><a href="http://www.latin-dictionary.net/definition/6520/bijugus-bijuga-bijugum">bijugus, bijuga, bijugum</a> adj</li>
+          <li id="word-603" class="word"><a href="http://www.latin-dictionary.net/definition/6521/bijugus-bijugi">bijugus, bijugi</a> n</li>
+          <li id="word-604" class="word"><a href="http://www.latin-dictionary.net/definition/6522/bikinianus-bikiniana-bikinianum">bikinianus, bikiniana, bikinianum</a> adj</li>
+          <li id="word-605" class="word"><a href="http://www.latin-dictionary.net/definition/6523/bilanx-gen-bilancis">bilanx, (gen.), bilancis</a> adj</li>
+          <li id="word-606" class="word"><a href="http://www.latin-dictionary.net/definition/6524/bilateralis-bilateralis-bilaterale">bilateralis, bilateralis, bilaterale</a> adj</li>
+          <li id="word-607" class="word"><a href="http://www.latin-dictionary.net/definition/6525/bilbo-bilbere">bilbo, bilbere, -, -</a> v</li>
+          <li id="word-608" class="word"><a href="http://www.latin-dictionary.net/definition/6526/bilibra-bilibrae">bilibra, bilibrae</a> n</li>
+          <li id="word-609" class="word"><a href="http://www.latin-dictionary.net/definition/6527/bilibralis-bilibralis-bilibrale">bilibralis, bilibralis, bilibrale</a> adj</li>
+          <li id="word-610" class="word"><a href="http://www.latin-dictionary.net/definition/6528/bilibris-bilibris-bilibre">bilibris, bilibris, bilibre</a> adj</li>
+          <li id="word-611" class="word"><a href="http://www.latin-dictionary.net/definition/6529/bilinguis-bilinguis-bilingue">bilinguis, bilinguis, bilingue</a> adj</li>
+          <li id="word-612" class="word"><a href="http://www.latin-dictionary.net/definition/6530/biliosus-biliosa-biliosum">biliosus, biliosa, biliosum</a> adj</li>
+          <li id="word-613" class="word"><a href="http://www.latin-dictionary.net/definition/6531/bilis-bilis">bilis, bilis</a> n</li>
+          <li id="word-614" class="word"><a href="http://www.latin-dictionary.net/definition/6532/bilix-gen-bilicis">bilix, (gen.), bilicis</a> adj</li>
+          <li id="word-615" class="word"><a href="http://www.latin-dictionary.net/definition/6533/bilocatio-bilocationis">bilocatio, bilocationis</a> n</li>
+          <li id="word-616" class="word"><a href="http://www.latin-dictionary.net/definition/6534/bilongus-bilonga-bilongum">bilongus, bilonga, bilongum</a> adj</li>
+          <li id="word-617" class="word"><a href="http://www.latin-dictionary.net/definition/6535/bilustris-bilustris-bilustre">bilustris, bilustris, bilustre</a> adj</li>
+          <li id="word-618" class="word"><a href="http://www.latin-dictionary.net/definition/6536/bilychnis-bilychnis-bilychne">bilychnis, bilychnis, bilychne</a> adj</li>
+          <li id="word-619" class="word"><a href="http://www.latin-dictionary.net/definition/6537/bimammiis-bimammiis-bimammie">bimammiis, bimammiis, bimammie</a> adj</li>
+          <li id="word-620" class="word"><a href="http://www.latin-dictionary.net/definition/6538/bimaris-bimaris-bimare">bimaris, bimaris, bimare</a> adj</li>
+          <li id="word-621" class="word"><a href="http://www.latin-dictionary.net/definition/6539/bimaritus-bimariti">bimaritus, bimariti</a> n</li>
+          <li id="word-622" class="word"><a href="http://www.latin-dictionary.net/definition/6540/bimater-gen-bimatris">bimater, (gen.), bimatris</a> adj</li>
+          <li id="word-623" class="word"><a href="http://www.latin-dictionary.net/definition/6541/bimatris-bimatris-bimatre">bimatris, bimatris, bimatre</a> adj</li>
+          <li id="word-624" class="word"><a href="http://www.latin-dictionary.net/definition/6542/bimatus-bimata-bimatum">bimatus, bimata, bimatum</a> adj</li>
+          <li id="word-625" class="word"><a href="http://www.latin-dictionary.net/definition/6543/bimatus-bimatus">bimatus, bimatus</a> n</li>
+          <li id="word-626" class="word"><a href="http://www.latin-dictionary.net/definition/6544/bimembris-bimembris">bimembris, bimembris</a> n</li>
+          <li id="word-627" class="word"><a href="http://www.latin-dictionary.net/definition/6545/bimembris-bimembris-bimembre">bimembris, bimembris, bimembre</a> adj</li>
+          <li id="word-628" class="word"><a href="http://www.latin-dictionary.net/definition/6546/bimenstris-bimenstris-bimenstre">bimenstris, bimenstris, bimenstre</a> adj</li>
+          <li id="word-629" class="word"><a href="http://www.latin-dictionary.net/definition/6547/bimenstruus-bimenstrua-bimenstruum">bimenstruus, bimenstrua, bimenstruum</a> adj</li>
+          <li id="word-630" class="word"><a href="http://www.latin-dictionary.net/definition/6548/bimestre">bimestre</a> adv</li>
+          <li id="word-631" class="word"><a href="http://www.latin-dictionary.net/definition/6549/bimestris-bimestris-bimestre">bimestris, bimestris, bimestre</a> adj</li>
+          <li id="word-632" class="word"><a href="http://www.latin-dictionary.net/definition/6550/bimeter-bimetra-bimetrum">bimeter, bimetra, bimetrum</a> adj</li>
+          <li id="word-633" class="word"><a href="http://www.latin-dictionary.net/definition/6551/bimotorius-bimotoria-bimotorium">bimotorius, bimotoria, bimotorium</a> adj</li>
+          <li id="word-634" class="word"><a href="http://www.latin-dictionary.net/definition/6552/bimulus-bimula-bimulum">bimulus, bimula, bimulum</a> adj</li>
+          <li id="word-635" class="word"><a href="http://www.latin-dictionary.net/definition/6553/bimus-bima-bimum">bimus, bima, bimum</a> adj</li>
+          <li id="word-636" class="word"><a href="http://www.latin-dictionary.net/definition/6554/binarius-binaria-binarium">binarius, binaria, binarium</a> adj</li>
+          <li id="word-637" class="word"><a href="http://www.latin-dictionary.net/definition/6555/binatio-binationis">binatio, binationis</a> n</li>
+          <li id="word-638" class="word"><a href="http://www.latin-dictionary.net/definition/6556/binio-binionis">binio, binionis</a> n</li>
+          <li id="word-639" class="word"><a href="http://www.latin-dictionary.net/definition/6557/bino-binare-binavi-binatus">bino, binare, binavi, binatus</a> v</li>
+          <li id="word-640" class="word"><a href="http://www.latin-dictionary.net/definition/6558/binoctium-binocti-i">binoctium, binocti(i)</a> n</li>
+          <li id="word-641" class="word"><a href="http://www.latin-dictionary.net/definition/6559/binoculum-binoculi">binoculum, binoculi</a> n</li>
+          <li id="word-642" class="word"><a href="http://www.latin-dictionary.net/definition/6560/binominis-binominis-binomine">binominis, binominis, binomine</a> adj</li>
+          <li id="word-643" class="word"><a href="http://www.latin-dictionary.net/definition/6561/binubus-binubi">binubus, binubi</a> n</li>
+          <li id="word-644" class="word"><a href="http://www.latin-dictionary.net/definition/6562/binus-bina-binum">binus, bina, binum</a> adj</li>
+          <li id="word-645" class="word"><a href="http://www.latin-dictionary.net/definition/6563/biographia-biographiae">biographia, biographiae</a> n</li>
+          <li id="word-646" class="word"><a href="http://www.latin-dictionary.net/definition/6564/biographicus-biographica-biographicum">biographicus, biographica, biographicum</a> adj</li>
+          <li id="word-647" class="word"><a href="http://www.latin-dictionary.net/definition/6565/biologia-biologiae">biologia, biologiae</a> n</li>
+          <li id="word-648" class="word"><a href="http://www.latin-dictionary.net/definition/6566/biologicus-biologica-biologicum">biologicus, biologica, biologicum</a> adj</li>
+          <li id="word-649" class="word"><a href="http://www.latin-dictionary.net/definition/6567/biologus-biologi">biologus, biologi</a> n</li>
+          <li id="word-650" class="word"><a href="http://www.latin-dictionary.net/definition/6568/biometria-biometriae">biometria, biometriae</a> n</li>
+          <li id="word-651" class="word"><a href="http://www.latin-dictionary.net/definition/6569/biometricus-biometrica-biometricum">biometricus, biometrica, biometricum</a> adj</li>
+          <li id="word-652" class="word"><a href="http://www.latin-dictionary.net/definition/6570/biopsia-biopsiae">biopsia, biopsiae</a> n</li>
+          <li id="word-653" class="word"><a href="http://www.latin-dictionary.net/definition/6571/bios-bii">bios, bii</a> n</li>
+          <li id="word-654" class="word"><a href="http://www.latin-dictionary.net/definition/6572/biosphaera-biosphaerae">biosphaera, biosphaerae</a> n</li>
+          <li id="word-655" class="word"><a href="http://www.latin-dictionary.net/definition/6573/biotechnicus-biotechnici">biotechnicus, biotechnici</a> n</li>
+          <li id="word-656" class="word"><a href="http://www.latin-dictionary.net/definition/6574/biothanatus-biothanata-biothanatum">biothanatus, biothanata, biothanatum</a> adj</li>
+          <li id="word-657" class="word"><a href="http://www.latin-dictionary.net/definition/6575/bioticus-biotica-bioticum">bioticus, biotica, bioticum</a> adj</li>
+          <li id="word-658" class="word"><a href="http://www.latin-dictionary.net/definition/6576/biotopium-biotopii">biotopium, biotopii</a> n</li>
+          <li id="word-659" class="word"><a href="http://www.latin-dictionary.net/definition/6577/bipalium-bipali-i">bipalium, bipali(i)</a> n</li>
+          <li id="word-660" class="word"><a href="http://www.latin-dictionary.net/definition/6578/bipalmis-bipalmis-bipalme">bipalmis, bipalmis, bipalme</a> adj</li>
+          <li id="word-661" class="word"><a href="http://www.latin-dictionary.net/definition/6579/bipalmus-bipalma-bipalmum">bipalmus, bipalma, bipalmum</a> adj</li>
+          <li id="word-662" class="word"><a href="http://www.latin-dictionary.net/definition/6580/bipartio-bipartire-bipartivi-bipartitus">bipartio, bipartire, bipartivi, bipartitus</a> v</li>
+          <li id="word-663" class="word"><a href="http://www.latin-dictionary.net/definition/6581/bipartitio-bipartitionis">bipartitio, bipartitionis</a> n</li>
+          <li id="word-664" class="word"><a href="http://www.latin-dictionary.net/definition/6582/bipartito">bipartito</a> adv</li>
+          <li id="word-665" class="word"><a href="http://www.latin-dictionary.net/definition/6583/bipartitus-bipartita-bipartitum">bipartitus, bipartita, bipartitum</a> adj</li>
+          <li id="word-666" class="word"><a href="http://www.latin-dictionary.net/definition/6584/bipatens-gen-bipatentis">bipatens, (gen.), bipatentis</a> adj</li>
+          <li id="word-667" class="word"><a href="http://www.latin-dictionary.net/definition/6585/bipeda-bipedae">bipeda, bipedae</a> n</li>
+          <li id="word-668" class="word"><a href="http://www.latin-dictionary.net/definition/6586/bipedale-bipedalis">bipedale, bipedalis</a> n</li>
+          <li id="word-669" class="word"><a href="http://www.latin-dictionary.net/definition/6587/bipedalis-bipedalis-bipedale">bipedalis, bipedalis, bipedale</a> adj</li>
+          <li id="word-670" class="word"><a href="http://www.latin-dictionary.net/definition/6588/bipedalium-bipedali-i">bipedalium, bipedali(i)</a> n</li>
+          <li id="word-671" class="word"><a href="http://www.latin-dictionary.net/definition/6589/bipedaneus-bipedanea-bipedaneum">bipedaneus, bipedanea, bipedaneum</a> adj</li>
+          <li id="word-672" class="word"><a href="http://www.latin-dictionary.net/definition/6590/bipennifer-bipennifera-bipenniferum">bipennifer, bipennifera, bipenniferum</a> adj</li>
+          <li id="word-673" class="word"><a href="http://www.latin-dictionary.net/definition/6591/bipennis-bipennis">bipennis, bipennis</a> n</li>
+          <li id="word-674" class="word"><a href="http://www.latin-dictionary.net/definition/6592/bipennis-bipennis-bipenne">bipennis, bipennis, bipenne</a> adj</li>
+          <li id="word-675" class="word"><a href="http://www.latin-dictionary.net/definition/6593/bipensilis-bipensilis-bipensile">bipensilis, bipensilis, bipensile</a> adj</li>
+          <li id="word-676" class="word"><a href="http://www.latin-dictionary.net/definition/6594/bipertio-bipertire-bipertivi-bipertitus">bipertio, bipertire, bipertivi, bipertitus</a> v</li>
+          <li id="word-677" class="word"><a href="http://www.latin-dictionary.net/definition/6595/bipertitio-bipertitionis">bipertitio, bipertitionis</a> n</li>
+          <li id="word-678" class="word"><a href="http://www.latin-dictionary.net/definition/6596/bipertito">bipertito</a> adv</li>
+          <li id="word-679" class="word"><a href="http://www.latin-dictionary.net/definition/6597/bipertitus-bipertita-bipertitum">bipertitus, bipertita, bipertitum</a> adj</li>
+          <li id="word-680" class="word"><a href="http://www.latin-dictionary.net/definition/6598/bipes-gen-bipedis">bipes, (gen.), bipedis</a> adj</li>
+          <li id="word-681" class="word"><a href="http://www.latin-dictionary.net/definition/6599/bipinnis-bipinnis">bipinnis, bipinnis</a> n</li>
+          <li id="word-682" class="word"><a href="http://www.latin-dictionary.net/definition/6600/bipinnis-bipinnis-bipinne">bipinnis, bipinnis, bipinne</a> adj</li>
+          <li id="word-683" class="word"><a href="http://www.latin-dictionary.net/definition/6601/biplex-gen-biplicis">biplex, (gen.), biplicis</a> adj</li>
+          <li id="word-684" class="word"><a href="http://www.latin-dictionary.net/definition/6602/biprorus-biprora-biprorum">biprorus, biprora, biprorum</a> adj</li>
+          <li id="word-685" class="word"><a href="http://www.latin-dictionary.net/definition/6603/biprosopum-biprosopi">biprosopum, biprosopi</a> n</li>
+          <li id="word-686" class="word"><a href="http://www.latin-dictionary.net/definition/6604/biprosopus-biprosopi">biprosopus, biprosopi</a> n</li>
+          <li id="word-687" class="word"><a href="http://www.latin-dictionary.net/definition/6605/bipunctum-bipuncti">bipunctum, bipuncti</a> n</li>
+          <li id="word-688" class="word"><a href="http://www.latin-dictionary.net/definition/6606/biremis-biremis">biremis, biremis</a> n</li>
+          <li id="word-689" class="word"><a href="http://www.latin-dictionary.net/definition/6607/biremis-biremis-bireme">biremis, biremis, bireme</a> adj</li>
+          <li id="word-690" class="word"><a href="http://www.latin-dictionary.net/definition/6608/biretum-bireti">biretum, bireti</a> n</li>
+          <li id="word-691" class="word"><a href="http://www.latin-dictionary.net/definition/6609/birota-birotae">birota, birotae</a> n</li>
+          <li id="word-692" class="word"><a href="http://www.latin-dictionary.net/definition/6610/birotarius-birotarii">birotarius, birotarii</a> n</li>
+          <li id="word-693" class="word"><a href="http://www.latin-dictionary.net/definition/6611/birotus-birota-birotum">birotus, birota, birotum</a> adj</li>
+          <li id="word-694" class="word"><a href="http://www.latin-dictionary.net/definition/6612/birretum-birreti">birretum, birreti</a> n</li>
+          <li id="word-695" class="word"><a href="http://www.latin-dictionary.net/definition/6613/birrum-birri">birrum, birri</a> n</li>
+          <li id="word-696" class="word"><a href="http://www.latin-dictionary.net/definition/6614/birrus-birri">birrus, birri</a> n</li>
+          <li id="word-697" class="word"><a href="http://www.latin-dictionary.net/definition/6615/bisaccium-bisacci-i">bisaccium, bisacci(i)</a> n</li>
+          <li id="word-698" class="word"><a href="http://www.latin-dictionary.net/definition/6616/bisacutus-bisacuta-bisacutum">bisacutus, bisacuta, bisacutum</a> adj</li>
+          <li id="word-699" class="word"><a href="http://www.latin-dictionary.net/definition/6617/bisacutus-bisacuti">bisacutus, bisacuti</a> n</li>
+          <li id="word-700" class="word"><a href="http://www.latin-dictionary.net/definition/6618/bisaetus-bisaeta-bisaetum">bisaetus, bisaeta, bisaetum</a> adj</li>
+          <li id="word-701" class="word"><a href="http://www.latin-dictionary.net/definition/6619/bisbellio-bisbellionis">bisbellio, bisbellionis</a> n</li>
+          <li id="word-702" class="word"><a href="http://www.latin-dictionary.net/definition/6620/biscentum-biscentesimus">biscentum, biscentesimus</a> n</li>
+          <li id="word-703" class="word"><a href="http://www.latin-dictionary.net/definition/6621/biscoctus-biscocti">biscoctus, biscocti</a> n</li>
+          <li id="word-704" class="word"><a href="http://www.latin-dictionary.net/definition/6622/biselliarius-biselliari-i">biselliarius, biselliari(i)</a> n</li>
+          <li id="word-705" class="word"><a href="http://www.latin-dictionary.net/definition/6623/biselliatus-biselliati">biselliatus, biselliati</a> n</li>
+          <li id="word-706" class="word"><a href="http://www.latin-dictionary.net/definition/6624/bisellium-biselli-i">bisellium, biselli(i)</a> n</li>
+          <li id="word-707" class="word"><a href="http://www.latin-dictionary.net/definition/6625/bisen">bisen</a> n</li>
+          <li id="word-708" class="word"><a href="http://www.latin-dictionary.net/definition/6626/bisetus-biseta-bisetum">bisetus, biseta, bisetum</a> adj</li>
+          <li id="word-709" class="word"><a href="http://www.latin-dictionary.net/definition/6627/bisextialis-bisextialis-bisextiale">bisextialis, bisextialis, bisextiale</a> adj</li>
+          <li id="word-710" class="word"><a href="http://www.latin-dictionary.net/definition/6628/bisextialis-bisextialis-bisextiale">bisextialis, bisextialis, bisextiale</a> adj</li>
+          <li id="word-711" class="word"><a href="http://www.latin-dictionary.net/definition/6629/bisextilis-bisextilis-bisextile">bisextilis, bisextilis, bisextile</a> adj</li>
+          <li id="word-712" class="word"><a href="http://www.latin-dictionary.net/definition/6630/bisextum-bisexti">bisextum, bisexti</a> n</li>
+          <li id="word-713" class="word"><a href="http://www.latin-dictionary.net/definition/6631/bisextus-bisexti">bisextus, bisexti</a> n</li>
+          <li id="word-714" class="word"><a href="http://www.latin-dictionary.net/definition/6632/bismuthum-bismuthi">bismuthum, bismuthi</a> n</li>
+          <li id="word-715" class="word"><a href="http://www.latin-dictionary.net/definition/6633/bisolis-bisolis-bisole">bisolis, bisolis, bisole</a> adj</li>
+          <li id="word-716" class="word"><a href="http://www.latin-dictionary.net/definition/6634/bisomum-bisomi">bisomum, bisomi</a> n</li>
+          <li id="word-717" class="word"><a href="http://www.latin-dictionary.net/definition/6635/bisomus-bisoma-bisomum">bisomus, bisoma, bisomum</a> adj</li>
+          <li id="word-718" class="word"><a href="http://www.latin-dictionary.net/definition/6636/bison-bisontis">bison, bisontis</a> n</li>
+          <li id="word-719" class="word"><a href="http://www.latin-dictionary.net/definition/6637/bisonus-bisona-bisonum">bisonus, bisona, bisonum</a> adj</li>
+          <li id="word-720" class="word"><a href="http://www.latin-dictionary.net/definition/6638/bispellio-bispellionis">bispellio, bispellionis</a> n</li>
+          <li id="word-721" class="word"><a href="http://www.latin-dictionary.net/definition/6639/bissa-bissae">bissa, bissae</a> n</li>
+          <li id="word-722" class="word"><a href="http://www.latin-dictionary.net/definition/6640/bisse-abb">bisse., abb.</a> n</li>
+          <li id="word-723" class="word"><a href="http://www.latin-dictionary.net/definition/6641/bissextilis-bissextilis-bissextile">bissextilis, bissextilis, bissextile</a> adj</li>
+          <li id="word-724" class="word"><a href="http://www.latin-dictionary.net/definition/6642/bissextum-bissexti">bissextum, bissexti</a> n</li>
+          <li id="word-725" class="word"><a href="http://www.latin-dictionary.net/definition/6643/bissextus-bissexta-bissextum">bissextus, bissexta, bissextum</a> adj</li>
+          <li id="word-726" class="word"><a href="http://www.latin-dictionary.net/definition/6644/bistropha-bistrophae">bistropha, bistrophae</a> n</li>
+          <li id="word-727" class="word"><a href="http://www.latin-dictionary.net/definition/6645/bisulcilinguus-bisulcilingua-bisulcilinguum">bisulcilinguus, bisulcilingua, bisulcilinguum</a> adj</li>
+          <li id="word-728" class="word"><a href="http://www.latin-dictionary.net/definition/6646/bisulcis-bisulcis-bisulce">bisulcis, bisulcis, bisulce</a> adj</li>
+          <li id="word-729" class="word"><a href="http://www.latin-dictionary.net/definition/6647/bisulcum-bisulci">bisulcum, bisulci</a> n</li>
+          <li id="word-730" class="word"><a href="http://www.latin-dictionary.net/definition/6648/bisulcus-bisulca-bisulcum">bisulcus, bisulca, bisulcum</a> adj</li>
+          <li id="word-731" class="word"><a href="http://www.latin-dictionary.net/definition/6649/bisyllabus-bisyllaba-bisyllabum">bisyllabus, bisyllaba, bisyllabum</a> adj</li>
+          <li id="word-732" class="word"><a href="http://www.latin-dictionary.net/definition/6650/bithalassus-bithalassa-bithalassum">bithalassus, bithalassa, bithalassum</a> adj</li>
+          <li id="word-733" class="word"><a href="http://www.latin-dictionary.net/definition/6651/bito-bitere">bito, bitere, -, -</a> v</li>
+          <li id="word-734" class="word"><a href="http://www.latin-dictionary.net/definition/6652/bitumen-bituminis">bitumen, bituminis</a> n</li>
+          <li id="word-735" class="word"><a href="http://www.latin-dictionary.net/definition/6653/bituminatus-bituminata-bituminatum">bituminatus, bituminata, bituminatum</a> adj</li>
+          <li id="word-736" class="word"><a href="http://www.latin-dictionary.net/definition/6654/bitumineus-bituminea-bitumineum">bitumineus, bituminea, bitumineum</a> adj</li>
+          <li id="word-737" class="word"><a href="http://www.latin-dictionary.net/definition/6655/bitumino-bituminare-bituminavi-bituminatus">bitumino, bituminare, bituminavi, bituminatus</a> v</li>
+          <li id="word-738" class="word"><a href="http://www.latin-dictionary.net/definition/6656/bituminosus-bituminosa-bituminosum">bituminosus, bituminosa, bituminosum</a> adj</li>
+          <li id="word-739" class="word"><a href="http://www.latin-dictionary.net/definition/6657/Biturig-Biturigis">Biturig, Biturigis</a> n</li>
+          <li id="word-740" class="word"><a href="http://www.latin-dictionary.net/definition/6658/biurus-biuri">biurus, biuri</a> n</li>
+          <li id="word-741" class="word"><a href="http://www.latin-dictionary.net/definition/6659/bivertex-gen-biverticis">bivertex, (gen.), biverticis</a> adj</li>
+          <li id="word-742" class="word"><a href="http://www.latin-dictionary.net/definition/6660/bivia-biviae">bivia, biviae</a> n</li>
+          <li id="word-743" class="word"><a href="http://www.latin-dictionary.net/definition/6661/bivira-bivirae">bivira, bivirae</a> n</li>
+          <li id="word-744" class="word"><a href="http://www.latin-dictionary.net/definition/6662/bivirga-bivirgae">bivirga, bivirgae</a> n</li>
+          <li id="word-745" class="word"><a href="http://www.latin-dictionary.net/definition/6663/bivium-bivi-i">bivium, bivi(i)</a> n</li>
+          <li id="word-746" class="word"><a href="http://www.latin-dictionary.net/definition/6664/bivius-bivia-bivium">bivius, bivia, bivium</a> adj</li>
+          <li id="word-747" class="word"><a href="http://www.latin-dictionary.net/definition/6665/blachnon-blachni">blachnon, blachni</a> n</li>
+          <li id="word-748" class="word"><a href="http://www.latin-dictionary.net/definition/6666/blactero-blacterare-blacteravi-blacteratus">blactero, blacterare, blacteravi, blacteratus</a> v</li>
+          <li id="word-749" class="word"><a href="http://www.latin-dictionary.net/definition/6667/bladium-bladii">bladium, bladii</a> n</li>
+          <li id="word-750" class="word"><a href="http://www.latin-dictionary.net/definition/6668/bladum-bladi">bladum, bladi</a> n</li>
+          <li id="word-751" class="word"><a href="http://www.latin-dictionary.net/definition/6669/bladus-bladi">bladus, bladi</a> n</li>
+          <li id="word-752" class="word"><a href="http://www.latin-dictionary.net/definition/6670/blaesus-blaesa-blaesum">blaesus, blaesa, blaesum</a> adj</li>
+          <li id="word-753" class="word"><a href="http://www.latin-dictionary.net/definition/6671/blaesus-blaesi">blaesus, blaesi</a> n</li>
+          <li id="word-754" class="word"><a href="http://www.latin-dictionary.net/definition/6672/blande-blandius-blandissime">blande, blandius, blandissime</a> adv</li>
+          <li id="word-755" class="word"><a href="http://www.latin-dictionary.net/definition/6673/blandicellum-blandicelli">blandicellum, blandicelli</a> n</li>
+          <li id="word-756" class="word"><a href="http://www.latin-dictionary.net/definition/6674/blandicule">blandicule</a> adv</li>
+          <li id="word-757" class="word"><a href="http://www.latin-dictionary.net/definition/6675/blandidicus-blandidica-blandidicum">blandidicus, blandidica, blandidicum</a> adj</li>
+          <li id="word-758" class="word"><a href="http://www.latin-dictionary.net/definition/6676/blandiens-blandientis">blandiens, blandientis</a> n</li>
+          <li id="word-759" class="word"><a href="http://www.latin-dictionary.net/definition/6677/blandificus-blandifica-blandificum">blandificus, blandifica, blandificum</a> adj</li>
+          <li id="word-760" class="word"><a href="http://www.latin-dictionary.net/definition/6678/blandifluus-blandiflua-blandifluum">blandifluus, blandiflua, blandifluum</a> adj</li>
+          <li id="word-761" class="word"><a href="http://www.latin-dictionary.net/definition/6679/blandiloquens-gen-blandiloquentis">blandiloquens, (gen.), blandiloquentis</a> adj</li>
+          <li id="word-762" class="word"><a href="http://www.latin-dictionary.net/definition/6680/blandiloquentia-blandiloquentiae">blandiloquentia, blandiloquentiae</a> n</li>
+          <li id="word-763" class="word"><a href="http://www.latin-dictionary.net/definition/6681/blandiloquentulus-blandiloquentula-blandiloquentulum">blandiloquentulus, blandiloquentula, blandiloquentulum</a> adj</li>
+          <li id="word-764" class="word"><a href="http://www.latin-dictionary.net/definition/6682/blandiloquium-blandiloquii">blandiloquium, blandiloquii</a> n</li>
+          <li id="word-765" class="word"><a href="http://www.latin-dictionary.net/definition/6683/blandiloquus-blandiloqua-blandiloquum">blandiloquus, blandiloqua, blandiloquum</a> adj</li>
+          <li id="word-766" class="word"><a href="http://www.latin-dictionary.net/definition/6684/blandimentum-blandimenti">blandimentum, blandimenti</a> n</li>
+          <li id="word-767" class="word"><a href="http://www.latin-dictionary.net/definition/6685/blandio-blandire-blandivi-blanditus">blandio, blandire, blandivi, blanditus</a> v</li>
+          <li id="word-768" class="word"><a href="http://www.latin-dictionary.net/definition/6686/blandior-blandiri-blanditus">blandior, blandiri, blanditus</a> v</li>
+          <li id="word-769" class="word"><a href="http://www.latin-dictionary.net/definition/6687/blanditer">blanditer</a> adv</li>
+          <li id="word-770" class="word"><a href="http://www.latin-dictionary.net/definition/6688/blanditia-blanditiae">blanditia, blanditiae</a> n</li>
+          <li id="word-771" class="word"><a href="http://www.latin-dictionary.net/definition/6689/blandities-blanditiei">blandities, blanditiei</a> n</li>
+          <li id="word-772" class="word"><a href="http://www.latin-dictionary.net/definition/6690/blanditim">blanditim</a> adv</li>
+          <li id="word-773" class="word"><a href="http://www.latin-dictionary.net/definition/6691/blanditor-blanditoris">blanditor, blanditoris</a> n</li>
+          <li id="word-774" class="word"><a href="http://www.latin-dictionary.net/definition/6692/blanditus-blandita-blanditum">blanditus, blandita, blanditum</a> adj</li>
+          <li id="word-775" class="word"><a href="http://www.latin-dictionary.net/definition/6693/blando">blando</a> adv</li>
+          <li id="word-776" class="word"><a href="http://www.latin-dictionary.net/definition/6694/blandulus-blandula-blandulum">blandulus, blandula, blandulum</a> adj</li>
+          <li id="word-777" class="word"><a href="http://www.latin-dictionary.net/definition/6695/blandum">blandum</a> adv</li>
+          <li id="word-778" class="word"><a href="http://www.latin-dictionary.net/definition/6696/blandus-blanda">blandus, blanda</a> adj</li>
+          <li id="word-779" class="word"><a href="http://www.latin-dictionary.net/definition/6697/blapsigonia-blapsigoniae">blapsigonia, blapsigoniae</a> n</li>
+          <li id="word-780" class="word"><a href="http://www.latin-dictionary.net/definition/6698/blasphemabilis-blasphemabilis-blasphemabile">blasphemabilis, blasphemabilis, blasphemabile</a> adj</li>
+          <li id="word-781" class="word"><a href="http://www.latin-dictionary.net/definition/6699/blasphematio-blasphemationis">blasphematio, blasphemationis</a> n</li>
+          <li id="word-782" class="word"><a href="http://www.latin-dictionary.net/definition/6700/blasphemia-blasphemiae">blasphemia, blasphemiae</a> n</li>
+          <li id="word-783" class="word"><a href="http://www.latin-dictionary.net/definition/6701/blasphemo-blasphemare-blasphemavi-blasphematus">blasphemo, blasphemare, blasphemavi, blasphematus</a> v</li>
+          <li id="word-784" class="word"><a href="http://www.latin-dictionary.net/definition/6702/blasphemus-blasphema-blasphemum">blasphemus, blasphema, blasphemum</a> adj</li>
+          <li id="word-785" class="word"><a href="http://www.latin-dictionary.net/definition/6703/blasphemus-blasphemi">blasphemus, blasphemi</a> n</li>
+          <li id="word-786" class="word"><a href="http://www.latin-dictionary.net/definition/6704/blateratio-blaterationis">blateratio, blaterationis</a> n</li>
+          <li id="word-787" class="word"><a href="http://www.latin-dictionary.net/definition/6705/blateratus-blateratus">blateratus, blateratus</a> n</li>
+          <li id="word-788" class="word"><a href="http://www.latin-dictionary.net/definition/6706/blatero-blaterare-blateravi-blateratus">blatero, blaterare, blateravi, blateratus</a> v</li>
+          <li id="word-789" class="word"><a href="http://www.latin-dictionary.net/definition/6707/blatero-blateronis">blatero, blateronis</a> n</li>
+          <li id="word-790" class="word"><a href="http://www.latin-dictionary.net/definition/6708/blatio-blatire">blatio, blatire, -, -</a> v</li>
+          <li id="word-791" class="word"><a href="http://www.latin-dictionary.net/definition/6709/blatium-blatii">blatium, blatii</a> n</li>
+          <li id="word-792" class="word"><a href="http://www.latin-dictionary.net/definition/6710/blatta-blattae">blatta, blattae</a> n</li>
+          <li id="word-793" class="word"><a href="http://www.latin-dictionary.net/definition/6711/blatta-blattae">blatta, blattae</a> n</li>
+          <li id="word-794" class="word"><a href="http://www.latin-dictionary.net/definition/6712/blattaria-blattariae">blattaria, blattariae</a> n</li>
+          <li id="word-795" class="word"><a href="http://www.latin-dictionary.net/definition/6713/blattarius-blattaria-blattarium">blattarius, blattaria, blattarium</a> adj</li>
+          <li id="word-796" class="word"><a href="http://www.latin-dictionary.net/definition/6714/blattea-blatteae">blattea, blatteae</a> n</li>
+          <li id="word-797" class="word"><a href="http://www.latin-dictionary.net/definition/6715/blattero-blatterare-blatteravi-blatteratus">blattero, blatterare, blatteravi, blatteratus</a> v</li>
+          <li id="word-798" class="word"><a href="http://www.latin-dictionary.net/definition/6716/blattero-blatteronis">blattero, blatteronis</a> n</li>
+          <li id="word-799" class="word"><a href="http://www.latin-dictionary.net/definition/6717/blatteus-blattea-blatteum">blatteus, blattea, blatteum</a> adj</li>
+          <li id="word-800" class="word"><a href="http://www.latin-dictionary.net/definition/6718/blattiarius-blattiarii">blattiarius, blattiarii</a> n</li>
+          <li id="word-801" class="word"><a href="http://www.latin-dictionary.net/definition/6719/blattifer-blattifera-blattiferum">blattifer, blattifera, blattiferum</a> adj</li>
+          <li id="word-802" class="word"><a href="http://www.latin-dictionary.net/definition/6720/blatto-blattare-blattavi-blattatus">blatto, blattare, blattavi, blattatus</a> v</li>
+          <li id="word-803" class="word"><a href="http://www.latin-dictionary.net/definition/6721/blatum-blati">blatum, blati</a> n</li>
+          <li id="word-804" class="word"><a href="http://www.latin-dictionary.net/definition/6722/blavetum-blaveti">blavetum, blaveti</a> n</li>
+          <li id="word-805" class="word"><a href="http://www.latin-dictionary.net/definition/6723/blavius-blavia-blavium">blavius, blavia, blavium</a> adj</li>
+          <li id="word-806" class="word"><a href="http://www.latin-dictionary.net/definition/6724/blavus-blava-blavum">blavus, blava, blavum</a> adj</li>
+          <li id="word-807" class="word"><a href="http://www.latin-dictionary.net/definition/6725/blechnon-blechnonis">blechnon, blechnonis</a> n</li>
+          <li id="word-808" class="word"><a href="http://www.latin-dictionary.net/definition/6726/blechon-blechonis">blechon, blechonis</a> n</li>
+          <li id="word-809" class="word"><a href="http://www.latin-dictionary.net/definition/6727/bleium-bleii">bleium, bleii</a> n</li>
+          <li id="word-810" class="word"><a href="http://www.latin-dictionary.net/definition/6728/blendea-blendeae">blendea, blendeae</a> n</li>
+          <li id="word-811" class="word"><a href="http://www.latin-dictionary.net/definition/6729/blendium-blendi-i">blendium, blendi(i)</a> n</li>
+          <li id="word-812" class="word"><a href="http://www.latin-dictionary.net/definition/6730/blendius-blendi-i">blendius, blendi(i)</a> n</li>
+          <li id="word-813" class="word"><a href="http://www.latin-dictionary.net/definition/6731/blennius-blenni-i">blennius, blenni(i)</a> n</li>
+          <li id="word-814" class="word"><a href="http://www.latin-dictionary.net/definition/6732/blennus-blenna-blennum">blennus, blenna, blennum</a> adj</li>
+          <li id="word-815" class="word"><a href="http://www.latin-dictionary.net/definition/6733/blennus-blenni">blennus, blenni</a> n</li>
+          <li id="word-816" class="word"><a href="http://www.latin-dictionary.net/definition/6734/blepharon-blephari">blepharon, blephari</a> n</li>
+          <li id="word-817" class="word"><a href="http://www.latin-dictionary.net/definition/6735/blevetum-bleveti">blevetum, bleveti</a> n</li>
+          <li id="word-818" class="word"><a href="http://www.latin-dictionary.net/definition/6736/bliteum-blitei">bliteum, blitei</a> n</li>
+          <li id="word-819" class="word"><a href="http://www.latin-dictionary.net/definition/6737/bliteus-blitea-bliteum">bliteus, blitea, bliteum</a> adj</li>
+          <li id="word-820" class="word"><a href="http://www.latin-dictionary.net/definition/6738/blitum-bliti">blitum, bliti</a> n</li>
+          <li id="word-821" class="word"><a href="http://www.latin-dictionary.net/definition/6739/blodius-blodia-blodium">blodius, blodia, blodium</a> adj</li>
+          <li id="word-822" class="word"><a href="http://www.latin-dictionary.net/definition/6740/blovetum-bloveti">blovetum, bloveti</a> n</li>
+          <li id="word-823" class="word"><a href="http://www.latin-dictionary.net/definition/6741/blovius-blovia-blovium">blovius, blovia, blovium</a> adj</li>
+          <li id="word-824" class="word"><a href="http://www.latin-dictionary.net/definition/6742/boa-boae">boa, boae</a> n</li>
+          <li id="word-825" class="word"><a href="http://www.latin-dictionary.net/definition/6743/boarius-boaria-boarium">boarius, boaria, boarium</a> adj</li>
+          <li id="word-826" class="word"><a href="http://www.latin-dictionary.net/definition/6744/boatus-boatus">boatus, boatus</a> n</li>
+          <li id="word-827" class="word"><a href="http://www.latin-dictionary.net/definition/6745/bobsequa-bobsequae">bobsequa, bobsequae</a> n</li>
+          <li id="word-828" class="word"><a href="http://www.latin-dictionary.net/definition/6746/bobus">bobus</a> n</li>
+          <li id="word-829" class="word"><a href="http://www.latin-dictionary.net/definition/6747/bobus">bobus</a> n</li>
+          <li id="word-830" class="word"><a href="http://www.latin-dictionary.net/definition/6748/boca-bocae">boca, bocae</a> n</li>
+          <li id="word-831" class="word"><a href="http://www.latin-dictionary.net/definition/6749/bocas-bocae">bocas, bocae</a> n</li>
+          <li id="word-832" class="word"><a href="http://www.latin-dictionary.net/definition/6750/boethus-boethi">boethus, boethi</a> n</li>
+          <li id="word-833" class="word"><a href="http://www.latin-dictionary.net/definition/6751/boia-boiae">boia, boiae</a> n</li>
+          <li id="word-834" class="word"><a href="http://www.latin-dictionary.net/definition/6752/boicotizo-boicotizare-boicotizavi-boicotizatus">boicotizo, boicotizare, boicotizavi, boicotizatus</a> v</li>
+          <li id="word-835" class="word"><a href="http://www.latin-dictionary.net/definition/6753/Boius-Boii">Boius, Boii</a> n</li>
+          <li id="word-836" class="word"><a href="http://www.latin-dictionary.net/definition/6754/bolarium-bolari-i">bolarium, bolari(i)</a> n</li>
+          <li id="word-837" class="word"><a href="http://www.latin-dictionary.net/definition/6755/bolbine-bolbines">bolbine, bolbines</a> n</li>
+          <li id="word-838" class="word"><a href="http://www.latin-dictionary.net/definition/6756/bolbiton-bolbiti">bolbiton, bolbiti</a> n</li>
+          <li id="word-839" class="word"><a href="http://www.latin-dictionary.net/definition/6757/boletar-boletaris">boletar, boletaris</a> n</li>
+          <li id="word-840" class="word"><a href="http://www.latin-dictionary.net/definition/6758/boletatio-boletationis">boletatio, boletationis</a> n</li>
+          <li id="word-841" class="word"><a href="http://www.latin-dictionary.net/definition/6759/boletus-boleti">boletus, boleti</a> n</li>
+          <li id="word-842" class="word"><a href="http://www.latin-dictionary.net/definition/6760/bolis-bolidis">bolis, bolidis</a> n</li>
+          <li id="word-843" class="word"><a href="http://www.latin-dictionary.net/definition/6761/bolites-bolitae">bolites, bolitae</a> n</li>
+          <li id="word-844" class="word"><a href="http://www.latin-dictionary.net/definition/6762/boloe-boloes">boloe, boloes</a> n</li>
+          <li id="word-845" class="word"><a href="http://www.latin-dictionary.net/definition/6763/bolona-bolonae">bolona, bolonae</a> n</li>
+          <li id="word-846" class="word"><a href="http://www.latin-dictionary.net/definition/6764/bolona-bolonae">bolona, bolonae</a> n</li>
+          <li id="word-847" class="word"><a href="http://www.latin-dictionary.net/definition/6765/bolos-boli">bolos, boli</a> n</li>
+          <li id="word-848" class="word"><a href="http://www.latin-dictionary.net/definition/6766/bolus-boli">bolus, boli</a> n</li>
+          <li id="word-849" class="word"><a href="http://www.latin-dictionary.net/definition/6767/bolus-boli">bolus, boli</a> n</li>
+          <li id="word-850" class="word"><a href="http://www.latin-dictionary.net/definition/6768/bomba-bombae">bomba, bombae</a> n</li>
+          <li id="word-851" class="word"><a href="http://www.latin-dictionary.net/definition/6769/bombacinum-bombacini">bombacinum, bombacini</a> n</li>
+          <li id="word-852" class="word"><a href="http://www.latin-dictionary.net/definition/6770/bombarda-bombardae">bombarda, bombardae</a> n</li>
+          <li id="word-853" class="word"><a href="http://www.latin-dictionary.net/definition/6771/bombardarius-bombardarii">bombardarius, bombardarii</a> n</li>
+          <li id="word-854" class="word"><a href="http://www.latin-dictionary.net/definition/6772/bombardo-bombardare-bombardavi-bombardatus">bombardo, bombardare, bombardavi, bombardatus</a> v</li>
+          <li id="word-855" class="word"><a href="http://www.latin-dictionary.net/definition/6773/bombax">bombax</a> interj</li>
+          <li id="word-856" class="word"><a href="http://www.latin-dictionary.net/definition/6774/bombilo-bombilare-bombilavi-bombilatus">bombilo, bombilare, bombilavi, bombilatus</a> v</li>
+          <li id="word-857" class="word"><a href="http://www.latin-dictionary.net/definition/6775/bombinator-bombinatoris">bombinator, bombinatoris</a> n</li>
+          <li id="word-858" class="word"><a href="http://www.latin-dictionary.net/definition/6776/bombio-bombire-bombivi-bombitus">bombio, bombire, bombivi, bombitus</a> v</li>
+          <li id="word-859" class="word"><a href="http://www.latin-dictionary.net/definition/6777/bombito-bombitare-bombitavi-bombitatus">bombito, bombitare, bombitavi, bombitatus</a> v</li>
+          <li id="word-860" class="word"><a href="http://www.latin-dictionary.net/definition/6778/bombizatio-bombizationis">bombizatio, bombizationis</a> n</li>
+          <li id="word-861" class="word"><a href="http://www.latin-dictionary.net/definition/6779/bombulum-bombuli">bombulum, bombuli</a> n</li>
+          <li id="word-862" class="word"><a href="http://www.latin-dictionary.net/definition/6780/bombus-bombi">bombus, bombi</a> n</li>
+          <li id="word-863" class="word"><a href="http://www.latin-dictionary.net/definition/6781/bombycias-bombyciae">bombycias, bombyciae</a> n</li>
+          <li id="word-864" class="word"><a href="http://www.latin-dictionary.net/definition/6782/bombycinum-bombycini">bombycinum, bombycini</a> n</li>
+          <li id="word-865" class="word"><a href="http://www.latin-dictionary.net/definition/6783/bombycinus-bombycina-bombycinum">bombycinus, bombycina, bombycinum</a> adj</li>
+          <li id="word-866" class="word"><a href="http://www.latin-dictionary.net/definition/6784/bombycium-bombycii">bombycium, bombycii</a> n</li>
+          <li id="word-867" class="word"><a href="http://www.latin-dictionary.net/definition/6785/bombycius-bombycia-bombycium">bombycius, bombycia, bombycium</a> adj</li>
+          <li id="word-868" class="word"><a href="http://www.latin-dictionary.net/definition/6786/bombylis-bombylis">bombylis, bombylis</a> n</li>
+          <li id="word-869" class="word"><a href="http://www.latin-dictionary.net/definition/6787/bombylius-bombylii">bombylius, bombylii</a> n</li>
+          <li id="word-870" class="word"><a href="http://www.latin-dictionary.net/definition/6788/bombyx-bombycis">bombyx, bombycis</a> n</li>
+          <li id="word-871" class="word"><a href="http://www.latin-dictionary.net/definition/6789/bona-bonae">bona, bonae</a> n</li>
+          <li id="word-872" class="word"><a href="http://www.latin-dictionary.net/definition/6790/bonasus-bonasi">bonasus, bonasi</a> n</li>
+          <li id="word-873" class="word"><a href="http://www.latin-dictionary.net/definition/6791/bonatus-bonata-bonatum">bonatus, bonata, bonatum</a> adj</li>
+          <li id="word-874" class="word"><a href="http://www.latin-dictionary.net/definition/6792/bonifatus-bonifata-bonifatum">bonifatus, bonifata, bonifatum</a> adj</li>
+          <li id="word-875" class="word"><a href="http://www.latin-dictionary.net/definition/6793/bonitas-bonitatis">bonitas, bonitatis</a> n</li>
+          <li id="word-876" class="word"><a href="http://www.latin-dictionary.net/definition/6794/Bononia-Bononiae">Bononia, Bononiae</a> n</li>
+          <li id="word-877" class="word"><a href="http://www.latin-dictionary.net/definition/6795/bonum-boni">bonum, boni</a> n</li>
+          <li id="word-878" class="word"><a href="http://www.latin-dictionary.net/definition/6796/bonus-bona">bonus, bona</a> adj</li>
+          <li id="word-879" class="word"><a href="http://www.latin-dictionary.net/definition/6797/bonus-boni">bonus, boni</a> n</li>
+          <li id="word-880" class="word"><a href="http://www.latin-dictionary.net/definition/6798/bonusculum-bonusculi">bonusculum, bonusculi</a> n</li>
+          <li id="word-881" class="word"><a href="http://www.latin-dictionary.net/definition/6799/boo-boare-boavi-boatus">boo, boare, boavi, boatus</a> v</li>
+          <li id="word-882" class="word"><a href="http://www.latin-dictionary.net/definition/6800/boo-boere">boo, boere, -, -</a> v</li>
+          <li id="word-883" class="word"><a href="http://www.latin-dictionary.net/definition/6801/boopes-boopis">boopes, boopis</a> n</li>
+          <li id="word-884" class="word"><a href="http://www.latin-dictionary.net/definition/6802/boopis-boopis-boope">boopis, boopis, boope</a> adj</li>
+          <li id="word-885" class="word"><a href="http://www.latin-dictionary.net/definition/6803/borborygmus-borborygmi">borborygmus, borborygmi</a> n</li>
+          <li id="word-886" class="word"><a href="http://www.latin-dictionary.net/definition/6804/boreale-borealis">boreale, borealis</a> n</li>
+          <li id="word-887" class="word"><a href="http://www.latin-dictionary.net/definition/6805/borealis-borealis-boreale">borealis, borealis, boreale</a> adj</li>
+          <li id="word-888" class="word"><a href="http://www.latin-dictionary.net/definition/6806/Boreas-Boreae">Boreas, Boreae</a> n</li>
+          <li id="word-889" class="word"><a href="http://www.latin-dictionary.net/definition/6807/boreotis-gen-boreotidis">boreotis, (gen.), boreotidis</a> adj</li>
+          <li id="word-890" class="word"><a href="http://www.latin-dictionary.net/definition/6808/boreus-borea-boreum">boreus, borea, boreum</a> adj</li>
+          <li id="word-891" class="word"><a href="http://www.latin-dictionary.net/definition/6809/boria-boriae">boria, boriae</a> n</li>
+          <li id="word-892" class="word"><a href="http://www.latin-dictionary.net/definition/6810/borith-undeclined">borith, undeclined</a> n</li>
+          <li id="word-893" class="word"><a href="http://www.latin-dictionary.net/definition/6811/borius-boria-borium">borius, boria, borium</a> adj</li>
+          <li id="word-894" class="word"><a href="http://www.latin-dictionary.net/definition/6812/Borras-Borrae">Borras, Borrae</a> n</li>
+          <li id="word-895" class="word"><a href="http://www.latin-dictionary.net/definition/6813/borrio-borrire-borrivi-borritus">borrio, borrire, borrivi, borritus</a> v</li>
+          <li id="word-896" class="word"><a href="http://www.latin-dictionary.net/definition/6814/bos-bovis">bos, bovis</a> n</li>
+          <li id="word-897" class="word"><a href="http://www.latin-dictionary.net/definition/6815/boscas-boscados-is">boscas, boscados/is</a> n</li>
+          <li id="word-898" class="word"><a href="http://www.latin-dictionary.net/definition/6816/boscis-boscidis">boscis, boscidis</a> n</li>
+          <li id="word-899" class="word"><a href="http://www.latin-dictionary.net/definition/6817/boscus-bosci">boscus, bosci</a> n</li>
+          <li id="word-900" class="word"><a href="http://www.latin-dictionary.net/definition/6818/bossellus-bosselli">bossellus, bosselli</a> n</li>
+          <li id="word-901" class="word"><a href="http://www.latin-dictionary.net/definition/6819/bostrychitis-bostrychidis">bostrychitis, bostrychidis</a> n</li>
+          <li id="word-902" class="word"><a href="http://www.latin-dictionary.net/definition/6820/bostrychus-bostrycha-bostrychum">bostrychus, bostrycha, bostrychum</a> adj</li>
+          <li id="word-903" class="word"><a href="http://www.latin-dictionary.net/definition/6821/botane-botanes">botane, botanes</a> n</li>
+          <li id="word-904" class="word"><a href="http://www.latin-dictionary.net/definition/6822/botanica-botanicae">botanica, botanicae</a> n</li>
+          <li id="word-905" class="word"><a href="http://www.latin-dictionary.net/definition/6823/botanicus-botanica-botanicum">botanicus, botanica, botanicum</a> adj</li>
+          <li id="word-906" class="word"><a href="http://www.latin-dictionary.net/definition/6824/botanismos-botanismi">botanismos, botanismi</a> n</li>
+          <li id="word-907" class="word"><a href="http://www.latin-dictionary.net/definition/6825/botanismus-botanismi">botanismus, botanismi</a> n</li>
+          <li id="word-908" class="word"><a href="http://www.latin-dictionary.net/definition/6826/botellus-botelli">botellus, botelli</a> n</li>
+          <li id="word-909" class="word"><a href="http://www.latin-dictionary.net/definition/6827/bothynus-bothyni">bothynus, bothyni</a> n</li>
+          <li id="word-910" class="word"><a href="http://www.latin-dictionary.net/definition/6828/boto-botonis">boto, botonis</a> n</li>
+          <li id="word-911" class="word"><a href="http://www.latin-dictionary.net/definition/6829/botono-botonare-botonavi-botonatus">botono, botonare, botonavi, botonatus</a> v</li>
+          <li id="word-912" class="word"><a href="http://www.latin-dictionary.net/definition/6830/botrio-botrionis">botrio, botrionis</a> n</li>
+          <li id="word-913" class="word"><a href="http://www.latin-dictionary.net/definition/6831/botronatus-botronatus">botronatus, botronatus</a> n</li>
+          <li id="word-914" class="word"><a href="http://www.latin-dictionary.net/definition/6832/botruosus-botruosa-botruosum">botruosus, botruosa, botruosum</a> adj</li>
+          <li id="word-915" class="word"><a href="http://www.latin-dictionary.net/definition/6833/botrus-botri">botrus, botri</a> n</li>
+          <li id="word-916" class="word"><a href="http://www.latin-dictionary.net/definition/6834/botrus-botrus">botrus, botrus</a> n</li>
+          <li id="word-917" class="word"><a href="http://www.latin-dictionary.net/definition/6835/botryitis-botryitidos-is">botryitis, botryitidos/is</a> n</li>
+          <li id="word-918" class="word"><a href="http://www.latin-dictionary.net/definition/6836/botryo-botryonis">botryo, botryonis</a> n</li>
+          <li id="word-919" class="word"><a href="http://www.latin-dictionary.net/definition/6837/botryodes-gen-botryodis">botryodes, (gen.), botryodis</a> adj</li>
+          <li id="word-920" class="word"><a href="http://www.latin-dictionary.net/definition/6838/botryon-botryi">botryon, botryi</a> n</li>
+          <li id="word-921" class="word"><a href="http://www.latin-dictionary.net/definition/6839/botryon-botryonis">botryon, botryonis</a> n</li>
+          <li id="word-922" class="word"><a href="http://www.latin-dictionary.net/definition/6840/botrysos-botryi">botrysos, botryi</a> n</li>
+          <li id="word-923" class="word"><a href="http://www.latin-dictionary.net/definition/6841/botularius-botulari-i">botularius, botulari(i)</a> n</li>
+          <li id="word-924" class="word"><a href="http://www.latin-dictionary.net/definition/6842/botulismus-botulismi">botulismus, botulismi</a> n</li>
+          <li id="word-925" class="word"><a href="http://www.latin-dictionary.net/definition/6843/botulus-botuli">botulus, botuli</a> n</li>
+          <li id="word-926" class="word"><a href="http://www.latin-dictionary.net/definition/6844/boum">boum</a> n</li>
+          <li id="word-927" class="word"><a href="http://www.latin-dictionary.net/definition/6845/boustrophedon">boustrophedon</a> adv</li>
+          <li id="word-928" class="word"><a href="http://www.latin-dictionary.net/definition/6846/bova-bovae">bova, bovae</a> n</li>
+          <li id="word-929" class="word"><a href="http://www.latin-dictionary.net/definition/6847/bova-bovae">bova, bovae</a> n</li>
+          <li id="word-930" class="word"><a href="http://www.latin-dictionary.net/definition/6848/bovarius-bovaria-bovarium">bovarius, bovaria, bovarium</a> adj</li>
+          <li id="word-931" class="word"><a href="http://www.latin-dictionary.net/definition/6849/bovatim">bovatim</a> adv</li>
+          <li id="word-932" class="word"><a href="http://www.latin-dictionary.net/definition/6850/bovicidium-bovicidii">bovicidium, bovicidii</a> n</li>
+          <li id="word-933" class="word"><a href="http://www.latin-dictionary.net/definition/6851/bovida-bovidae">bovida, bovidae</a> n</li>
+          <li id="word-934" class="word"><a href="http://www.latin-dictionary.net/definition/6852/bovile-bovilis">bovile, bovilis</a> n</li>
+          <li id="word-935" class="word"><a href="http://www.latin-dictionary.net/definition/6853/bovilis-bovilis-bovile">bovilis, bovilis, bovile</a> adj</li>
+          <li id="word-936" class="word"><a href="http://www.latin-dictionary.net/definition/6854/bovillus-bovilla-bovillum">bovillus, bovilla, bovillum</a> adj</li>
+          <li id="word-937" class="word"><a href="http://www.latin-dictionary.net/definition/6855/bovinator-bovinatoris">bovinator, bovinatoris</a> n</li>
+          <li id="word-938" class="word"><a href="http://www.latin-dictionary.net/definition/6856/bovinor-bovinari">bovinor, bovinari, -</a> v</li>
+          <li id="word-939" class="word"><a href="http://www.latin-dictionary.net/definition/6857/bovinus-bovina-bovinum">bovinus, bovina, bovinum</a> adj</li>
+          <li id="word-940" class="word"><a href="http://www.latin-dictionary.net/definition/6858/bovista-bovistae">bovista, bovistae</a> n</li>
+          <li id="word-941" class="word"><a href="http://www.latin-dictionary.net/definition/6859/bovo-bovare-bovavi-bovatus">bovo, bovare, bovavi, bovatus</a> v</li>
+          <li id="word-942" class="word"><a href="http://www.latin-dictionary.net/definition/6860/bovo-bovere">bovo, bovere, -, -</a> v</li>
+          <li id="word-943" class="word"><a href="http://www.latin-dictionary.net/definition/6861/box-bocis">box, bocis</a> n</li>
+          <li id="word-944" class="word"><a href="http://www.latin-dictionary.net/definition/6862/boxum-boxi">boxum, boxi</a> n</li>
+          <li id="word-945" class="word"><a href="http://www.latin-dictionary.net/definition/6863/brabeum-brabei">brabeum, brabei</a> n</li>
+          <li id="word-946" class="word"><a href="http://www.latin-dictionary.net/definition/6864/brabeuta-brabeutae">brabeuta, brabeutae</a> n</li>
+          <li id="word-947" class="word"><a href="http://www.latin-dictionary.net/definition/6865/brabilla-brabillae">brabilla, brabillae</a> n</li>
+          <li id="word-948" class="word"><a href="http://www.latin-dictionary.net/definition/6866/brabium-brabii">brabium, brabii</a> n</li>
+          <li id="word-949" class="word"><a href="http://www.latin-dictionary.net/definition/6867/brabreum-brabrei">brabreum, brabrei</a> n</li>
+          <li id="word-950" class="word"><a href="http://www.latin-dictionary.net/definition/6868/brabyla-brabylae">brabyla, brabylae</a> n</li>
+          <li id="word-951" class="word"><a href="http://www.latin-dictionary.net/definition/6869/braca-bracae">braca, bracae</a> n</li>
+          <li id="word-952" class="word"><a href="http://www.latin-dictionary.net/definition/6870/bracarius-bracarii">bracarius, bracarii</a> n</li>
+          <li id="word-953" class="word"><a href="http://www.latin-dictionary.net/definition/6871/bracatus-bracata-bracatum">bracatus, bracata, bracatum</a> adj</li>
+          <li id="word-954" class="word"><a href="http://www.latin-dictionary.net/definition/6872/bracatus-bracati">bracatus, bracati</a> n</li>
+          <li id="word-955" class="word"><a href="http://www.latin-dictionary.net/definition/6873/bracchiale-bracchialis">bracchiale, bracchialis</a> n</li>
+          <li id="word-956" class="word"><a href="http://www.latin-dictionary.net/definition/6874/bracchialis-bracchialis-bracchiale">bracchialis, bracchialis, bracchiale</a> adj</li>
+          <li id="word-957" class="word"><a href="http://www.latin-dictionary.net/definition/6875/bracchiatus-bracchiata-bracchiatum">bracchiatus, bracchiata, bracchiatum</a> adj</li>
+          <li id="word-958" class="word"><a href="http://www.latin-dictionary.net/definition/6876/bracchiolaris-bracchiolaris-bracchiolare">bracchiolaris, bracchiolaris, bracchiolare</a> adj</li>
+          <li id="word-959" class="word"><a href="http://www.latin-dictionary.net/definition/6877/bracchiolum-bracchioli">bracchiolum, bracchioli</a> n</li>
+          <li id="word-960" class="word"><a href="http://www.latin-dictionary.net/definition/6878/bracchionarium-bracchionarii">bracchionarium, bracchionarii</a> n</li>
+          <li id="word-961" class="word"><a href="http://www.latin-dictionary.net/definition/6879/bracchium-bracchi-i">bracchium, bracchi(i)</a> n</li>
+          <li id="word-962" class="word"><a href="http://www.latin-dictionary.net/definition/6880/braces-bracae">braces, bracae</a> n</li>
+          <li id="word-963" class="word"><a href="http://www.latin-dictionary.net/definition/6881/braceus-bracea-braceum">braceus, bracea, braceum</a> adj</li>
+          <li id="word-964" class="word"><a href="http://www.latin-dictionary.net/definition/6882/brachiale-brachialis">brachiale, brachialis</a> n</li>
+          <li id="word-965" class="word"><a href="http://www.latin-dictionary.net/definition/6883/brachialis-brachialis-brachiale">brachialis, brachialis, brachiale</a> adj</li>
+          <li id="word-966" class="word"><a href="http://www.latin-dictionary.net/definition/6884/brachiatus-brachiata-brachiatum">brachiatus, brachiata, brachiatum</a> adj</li>
+          <li id="word-967" class="word"><a href="http://www.latin-dictionary.net/definition/6885/brachiolaris-brachiolaris-brachiolare">brachiolaris, brachiolaris, brachiolare</a> adj</li>
+          <li id="word-968" class="word"><a href="http://www.latin-dictionary.net/definition/6886/brachiolum-brachioli">brachiolum, brachioli</a> n</li>
+          <li id="word-969" class="word"><a href="http://www.latin-dictionary.net/definition/6887/brachionarium-brachionarii">brachionarium, brachionarii</a> n</li>
+          <li id="word-970" class="word"><a href="http://www.latin-dictionary.net/definition/6888/brachium-brachi-i">brachium, brachi(i)</a> n</li>
+          <li id="word-971" class="word"><a href="http://www.latin-dictionary.net/definition/6889/brachycatalecticum-brachycatalectici">brachycatalecticum, brachycatalectici</a> n</li>
+          <li id="word-972" class="word"><a href="http://www.latin-dictionary.net/definition/6890/brachycatalectum-brachycatalecti">brachycatalectum, brachycatalecti</a> n</li>
+          <li id="word-973" class="word"><a href="http://www.latin-dictionary.net/definition/6891/brachypota-brachypotae">brachypota, brachypotae</a> n</li>
+          <li id="word-974" class="word"><a href="http://www.latin-dictionary.net/definition/6892/brachysyllabus-brachysyllabi">brachysyllabus, brachysyllabi</a> n</li>
+          <li id="word-975" class="word"><a href="http://www.latin-dictionary.net/definition/6893/braciator-braciatoris">braciator, braciatoris</a> n</li>
+          <li id="word-976" class="word"><a href="http://www.latin-dictionary.net/definition/6894/bracile-bracilis">bracile, bracilis</a> n</li>
+          <li id="word-977" class="word"><a href="http://www.latin-dictionary.net/definition/6895/bracilis-bracilis-bracile">bracilis, bracilis, bracile</a> adj</li>
+          <li id="word-978" class="word"><a href="http://www.latin-dictionary.net/definition/6896/bracina-bracinae">bracina, bracinae</a> n</li>
+          <li id="word-979" class="word"><a href="http://www.latin-dictionary.net/definition/6897/bracio-braciare-braciavi-braciatus">bracio, braciare, braciavi, braciatus</a> v</li>
+          <li id="word-980" class="word"><a href="http://www.latin-dictionary.net/definition/6898/bracis-bracis">bracis, bracis</a> n</li>
+          <li id="word-981" class="word"><a href="http://www.latin-dictionary.net/definition/6899/bractea-bracteae">bractea, bracteae</a> n</li>
+          <li id="word-982" class="word"><a href="http://www.latin-dictionary.net/definition/6900/bractealis-bractealis-bracteale">bractealis, bractealis, bracteale</a> adj</li>
+          <li id="word-983" class="word"><a href="http://www.latin-dictionary.net/definition/6901/bracteamentum-bracteamenti">bracteamentum, bracteamenti</a> n</li>
+          <li id="word-984" class="word"><a href="http://www.latin-dictionary.net/definition/6902/bracteator-bracteatoris">bracteator, bracteatoris</a> n</li>
+          <li id="word-985" class="word"><a href="http://www.latin-dictionary.net/definition/6903/bracteatus-bracteata-bracteatum">bracteatus, bracteata, bracteatum</a> adj</li>
+          <li id="word-986" class="word"><a href="http://www.latin-dictionary.net/definition/6904/bracteola-bracteolae">bracteola, bracteolae</a> n</li>
+          <li id="word-987" class="word"><a href="http://www.latin-dictionary.net/definition/6905/bractiaria-bractiariae">bractiaria, bractiariae</a> n</li>
+          <li id="word-988" class="word"><a href="http://www.latin-dictionary.net/definition/6906/bractiarius-bractiari-i">bractiarius, bractiari(i)</a> n</li>
+          <li id="word-989" class="word"><a href="http://www.latin-dictionary.net/definition/6907/bradium-bradii">bradium, bradii</a> n</li>
+          <li id="word-990" class="word"><a href="http://www.latin-dictionary.net/definition/6908/brances-brancae">brances, brancae</a> n</li>
+          <li id="word-991" class="word"><a href="http://www.latin-dictionary.net/definition/6909/brancha-branchae">brancha, branchae</a> n</li>
+          <li id="word-992" class="word"><a href="http://www.latin-dictionary.net/definition/6910/branchia-branchiae">branchia, branchiae</a> n</li>
+          <li id="word-993" class="word"><a href="http://www.latin-dictionary.net/definition/6911/branchos-branchi">branchos, branchi</a> n</li>
+          <li id="word-994" class="word"><a href="http://www.latin-dictionary.net/definition/6912/brandeum-brandei">brandeum, brandei</a> n</li>
+          <li id="word-995" class="word"><a href="http://www.latin-dictionary.net/definition/6913/brasmatia-brasmatiae">brasmatia, brasmatiae</a> n</li>
+          <li id="word-996" class="word"><a href="http://www.latin-dictionary.net/definition/6914/brassica-brassicae">brassica, brassicae</a> n</li>
+          <li id="word-997" class="word"><a href="http://www.latin-dictionary.net/definition/6915/brastes-brastae">brastes, brastae</a> n</li>
+          <li id="word-998" class="word"><a href="http://www.latin-dictionary.net/definition/6916/brattea-bratteae">brattea, bratteae</a> n</li>
+          <li id="word-999" class="word"><a href="http://www.latin-dictionary.net/definition/6917/bratteator-bratteatoris">bratteator, bratteatoris</a> n</li>
+          <li id="word-1000" class="word"><a href="http://www.latin-dictionary.net/definition/6918/bratteatus-bratteata-bratteatum">bratteatus, bratteata, bratteatum</a> adj</li>
+          <li id="word-1001" class="word"><a href="http://www.latin-dictionary.net/definition/6919/bratteola-bratteolae">bratteola, bratteolae</a> n</li>
+          <li id="word-1002" class="word"><a href="http://www.latin-dictionary.net/definition/6920/brattiaria-brattiariae">brattiaria, brattiariae</a> n</li>
+          <li id="word-1003" class="word"><a href="http://www.latin-dictionary.net/definition/6921/brattiarius-brattiari-i">brattiarius, brattiari(i)</a> n</li>
+          <li id="word-1004" class="word"><a href="http://www.latin-dictionary.net/definition/6922/bratus-brati">bratus, brati</a> n</li>
+          <li id="word-1005" class="word"><a href="http://www.latin-dictionary.net/definition/6923/bravialis-bravialis-braviale">bravialis, bravialis, braviale</a> adj</li>
+          <li id="word-1006" class="word"><a href="http://www.latin-dictionary.net/definition/6924/bravio-bravere">bravio, bravere, -, -</a> v</li>
+          <li id="word-1007" class="word"><a href="http://www.latin-dictionary.net/definition/6925/bravium-bravii">bravium, bravii</a> n</li>
+          <li id="word-1008" class="word"><a href="http://www.latin-dictionary.net/definition/6926/bregma-bregmae">bregma, bregmae</a> n</li>
+          <li id="word-1009" class="word"><a href="http://www.latin-dictionary.net/definition/6927/brenthos-brenthi">brenthos, brenthi</a> n</li>
+          <li id="word-1010" class="word"><a href="http://www.latin-dictionary.net/definition/6928/brephotropheum-brephotrophei">brephotropheum, brephotrophei</a> n</li>
+          <li id="word-1011" class="word"><a href="http://www.latin-dictionary.net/definition/6929/brephotrophium-brephotrophii">brephotrophium, brephotrophii</a> n</li>
+          <li id="word-1012" class="word"><a href="http://www.latin-dictionary.net/definition/6930/brephotrophus-brephotrophi">brephotrophus, brephotrophi</a> n</li>
+          <li id="word-1013" class="word"><a href="http://www.latin-dictionary.net/definition/6931/Breve-Brevis">Breve, Brevis</a> n</li>
+          <li id="word-1014" class="word"><a href="http://www.latin-dictionary.net/definition/6932/breve-brevis">breve, brevis</a> n</li>
+          <li id="word-1015" class="word"><a href="http://www.latin-dictionary.net/definition/6933/breve-brevis">breve, brevis</a> n</li>
+          <li id="word-1016" class="word"><a href="http://www.latin-dictionary.net/definition/6934/brevi">brevi</a> adv</li>
+          <li id="word-1017" class="word"><a href="http://www.latin-dictionary.net/definition/6935/breviale-brevialis">breviale, brevialis</a> n</li>
+          <li id="word-1018" class="word"><a href="http://www.latin-dictionary.net/definition/6936/breviarium-breviari-i">breviarium, breviari(i)</a> n</li>
+          <li id="word-1019" class="word"><a href="http://www.latin-dictionary.net/definition/6937/breviarium-breviarii">breviarium, breviarii</a> n</li>
+          <li id="word-1020" class="word"><a href="http://www.latin-dictionary.net/definition/6938/breviarius-breviaria-breviarium">breviarius, breviaria, breviarium</a> adj</li>
+          <li id="word-1021" class="word"><a href="http://www.latin-dictionary.net/definition/6939/breviatio-breviationis">breviatio, breviationis</a> n</li>
+          <li id="word-1022" class="word"><a href="http://www.latin-dictionary.net/definition/6940/breviator-breviatoris">breviator, breviatoris</a> n</li>
+          <li id="word-1023" class="word"><a href="http://www.latin-dictionary.net/definition/6941/breviculus-brevicula-breviculum">breviculus, brevicula, breviculum</a> adj</li>
+          <li id="word-1024" class="word"><a href="http://www.latin-dictionary.net/definition/6942/breviculus-breviculi">breviculus, breviculi</a> n</li>
+          <li id="word-1025" class="word"><a href="http://www.latin-dictionary.net/definition/6943/breviloquens-gen-breviloquentis">breviloquens, (gen.), breviloquentis</a> adj</li>
+          <li id="word-1026" class="word"><a href="http://www.latin-dictionary.net/definition/6944/breviloquentia-breviloquentiae">breviloquentia, breviloquentiae</a> n</li>
+          <li id="word-1027" class="word"><a href="http://www.latin-dictionary.net/definition/6945/breviloquis-breviloquis-breviloque">breviloquis, breviloquis, breviloque</a> adj</li>
+          <li id="word-1028" class="word"><a href="http://www.latin-dictionary.net/definition/6946/breviloquium-breviloquii">breviloquium, breviloquii</a> n</li>
+          <li id="word-1029" class="word"><a href="http://www.latin-dictionary.net/definition/6947/breviloquus-breviloqua-breviloquum">breviloquus, breviloqua, breviloquum</a> adj</li>
+          <li id="word-1030" class="word"><a href="http://www.latin-dictionary.net/definition/6948/brevio-breviare-breviavi-breviatus">brevio, breviare, breviavi, breviatus</a> v</li>
+          <li id="word-1031" class="word"><a href="http://www.latin-dictionary.net/definition/6949/brevis-breve-brevior">brevis, breve, brevior</a> adj</li>
+          <li id="word-1032" class="word"><a href="http://www.latin-dictionary.net/definition/6950/brevis-brevis">brevis, brevis</a> n</li>
+          <li id="word-1033" class="word"><a href="http://www.latin-dictionary.net/definition/6951/brevitas-brevitatis">brevitas, brevitatis</a> n</li>
+          <li id="word-1034" class="word"><a href="http://www.latin-dictionary.net/definition/6952/breviter-brevitius-brevitissime">breviter, brevitius, brevitissime</a> adv</li>
+          <li id="word-1035" class="word"><a href="http://www.latin-dictionary.net/definition/6953/brevium-brevii">brevium, brevii</a> n</li>
+          <li id="word-1036" class="word"><a href="http://www.latin-dictionary.net/definition/6954/brevium-brevii">brevium, brevii</a> n</li>
+          <li id="word-1037" class="word"><a href="http://www.latin-dictionary.net/definition/6955/bria-briae">bria, briae</a> n</li>
+          <li id="word-1038" class="word"><a href="http://www.latin-dictionary.net/definition/6956/brisa-brisae">brisa, brisae</a> n</li>
+          <li id="word-1039" class="word"><a href="http://www.latin-dictionary.net/definition/6957/Britannia-Britanniae">Britannia, Britanniae</a> n</li>
+          <li id="word-1040" class="word"><a href="http://www.latin-dictionary.net/definition/6958/Britannicus-Britannica-Britannicum">Britannicus, Britannica, Britannicum</a> adj</li>
+          <li id="word-1041" class="word"><a href="http://www.latin-dictionary.net/definition/6959/Britannus-Britanni">Britannus, Britanni</a> n</li>
+          <li id="word-1042" class="word"><a href="http://www.latin-dictionary.net/definition/6960/Brito-Britonis">Brito, Britonis</a> n</li>
+          <li id="word-1043" class="word"><a href="http://www.latin-dictionary.net/definition/6961/Britto-Brittonis">Britto, Brittonis</a> n</li>
+          <li id="word-1044" class="word"><a href="http://www.latin-dictionary.net/definition/6962/brocchitas-brocchitatis">brocchitas, brocchitatis</a> n</li>
+          <li id="word-1045" class="word"><a href="http://www.latin-dictionary.net/definition/6963/brocchus-broccha-brocchum">brocchus, broccha, brocchum</a> adj</li>
+          <li id="word-1046" class="word"><a href="http://www.latin-dictionary.net/definition/6964/broccus-brocca-broccum">broccus, brocca, broccum</a> adj</li>
+          <li id="word-1047" class="word"><a href="http://www.latin-dictionary.net/definition/6965/brochon-brochi">brochon, brochi</a> n</li>
+          <li id="word-1048" class="word"><a href="http://www.latin-dictionary.net/definition/6966/brochus-brocha-brochum">brochus, brocha, brochum</a> adj</li>
+          <li id="word-1049" class="word"><a href="http://www.latin-dictionary.net/definition/6967/bromaticus-bromatici">bromaticus, bromatici</a> n</li>
+          <li id="word-1050" class="word"><a href="http://www.latin-dictionary.net/definition/6968/bromos-bromi">bromos, bromi</a> n</li>
+          <li id="word-1051" class="word"><a href="http://www.latin-dictionary.net/definition/6969/bromosus-bromosa-bromosum">bromosus, bromosa, bromosum</a> adj</li>
+          <li id="word-1052" class="word"><a href="http://www.latin-dictionary.net/definition/6970/bronchitis-bronchitidis">bronchitis, bronchitidis</a> n</li>
+          <li id="word-1053" class="word"><a href="http://www.latin-dictionary.net/definition/6971/bronchium-bronchii">bronchium, bronchii</a> n</li>
+          <li id="word-1054" class="word"><a href="http://www.latin-dictionary.net/definition/6972/bronchocele-bronchoeles">bronchocele, bronchoeles</a> n</li>
+          <li id="word-1055" class="word"><a href="http://www.latin-dictionary.net/definition/6973/bronchoscopia-bronchoscopiae">bronchoscopia, bronchoscopiae</a> n</li>
+          <li id="word-1056" class="word"><a href="http://www.latin-dictionary.net/definition/6974/broncus-bronca-broncum">broncus, bronca, broncum</a> adj</li>
+          <li id="word-1057" class="word"><a href="http://www.latin-dictionary.net/definition/6975/Bronte-Brontes">Bronte, Brontes</a> n</li>
+          <li id="word-1058" class="word"><a href="http://www.latin-dictionary.net/definition/6976/brontea-bronteae">brontea, bronteae</a> n</li>
+          <li id="word-1059" class="word"><a href="http://www.latin-dictionary.net/definition/6977/Brontes-Brontae">Brontes, Brontae</a> n</li>
+          <li id="word-1060" class="word"><a href="http://www.latin-dictionary.net/definition/6978/bruchus-bruchi">bruchus, bruchi</a> n</li>
+          <li id="word-1061" class="word"><a href="http://www.latin-dictionary.net/definition/6979/brucus-bruci">brucus, bruci</a> n</li>
+          <li id="word-1062" class="word"><a href="http://www.latin-dictionary.net/definition/6980/bruma-brumae">bruma, brumae</a> n</li>
+          <li id="word-1063" class="word"><a href="http://www.latin-dictionary.net/definition/6981/brumalis-brumalis-brumale">brumalis, brumalis, brumale</a> adj</li>
+          <li id="word-1064" class="word"><a href="http://www.latin-dictionary.net/definition/6982/brumaria-brumariae">brumaria, brumariae</a> n</li>
+          <li id="word-1065" class="word"><a href="http://www.latin-dictionary.net/definition/6983/brunetus-bruneta-brunetum">brunetus, bruneta, brunetum</a> adj</li>
+          <li id="word-1066" class="word"><a href="http://www.latin-dictionary.net/definition/6984/brunius-brunia-brunium">brunius, brunia, brunium</a> adj</li>
+          <li id="word-1067" class="word"><a href="http://www.latin-dictionary.net/definition/6985/brunneus-brunnea-brunneum">brunneus, brunnea, brunneum</a> adj</li>
+          <li id="word-1068" class="word"><a href="http://www.latin-dictionary.net/definition/6986/brunus-bruna-brunum">brunus, bruna, brunum</a> adj</li>
+          <li id="word-1069" class="word"><a href="http://www.latin-dictionary.net/definition/6987/bruscum-brusci">bruscum, brusci</a> n</li>
+          <li id="word-1070" class="word"><a href="http://www.latin-dictionary.net/definition/6988/brutalis-brutalis-brutale">brutalis, brutalis, brutale</a> adj</li>
+          <li id="word-1071" class="word"><a href="http://www.latin-dictionary.net/definition/6989/brutalitas-brutalitatis">brutalitas, brutalitatis</a> n</li>
+          <li id="word-1072" class="word"><a href="http://www.latin-dictionary.net/definition/6990/brutaliter">brutaliter</a> adv</li>
+          <li id="word-1073" class="word"><a href="http://www.latin-dictionary.net/definition/6991/brutes-brutis">brutes, brutis</a> n</li>
+          <li id="word-1074" class="word"><a href="http://www.latin-dictionary.net/definition/6992/brutesco-brutescere">brutesco, brutescere, -, -</a> v</li>
+          <li id="word-1075" class="word"><a href="http://www.latin-dictionary.net/definition/6993/bruteus-brutea-bruteum">bruteus, brutea, bruteum</a> adj</li>
+          <li id="word-1076" class="word"><a href="http://www.latin-dictionary.net/definition/6994/brutum-bruti">brutum, bruti</a> n</li>
+          <li id="word-1077" class="word"><a href="http://www.latin-dictionary.net/definition/6995/brutus-bruta-brutum">brutus, bruta, brutum</a> adj</li>
+          <li id="word-1078" class="word"><a href="http://www.latin-dictionary.net/definition/6996/Brutus-Bruti">Brutus, Bruti</a> n</li>
+          <li id="word-1079" class="word"><a href="http://www.latin-dictionary.net/definition/6997/brya-bryae">brya, bryae</a> n</li>
+          <li id="word-1080" class="word"><a href="http://www.latin-dictionary.net/definition/6998/bryon-bryi">bryon, bryi</a> n</li>
+          <li id="word-1081" class="word"><a href="http://www.latin-dictionary.net/definition/6999/bryonia-bryoniae">bryonia, bryoniae</a> n</li>
+          <li id="word-1082" class="word"><a href="http://www.latin-dictionary.net/definition/7000/bryonias-bryoniae">bryonias, bryoniae</a> n</li>
+          <li id="word-1083" class="word"><a href="http://www.latin-dictionary.net/definition/7001/bua-buae">bua, buae</a> n</li>
+          <li id="word-1084" class="word"><a href="http://www.latin-dictionary.net/definition/7002/bubalinus-bubalina-bubalinum">bubalinus, bubalina, bubalinum</a> adj</li>
+          <li id="word-1085" class="word"><a href="http://www.latin-dictionary.net/definition/7003/bubalion-bubalii">bubalion, bubalii</a> n</li>
+          <li id="word-1086" class="word"><a href="http://www.latin-dictionary.net/definition/7004/bubalus-bubala-bubalum">bubalus, bubala, bubalum</a> adj</li>
+          <li id="word-1087" class="word"><a href="http://www.latin-dictionary.net/definition/7005/bubalus-bubali">bubalus, bubali</a> n</li>
+          <li id="word-1088" class="word"><a href="http://www.latin-dictionary.net/definition/7006/bubile-bubilis">bubile, bubilis</a> n</li>
+          <li id="word-1089" class="word"><a href="http://www.latin-dictionary.net/definition/7007/bubino-bubinare-bubinavi-bubinatus">bubino, bubinare, bubinavi, bubinatus</a> v</li>
+          <li id="word-1090" class="word"><a href="http://www.latin-dictionary.net/definition/7008/bubleum-bublei">bubleum, bublei</a> n</li>
+          <li id="word-1091" class="word"><a href="http://www.latin-dictionary.net/definition/7009/bublus-bubla-bublum">bublus, bubla, bublum</a> adj</li>
+          <li id="word-1092" class="word"><a href="http://www.latin-dictionary.net/definition/7010/bubo-bubere">bubo, bubere, -, -</a> v</li>
+          <li id="word-1093" class="word"><a href="http://www.latin-dictionary.net/definition/7011/bubo-bubonis">bubo, bubonis</a> n</li>
+          <li id="word-1094" class="word"><a href="http://www.latin-dictionary.net/definition/7012/bubonion-bubonii">bubonion, bubonii</a> n</li>
+          <li id="word-1095" class="word"><a href="http://www.latin-dictionary.net/definition/7013/bubonium-bubonii">bubonium, bubonii</a> n</li>
+          <li id="word-1096" class="word"><a href="http://www.latin-dictionary.net/definition/7014/bubonocele-bubonoceles">bubonocele, bubonoceles</a> n</li>
+          <li id="word-1097" class="word"><a href="http://www.latin-dictionary.net/definition/7015/bubsequa-bubsequae">bubsequa, bubsequae</a> n</li>
+          <li id="word-1098" class="word"><a href="http://www.latin-dictionary.net/definition/7016/bubula-bubulae">bubula, bubulae</a> n</li>
+          <li id="word-1099" class="word"><a href="http://www.latin-dictionary.net/definition/7017/bubulcarius-bubulcarii">bubulcarius, bubulcarii</a> n</li>
+          <li id="word-1100" class="word"><a href="http://www.latin-dictionary.net/definition/7018/bubulcito-bubulcitare-bubulcitavi-bubulcitatus">bubulcito, bubulcitare, bubulcitavi, bubulcitatus</a> v</li>
+          <li id="word-1101" class="word"><a href="http://www.latin-dictionary.net/definition/7019/bubulcitor-bubulcitari-bubulcitatus">bubulcitor, bubulcitari, bubulcitatus</a> v</li>
+          <li id="word-1102" class="word"><a href="http://www.latin-dictionary.net/definition/7020/bubulcus-bubulci">bubulcus, bubulci</a> n</li>
+          <li id="word-1103" class="word"><a href="http://www.latin-dictionary.net/definition/7021/bubulinus-bubulina-bubulinum">bubulinus, bubulina, bubulinum</a> adj</li>
+          <li id="word-1104" class="word"><a href="http://www.latin-dictionary.net/definition/7022/bubulo-bubulare-bubulavi-bubulatus">bubulo, bubulare, bubulavi, bubulatus</a> v</li>
+          <li id="word-1105" class="word"><a href="http://www.latin-dictionary.net/definition/7023/bubulus-bubula-bubulum">bubulus, bubula, bubulum</a> adj</li>
+          <li id="word-1106" class="word"><a href="http://www.latin-dictionary.net/definition/7024/bucaeda-bucaedae">bucaeda, bucaedae</a> n</li>
+          <li id="word-1107" class="word"><a href="http://www.latin-dictionary.net/definition/7025/bucale-bucalis">bucale, bucalis</a> n</li>
+          <li id="word-1108" class="word"><a href="http://www.latin-dictionary.net/definition/7026/bucardia-bucardiae">bucardia, bucardiae</a> n</li>
+          <li id="word-1109" class="word"><a href="http://www.latin-dictionary.net/definition/7027/bucca-buccae">bucca, buccae</a> n</li>
+          <li id="word-1110" class="word"><a href="http://www.latin-dictionary.net/definition/7028/buccea-bucceae">buccea, bucceae</a> n</li>
+          <li id="word-1111" class="word"><a href="http://www.latin-dictionary.net/definition/7029/buccella-buccellae">buccella, buccellae</a> n</li>
+          <li id="word-1112" class="word"><a href="http://www.latin-dictionary.net/definition/7030/buccellare-buccellaris">buccellare, buccellaris</a> n</li>
+          <li id="word-1113" class="word"><a href="http://www.latin-dictionary.net/definition/7031/buccellaris-buccellaris-buccellare">buccellaris, buccellaris, buccellare</a> adj</li>
+          <li id="word-1114" class="word"><a href="http://www.latin-dictionary.net/definition/7032/buccellatum-buccellati">buccellatum, buccellati</a> n</li>
+          <li id="word-1115" class="word"><a href="http://www.latin-dictionary.net/definition/7033/buccina-buccinae">buccina, buccinae</a> n</li>
+          <li id="word-1116" class="word"><a href="http://www.latin-dictionary.net/definition/7034/buccinator-buccinatoris">buccinator, buccinatoris</a> n</li>
+          <li id="word-1117" class="word"><a href="http://www.latin-dictionary.net/definition/7035/buccino-buccinare-buccinavi-buccinatus">buccino, buccinare, buccinavi, buccinatus</a> v</li>
+          <li id="word-1118" class="word"><a href="http://www.latin-dictionary.net/definition/7036/buccinum-buccini">buccinum, buccini</a> n</li>
+          <li id="word-1119" class="word"><a href="http://www.latin-dictionary.net/definition/7037/buccinus-buccini">buccinus, buccini</a> n</li>
+          <li id="word-1120" class="word"><a href="http://www.latin-dictionary.net/definition/7038/bucco-bucconis">bucco, bucconis</a> n</li>
+          <li id="word-1121" class="word"><a href="http://www.latin-dictionary.net/definition/7039/bucconiatis-bucconiatis">bucconiatis, bucconiatis</a> n</li>
+          <li id="word-1122" class="word"><a href="http://www.latin-dictionary.net/definition/7040/buccula-bucculae">buccula, bucculae</a> n</li>
+          <li id="word-1123" class="word"><a href="http://www.latin-dictionary.net/definition/7041/buccularius-buccularii">buccularius, buccularii</a> n</li>
+          <li id="word-1124" class="word"><a href="http://www.latin-dictionary.net/definition/7042/bucculentus-bucculenta-bucculentum">bucculentus, bucculenta, bucculentum</a> adj</li>
+          <li id="word-1125" class="word"><a href="http://www.latin-dictionary.net/definition/7043/bucella-bucellae">bucella, bucellae</a> n</li>
+          <li id="word-1126" class="word"><a href="http://www.latin-dictionary.net/definition/7044/buceras-buceratis">buceras, buceratis</a> n</li>
+          <li id="word-1127" class="word"><a href="http://www.latin-dictionary.net/definition/7045/bucerius-buceria-bucerium">bucerius, buceria, bucerium</a> adj</li>
+          <li id="word-1128" class="word"><a href="http://www.latin-dictionary.net/definition/7046/bucerus-bucera-bucerum">bucerus, bucera, bucerum</a> adj</li>
+          <li id="word-1129" class="word"><a href="http://www.latin-dictionary.net/definition/7047/bucetum-buceti">bucetum, buceti</a> n</li>
+          <li id="word-1130" class="word"><a href="http://www.latin-dictionary.net/definition/7048/bucina-bucinae">bucina, bucinae</a> n</li>
+          <li id="word-1131" class="word"><a href="http://www.latin-dictionary.net/definition/7049/bucinator-bucinatoris">bucinator, bucinatoris</a> n</li>
+          <li id="word-1132" class="word"><a href="http://www.latin-dictionary.net/definition/7050/bucino-bucinare-bucinavi-bucinatus">bucino, bucinare, bucinavi, bucinatus</a> v</li>
+          <li id="word-1133" class="word"><a href="http://www.latin-dictionary.net/definition/7051/bucinum-bucini">bucinum, bucini</a> n</li>
+          <li id="word-1134" class="word"><a href="http://www.latin-dictionary.net/definition/7052/bucinus-bucini">bucinus, bucini</a> n</li>
+          <li id="word-1135" class="word"><a href="http://www.latin-dictionary.net/definition/7053/bucitum-buciti">bucitum, buciti</a> n</li>
+          <li id="word-1136" class="word"><a href="http://www.latin-dictionary.net/definition/7054/bucolicos-bucolice-bucolicon">bucolicos, bucolice, bucolicon</a> adj</li>
+          <li id="word-1137" class="word"><a href="http://www.latin-dictionary.net/definition/7055/bucolicum-bucolici">bucolicum, bucolici</a> adj</li>
+          <li id="word-1138" class="word"><a href="http://www.latin-dictionary.net/definition/7056/bucolicus-bucolica-bucolicum">bucolicus, bucolica, bucolicum</a> adj</li>
+          <li id="word-1139" class="word"><a href="http://www.latin-dictionary.net/definition/7057/buconiates-buconiatae">buconiates, buconiatae</a> n</li>
+          <li id="word-1140" class="word"><a href="http://www.latin-dictionary.net/definition/7058/bucranium-bucrani-i">bucranium, bucrani(i)</a> n</li>
+          <li id="word-1141" class="word"><a href="http://www.latin-dictionary.net/definition/7059/bucula-buculae">bucula, buculae</a> n</li>
+          <li id="word-1142" class="word"><a href="http://www.latin-dictionary.net/definition/7060/bucula-buculae">bucula, buculae</a> n</li>
+          <li id="word-1143" class="word"><a href="http://www.latin-dictionary.net/definition/7061/buculus-buculi">buculus, buculi</a> n</li>
+          <li id="word-1144" class="word"><a href="http://www.latin-dictionary.net/definition/7062/buda-budae">buda, budae</a> n</li>
+          <li id="word-1145" class="word"><a href="http://www.latin-dictionary.net/definition/7063/bufalus-bufali">bufalus, bufali</a> n</li>
+          <li id="word-1146" class="word"><a href="http://www.latin-dictionary.net/definition/7064/bufo-bufonis">bufo, bufonis</a> n</li>
+          <li id="word-1147" class="word"><a href="http://www.latin-dictionary.net/definition/7065/Bugella-Bugellae">Bugella, Bugellae</a> n</li>
+          <li id="word-1148" class="word"><a href="http://www.latin-dictionary.net/definition/7066/bugenes-gen-bugenstis">bugenes, (gen.), bugenstis</a> adj</li>
+          <li id="word-1149" class="word"><a href="http://www.latin-dictionary.net/definition/7067/bugia-bugiae">bugia, bugiae</a> n</li>
+          <li id="word-1150" class="word"><a href="http://www.latin-dictionary.net/definition/7068/bugillo-bugillonis">bugillo, bugillonis</a> n</li>
+          <li id="word-1151" class="word"><a href="http://www.latin-dictionary.net/definition/7069/buglossa-buglossae">buglossa, buglossae</a> n</li>
+          <li id="word-1152" class="word"><a href="http://www.latin-dictionary.net/definition/7070/buglossos-buglossi">buglossos, buglossi</a> n</li>
+          <li id="word-1153" class="word"><a href="http://www.latin-dictionary.net/definition/7071/bugonia-bugoniae">bugonia, bugoniae</a> n</li>
+          <li id="word-1154" class="word"><a href="http://www.latin-dictionary.net/definition/7072/bul-undeclined">bul, undeclined</a> n</li>
+          <li id="word-1155" class="word"><a href="http://www.latin-dictionary.net/definition/7073/bulapathum-bulapathi">bulapathum, bulapathi</a> n</li>
+          <li id="word-1156" class="word"><a href="http://www.latin-dictionary.net/definition/7074/bulbaceus-bulbacea-bulbaceum">bulbaceus, bulbacea, bulbaceum</a> adj</li>
+          <li id="word-1157" class="word"><a href="http://www.latin-dictionary.net/definition/7075/bulbatio-bulbationis">bulbatio, bulbationis</a> n</li>
+          <li id="word-1158" class="word"><a href="http://www.latin-dictionary.net/definition/7076/bulbine-bulbines">bulbine, bulbines</a> n</li>
+          <li id="word-1159" class="word"><a href="http://www.latin-dictionary.net/definition/7077/bulbos-bulbi">bulbos, bulbi</a> n</li>
+          <li id="word-1160" class="word"><a href="http://www.latin-dictionary.net/definition/7078/bulbosus-bulbosa-bulbosum">bulbosus, bulbosa, bulbosum</a> adj</li>
+          <li id="word-1161" class="word"><a href="http://www.latin-dictionary.net/definition/7079/bulbulus-bulbuli">bulbulus, bulbuli</a> n</li>
+          <li id="word-1162" class="word"><a href="http://www.latin-dictionary.net/definition/7080/bulbus-bulbi">bulbus, bulbi</a> n</li>
+          <li id="word-1163" class="word"><a href="http://www.latin-dictionary.net/definition/7081/bule-bules">bule, bules</a> n</li>
+          <li id="word-1164" class="word"><a href="http://www.latin-dictionary.net/definition/7082/buleuta-buleutae">buleuta, buleutae</a> n</li>
+          <li id="word-1165" class="word"><a href="http://www.latin-dictionary.net/definition/7083/buleuterion-buleuterii">buleuterion, buleuterii</a> n</li>
+          <li id="word-1166" class="word"><a href="http://www.latin-dictionary.net/definition/7084/buleuterium-buleuteri-i">buleuterium, buleuteri(i)</a> n</li>
+          <li id="word-1167" class="word"><a href="http://www.latin-dictionary.net/definition/7085/bulga-bulgae">bulga, bulgae</a> n</li>
+          <li id="word-1168" class="word"><a href="http://www.latin-dictionary.net/definition/7086/bulima-bulimae">bulima, bulimae</a> n</li>
+          <li id="word-1169" class="word"><a href="http://www.latin-dictionary.net/definition/7087/bulimia-bulimiae">bulimia, bulimiae</a> n</li>
+          <li id="word-1170" class="word"><a href="http://www.latin-dictionary.net/definition/7088/bulimo-bulimare-bulimavi-bulimatus">bulimo, bulimare, bulimavi, bulimatus</a> v</li>
+          <li id="word-1171" class="word"><a href="http://www.latin-dictionary.net/definition/7089/bulimos-bulimi">bulimos, bulimi</a> n</li>
+          <li id="word-1172" class="word"><a href="http://www.latin-dictionary.net/definition/7090/bulimosus-bulimosa-bulimosum">bulimosus, bulimosa, bulimosum</a> adj</li>
+          <li id="word-1173" class="word"><a href="http://www.latin-dictionary.net/definition/7091/bulimus-bulimi">bulimus, bulimi</a> n</li>
+          <li id="word-1174" class="word"><a href="http://www.latin-dictionary.net/definition/7092/bulla-bullae">bulla, bullae</a> n</li>
+          <li id="word-1175" class="word"><a href="http://www.latin-dictionary.net/definition/7093/bulla-bullae">bulla, bullae</a> n</li>
+          <li id="word-1176" class="word"><a href="http://www.latin-dictionary.net/definition/7094/bullarium-bullarii">bullarium, bullarii</a> n</li>
+          <li id="word-1177" class="word"><a href="http://www.latin-dictionary.net/definition/7095/bullatio-bullationis">bullatio, bullationis</a> n</li>
+          <li id="word-1178" class="word"><a href="http://www.latin-dictionary.net/definition/7096/bullatus-bullata-bullatum">bullatus, bullata, bullatum</a> adj</li>
+          <li id="word-1179" class="word"><a href="http://www.latin-dictionary.net/definition/7097/bullesco-bullescere">bullesco, bullescere, -, -</a> v</li>
+          <li id="word-1180" class="word"><a href="http://www.latin-dictionary.net/definition/7098/bulligo-bulliginis">bulligo, bulliginis</a> v</li>
+          <li id="word-1181" class="word"><a href="http://www.latin-dictionary.net/definition/7099/bullio-bullire-bullivi-bullitus">bullio, bullire, bullivi, bullitus</a> v</li>
+          <li id="word-1182" class="word"><a href="http://www.latin-dictionary.net/definition/7100/bullitus-bullitus">bullitus, bullitus</a> n</li>
+          <li id="word-1183" class="word"><a href="http://www.latin-dictionary.net/definition/7101/bullo-bullare-bullavi-bullatus">bullo, bullare, bullavi, bullatus</a> v</li>
+          <li id="word-1184" class="word"><a href="http://www.latin-dictionary.net/definition/7102/bullula-bullulae">bullula, bullulae</a> n</li>
+          <li id="word-1185" class="word"><a href="http://www.latin-dictionary.net/definition/7103/bumammus-bumamma-bumammum">bumammus, bumamma, bumammum</a> adj</li>
+          <li id="word-1186" class="word"><a href="http://www.latin-dictionary.net/definition/7104/bumasta-bumastae">bumasta, bumastae</a> n</li>
+          <li id="word-1187" class="word"><a href="http://www.latin-dictionary.net/definition/7105/bumastus-bumasta-bumastum">bumastus, bumasta, bumastum</a> adj</li>
+          <li id="word-1188" class="word"><a href="http://www.latin-dictionary.net/definition/7106/bumastus-bumasti">bumastus, bumasti</a> n</li>
+          <li id="word-1189" class="word"><a href="http://www.latin-dictionary.net/definition/7107/bumbulum-bumbuli">bumbulum, bumbuli</a> n</li>
+          <li id="word-1190" class="word"><a href="http://www.latin-dictionary.net/definition/7108/bumelia-bumeliae">bumelia, bumeliae</a> n</li>
+          <li id="word-1191" class="word"><a href="http://www.latin-dictionary.net/definition/7109/bundon-bundonis">bundon, bundonis</a> n</li>
+          <li id="word-1192" class="word"><a href="http://www.latin-dictionary.net/definition/7110/bunias-buniadis">bunias, buniadis</a> n</li>
+          <li id="word-1193" class="word"><a href="http://www.latin-dictionary.net/definition/7111/bunion-bunii">bunion, bunii</a> n</li>
+          <li id="word-1194" class="word"><a href="http://www.latin-dictionary.net/definition/7112/bunitus-bunita-bunitum">bunitus, bunita, bunitum</a> adj</li>
+          <li id="word-1195" class="word"><a href="http://www.latin-dictionary.net/definition/7113/bupaeda-bupaedae">bupaeda, bupaedae</a> n</li>
+          <li id="word-1196" class="word"><a href="http://www.latin-dictionary.net/definition/7114/bupaes-bupaedos-is">bupaes, bupaedos/is</a> n</li>
+          <li id="word-1197" class="word"><a href="http://www.latin-dictionary.net/definition/7115/buphthalmos-buphthalmi">buphthalmos, buphthalmi</a> n</li>
+          <li id="word-1198" class="word"><a href="http://www.latin-dictionary.net/definition/7116/buphthalmus-buphthalmi">buphthalmus, buphthalmi</a> n</li>
+          <li id="word-1199" class="word"><a href="http://www.latin-dictionary.net/definition/7117/bupleuron-bupleuri">bupleuron, bupleuri</a> n</li>
+          <li id="word-1200" class="word"><a href="http://www.latin-dictionary.net/definition/7118/buprestis-buprestis">buprestis, buprestis</a> n</li>
+          <li id="word-1201" class="word"><a href="http://www.latin-dictionary.net/definition/7119/bura-burae">bura, burae</a> n</li>
+          <li id="word-1202" class="word"><a href="http://www.latin-dictionary.net/definition/7120/burdo-burdonis">burdo, burdonis</a> n</li>
+          <li id="word-1203" class="word"><a href="http://www.latin-dictionary.net/definition/7121/burdonarius-burdonari-i">burdonarius, burdonari(i)</a> n</li>
+          <li id="word-1204" class="word"><a href="http://www.latin-dictionary.net/definition/7122/burdubasta-burdubastae">burdubasta, burdubastae</a> n</li>
+          <li id="word-1205" class="word"><a href="http://www.latin-dictionary.net/definition/7123/burdunculus-burdunculi">burdunculus, burdunculi</a> n</li>
+          <li id="word-1206" class="word"><a href="http://www.latin-dictionary.net/definition/7124/burgagium-burgagii">burgagium, burgagii</a> n</li>
+          <li id="word-1207" class="word"><a href="http://www.latin-dictionary.net/definition/7125/burgaria-burgariae">burgaria, burgariae</a> n</li>
+          <li id="word-1208" class="word"><a href="http://www.latin-dictionary.net/definition/7126/burgarius-burgari-i">burgarius, burgari(i)</a> n</li>
+          <li id="word-1209" class="word"><a href="http://www.latin-dictionary.net/definition/7127/burgarius-burgaria-burgarium">burgarius, burgaria, burgarium</a> adj</li>
+          <li id="word-1210" class="word"><a href="http://www.latin-dictionary.net/definition/7128/burgator-burgatoris">burgator, burgatoris</a> n</li>
+          <li id="word-1211" class="word"><a href="http://www.latin-dictionary.net/definition/7129/burgensis-burgensis">burgensis, burgensis</a> n</li>
+          <li id="word-1212" class="word"><a href="http://www.latin-dictionary.net/definition/7130/burgeria-burgeriae">burgeria, burgeriae</a> n</li>
+          <li id="word-1213" class="word"><a href="http://www.latin-dictionary.net/definition/7131/burgimagister-burgimagistrii">burgimagister, burgimagistrii</a> n</li>
+          <li id="word-1214" class="word"><a href="http://www.latin-dictionary.net/definition/7132/burgus-burgi">burgus, burgi</a> n</li>
+          <li id="word-1215" class="word"><a href="http://www.latin-dictionary.net/definition/7133/burichus-burichi">burichus, burichi</a> n</li>
+          <li id="word-1216" class="word"><a href="http://www.latin-dictionary.net/definition/7134/buricus-burici">buricus, burici</a> n</li>
+          <li id="word-1217" class="word"><a href="http://www.latin-dictionary.net/definition/7135/buris-buris">buris, buris</a> n</li>
+          <li id="word-1218" class="word"><a href="http://www.latin-dictionary.net/definition/7136/burius-burii">burius, burii</a> n</li>
+          <li id="word-1219" class="word"><a href="http://www.latin-dictionary.net/definition/7137/burra-burrae">burra, burrae</a> n</li>
+          <li id="word-1220" class="word"><a href="http://www.latin-dictionary.net/definition/7138/burranicum-burranici">burranicum, burranici</a> n</li>
+          <li id="word-1221" class="word"><a href="http://www.latin-dictionary.net/definition/7139/burranicus-burranica-burranicum">burranicus, burranica, burranicum</a> adj</li>
+          <li id="word-1222" class="word"><a href="http://www.latin-dictionary.net/definition/7140/burrhinon-burrhini">burrhinon, burrhini</a> n</li>
+          <li id="word-1223" class="word"><a href="http://www.latin-dictionary.net/definition/7141/burrichus-burrichi">burrichus, burrichi</a> n</li>
+          <li id="word-1224" class="word"><a href="http://www.latin-dictionary.net/definition/7142/burricus-burrici">burricus, burrici</a> n</li>
+          <li id="word-1225" class="word"><a href="http://www.latin-dictionary.net/definition/7143/burrio-burrire-burrivi-burritus">burrio, burrire, burrivi, burritus</a> v</li>
+          <li id="word-1226" class="word"><a href="http://www.latin-dictionary.net/definition/7144/burrus-burra-burrum">burrus, burra, burrum</a> adj</li>
+          <li id="word-1227" class="word"><a href="http://www.latin-dictionary.net/definition/7145/bursa-bursae">bursa, bursae</a> adj</li>
+          <li id="word-1228" class="word"><a href="http://www.latin-dictionary.net/definition/7146/bursarius-bursarii">bursarius, bursarii</a> n</li>
+          <li id="word-1229" class="word"><a href="http://www.latin-dictionary.net/definition/7147/bursula-bursulae">bursula, bursulae</a> n</li>
+          <li id="word-1230" class="word"><a href="http://www.latin-dictionary.net/definition/7148/bus-bus">bus, bus</a> n</li>
+          <li id="word-1231" class="word"><a href="http://www.latin-dictionary.net/definition/7149/buselinum-buselini">buselinum, buselini</a> n</li>
+          <li id="word-1232" class="word"><a href="http://www.latin-dictionary.net/definition/7150/busequa-busequae">busequa, busequae</a> n</li>
+          <li id="word-1233" class="word"><a href="http://www.latin-dictionary.net/definition/7151/bustar-bustaris">bustar, bustaris</a> n</li>
+          <li id="word-1234" class="word"><a href="http://www.latin-dictionary.net/definition/7152/busticetum-busticeti">busticetum, busticeti</a> n</li>
+          <li id="word-1235" class="word"><a href="http://www.latin-dictionary.net/definition/7153/bustirapus-bustirapi">bustirapus, bustirapi</a> n</li>
+          <li id="word-1236" class="word"><a href="http://www.latin-dictionary.net/definition/7154/bustualis-bustualis-bustuale">bustualis, bustualis, bustuale</a> adj</li>
+          <li id="word-1237" class="word"><a href="http://www.latin-dictionary.net/definition/7155/bustuarius-bustuaria-bustuarium">bustuarius, bustuaria, bustuarium</a> adj</li>
+          <li id="word-1238" class="word"><a href="http://www.latin-dictionary.net/definition/7156/bustum-busti">bustum, busti</a> n</li>
+          <li id="word-1239" class="word"><a href="http://www.latin-dictionary.net/definition/7157/busycon-busyci">busycon, busyci</a> n</li>
+          <li id="word-1240" class="word"><a href="http://www.latin-dictionary.net/definition/7158/buteo-buteonis">buteo, buteonis</a> n</li>
+          <li id="word-1241" class="word"><a href="http://www.latin-dictionary.net/definition/7159/buthysia-buthysiae">buthysia, buthysiae</a> n</li>
+          <li id="word-1242" class="word"><a href="http://www.latin-dictionary.net/definition/7160/buthytes-buthytae">buthytes, buthytae</a> n</li>
+          <li id="word-1243" class="word"><a href="http://www.latin-dictionary.net/definition/7161/butio-butionis">butio, butionis</a> n</li>
+          <li id="word-1244" class="word"><a href="http://www.latin-dictionary.net/definition/7162/buttubattum-buttubatti">buttubattum, buttubatti</a> n</li>
+          <li id="word-1245" class="word"><a href="http://www.latin-dictionary.net/definition/7163/buttuti">buttuti</a> interj</li>
+          <li id="word-1246" class="word"><a href="http://www.latin-dictionary.net/definition/7164/buttutti">buttutti</a> interj</li>
+          <li id="word-1247" class="word"><a href="http://www.latin-dictionary.net/definition/7165/butubattum-butubatti">butubattum, butubatti</a> n</li>
+          <li id="word-1248" class="word"><a href="http://www.latin-dictionary.net/definition/7166/buturum-buturi">buturum, buturi</a> n</li>
+          <li id="word-1249" class="word"><a href="http://www.latin-dictionary.net/definition/7167/butyron-butyri">butyron, butyri</a> n</li>
+          <li id="word-1250" class="word"><a href="http://www.latin-dictionary.net/definition/7168/buvino-buvinare-buvinavi-buvinatus">buvino, buvinare, buvinavi, buvinatus</a> v</li>
+          <li id="word-1251" class="word"><a href="http://www.latin-dictionary.net/definition/7169/buxans-gen-buxantis">buxans, (gen.), buxantis</a> adj</li>
+          <li id="word-1252" class="word"><a href="http://www.latin-dictionary.net/definition/7170/buxeirostris-buxeirostris-buxeirostre">buxeirostris, buxeirostris, buxeirostre</a> adj</li>
+          <li id="word-1253" class="word"><a href="http://www.latin-dictionary.net/definition/7171/buxetum-buxeti">buxetum, buxeti</a> n</li>
+          <li id="word-1254" class="word"><a href="http://www.latin-dictionary.net/definition/7172/buxeus-buxea-buxeum">buxeus, buxea, buxeum</a> adj</li>
+          <li id="word-1255" class="word"><a href="http://www.latin-dictionary.net/definition/7173/buxiarius-buxiaria-buxiarium">buxiarius, buxiaria, buxiarium</a> adj</li>
+          <li id="word-1256" class="word"><a href="http://www.latin-dictionary.net/definition/7174/buxifer-buxifera-buxiferum">buxifer, buxifera, buxiferum</a> adj</li>
+          <li id="word-1257" class="word"><a href="http://www.latin-dictionary.net/definition/7175/buxosus-buxosa-buxosum">buxosus, buxosa, buxosum</a> adj</li>
+          <li id="word-1258" class="word"><a href="http://www.latin-dictionary.net/definition/7176/buxum-buxi">buxum, buxi</a> n</li>
+          <li id="word-1259" class="word"><a href="http://www.latin-dictionary.net/definition/7177/buxus-buxi">buxus, buxi</a> n</li>
+          <li id="word-1260" class="word"><a href="http://www.latin-dictionary.net/definition/7178/bybliotheca-bybliothecae">bybliotheca, bybliothecae</a> n</li>
+          <li id="word-1261" class="word"><a href="http://www.latin-dictionary.net/definition/7179/byrrus-byrra-byrrum">byrrus, byrra, byrrum</a> adj</li>
+          <li id="word-1262" class="word"><a href="http://www.latin-dictionary.net/definition/7180/byrrus-byrri">byrrus, byrri</a> n</li>
+          <li id="word-1263" class="word"><a href="http://www.latin-dictionary.net/definition/7181/byssinum-byssini">byssinum, byssini</a> n</li>
+          <li id="word-1264" class="word"><a href="http://www.latin-dictionary.net/definition/7182/byssinus-byssina-byssinum">byssinus, byssina, byssinum</a> adj</li>
+          <li id="word-1265" class="word"><a href="http://www.latin-dictionary.net/definition/7183/byssum-byssi">byssum, byssi</a> n</li>
+          <li id="word-1266" class="word"><a href="http://www.latin-dictionary.net/definition/7184/byssus-byssi">byssus, byssi</a> n</li>
+          <li id="word-1267" class="word"><a href="http://www.latin-dictionary.net/definition/7185/Byzantium-Byzantii">Byzantium, Byzantii</a> n</li>

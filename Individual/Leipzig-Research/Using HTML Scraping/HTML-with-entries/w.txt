@@ -1,0 +1,9 @@
+          <li id="word-0" class="word"><a href="http://www.latin-dictionary.net/definition/39142/wadiarius-wadiarii">wadiarius, wadiarii</a> n</li>
+          <li id="word-1" class="word"><a href="http://www.latin-dictionary.net/definition/39143/wadiator-wadiatoris">wadiator, wadiatoris</a> n</li>
+          <li id="word-2" class="word"><a href="http://www.latin-dictionary.net/definition/39144/warantia-warantiae">warantia, warantiae</a> n</li>
+          <li id="word-3" class="word"><a href="http://www.latin-dictionary.net/definition/39145/warantizatio-warantizationis">warantizatio, warantizationis</a> n</li>
+          <li id="word-4" class="word"><a href="http://www.latin-dictionary.net/definition/39146/warantizo-warantizare-warantizavi-warantizatus">warantizo, warantizare, warantizavi, warantizatus</a> v</li>
+          <li id="word-5" class="word"><a href="http://www.latin-dictionary.net/definition/39147/warantus-waranti">warantus, waranti</a> n</li>
+          <li id="word-6" class="word"><a href="http://www.latin-dictionary.net/definition/39148/warra-warrae">warra, warrae</a> n</li>
+          <li id="word-7" class="word"><a href="http://www.latin-dictionary.net/definition/39149/werra-werrae">werra, werrae</a> n</li>
+          <li id="word-8" class="word"><a href="http://www.latin-dictionary.net/definition/39150/Wormacia-Wormaciae">Wormacia, Wormaciae</a> n</li>
