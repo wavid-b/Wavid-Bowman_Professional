@@ -10,3 +10,6 @@ Contents:
     Object textures - Kylie, Ivan
     Gameboard class integrates the textures with backend data from game - Ivan, Wavid
   Makewords.txt that creates the my_words.txt from an online set of words. my_words.txt is all lowercase and only words size 10 or less. - Wavid
+
+To Run:
+run GameFiles/SFML3/main.cpp
