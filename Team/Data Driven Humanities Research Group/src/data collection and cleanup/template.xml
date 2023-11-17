@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="eng">
-        <title xml:lang=""></title>
-    </teiHeader>
-    <text>
-        <body>
-        </body>
-    </text>
-</TEI>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7ca62fedc7c87296f607b7b5e1856698816ce2b691193feea3e0437d3c07d2e
+size 365
