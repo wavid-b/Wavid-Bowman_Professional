@@ -1,0 +1,36 @@
+﻿  FrequencyCalculator.cpp
+  game.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(24,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(32,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(39,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Gameboard.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Gameboard.cpp')
+  
+  main.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\main.cpp(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Objects.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Objects.cpp')
+  
+  Sorting.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(12,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(47,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(78,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(104,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(169,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(183,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(258,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(271,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(294,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(325,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(351,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(417,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(431,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TextureManager.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\TextureManager.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'TextureManager.cpp')
+  
+  words.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\words.cpp(23,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data

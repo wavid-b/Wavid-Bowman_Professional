@@ -1,16 +1,356 @@
-﻿  Sorting.cpp
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(12,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(47,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(78,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(104,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(169,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(183,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(258,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(271,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(294,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(325,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(351,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(417,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\salda\code\SFML3\SFML3\Sorting.cpp(430,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  SFML3.vcxproj -> C:\Users\salda\code\SFML3\x64\Debug\SFML3.exe
+﻿  FrequencyCalculator.cpp
+  game.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(24,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(32,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(39,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Gameboard.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(41,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(41,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(45,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(49,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(53,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(53,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(61,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(61,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(65,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(65,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(69,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(69,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(73,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(77,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(77,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(81,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(81,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(85,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(85,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(89,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(93,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(101,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(109,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(113,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(113,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(125,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(129,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(133,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(137,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(141,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(176,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(179,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(182,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:             T=int
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         and
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:             T=int
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         and
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,178): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,178): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,178): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,178): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,178): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,113): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,113): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,113): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,113): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,113): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:             T=unsigned int
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         and
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:             T=unsigned int
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         and
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(423,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(439,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(439,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(440,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(440,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+  Objects.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+  Sorting.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(12,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(47,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(78,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(104,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(169,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(183,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(258,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(271,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(294,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(325,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(351,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(417,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(431,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TextureManager.cpp
+  words.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\words.cpp(23,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+Gameboard.obj : error LNK2019: unresolved external symbol "public: static bool __cdecl sf::Mouse::isButtonPressed(enum sf::Mouse::Button)" (?isButtonPressed@Mouse@sf@@SA_NW4Button@12@@Z) referenced in function "public: void __cdecl Gameboard::press(class sf::RenderWindow &,class Objects &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?press@Gameboard@@QEAAXAEAVRenderWindow@sf@@AEAVObjects@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::WindowBase const &)" (?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindowBase@2@@Z) referenced in function "public: void __cdecl Gameboard::press(class sf::RenderWindow &,class Objects &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?press@Gameboard@@QEAAXAEAVRenderWindow@sf@@AEAVObjects@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: void __cdecl sf::Window::display(void)" (?display@Window@sf@@QEAAXXZ) referenced in function "public: void __cdecl Gameboard::displayMenu(class sf::RenderWindow &)" (?displayMenu@Gameboard@@QEAAXAEAVRenderWindow@sf@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: virtual __cdecl sf::Transformable::~Transformable(void)" (??1Transformable@sf@@UEAA@XZ) referenced in function "public: virtual __cdecl sf::Sprite::~Sprite(void)" (??1Sprite@sf@@UEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "public: virtual __cdecl sf::Transformable::~Transformable(void)" (??1Transformable@sf@@UEAA@XZ)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: void __cdecl sf::Transformable::setPosition(float,float)" (?setPosition@Transformable@sf@@QEAAXMM@Z) referenced in function "public: void __cdecl Gameboard::displaySuggested(class sf::RenderWindow &)" (?displaySuggested@Gameboard@@QEAAXAEAVRenderWindow@sf@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: void __cdecl sf::Transformable::setScale(float,float)" (?setScale@Transformable@sf@@QEAAXMM@Z) referenced in function "public: void __cdecl Gameboard::displaySuggested(class sf::RenderWindow &)" (?displaySuggested@Gameboard@@QEAAXAEAVRenderWindow@sf@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ) referenced in function "public: void __cdecl Gameboard::press(class sf::RenderWindow &,class Objects &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?press@Gameboard@@QEAAXAEAVRenderWindow@sf@@AEAVObjects@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (??0Color@sf@@QEAA@EEEE@Z) referenced in function "public: void __cdecl Gameboard::displayMenu(class sf::RenderWindow &)" (?displayMenu@Gameboard@@QEAAXAEAVRenderWindow@sf@@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (??0Color@sf@@QEAA@EEEE@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: virtual __cdecl sf::Shape::~Shape(void)" (??1Shape@sf@@UEAA@XZ) referenced in function "public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (??1RectangleShape@sf@@UEAA@XZ)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: void __cdecl Gameboard::play(class sf::RenderWindow &)" (?play@Gameboard@@QEAAXAEAVRenderWindow@sf@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::Texture::Texture(void)" (??0Texture@sf@@QEAA@XZ) referenced in function "public: __cdecl Objects::Objects(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Objects@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+TextureManager.obj : error LNK2001: unresolved external symbol "public: __cdecl sf::Texture::Texture(void)" (??0Texture@sf@@QEAA@XZ)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::Texture::Texture(class sf::Texture const &)" (??0Texture@sf@@QEAA@AEBV01@@Z) referenced in function "public: __cdecl Objects::Objects(class Objects &&)" (??0Objects@@QEAA@$$QEAV0@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::Texture::~Texture(void)" (??1Texture@sf@@QEAA@XZ) referenced in function "int `public: __cdecl Objects::Objects(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)'::`1'::dtor$2" (?dtor$2@?0???0Objects@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@4HA)
+main.obj : error LNK2001: unresolved external symbol "public: __cdecl sf::Texture::~Texture(void)" (??1Texture@sf@@QEAA@XZ)
+TextureManager.obj : error LNK2001: unresolved external symbol "public: __cdecl sf::Texture::~Texture(void)" (??1Texture@sf@@QEAA@XZ)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: class sf::Texture & __cdecl sf::Texture::operator=(class sf::Texture const &)" (??4Texture@sf@@QEAAAEAV01@AEBV01@@Z) referenced in function "public: class sf::Sprite __cdecl Objects::GetSprite(void)" (?GetSprite@Objects@@QEAA?AVSprite@sf@@XZ)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z) referenced in function "public: void __cdecl Gameboard::play(class sf::RenderWindow &)" (?play@Gameboard@@QEAAXAEAVRenderWindow@sf@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z) referenced in function "public: void __cdecl Gameboard::play(class sf::RenderWindow &)" (?play@Gameboard@@QEAAXAEAVRenderWindow@sf@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: void __cdecl Gameboard::displayMenu(class sf::RenderWindow &)" (?displayMenu@Gameboard@@QEAAXAEAVRenderWindow@sf@@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z) referenced in function "public: void __cdecl Gameboard::displayMenu(class sf::RenderWindow &)" (?displayMenu@Gameboard@@QEAAXAEAVRenderWindow@sf@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::Sprite::Sprite(void)" (??0Sprite@sf@@QEAA@XZ) referenced in function "public: __cdecl Objects::Objects(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Objects@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z) referenced in function "public: class sf::Sprite __cdecl Objects::GetSprite(void)" (?GetSprite@Objects@@QEAA?AVSprite@sf@@XZ)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: void __cdecl sf::Sprite::setColor(class sf::Color const &)" (?setColor@Sprite@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: void __cdecl Objects::placeAndResize(void)" (?placeAndResize@Objects@@QEAAXXZ)
+Gameboard.obj : error LNK2019: unresolved external symbol "public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ) referenced in function "public: void __cdecl Gameboard::press(class sf::RenderWindow &,class Objects &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?press@Gameboard@@QEAAXAEAVRenderWindow@sf@@AEAVObjects@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Gameboard.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+Gameboard.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+Gameboard.obj : error LNK2001: unresolved external symbol "public: static class sf::Color const sf::Color::Black" (?Black@Color@sf@@2V12@B)
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::String::String(char const *,class std::locale const &)" (??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (??0VideoMode@sf@@QEAA@III@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: bool __cdecl sf::WindowBase::isOpen(void)const " (?isOpen@WindowBase@sf@@QEBA_NXZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: bool __cdecl sf::WindowBase::pollEvent(class sf::Event &)" (?pollEvent@WindowBase@sf@@QEAA_NAEAVEvent@2@@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: virtual void __cdecl sf::Window::close(void)" (?close@Window@sf@@UEAAXXZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (??1RenderWindow@sf@@UEAA@XZ) referenced in function main
+TextureManager.obj : error LNK2019: unresolved external symbol "public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z) referenced in function "public: static void __cdecl TextureManager::LoadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?LoadTexture@TextureManager@@SAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+C:\SFML-2.6.1\lib\sfml-system-s.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.6.1\lib\sfml-window-s.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.6.1\lib\sfml-graphics-s.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.6.1\lib\sfml-graphics-s-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.6.1\lib\sfml-window-s-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.6.1\lib\sfml-system-s-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.6.1\lib\freetype.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\x64\Debug\SFML3.exe : fatal error LNK1120: 33 unresolved externals

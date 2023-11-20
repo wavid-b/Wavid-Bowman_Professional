@@ -523,3 +523,4 @@ if(__name__ == '__main__'):
     print(os.getcwd())
     print("hello")
     print(get_greek_form("λεγω", mood = "indicative", tense = "present", voice = "active", person = "third", number = "singular"))
+    print(get_latin_form("patris", case = "g", number = "s"))

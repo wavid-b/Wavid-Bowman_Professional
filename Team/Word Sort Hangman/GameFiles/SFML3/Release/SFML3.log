@@ -1,0 +1,310 @@
+﻿  FrequencyCalculator.cpp
+  game.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(24,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(104,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(166,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(238,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(246,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(272,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(338,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\game.cpp(343,24): warning C4018: '>': signed/unsigned mismatch
+  Gameboard.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Gameboard.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(41,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(41,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(45,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(49,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(53,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(53,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(61,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(61,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(65,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(65,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(69,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(69,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(73,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(77,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(77,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(81,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(81,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(85,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(85,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(89,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(93,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(101,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(109,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(113,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(113,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(125,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(129,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(133,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(137,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(141,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(176,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(179,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(182,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:             T=int
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         and
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,56): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:             T=int
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         and
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(230,39): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,178): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,178): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,178): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,178): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,178): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,113): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,113): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,113): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,113): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(288,113): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:             T=unsigned int
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         and
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,99): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         with
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:             T=unsigned int
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         and
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         [
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:             T=float
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(341,53): warning C4244:         ]
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(420,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(423,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(431,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(435,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(439,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(439,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(440,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Gameboard.cpp(440,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+  Objects.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(40,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(47,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(50,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(58,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(68,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(165,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(169,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(173,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(177,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(181,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Objects.h(185,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Objects.cpp')
+  
+  Sorting.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(25,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\Sorting.cpp(271,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TextureManager.cpp
+  words.cpp
+C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\SFML3\words.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1318 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML3.vcxproj -> C:\Users\Wavid Bowman\Documents\GitHub\Wavid-Bowman_Professional\Team\Word Sort Hangman\GameFiles\Release\SFML3.exe
