@@ -1,0 +1,112 @@
+SH Name
+wadfs - utilize the libWad library to mount .wad files as FUSE
+.SH Synopsis
+USAGE-
+    mount_wad.sh
+    mount_wad.sh [wad file to mount] 
+    wadfs [threading tag] [wad file to mount] [mount dir]
+.SH Description
+libWad
+    libWad is the library that tells the daemon wadfs how to mount a
+    wad file as a directory
+storage in memory
+    there are 5 structs defined: FileEntity - superclass; Dir :
+    FileEntity; MapDir : Dir; NamespaceDir : Dir; File : FileEntity
+
+    FileEntity - has FileEntity* parent; unsigned offset and size;
+    strings name, type, and path
+    
+    Dir - has vector<FileEntity*> children and unsigned endIndex
+    NamespaceDir - utilizes endIndex
+    MapDir - has count to ensure exactly 10 children
+    File - contains char* content
+
+loadwad() - loads a given wad file into memory and returns a
+    pointer to the object contating all of its information
+    Starts by creating a root Dir and assigning it children based
+    on the descriptors it reads. Each child created is a file, namespacedir,
+    or mapdir depending on the descriptor
+    _END descriptor pops nestedDir instead
+    Uses a vector nestedDir to assign newly created objects to the
+    correct parent
+    Assigns all created objects' paths to pathMap from path to
+    FileEntity pointer
+    removes self-refrences in children
+
+getMagic() - returns magic stored during loadWad
+isContent() - checks if there is a valid file at given path
+isDirectory() - checks if there is a valid directory at given path
+getSize() - if isContent() at path, returns size of file
+getContents() - if isContent() at path, fills buffer with content
+    starting at offset up to length bytes
+    There is error checking to ensure that length+offset is within
+    file size and no unititialized memory is accessed
+    returns number of bytes copied
+
+getDirectory() - if isDirectory() at path, fills "directory"
+    vector with the names of the children of the Dir at path
+    returns number of children in Dir at path
+
+createFile() and createDirectory() - if there isn't something at
+    path and the parent of path in the string is a directory, make an object
+    there
+    assigns that object to the pathMap and to the parent's
+    children vector
+    iterates the number of descriptors in .wad file, twice for
+    createDirectory()
+    pushes back descriptors in .wad file as necessary
+    writes descriptor(s) directly before end of parent dir ends
+    wad file; end of descriptors for root
+    createFile() - object created as File with no content, 0
+    offset and size
+    createDirectory - object created as NamespaceDir
+
+writeToFile() - checks if there a file at path, writes buffer
+    there if file's content is empty for length bytes. Returns number of bytes
+    copied
+    if not a file at path, return -1
+    if nonempty, return 0
+    if offset not given, uses descriptor offset as offset and
+    pushes desciptor list down length bytes
+    buffer is written into content
+    file size and offset are set
+
+wadfs
+    main -
+        parses the args to find the mountdir and the .wad to mount.
+        pareses the path to .wad to mount into absolute path.
+        Initializes Wad object using mounted .wad
+        returns fuse_main() with Wad object in private_data without
+        .wad to mount in arg list
+
+    getattr -
+        if isDirectory(), sets mode to S_IFDIR and nlink to 2
+        if isContent(), sets mode to S_IFREG, nlink to 1, and size to
+        getSize()
+
+    read and write -
+        if isContent()
+        read - return getContents()
+        write - return writeToFile()
+
+    mknod and mkdir -
+        if not isContent() or isDirectory()
+        mknod - createFile(); return 0
+        mkdir - createDirectory(); return 0
+
+    readdir -
+        if isDirectory():
+        add . and .. to filler
+        create vector<string> directory
+        getDirectory(path, directory)
+        fill filler with directory
+        return 0
+
+Makefiles -
+    libWad/makefile: Wad.h and Wad.cpp into static library libWad.a
+    wadfs/makefile: executable wadfs linking against libWad/libWad.a
+
+Testing
+    library - tested with given libraryTest script
+    wadfs - Tested with test_wadfs.sh script, covering directory
+    navigation, file reading (cat), file copying (cp), and file writing (>)
